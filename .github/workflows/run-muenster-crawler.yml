@@ -1,0 +1,33 @@
+name: Run Münster Crawler
+
+on:
+  workflow_dispatch:
+
+jobs:
+  crawler:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js installieren
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Abhängigkeiten installieren
+        run: npm install
+
+      - name: Crawler ausführen
+        run: npm start
+
+      - name: Ergebnis committen
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add kurse-muenster.json
+          git commit -m "Update kurse-muenster.json" || echo "Keine Änderungen"
+          git push
