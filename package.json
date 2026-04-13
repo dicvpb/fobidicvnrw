@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node export-muenster.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "crawl:muenster": "node export-muenster.js",
+    "crawl:koeln": "node export-koeln.js"
   },
   "keywords": [],
   "author": "",
