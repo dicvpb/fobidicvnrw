@@ -1,5 +1,5 @@
 import fs from "fs";
-import fetch from "node-fetch";
+//import fetch from "node-fetch";
 import { JSDOM } from "jsdom";
 
 const SITEMAP_URL = "https://www.caritas-campus.de/sitemap.xml";
