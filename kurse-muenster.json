@@ -10,12 +10,7 @@
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/traumapaedagogik-im-elementarbereich-5-module-2-coachingeinheiten/v000000510",
-    "title": "Traumapädagogik im Elementarbereich (5 Module+2 Coachingeinheiten)",
-    "date": "16. Sep. 2025 - 15. Okt. 2026",
-    "place": "",
-    "fee": "1.900,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n2.150,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Plätze verfügbar",
-    "id": "V000000510"
+    "error": "HTTP 404 beim Laden von https://fortbildung.caritas-muenster.de/traumapaedagogik-im-elementarbereich-5-module-2-coachingeinheiten/v000000510"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/leitungskurs-fuer-pflegefachkraefte-2026-2027/v000000389",
@@ -55,12 +50,7 @@
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/einfuehrung-ipraemo-integratives-praeventionsmodell-ipraemo/v000000715",
-    "title": "Einführung IPRÄMO (Integratives Präventionsmodell) (IPRÄMO)",
-    "date": "04. Mai 2026 - 11. Mai 2026",
-    "place": "",
-    "fee": "295,00 €  (inkl. Verpflegung am Präsenztag) für Mitgliedseinrichtungen des DiCV Münster\n325,00 €  (inkl. Verpflegung am Präsenztag) für Partner im Bistum Münster\n345,00 €  (inkl. Verpflegung am Präsenztag) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Plätze verfügbar",
-    "id": "V000000715"
+    "error": "HTTP 404 beim Laden von https://fortbildung.caritas-muenster.de/einfuehrung-ipraemo-integratives-praeventionsmodell-ipraemo/v000000715"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/fuehrungskraft-staerken-coaching-und-supervision-fuer-leitungen-von-kitas-und-familienzentren/v000000820",
@@ -104,7 +94,7 @@
     "date": "05. Mai 2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000000923"
   },
   {
@@ -156,8 +146,8 @@
     "url": "https://fortbildung.caritas-muenster.de/umgang-mit-veraenderungen-change-management/v000000951",
     "title": "Umgang mit Veränderungen – Change-Management",
     "date": "06. Mai 2026, 09:00 Uhr - 16:30 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "pro Teilnehmer*in\n135,00 € für Mitgliedseinrichtungen des DiCV im Bistum Münster\n150,00 € für Partner im Bistum Münster\n162,00 € für alle Anderen",
     "status": "Plätze verfügbar",
     "id": "V000000951"
   },
@@ -275,7 +265,7 @@
     "date": "21. Apr. 2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "195,00 € für Mitgliedseinrichtungen des DiCV Münster\n215,00 € für Partner im Bistum Münster\n235,00 € für Nicht-Mitglieder (alle Anderen)",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000000870"
   },
   {
@@ -464,7 +454,7 @@
     "date": "05. Aug. 2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Bürgerbahnhof Dorsten Dorsten Johannes-Rau-Platz 1 46282 Dorsten",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001024"
   },
   {
@@ -536,7 +526,7 @@
     "date": "16. Apr. 2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001086"
   },
   {
@@ -545,26 +535,12 @@
     "date": "13. Apr. 2026, 09:00 Uhr - 14. Apr. 2026, 17:00 Uhr",
     "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001030"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/wissen-schuetzt-kindliche-sexualentwicklung-und-praevention-gegen-sexualisierte-gewalt/v000001036",
-    "title": "Wissen schützt – Kindliche Sexualentwicklung und Prävention gegen sexualisierte Gewalt",
-    "date": "27. Mär. 2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Heimvolkshochschule Gottfried-Könzgen Haltern am See Annaberg 40 45721 Haltern am See",
-    "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Ausgebucht (Warteliste)",
-    "id": "V000001036"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/neue-qualitaetspruefungs-richtlinie-qpr-ambulante-pflege/v000001090",
-    "title": "Neue Qualitätsprüfungs-Richtlinie (QPR) ambulante Pflege",
-    "date": "25. Mär. 2026, 10:00 Uhr - 16:00 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "95,00 € für Mitglieder des DiCV im Bistum Münster",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001090"
+    "error": "HTTP 404 beim Laden von https://fortbildung.caritas-muenster.de/wissen-schuetzt-kindliche-sexualentwicklung-und-praevention-gegen-sexualisierte-gewalt/v000001036"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/reif-fuer-die-insel.-inseltage-auf-wangerooge/v000000958",
@@ -628,10 +604,6 @@
     "fee": "pro Teilnehmer*in\n110,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n120,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n135,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
     "id": "V000001115"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/souveraen-fuehren-auch-bei-widerstand-und-gegenwind/v000000907",
-    "error": "HTTP 404 beim Laden von https://fortbildung.caritas-muenster.de/souveraen-fuehren-auch-bei-widerstand-und-gegenwind/v000000907"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/teamkultur-und-teambildung/v000000826",
@@ -729,7 +701,7 @@
     "date": "28. Apr. 2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
     "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000996"
   },
   {
@@ -752,12 +724,7 @@
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/mit-klarheit-und-wertschaetzung-zur-vertrauensvollen-beziehungsgestaltung/v000000903",
-    "title": "Mit Klarheit und Wertschätzung zur vertrauensvollen Beziehungsgestaltung",
-    "date": "16. Apr. 2026 - 08. Mai 2026",
-    "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
-    "fee": "465,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n510,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n555,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Plätze verfügbar",
-    "id": "V000000903"
+    "error": "HTTP 404 beim Laden von https://fortbildung.caritas-muenster.de/mit-klarheit-und-wertschaetzung-zur-vertrauensvollen-beziehungsgestaltung/v000000903"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/systemsprenger-kinder-die-ratlos-machen-2-module/v000000913",
@@ -936,7 +903,7 @@
     "date": "22. Apr. 2026, 08:00 Uhr - 16:00 Uhr",
     "place": "Kinderheilstätte Nordkirchen Nordkirchen Mauritiusplatz 6 59394 Nordkirchen",
     "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001132"
   },
   {
@@ -967,17 +934,8 @@
     "id": "V000001136"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/online-seminar-arbeitsorganisation-mit-outlook-und-onenote/v000001162",
-    "error": "HTTP 404 beim Laden von https://fortbildung.caritas-muenster.de/online-seminar-arbeitsorganisation-mit-outlook-und-onenote/v000001162"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/avr-2027/v000001167",
-    "title": "AVR 2027",
-    "date": "27. Mär. 2026, 10:00 Uhr - 16:00 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "pro Teilnehmer*in\n75 € (inkl. Verpflegung)",
-    "status": "Wenige Plätze",
-    "id": "V000001167"
+    "error": "HTTP 404 beim Laden von https://fortbildung.caritas-muenster.de/avr-2027/v000001167"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/fachtag-ak-wohnen/v000001163",
@@ -1054,7 +1012,7 @@
   {
     "url": "https://fortbildung.caritas-muenster.de/fit-fuer-die-avr-2027-sicherheit-in-der-eingruppierung-ueberleitung-und-verguetung/v000001207",
     "title": "Fit für die AVR 2027 – Sicherheit in der Eingruppierung, Überleitung und Vergütung",
-    "date": "29. Juni 2026, 09:00 Uhr - 15:00 Uhr",
+    "date": "29. Juni 2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n168,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n185,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n200,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
@@ -1063,7 +1021,7 @@
   {
     "url": "https://fortbildung.caritas-muenster.de/fit-fuer-die-avr-2027-sicherheit-in-der-eingruppierung-ueberleitung-und-verguetung/v000001206",
     "title": "Fit für die AVR 2027 – Sicherheit in der Eingruppierung, Überleitung und Vergütung",
-    "date": "18. Mai 2026, 09:00 Uhr - 15:00 Uhr",
+    "date": "18. Mai 2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n168,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n185,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n200,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
@@ -1072,16 +1030,16 @@
   {
     "url": "https://fortbildung.caritas-muenster.de/fit-fuer-die-avr-2027-sicherheit-in-der-eingruppierung-ueberleitung-und-verguetung/v000001205",
     "title": "Fit für die AVR 2027 – Sicherheit in der Eingruppierung, Überleitung und Vergütung",
-    "date": "04. Mai 2026, 09:00 Uhr - 15:00 Uhr",
+    "date": "04. Mai 2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n168,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n185,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n200,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001205"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/fit-fuer-die-avr-2027-sicherheit-in-der-eingruppierung-ueberleitung-und-verguetung/v000001204",
     "title": "Fit für die AVR 2027 – Sicherheit in der Eingruppierung, Überleitung und Vergütung",
-    "date": "24. Apr. 2026, 09:00 Uhr - 15:00 Uhr",
+    "date": "24. Apr. 2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n168,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n185,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n200,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
@@ -1176,5 +1134,32 @@
     "fee": "2.850,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n3.100,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n3.400,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.\n\nDie Qualifizierungsreihe wird ohne Übernachtungen angeboten. Bei Bedarf empfehlen wir eine frühzeitige Buchung in den Tagungshäusern. Die Buchung erfolgt in eigener Organisation (Selbstzahlerleistung).",
     "status": "Plätze verfügbar",
     "id": "V000001232"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/aufsicht-kompakt-praktisches-wissen-fuers-ehrenamt/v000001258",
+    "title": "Aufsicht kompakt: praktisches Wissen fürs Ehrenamt",
+    "date": "29. Mai 2026, 14:30 Uhr - 17:30 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "Die Teilnahme ist kostenfrei.",
+    "status": "Plätze verfügbar",
+    "id": "V000001258"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/age-kinder-und-jugendhilfekonferenz-2026/v000001257",
+    "title": "AGE Kinder- und Jugendhilfekonferenz 2026",
+    "date": "18. Juni 2026, 09:30 Uhr - 16:00 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "75,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.",
+    "status": "Plätze verfügbar",
+    "id": "V000001257"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/zwischen-mensch-und-maschine-digitalisierung-und-ki-in-der-altenhilfe/v000001117",
+    "title": "Zwischen Mensch und Maschine: Digitalisierung und KI in der Altenhilfe",
+    "date": "14. Juli 2026, 09:30 Uhr - 15:30 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "195,00 € für Mitgliedseinrichtungen des DiCV Münster\n215,00 € für Partner im Bistum Münster\n235,00 € für Nicht-Mitglieder (alle Anderen)",
+    "status": "Plätze verfügbar",
+    "id": "V000001117"
   }
 ]
