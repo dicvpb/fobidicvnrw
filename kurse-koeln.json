@@ -1,23 +1,5 @@
 [
   {
-    "id": "24226-007",
-    "title": "Fortbildung gemäß §3 Abs. 3 zum Einsatz auf Fachkraftstunden",
-    "date": "2026-04-13",
-    "place": "FamilienForum Agnesviertel Weißenburgstraße 14 50670 Köln",
-    "fee": "Intern: 275.00 Extern: 400.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5323"
-  },
-  {
-    "id": "23226-008",
-    "title": "Schluss mit der Prüfungsangst",
-    "date": "2026-04-13",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 110.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5680"
-  },
-  {
     "id": "24726-111",
     "title": "Bewegung, Achtsamkeit und innere Ruhe",
     "date": "2026-04-14",
@@ -3357,6 +3339,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5400"
   },
   {
+    "id": "24726-139",
+    "title": "Web-Seminar: Sicher Sprechen, sicher Handeln",
+    "date": "2026-11-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 105.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6040"
+  },
+  {
     "id": "23626-002",
     "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
     "date": "2026-11-10",
@@ -3679,6 +3670,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5864"
+  },
+  {
+    "id": "23126-013",
+    "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
+    "date": "2026-11-24",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5000"
   },
   {
     "id": "21826-023",
@@ -4410,6 +4410,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=2843"
   },
   {
+    "id": "23722-074",
+    "title": "Online-Seminar: Als Praxisanleitung mit Biografiearbeit beschäftigen (6 bis 8 Stunden)",
+    "date": "2026-12-31",
+    "place": "Online-Seminar - nur im Internet",
+    "fee": "Intern: 230.00 Extern: 250.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=2844"
+  },
+  {
     "id": "24322-036",
     "title": "Das Kirchenjahr in der Kita – Online-Seminar",
     "date": "2026-12-31",
@@ -4489,6 +4498,15 @@
     "fee": "Intern: 40.00 Extern: 60.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4630"
+  },
+  {
+    "id": "26324-006",
+    "title": "Blended Learning: Prävention (sexualisierter) Gewalt in der Kinder-, Jugend- und Familienhilfe – INTENSIV",
+    "date": "2026-12-31",
+    "place": "Blended Learning - Online und in Präsenz",
+    "fee": "Intern: 50.00 Extern: 70.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=4631"
   },
   {
     "id": "26324-008",
