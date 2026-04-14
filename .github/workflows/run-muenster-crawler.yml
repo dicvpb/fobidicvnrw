@@ -26,18 +26,21 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Run crawler
         run: npm run crawl:${{ matrix.city }}
 
-      # Speichere erzeugte JSON(s) als Artifact, damit ein anderer Job sie committen kann
-      - name: Upload JSON artifact
+      - name: Check output exists
+        run: |
+          test -f "kurse-${{ matrix.city }}.json"
+          ls -la "kurse-${{ matrix.city }}.json"
+
+      - name: Upload result artifact
         uses: actions/upload-artifact@v4
         with:
           name: json-${{ matrix.city }}
-          path: |
-            *.json
+          path: kurse-${{ matrix.city }}.json
           if-no-files-found: error
 
   commit-results:
@@ -49,23 +52,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Alle Artifacts herunterladen
       - name: Download all artifacts
         uses: actions/download-artifact@v4
         with:
           path: _artifacts
 
-      - name: Move JSON files into repo root
+      - name: Copy results into repo root
         run: |
-          shopt -s globstar nullglob
-          cp -v _artifacts/**/*.json . || true
-          ls -la *.json || true
+          for city in muenster koeln aachen essen paderborn; do
+            cp -v "_artifacts/json-${city}/kurse-${city}.json" "./kurse-${city}.json"
+          done
+          ls -la kurse-*.json
 
       - name: Commit and push results
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          git add *.json
+          git add kurse-*.json
           git commit -m "Update crawler results (all cities)" || echo "No changes"
           git push
