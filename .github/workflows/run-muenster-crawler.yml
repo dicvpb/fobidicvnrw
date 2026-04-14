@@ -1,6 +1,8 @@
 name: Run NRW Crawlers (parallel) + Commit Results
 
-on:
+on:  
+  schedule:
+    - cron: '00 0 * * *'   # täglich 06:15 UTC
   workflow_dispatch:
 
 permissions:
