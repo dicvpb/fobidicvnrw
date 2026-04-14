@@ -25,6 +25,11 @@ let MAX_PAGES = 50;
 let REQUEST_TIMEOUT_MS = 30000;
 let REQUEST_DELAY_MS = 250;
 
+// Retry-Tuning (gegen sporadische Netzwerkfehler)
+let RETRIES = 3;                 // Anzahl Versuche pro Request
+let RETRY_BASE_DELAY_MS = 800;   // Start-Wartezeit (ms)
+let RETRY_MAX_DELAY_MS = 8000;   // max. Backoff (ms)
+
 // Output-Datei (HTML-Export nutzt "paderborn.json")
 let OUT_FILE = "kurse-paderborn.json";
 
@@ -42,6 +47,9 @@ for (const arg of process.argv.slice(2)) {
   if (k === "--maxPages" && v) MAX_PAGES = Number(v);
   if (k === "--useProxy" && v) USE_PROXY = v === "true";
   if (k === "--proxyUrl" && v) PROXY_URL = v;
+  if (k === "--retries" && v) RETRIES = Number(v);
+  if (k === "--retryBase" && v) RETRY_BASE_DELAY_MS = Number(v);
+  if (k === "--retryMax" && v) RETRY_MAX_DELAY_MS = Number(v);
 }
 
 const USER_AGENT =
@@ -68,6 +76,57 @@ async function fetchWithTimeout(url, { timeout = REQUEST_TIMEOUT_MS } = {}) {
     clearTimeout(id);
   }
 }
+
+function getErrorCode(err) {
+  return err?.cause?.code || err?.code || "";
+}
+
+function isTransientNetworkError(err) {
+  const code = getErrorCode(err);
+  // Typische "wackelige" Netzwerkfehler, bei denen Retry sinnvoll ist
+  return (
+    code === "UND_ERR_CONNECT_TIMEOUT" ||
+    code === "ECONNRESET" ||
+    code === "ETIMEDOUT" ||
+    code === "ENOTFOUND" ||
+    err?.name === "AbortError" ||
+    /fetch failed/i.test(String(err?.message || ""))
+  );
+}
+
+function computeBackoffMs(attempt) {
+  // Exponentiell: base * 2^(attempt-1), begrenzt, plus kleines Jitter
+  const exp = Math.min(RETRY_MAX_DELAY_MS, RETRY_BASE_DELAY_MS * (2 ** (attempt - 1)));
+  const jitter = Math.floor(exp * (0.15 * Math.random())); // 0–15%
+  return exp + jitter;
+}
+
+async function fetchWithRetry(url, opts = {}) {
+  let lastErr;
+
+  for (let attempt = 1; attempt <= RETRIES; attempt++) {
+    try {
+      if (attempt > 1) {
+        console.log(`🔁 Retry ${attempt}/${RETRIES}: ${url}`);
+      }
+      return await fetchWithTimeout(url, opts);
+    } catch (err) {
+      lastErr = err;
+      const code = getErrorCode(err);
+      const transient = isTransientNetworkError(err);
+
+      console.warn(`⚠️ Fetch-Fehler (attempt ${attempt}/${RETRIES}) code=${code} url=${url}`);
+      if (!transient || attempt === RETRIES) break;
+
+      const waitMs = computeBackoffMs(attempt);
+      console.log(`⏳ Warte ${waitMs}ms vor erneutem Versuch…`);
+      await sleep(waitMs);
+    }
+  }
+
+  throw lastErr;
+}
+
 
 function parseHTML(html) {
   const dom = new JSDOM(html);
@@ -206,7 +265,7 @@ function collectPaginationUrls(doc, baseUrl) {
 }
 
 async function fetchDocument(url) {
-  const html = await fetchWithTimeout(url);
+  const html = await fetchWithRetry(url);
   return parseHTML(html);
 }
 
