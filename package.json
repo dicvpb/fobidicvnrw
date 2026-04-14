@@ -6,7 +6,10 @@
   "type": "module",
   "scripts": {
     "crawl:muenster": "node export-muenster.js",
-    "crawl:koeln": "node export-koeln.js"
+    "crawl:koeln": "node export-koeln.js",
+    "crawl:aachen": "node export-aachen.js",
+    "crawl:essen": "node export-essen.js",
+    "crawl:paderborn": "node export-paderborn.js"
   },
   "keywords": [],
   "author": "",
