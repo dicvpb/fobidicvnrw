@@ -1,50 +1,5 @@
 [
   {
-    "id": "24726-111",
-    "title": "Bewegung, Achtsamkeit und innere Ruhe",
-    "date": "2026-04-14",
-    "place": "Pfarrheim St. Engelbert Pfarrer-Moll Straße 54 51105 Köln",
-    "fee": "Intern: 55.00 Extern: 80.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5564"
-  },
-  {
-    "id": "23826-007",
-    "title": "KI als kreativer Partner",
-    "date": "2026-04-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5618"
-  },
-  {
-    "id": "25026-009",
-    "title": "Web-Seminar: Funktionen clever nutzen mit Excel",
-    "date": "2026-04-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5692"
-  },
-  {
-    "id": "24726-135",
-    "title": "KI im Kita-Alltag nutzen",
-    "date": "2026-04-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 40.00 Extern: 50.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5886"
-  },
-  {
-    "id": "13226-010",
-    "title": "Nachhaltigkeit im Kreditgeschäft: ESG-Anforderungen trotz Omnibus",
-    "date": "2026-04-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6007"
-  },
-  {
     "id": "23926-008",
     "title": "Web-Seminar: Muss ich dieses Gespräch wirklich führen?",
     "date": "2026-04-15",
@@ -459,15 +414,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5925"
   },
   {
-    "id": "24026-014",
-    "title": "Web-Seminar: Pfingsten",
-    "date": "2026-04-30",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 40.00 Extern: 65.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5308"
-  },
-  {
     "id": "24626-051",
     "title": "Web-Seminar: Praxisorientierte Teilhabe- und Förderplanung (TuF) (LVR/LWL) in der Kita",
     "date": "2026-04-30",
@@ -628,15 +574,6 @@
     "fee": "Intern: 75.00 Extern: 100.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5519"
-  },
-  {
-    "id": "23326-019",
-    "title": "Professionelle und moderne Korrespondenz im digitalen Zeitalter – jetzt mit KI",
-    "date": "2026-05-06",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 250.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5626"
   },
   {
     "id": "23326-025",
@@ -889,15 +826,6 @@
     "fee": "Intern: 70.00 Extern: 85.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5987"
-  },
-  {
-    "id": "24426-004",
-    "title": "Willkommen im Team",
-    "date": "2026-05-19",
-    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5453"
   },
   {
     "id": "26526-010",
@@ -1976,7 +1904,7 @@
     "date": "2026-09-07",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 1370.00 Extern: 1720.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5448"
   },
   {
