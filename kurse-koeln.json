@@ -1,50 +1,5 @@
 [
   {
-    "id": "23926-008",
-    "title": "Web-Seminar: Muss ich dieses Gespräch wirklich führen?",
-    "date": "2026-04-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5068"
-  },
-  {
-    "id": "23926-018",
-    "title": "Web-Seminar: Führung in Häppchen",
-    "date": "2026-04-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 50.00 Extern: 60.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5412"
-  },
-  {
-    "id": "23826-013",
-    "title": "ChatGPT im Controlling",
-    "date": "2026-04-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5625"
-  },
-  {
-    "id": "23826-020",
-    "title": "Strategische Annäherung und Einführung von KI in sozialen Organisationen",
-    "date": "2026-04-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5713"
-  },
-  {
-    "id": "24826-042",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-04-15",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5982"
-  },
-  {
     "id": "25026-007",
     "title": "Outlook, ToDo und Planner perfekt nutzen",
     "date": "2026-04-16",
@@ -810,15 +765,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5698"
   },
   {
-    "id": "24726-132",
-    "title": "Begeisterung fürs Buch wecken – Auswahlkriterien und Präsentationsmöglichkeiten in der Kita",
-    "date": "2026-05-18",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5837"
-  },
-  {
     "id": "23126-028",
     "title": "Web-Seminar: Nur was wir kennen, können wir erkennen",
     "date": "2026-05-18",
@@ -860,7 +806,7 @@
     "date": "2026-05-20",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4999"
   },
   {
@@ -1321,6 +1267,15 @@
     "fee": "Intern: 68.00 Extern: 82.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5915"
+  },
+  {
+    "id": "23126-030",
+    "title": "Fachtag \"Die Aufarbeitung von sexualisierter Gewalt\"",
+    "date": "2026-06-11",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "Intern: 95.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6043"
   },
   {
     "id": "24826-012",
@@ -2230,6 +2185,15 @@
     "fee": "Intern: 40.00 Extern: 40.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5908"
+  },
+  {
+    "id": "25226-002",
+    "title": "Essstörungen kreativ vorbeugen und überwinden",
+    "date": "2026-09-21",
+    "place": "AOK Bildungszentrum Schwarzer Weg 5-7 41515 Grevenbroich",
+    "fee": "Intern: 40.00 Extern: 50.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6042"
   },
   {
     "id": "48026-004",
