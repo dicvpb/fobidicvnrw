@@ -32,20 +32,48 @@ for (const arg of process.argv.slice(2)) {
 }
 
 // ======= Hilfsfunktionen =======
-async function fetchWithTimeout(url, { timeout = REQUEST_TIMEOUT_MS } = {}) {
-  const controller = new AbortController();
-  const id = setTimeout(() => controller.abort(), timeout);
+async function fetchWithTimeout(url, { timeout = REQUEST_TIMEOUT_MS, retries = 2 } = {}) {
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), timeout);
 
-  try {
-    const res = await fetch(url, {
-      headers: { "User-Agent": USER_AGENT, Accept: "*/*" },
-      signal: controller.signal,
-      cache: "no-store"
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status} bei ${url}`);
-    return await res.text();
-  } finally {
-    clearTimeout(id);
+    try {
+      const res = await fetch(url, {
+        headers: {
+          "User-Agent": USER_AGENT,
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "de-DE,de;q=0.9,en;q=0.7"
+        },
+        signal: controller.signal,
+        cache: "no-store",
+        redirect: "follow"
+      });
+
+      if (!res.ok) {
+        // z.B. 403/429/500
+        throw new Error(`HTTP ${res.status} bei ${url} (final: ${res.url})`);
+      }
+      return await res.text();
+    } catch (err) {
+      const causeCode = err?.cause?.code;
+      const name = err?.name || "Error";
+      const msg = err?.message || String(err);
+
+      console.warn(
+        `⚠️ Fetch-Fehler (Attempt ${attempt + 1}/${retries + 1}) ${url}\n` +
+        `   ${name}: ${msg}` +
+        (causeCode ? `\n   cause.code: ${causeCode}` : "")
+      );
+
+      // Nicht retryen bei sehr klaren "dauerhaften" Fehlern:
+      // (Optional) Wenn du willst, kann man hier bestimmte cause.codes ausschließen.
+      if (attempt === retries) throw err;
+
+      // kurzer Backoff
+      await sleep(500 * (attempt + 1));
+    } finally {
+      clearTimeout(id);
+    }
   }
 }
 

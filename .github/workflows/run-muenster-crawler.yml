@@ -1,8 +1,9 @@
+
 name: Run NRW Crawlers (parallel) + Commit Results
 
-on:  
+on:
   schedule:
-    - cron: '00 0 * * *'   # täglich 06:15 UTC
+    - cron: '10 1 * * *'   # täglich 06:15 UTC
   workflow_dispatch:
 
 permissions:
@@ -30,6 +31,45 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: TLS/Cert Diagnose (nur Essen)
+        if: matrix.city == 'essen'
+        shell: bash
+        run: |
+          set +e
+          echo "== System ==" | tee tls-debug-${{ matrix.city }}.txt
+          uname -a | tee -a tls-debug-${{ matrix.city }}.txt
+          node -v | tee -a tls-debug-${{ matrix.city }}.txt
+          openssl version | tee -a tls-debug-${{ matrix.city }}.txt
+          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
+
+          echo "== DNS/Connection check ==" | tee -a tls-debug-${{ matrix.city }}.txt
+          getent hosts www.caritas-essen.de | tee -a tls-debug-${{ matrix.city }}.txt
+          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
+
+          echo "== openssl s_client (showcerts) ==" | tee -a tls-debug-${{ matrix.city }}.txt
+          echo | openssl s_client -connect www.caritas-essen.de:443 -servername www.caritas-essen.de -showcerts \
+            2>&1 | tee -a tls-debug-${{ matrix.city }}.txt
+          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
+
+          echo "== openssl verify ==" | tee -a tls-debug-${{ matrix.city }}.txt
+          echo | openssl s_client -connect www.caritas-essen.de:443 -servername www.caritas-essen.de -showcerts 2>/dev/null \
+            | openssl verify -verbose 2>&1 | tee -a tls-debug-${{ matrix.city }}.txt
+          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
+
+          echo "== curl -Iv (HEAD) ==" | tee -a tls-debug-${{ matrix.city }}.txt
+          curl -Iv https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse 2>&1 | tee -a tls-debug-${{ matrix.city }}.txt
+
+          echo "TLS debug finished (non-fatal)."
+          exit 0
+
+      - name: Upload TLS debug artifact (nur Essen)
+        if: matrix.city == 'essen'
+        uses: actions/upload-artifact@v4
+        with:
+          name: tls-debug-${{ matrix.city }}
+          path: tls-debug-${{ matrix.city }}.txt
+          if-no-files-found: warn
+
       - name: Run crawler
         run: npm run crawl:${{ matrix.city }}
 
@@ -45,7 +85,6 @@ jobs:
           path: kurse-${{ matrix.city }}.json
           if-no-files-found: error
 
-  
   commit-results:
     name: Commit all JSON results
     runs-on: ubuntu-latest
@@ -77,4 +116,3 @@ jobs:
           git add kurse-*.json
           git commit -m "Update crawler results (all cities)" || echo "No changes"
           git push
-
