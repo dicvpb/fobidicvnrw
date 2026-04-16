@@ -159,7 +159,7 @@
     "date": "Di., 19.05.2026, 09:00 Uhr - Mi. 20.05.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 5 Plätze frei"
+    "status": "Es sind noch 4 Plätze frei"
   },
   {
     "id": "S01PBBK100",
@@ -510,7 +510,7 @@
     "date": "Mo., 02.11.2026, 18:00 Uhr - Fr. 06.11.2026 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "590,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80INVIA04",
