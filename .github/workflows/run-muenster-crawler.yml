@@ -1,4 +1,3 @@
-
 name: Run NRW Crawlers (parallel) + Commit Results
 
 on:
@@ -31,39 +30,56 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: TLS/Cert Diagnose (nur Essen)
-        if: matrix.city == 'essen'
+      - name: TLS/Cert Diagnose (Essen + Aachen)
+        if: matrix.city == 'essen' || matrix.city == 'aachen'
         shell: bash
         run: |
           set +e
-          echo "== System ==" | tee tls-debug-${{ matrix.city }}.txt
-          uname -a | tee -a tls-debug-${{ matrix.city }}.txt
-          node -v | tee -a tls-debug-${{ matrix.city }}.txt
-          openssl version | tee -a tls-debug-${{ matrix.city }}.txt
-          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
 
-          echo "== DNS/Connection check ==" | tee -a tls-debug-${{ matrix.city }}.txt
-          getent hosts www.caritas-essen.de | tee -a tls-debug-${{ matrix.city }}.txt
-          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
+          # City-spezifische Ziele
+          if [ "${{ matrix.city }}" = "essen" ]; then
+            HOST="www.caritas-essen.de"
+            URL="https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse"
+          else
+            HOST="www.caritas-ac.de"
+            URL="https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/fortbildung-liste.aspx"
+          fi
 
-          echo "== openssl s_client (showcerts) ==" | tee -a tls-debug-${{ matrix.city }}.txt
-          echo | openssl s_client -connect www.caritas-essen.de:443 -servername www.caritas-essen.de -showcerts \
-            2>&1 | tee -a tls-debug-${{ matrix.city }}.txt
-          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
+          OUT="tls-debug-${{ matrix.city }}.txt"
 
-          echo "== openssl verify ==" | tee -a tls-debug-${{ matrix.city }}.txt
-          echo | openssl s_client -connect www.caritas-essen.de:443 -servername www.caritas-essen.de -showcerts 2>/dev/null \
-            | openssl verify -verbose 2>&1 | tee -a tls-debug-${{ matrix.city }}.txt
-          echo "" | tee -a tls-debug-${{ matrix.city }}.txt
+          echo "== System ==" | tee "$OUT"
+          uname -a | tee -a "$OUT"
+          node -v | tee -a "$OUT"
+          openssl version | tee -a "$OUT"
+          echo "" | tee -a "$OUT"
 
-          echo "== curl -Iv (HEAD) ==" | tee -a tls-debug-${{ matrix.city }}.txt
-          curl -Iv https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse 2>&1 | tee -a tls-debug-${{ matrix.city }}.txt
+          echo "== Target ==" | tee -a "$OUT"
+          echo "CITY=${{ matrix.city }}" | tee -a "$OUT"
+          echo "HOST=${HOST}" | tee -a "$OUT"
+          echo "URL=${URL}" | tee -a "$OUT"
+          echo "" | tee -a "$OUT"
+
+          echo "== DNS/Connection check ==" | tee -a "$OUT"
+          getent hosts "$HOST" | tee -a "$OUT"
+          echo "" | tee -a "$OUT"
+
+          echo "== openssl s_client (showcerts) ==" | tee -a "$OUT"
+          echo | openssl s_client -connect "${HOST}:443" -servername "$HOST" -showcerts 2>&1 | tee -a "$OUT"
+          echo "" | tee -a "$OUT"
+
+          echo "== openssl verify ==" | tee -a "$OUT"
+          echo | openssl s_client -connect "${HOST}:443" -servername "$HOST" -showcerts 2>/dev/null \
+            | openssl verify -verbose 2>&1 | tee -a "$OUT"
+          echo "" | tee -a "$OUT"
+
+          echo "== curl -Iv (HEAD) ==" | tee -a "$OUT"
+          curl -Iv "$URL" 2>&1 | tee -a "$OUT"
 
           echo "TLS debug finished (non-fatal)."
           exit 0
 
-      - name: Upload TLS debug artifact (nur Essen)
-        if: matrix.city == 'essen'
+      - name: Upload TLS debug artifact (Essen + Aachen)
+        if: matrix.city == 'essen' || matrix.city == 'aachen'
         uses: actions/upload-artifact@v4
         with:
           name: tls-debug-${{ matrix.city }}
