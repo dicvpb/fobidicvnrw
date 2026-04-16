@@ -51,7 +51,7 @@
     "date": "Do., 23.04.2026, 09:00 Uhr - Fr. 24.04.2026 17:00 Uhr",
     "place": "Onlineangebot",
     "fee": "130,00 €",
-    "status": "Es sind noch 10 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "S8031BE765",
@@ -240,7 +240,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 92 Plätze frei"
+    "status": "Es sind noch 60 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -330,7 +330,7 @@
     "date": "Di., 30.06.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "120,00 €",
-    "status": "Es sind noch 17 Plätze frei"
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "T80FTB2MO1",
@@ -339,7 +339,7 @@
     "date": "Mi., 01.07.2026, 09:00 Uhr - Do. 12.11.2026 17:00 Uhr",
     "place": "Hotel Aspethera, Paderborn",
     "fee": "995,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80INVIA11",
