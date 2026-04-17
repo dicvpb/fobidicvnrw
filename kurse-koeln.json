@@ -1,41 +1,5 @@
 [
   {
-    "id": "25026-007",
-    "title": "Outlook, ToDo und Planner perfekt nutzen",
-    "date": "2026-04-16",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 55.00 Extern: 66.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5690"
-  },
-  {
-    "id": "23826-021",
-    "title": "Künstliche Intelligenz gezielt beruflich einsetzen",
-    "date": "2026-04-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 125.00 Extern: 144.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5745"
-  },
-  {
-    "id": "31226-007",
-    "title": "Web-Seminar: Basisschulung – Suizidalen Krisen begegnen",
-    "date": "2026-04-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5845"
-  },
-  {
-    "id": "24926-024",
-    "title": "Web-Seminar: kitaplus – Gruppen-App und Bildungsdokumentation",
-    "date": "2026-04-16",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5880"
-  },
-  {
     "id": "24726-097",
     "title": "Fit für Fokus",
     "date": "2026-04-17",
@@ -223,15 +187,6 @@
     "fee": "Intern: 310.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5378"
-  },
-  {
-    "id": "25026-018",
-    "title": "Microsoft 365 - Was steckt drin – was bringt es mir?",
-    "date": "2026-04-23",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 55.00 Extern: 66.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6012"
   },
   {
     "id": "24826-010",
@@ -563,7 +518,7 @@
     "date": "2026-05-07",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5890"
   },
   {
@@ -1303,15 +1258,6 @@
     "fee": "Intern: 320.00 Extern: 390.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4990"
-  },
-  {
-    "id": "24926-001",
-    "title": "kitaplus – Basisschulung",
-    "date": "2026-06-15",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5012"
   },
   {
     "id": "23926-014",
@@ -2905,6 +2851,15 @@
     "fee": "Intern: 50.00 Extern: 60.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5539"
+  },
+  {
+    "id": "24726-140",
+    "title": "KI im Kita-Alltag nutzen",
+    "date": "2026-10-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 40.00 Extern: 50.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6044"
   },
   {
     "id": "24026-008",

@@ -212,7 +212,7 @@
     "date": "17. Apr. 2026, 10:00 Uhr - 12:00 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "pro Teilnehmer*in\n60,00 € für Mitgliedseinrichtungen des DiCV im Bistum Münster\n66,00 € für Partner im Bistum Münster\n72,00 € für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000885"
   },
   {
@@ -502,15 +502,6 @@
     "fee": "Kostenfrei, inkl. Verpflegung",
     "status": "Wenige Plätze",
     "id": "V000001032"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/wirtschaftliche-steuerung-in-der-ambulanten-pflege/v000001086",
-    "title": "Wirtschaftliche Steuerung in der ambulanten Pflege",
-    "date": "16. Apr. 2026, 09:00 Uhr - 16:30 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001086"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/reif-fuer-die-insel.-inseltage-auf-wangerooge/v000000958",
