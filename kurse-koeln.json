@@ -1,14 +1,5 @@
 [
   {
-    "id": "24726-097",
-    "title": "Fit für Fokus",
-    "date": "2026-04-17",
-    "place": "Pfarrsaal der Kath. Kath. Kirchengemeinde St. Franziskus An St. Franziskus 2 50739 Köln",
-    "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5523"
-  },
-  {
     "id": "24026-039",
     "title": "Wer auf den Herrn vertraut, schöpft neue Kraft (Jesaja 40,31)",
     "date": "2026-04-20",
@@ -565,15 +556,6 @@
     "fee": "Intern: 310.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5238"
-  },
-  {
-    "id": "24026-032",
-    "title": "Drei Kronen und elf Tränen – Entdeckungsspaziergang durch Köln",
-    "date": "2026-05-11",
-    "place": "Domforum Domkloster 3 50677 Köln",
-    "fee": "Intern: 55.00 Extern: 80.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5341"
   },
   {
     "id": "24626-010",
@@ -1780,6 +1762,15 @@
     "fee": "Intern: 980.00 Extern: 1200.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5161"
+  },
+  {
+    "id": "24926-030",
+    "title": "Web-Seminar: kitaplus – Gruppen-App und Bildungsdokumentation",
+    "date": "2026-09-02",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 90.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6047"
   },
   {
     "id": "34026-008",
