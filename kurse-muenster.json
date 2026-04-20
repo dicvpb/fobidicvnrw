@@ -306,7 +306,7 @@
     "id": "V000000883"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/potentiale-entdecken-und-foerdern/v000000633",
+    "url": "https://fortbildung.caritas-muenster.de/storno-potentiale-entdecken-und-foerdern/v000000633",
     "title": "STORNO! Potentiale entdecken und fördern",
     "date": "14. Sep. 2026 - 16. Mär. 2027",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
@@ -491,7 +491,7 @@
     "date": "20. Apr. 2026, 09:00 Uhr - 21. Apr. 2026, 17:00 Uhr",
     "place": "Kath. Landvolkshochschule Schorlemer Alst Warendorf-Freckenhorst Am Hagen 1 48231 Warendorf-Freckenhorst",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001032"
   },
   {
@@ -682,6 +682,15 @@
     "fee": "490,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n540,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n590,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
     "status": "Anmeldung deaktiviert",
     "id": "V000000913"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/eine-schule-der-empathie/v000001008",
+    "title": "Eine Schule der Empathie",
+    "date": "08. Juni 2026, 08:00 Uhr - 16:00 Uhr",
+    "place": "Kindergarten St. Sophia Werne Kirchstraße 15 59368 Werne",
+    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001008"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/qualifizierungsreihe-anleitung-von-praktikant-innen-3-module/v000000944",
@@ -979,15 +988,6 @@
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
     "status": "Plätze verfügbar",
     "id": "V000000939"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/fruehkindliche-sozialisationsbedingungen-sozialraumorientierung-diversitaet/v000000937",
-    "title": "Frühkindliche Sozialisationsbedingungen, Sozialraumorientierung, Diversität",
-    "date": "21. Apr. 2026, 09:00 Uhr - 22. Apr. 2026, 17:00 Uhr",
-    "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
-    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Plätze verfügbar",
-    "id": "V000000937"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/alles-im-wandel/v000000942",

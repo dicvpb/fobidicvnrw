@@ -5,7 +5,7 @@
     "date": "2026-04-20",
     "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
     "fee": "Intern: 150.00 Extern: 150.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5358"
   },
   {
@@ -221,7 +221,7 @@
     "date": "2026-04-25",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 55.00 Extern: 55.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5588"
   },
   {
@@ -275,7 +275,7 @@
     "date": "2026-04-28",
     "place": "Katholisches Bildungsforum Rhein-Erft Kirchstraße 1b 50126 Bergheim",
     "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5659"
   },
   {
@@ -410,7 +410,7 @@
     "date": "2026-05-05",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 85.00 Extern: 100.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5034"
   },
   {
@@ -743,7 +743,7 @@
     "date": "2026-05-20",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4999"
   },
   {
@@ -1931,7 +1931,7 @@
     "date": "2026-09-13",
     "place": "Pension Schwaighof Schwaighofweg 79/1 6311 Oberau",
     "fee": "Intern: 620.00 Extern: 740.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5669"
   },
   {
