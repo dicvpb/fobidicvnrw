@@ -18,6 +18,15 @@
     "status": "offen"
   },
   {
+    "id": "06.000.26",
+    "title": "Basis Plus Schulung zur Prävention sexualisierter Gewalt.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/basis-plus-schulung-zur-praevention-sexualisierter-gewalt.-e3ad080e-f572-4089-9cfa-4b9e14510860",
+    "date": "13.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "190,00 €.",
+    "status": "offen"
+  },
+  {
     "id": "08.005.26",
     "title": "Dekubitus: Die neue EPUAP Leitlinie – was ist heute richtig und wie setze ich es um?",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/dekubitus-die-neue-epuap-leitlinie--was-ist-heute-richtig-und-wie-setze-ich-es-um-272e2445-899c-4e90",
@@ -252,12 +261,12 @@
     "status": "offen"
   },
   {
-    "id": "08.001.26",
-    "title": "Interprofessioneller Aufbaukurs \"Palliative Care\"",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/interprofessioneller-aufbaukurs-palliative-care-3bf16ebb-fae4-4f8a-a3e1-cf7fb53c4cf0",
-    "date": "22.04.2026 - 23.04.2026",
+    "id": "09.017.26",
+    "title": "Keine Angst vor dem Gefühl: Emotionsregulation und Bindungsdynamiken im Beratungsprozess.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/keine-angst-vor-dem-gefuehl-emotionsregulation-und-bindungsdynamiken-im-beratungsprozess.-57a52d3f-5",
+    "date": "29.09.2026 - 30.09.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "420,00 € bzw. 380,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "fee": "420,00 € bzw. 380,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas. Mitarbeiter:innen der Ehe-, Familien- und Lebensberatung im Bistum Essen nehmen kostenlos teil.",
     "status": "offen"
   },
   {
@@ -288,21 +297,21 @@
     "status": "offen"
   },
   {
-    "id": "09.008.26",
-    "title": "Mediatisierung und Jugendhilfe: Kinder und Jugendliche sicher durch die digitale Welt begleiten.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mediatisierung-und-jugendhilfe-kinder-und-jugendliche-sicher-durch-die-digitale-welt-begleiten.-047a",
-    "date": "19.05.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "140,00 € bzw. 120,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.000.26",
     "title": "Mediatisierung und Jugendhilfe: Kinder und Jugendliche sicher durch die digitale Welt begleiten.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mediatisierung-und-jugendhilfe-kinder-und-jugendliche-sicher-durch-die-digitale-welt-begleiten.-2d60",
     "date": "19.05.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "115,00 € bzw. 95,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.008.26",
+    "title": "Mediatisierung und Jugendhilfe: Kinder und Jugendliche sicher durch die digitale Welt begleiten.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mediatisierung-und-jugendhilfe-kinder-und-jugendliche-sicher-durch-die-digitale-welt-begleiten.-047a",
+    "date": "19.05.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "140,00 € bzw. 120,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {

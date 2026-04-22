@@ -1,47 +1,11 @@
 [
   {
-    "id": "24026-038",
-    "title": "Marie, Murat und Co",
-    "date": "2026-04-21",
-    "place": "Begegnungs- und Fortbildungszentrum muslimischer Frauen e.V. Liebigstraße 120b 50823 Köln",
-    "fee": "Intern: 15.00 Extern: 15.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5357"
-  },
-  {
-    "id": "23326-016",
-    "title": "Web-Seminar: Was ist eigentlich Systemisch?",
-    "date": "2026-04-21",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 120.00 Extern: 135.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5397"
-  },
-  {
-    "id": "23326-029",
-    "title": "Web-Seminar: Klar und wertschätzend kommunizieren",
-    "date": "2026-04-21",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 140.00 Extern: 170.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5717"
-  },
-  {
-    "id": "26526-009",
-    "title": "Führungsimpuls: Wenn’s knirscht im Team",
-    "date": "2026-04-21",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5860"
-  },
-  {
     "id": "48026-001",
     "title": "Qualifizierungskurs Allgemeine Sozialberatung",
     "date": "2026-04-22",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 790.00 Extern: 950.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4975"
   },
   {
@@ -50,7 +14,7 @@
     "date": "2026-04-22",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 100.00 Extern: 125.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5248"
   },
   {
@@ -59,7 +23,7 @@
     "date": "2026-04-22",
     "place": "Web-Seminar mit Go to Meeting",
     "fee": "Intern: 1850.00 Extern: 1850.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5285"
   },
   {
@@ -68,7 +32,7 @@
     "date": "2026-04-22",
     "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5365"
   },
   {
@@ -77,7 +41,7 @@
     "date": "2026-04-22",
     "place": "Pfarrsaal der Kath. Kirchengemeinde St. Franziskus An St. Franziskus 2 50739 Köln",
     "fee": "Intern: 225.00 Extern: 300.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5527"
   },
   {
@@ -86,7 +50,7 @@
     "date": "2026-04-22",
     "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
     "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5632"
   },
   {
@@ -95,14 +59,14 @@
     "date": "2026-04-22",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5755"
   },
   {
     "id": "48026-025",
     "title": "Für die Beratungspraxis: Aktuelle Änderungen im Migrationsrecht",
     "date": "2026-04-22",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Saal (Untergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 45.00 Extern: 55.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5876"
@@ -1424,7 +1388,7 @@
   {
     "id": "23826-033",
     "title": "Die Routine macht die KI - Die Qualität mache ich!",
-    "date": "2026-06-25",
+    "date": "2026-07-08",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 67.00 Extern: 83.00",
     "status": "Angebot buchbar",
@@ -1501,6 +1465,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5927"
+  },
+  {
+    "id": "25026-022",
+    "title": "Einfach. Schnell. Professionell. Umfragen mit MS Forms",
+    "date": "2026-06-30",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6016"
   },
   {
     "id": "24026-034",
@@ -1717,15 +1690,6 @@
     "fee": "Intern: 980.00 Extern: 1200.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5161"
-  },
-  {
-    "id": "24926-030",
-    "title": "Web-Seminar: kitaplus – Gruppen-App und Bildungsdokumentation",
-    "date": "2026-09-02",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6047"
   },
   {
     "id": "34026-008",
@@ -2673,15 +2637,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5677"
   },
   {
-    "id": "24926-029",
-    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
-    "date": "2026-10-08",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6029"
-  },
-  {
     "id": "24826-015",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-10-09",
@@ -3508,6 +3463,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5928"
+  },
+  {
+    "id": "13226-011",
+    "title": "Web-Seminar: Gesunde Erde – gesunde Kinder",
+    "date": "2026-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 25.00 Extern: 40.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6049"
   },
   {
     "id": "34026-002",
