@@ -1,0 +1,195 @@
+Technische Dokumentation
+Projekt: Aggregation der Schulungsangebote der fünf NRW‑Diözesen
+1. Zweck und Zielsetzung
+Ziel des Projekts ist die tägliche automatisierte Aggregation von Schulungsangeboten der fünf Diözesen in NRW (Köln, Münster, Aachen, Essen, Paderborn) und die Bereitstellung dieser Daten als einheitliche JSON‑Struktur zur Nutzung auf einer zentralen Landingpage.
+Der Fokus dieser Dokumentation liegt ausschließlich auf dem technischen Weg der Datenbeschaffung, -verarbeitung und -bereitstellung.
+
+2. Gesamtarchitektur (Überblick)
+
+Öffentliches GitHub‑Repository
+Tägliche automatisierte Ausführung über GitHub Actions
+Fünf unabhängige Crawler (je Diözese ein eigenes Skript)
+Umsetzung als Node.js‑Services
+Ergebnis je Crawler: eine JSON‑Datei mit einheitlichem Schema
+Bereitstellung der Daten über GitHub Raw Links
+
+Architekturprinzipien:
+
+Lose Kopplung der Crawler
+Einheitliches Zieldatenmodell
+Fehlertoleranter Workflow
+Keine externen Laufzeitabhängigkeiten außerhalb des Repos
+
+
+3. Technologische Basis
+3.1 Laufzeit & Sprache
+
+Node.js
+Ausführung lokal im Repo bzw. auf GitHub‑Runnern
+
+3.2 Abhängigkeiten
+
+Erweiterte Bibliotheken (z. B. für HTTP‑Requests, HTML‑Parsing, Retry‑Logik)
+Alle notwendigen Laufzeitabhängigkeiten liegen im Repository (node_modules)
+Keine externen Dienste oder APIs zur Laufzeit erforderlich
+
+
+4. Crawler‑Konzept
+4.1 Grundidee
+Für jede Diözese existiert ein eigener, autarker Crawler, da:
+
+die Datenquellen technisch und strukturell stark variieren
+Anpassungen gezielt und schnell pro Diözese möglich sein müssen
+Seiteneffekte zwischen Crawling‑Logiken vermieden werden sollen
+
+Alle Crawler folgen demselben Grundablauf, unterscheiden sich aber in der Art der Datengewinnung.
+
+4.2 Gemeinsame Logik aller Crawler
+Alle fünf Skripte teilen sich folgende Mechanismen:
+
+Ermittlung einer Kurs‑URL‑Liste
+Serielles Abarbeiten der URLs (keine Mass Requests)
+Kurze Pausen zwischen Requests (mehrere 100 ms)
+Retry‑Logik bei Timeouts oder temporären Fehlern
+Extraktion der jeweils verfügbaren Kursinformationen
+Ausgabe einer JSON‑Datei mit identischem Feldschema
+Abbildung ausschließlich der Schnittmenge verfügbarer Informationen
+
+
+5. Spezifische Datenbeschaffung je Diözese
+5.1 Köln
+
+Bereitstellung einer Sitemap
+Sitemap enthält alle Kurs‑URLs
+Vorgehen:
+
+Auslesen der Sitemap
+Extraktion aller Kurs‑URLs
+Aufruf der URLs
+Rückgabe erfolgt als JSON
+Mapping der Daten auf das einheitliche Zieldatenmodell
+
+
+
+Besonderheit:
+Keine HTML‑Analyse notwendig, da strukturiertes JSON bereitgestellt wird.
+
+5.2 Münster
+
+Plattform: Shopware
+Bereitstellung einer komprimierten Sitemap (sitemap.xml.gz)
+Vorgehen:
+
+Download der Sitemap
+Entpacken der gzip‑Datei
+Extraktion der Kurs‑URLs
+Aufruf der einzelnen URLs
+Analyse des HTML per Selektoren
+Extraktion der benötigten Informationen
+
+
+
+
+5.3 Aachen, Essen, Paderborn
+
+Keine dedizierten Sitemaps mit allen Kursen
+Zentrale Kursübersichtsseiten
+Teilweise Pagination
+
+Vorgehen (identisch für alle drei):
+
+Aufruf der Kursübersichtsseite
+Durchblättern aller Seiten (Pagination)
+Sammeln aller Kurs‑Detail‑URLs
+Einzelaufruf jeder Kurs‑URL
+HTML‑Parsing per Selektoren
+Extraktion und Normalisierung der Daten
+
+
+6. Zieldatenformat (JSON)
+
+Pro Diözese wird eine eigene JSON‑Datei erzeugt
+Alle Dateien besitzen:
+
+identische Feldnamen
+identische Grundstruktur
+
+
+Es werden nur Felder verwendet, die bei allen Diözesen grundsätzlich vorhanden sind
+Fehlende Informationen einzelner Quellen bleiben leer bzw. null
+
+Ziel: maximale Vergleichbarkeit und einfache Weiterverarbeitung auf der Landingpage.
+
+7. Automatisierung & Betrieb
+7.1 GitHub Actions
+
+Definition im Verzeichnis:
+.github/workflows
+Startzeitpunkt: täglich ca. 00:00 Uhr
+
+7.2 Ablauf des Workflows
+
+Start des Workflows
+Paralleler Start der fünf Crawler
+
+Jeder Crawler läuft in einer eigenen Job‑Instanz
+
+
+Jeder Job erzeugt eine JSON‑Datei als Ergebnis
+Die erzeugten Dateien werden:
+
+als Artefakte gespeichert
+nach Job‑Abschluss mit den bestehenden JSON‑Dateien im Repo verglichen
+
+
+Nur veränderte Daten ersetzen bestehende Dateien
+
+
+7.3 Fehlerbehandlung im Workflow
+
+Schlägt ein einzelner Crawler fehl:
+
+Alle erfolgreich durchgelaufenen Crawler werden trotzdem ausgewertet
+Die Ergebnisse dieser Jobs werden mit dem Repository abgeglichen
+Der fehlerhafte Crawler:
+
+wird vollständig verworfen
+fließt nicht in die Aktualisierung ein
+
+
+
+
+Der Gesamt‑Workflow:
+
+wird als fehlgeschlagen markiert
+triggert:
+
+GitHub Notification
+E‑Mail an die Besitzer des Repositories
+
+
+
+
+
+
+8. Datenbereitstellung
+
+Die finalen JSON‑Dateien liegen versioniert im Repository
+Zugriff erfolgt über GitHub Raw URLs
+Die Daten sind:
+
+öffentlich
+ohne Authentifizierung abrufbar
+direkt als Datenquelle für die Landingpage nutzbar
+
+
+
+
+9. Vorteile des Ansatzes
+
+Klare Trennung der Datenquellen
+Hohe Wartbarkeit
+Hohe Fehlertoleranz
+Keine Abhängigkeit von Dritt‑APIs
+Reproduzierbare Builds
+Transparente Historie durch Git‑Versionierung
