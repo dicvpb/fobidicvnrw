@@ -446,7 +446,7 @@
     "date": "10. Juni 2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Wasserburg Rindern Heimvolkshochschule Kleve Wasserburgallee 120 47533 Kleve",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001040"
   },
   {
@@ -466,15 +466,6 @@
     "fee": "Kostenfrei, inkl. Verpflegung",
     "status": "Anmeldung deaktiviert",
     "id": "V000001037"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/wissen-schuetzt-kindliche-sexualentwicklung-und-praevention-gegen-sexualisierte-gewalt/v000001034",
-    "title": "Wissen schützt – Kindliche Sexualentwicklung und Prävention gegen sexualisierte Gewalt",
-    "date": "21. Apr. 2026, 09:00 Uhr - 22. Apr. 2026, 17:00 Uhr",
-    "place": "",
-    "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001034"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/reif-fuer-die-insel.-inseltage-auf-wangerooge/v000000958",
@@ -792,15 +783,6 @@
     "id": "V000000995"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/hospitationstag-wie-inklusion-gelingen-kann.../v000001132",
-    "title": "Hospitationstag - Wie Inklusion gelingen kann...",
-    "date": "22. Apr. 2026, 08:00 Uhr - 16:00 Uhr",
-    "place": "Kinderheilstätte Nordkirchen Nordkirchen Mauritiusplatz 6 59394 Nordkirchen",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001132"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/save-the-date-fachtag-sexualitaet-und-religion/v000000968",
     "title": "Save the date - Fachtag Sexualität und Religion",
     "date": "26. Nov. 2026, 09:30 Uhr - 16:00 Uhr",
@@ -887,7 +869,7 @@
     "date": "01. Okt. 2026 - 02. Okt. 2026",
     "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
     "fee": "pro Teilnehmer*in\n275,00 € (inkl. Verpflegung und Übernachtung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n300,00 € (inkl. Verpflegung und Übernachtung) für Partner im Bistum Münster\n330,00 € (inkl. Verpflegung und Übernachtung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001180"
   },
   {

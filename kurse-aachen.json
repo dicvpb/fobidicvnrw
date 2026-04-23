@@ -225,21 +225,21 @@
     "status": "offen"
   },
   {
-    "id": "26-2.04",
-    "title": "Erfolgreiches Projektmanagement",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
-    "date": "03.11.2026",
-    "place": "Online",
-    "fee": "120,00",
-    "status": "offen"
-  },
-  {
     "id": "26-7.17",
     "title": "Mitarbeitergespräche kompetent führen",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
     "date": "03.11.2026",
     "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
     "fee": "110,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "26-2.04",
+    "title": "Erfolgreiches Projektmanagement",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
+    "date": "03.11.2026",
+    "place": "Online",
+    "fee": "120,00",
     "status": "offen"
   },
   {

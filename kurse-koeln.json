@@ -1,92 +1,11 @@
 [
   {
-    "id": "48026-001",
-    "title": "Qualifizierungskurs Allgemeine Sozialberatung",
-    "date": "2026-04-22",
-    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
-    "fee": "Intern: 790.00 Extern: 950.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4975"
-  },
-  {
-    "id": "24726-011",
-    "title": "Web-Seminar: Offenes Konzept",
-    "date": "2026-04-22",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 125.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5248"
-  },
-  {
-    "id": "24226-003",
-    "title": "Qualifizierung gemäß §3 Abs. 2 zum Einsatz auf Fachkraft- oder Ergänzungskraftstunden",
-    "date": "2026-04-22",
-    "place": "Web-Seminar mit Go to Meeting",
-    "fee": "Intern: 1850.00 Extern: 1850.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5285"
-  },
-  {
-    "id": "24726-062",
-    "title": "Stimmen hören und Kinderrechte stärken",
-    "date": "2026-04-22",
-    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5365"
-  },
-  {
-    "id": "24726-101",
-    "title": "Die Kraft der Formen",
-    "date": "2026-04-22",
-    "place": "Pfarrsaal der Kath. Kirchengemeinde St. Franziskus An St. Franziskus 2 50739 Köln",
-    "fee": "Intern: 225.00 Extern: 300.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5527"
-  },
-  {
-    "id": "24726-115",
-    "title": "Kindheit ist Medienkindheit: Grundlagen der Medienerziehung",
-    "date": "2026-04-22",
-    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
-    "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5632"
-  },
-  {
-    "id": "26626-006",
-    "title": "Personal im Fokus – damit der Laden läuft!",
-    "date": "2026-04-22",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5755"
-  },
-  {
-    "id": "48026-025",
-    "title": "Für die Beratungspraxis: Aktuelle Änderungen im Migrationsrecht",
-    "date": "2026-04-22",
-    "place": "CaritasCampus Prälat-Boskamp-Saal (Untergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 45.00 Extern: 55.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5876"
-  },
-  {
-    "id": "23826-031",
-    "title": "KI für Anfänger",
-    "date": "2026-04-22",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5975"
-  },
-  {
     "id": "24926-011",
     "title": "Web-Seminar: kitaplus – Basisschulung",
     "date": "2026-04-23",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5027"
   },
   {
@@ -95,7 +14,7 @@
     "date": "2026-04-23",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 160.00 Extern: 210.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5261"
   },
   {
@@ -104,16 +23,16 @@
     "date": "2026-04-23",
     "place": "Seminarhaus DER RAUM! Mucher Straße 31 53804 Much",
     "fee": "Intern: 95.00 Extern: 120.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5361"
   },
   {
     "id": "24626-013",
     "title": "Teilhabe durch Umfeldgestaltung ermöglichen",
     "date": "2026-04-23",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "SkF e.V. Mönchengladbach Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
     "fee": "Intern: 310.00 Extern: 360.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5378"
   },
   {
@@ -201,7 +120,7 @@
     "id": "24726-077",
     "title": "Sprachentwicklung – Sprachauffälligkeit",
     "date": "2026-04-28",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5458"
@@ -282,7 +201,7 @@
     "id": "24726-080",
     "title": "Vom ersten Wort zum ganzen Satz",
     "date": "2026-05-04",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5469"
@@ -342,19 +261,10 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5034"
   },
   {
-    "id": "13226-001",
-    "title": "Web-Seminar: Gesunde Erde – gesunde Kinder",
-    "date": "2026-05-05",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 25.00 Extern: 40.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5037"
-  },
-  {
     "id": "21826-021",
     "title": "Gruppenleiterschulung",
     "date": "2026-05-05",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 1050.00 Extern: 1200.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5493"
@@ -498,7 +408,7 @@
     "id": "24526-009",
     "title": "Vorsorge – Selbstfürsorge",
     "date": "2026-05-11",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5530"
@@ -714,7 +624,7 @@
     "id": "21826-026",
     "title": "Neu in der ambulanten Jugendhilfe",
     "date": "2026-05-21",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 320.00 Extern: 370.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5498"
@@ -804,7 +714,7 @@
     "id": "24826-027",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-05-28",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5081"
@@ -966,7 +876,7 @@
     "id": "24726-076",
     "title": "Neue mentale und körperliche Stärke und Ideen für eine motivierte Kita-Arbeit",
     "date": "2026-06-08",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Saal (Untergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5446"
@@ -1047,7 +957,7 @@
     "id": "23326-009",
     "title": "Vom Wissen zum Können!",
     "date": "2026-06-10",
-    "place": "CaritasCampus Prälat-Boskamp-Saal (Untergeschoss) Georgstraße 18 50676 Köln",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 180.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5171"
@@ -1074,7 +984,7 @@
     "id": "24526-006",
     "title": "Vorbeugen gegen Stress und Burnout",
     "date": "2026-06-10",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 315.00 Extern: 390.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5467"
@@ -1344,7 +1254,7 @@
     "id": "24726-112",
     "title": "Ist das normal?",
     "date": "2026-06-23",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5628"
@@ -1386,15 +1296,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5916"
   },
   {
-    "id": "23826-033",
-    "title": "Die Routine macht die KI - Die Qualität mache ich!",
-    "date": "2026-07-08",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 67.00 Extern: 83.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5994"
-  },
-  {
     "id": "25026-023",
     "title": "Outlook, ToDo und Planner perfekt nutzen",
     "date": "2026-06-25",
@@ -1416,7 +1317,7 @@
     "id": "24826-028",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-06-26",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5082"
@@ -1436,7 +1337,7 @@
     "date": "2026-06-29",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5597"
   },
   {
@@ -1573,6 +1474,15 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5327"
+  },
+  {
+    "id": "23826-033",
+    "title": "Die Routine macht die KI - Die Qualität mache ich!",
+    "date": "2026-07-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 67.00 Extern: 83.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5994"
   },
   {
     "id": "34026-016",
@@ -2874,7 +2784,7 @@
     "id": "24826-033",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-03",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5109"
@@ -3243,7 +3153,7 @@
     "id": "24826-034",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-17",
-    "place": "SkF e.V. Mönchengladbach Prälat-Boskamp-Haus Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5110"
@@ -3472,6 +3382,15 @@
     "fee": "Intern: 25.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6049"
+  },
+  {
+    "id": "13226-012",
+    "title": "Web-Seminar: Gesunde Erde – gesunde Kinder",
+    "date": "2026-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 25.00 Extern: 35.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6053"
   },
   {
     "id": "34026-002",

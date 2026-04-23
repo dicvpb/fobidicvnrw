@@ -18,15 +18,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "S8031BE765",
-    "title": "Die Welt ist voller Wunder – Nachhaltigkeit und Religiosität für und mit Kindern",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/S8031BE765/kursname/Die%20Welt%20ist%20voller%20Wunder%20Nachhaltigkeit%20und%20Religiositaet%20fuer%20und%20mit%20Kindern/kategorie-id/10",
-    "date": "Do., 23.04.2026, 09:00 Uhr - 16:30 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "100,00 €",
-    "status": "Es sind noch 12 Plätze frei"
-  },
-  {
     "id": "S8031BE909",
     "title": "Behinderungsarten und Entwicklungsstörungen",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/S8031BE909/kursname/Behinderungsarten%20und%20Entwicklungsstoerungen/kategorie-id/10",
@@ -159,7 +150,7 @@
     "date": "Di., 02.06.2026, 09:30 Uhr - 15:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "S80FTB_06B",
@@ -169,6 +160,15 @@
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
     "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "S80VIER06A",
+    "title": "Fachtagung - 5 Jahre Referat Soziale Sicherung – Miteinander stark für Morgen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80VIER06A/kursname/Fachtagung%20-%205%20Jahre%20Referat%20Soziale%20Sicherung%20Miteinander%20stark%20fuer%20Morgen/kategorie-id/",
+    "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
+    "place": "Forum St. Liborius Tagungshaus",
+    "fee": "0,00 €",
+    "status": "Es sind noch 150 Plätze frei"
   },
   {
     "id": "S80CKQV06A",
@@ -280,8 +280,8 @@
   },
   {
     "id": "T80FTB2MO1",
-    "title": "Qualifizierung für Träger von Werkstätten für Menschen mit Behinderung",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80FTB2MO1/kursname/Qualifizierung%20fuer%20Traeger%20von%20Werkstaetten%20fuer%20Menschen%20mit%20Behinderung/kategorie-id/",
+    "title": "Qualifizierung für Träger von Werkstätten für Menschen mit Behinderung - Modul 1",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80FTB2MO1/kursname/Qualifizierung%20fuer%20Traeger%20von%20Werkstaetten%20fuer%20Menschen%20mit%20Behinderung%20-%20Modul%201/kategorie-id/",
     "date": "Mi., 01.07.2026, 09:00 Uhr - Do. 12.11.2026 17:00 Uhr",
     "place": "Hotel Aspethera, Paderborn",
     "fee": "995,00 €",
