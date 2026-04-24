@@ -1,41 +1,5 @@
 [
   {
-    "id": "24926-011",
-    "title": "Web-Seminar: kitaplus – Basisschulung",
-    "date": "2026-04-23",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5027"
-  },
-  {
-    "id": "24726-020",
-    "title": "Web-Seminar: Kompetent im Konflikt",
-    "date": "2026-04-23",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 160.00 Extern: 210.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5261"
-  },
-  {
-    "id": "24726-058",
-    "title": "Wildkräuterwerkstatt mit Kindern",
-    "date": "2026-04-23",
-    "place": "Seminarhaus DER RAUM! Mucher Straße 31 53804 Much",
-    "fee": "Intern: 95.00 Extern: 120.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5361"
-  },
-  {
-    "id": "24626-013",
-    "title": "Teilhabe durch Umfeldgestaltung ermöglichen",
-    "date": "2026-04-23",
-    "place": "SkF e.V. Mönchengladbach Herrn Martin Micha Raum K 11 (1. Obergeschoss) Am Steinberg 74 41061 Mönchengladbach",
-    "fee": "Intern: 310.00 Extern: 360.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5378"
-  },
-  {
     "id": "24826-010",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-04-24",
@@ -50,7 +14,7 @@
     "date": "2026-04-24",
     "place": "Haus Venusberg e. V. Haager Weg 28 - 30 53127 Bonn",
     "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5136"
   },
   {
@@ -59,7 +23,7 @@
     "date": "2026-04-24",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 100.00 Extern: 125.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5250"
   },
   {
@@ -1314,6 +1278,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6023"
   },
   {
+    "id": "17026-007",
+    "title": "Die neue AVR 2027",
+    "date": "2026-06-25",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6055"
+  },
+  {
     "id": "24826-028",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-06-26",
@@ -1737,15 +1710,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5051"
   },
   {
-    "id": "24626-033",
-    "title": "Wenn Übung nicht den Meister macht",
-    "date": "2026-09-11",
-    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
-    "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5404"
-  },
-  {
     "id": "24626-043",
     "title": "Web-Seminar: Einfache Sprache mit Gebärden begleiten",
     "date": "2026-09-11",
@@ -1760,7 +1724,7 @@
     "date": "2026-09-13",
     "place": "Pension Schwaighof Schwaighofweg 79/1 6311 Oberau",
     "fee": "Intern: 620.00 Extern: 740.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5669"
   },
   {
@@ -2264,7 +2228,7 @@
     "date": "2026-09-30",
     "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
     "fee": "Intern: 450.00 Extern: 550.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5810"
   },
   {
@@ -2932,15 +2896,6 @@
     "fee": "Intern: 75.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5355"
-  },
-  {
-    "id": "24626-039",
-    "title": "In einer anderen Welt",
-    "date": "2026-11-06",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5418"
   },
   {
     "id": "24626-040",
