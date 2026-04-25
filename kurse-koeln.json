@@ -1,41 +1,5 @@
 [
   {
-    "id": "24826-010",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-04-24",
-    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5047"
-  },
-  {
-    "id": "23226-001",
-    "title": "Intuitives Bogenschießen für das innere Gleichgewicht",
-    "date": "2026-04-24",
-    "place": "Haus Venusberg e. V. Haager Weg 28 - 30 53127 Bonn",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5136"
-  },
-  {
-    "id": "24726-013",
-    "title": "Web-Seminar: Die Bedeutung des freien Spiels",
-    "date": "2026-04-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 125.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5250"
-  },
-  {
-    "id": "24926-025",
-    "title": "Web-Seminar: kitaplus – Gruppen-App und Bildungsdokumentation",
-    "date": "2026-04-24",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5881"
-  },
-  {
     "id": "31826-012",
     "title": "Suizidprävention in der Suchtselbsthilfe",
     "date": "2026-04-25",
@@ -898,15 +862,6 @@
     "fee": "Intern: 60.00 Extern: 85.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5245"
-  },
-  {
-    "id": "23226-004",
-    "title": "Fit und gelassen im Büro",
-    "date": "2026-06-09",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 195.00 Extern: 215.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5676"
   },
   {
     "id": "23126-007",
@@ -3328,15 +3283,6 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5928"
-  },
-  {
-    "id": "13226-011",
-    "title": "Web-Seminar: Gesunde Erde – gesunde Kinder",
-    "date": "2026-11-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 25.00 Extern: 40.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6049"
   },
   {
     "id": "13226-012",
