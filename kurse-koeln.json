@@ -1,14 +1,5 @@
 [
   {
-    "id": "31826-012",
-    "title": "Suizidprävention in der Suchtselbsthilfe",
-    "date": "2026-04-25",
-    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
-    "fee": "Intern: 55.00 Extern: 55.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5588"
-  },
-  {
     "id": "24226-009",
     "title": "Qualifizierung gemäß §3 Abs. 2 zum Einsatz auf Fachkraft- oder Ergänzungskraftstunden",
     "date": "2026-04-27",
@@ -3283,6 +3274,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5928"
+  },
+  {
+    "id": "13226-011",
+    "title": "Web-Seminar: Gesunde Erde – gesunde Kinder",
+    "date": "2026-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 25.00 Extern: 40.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6049"
   },
   {
     "id": "13226-012",
