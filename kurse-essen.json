@@ -27,6 +27,15 @@
     "status": "offen"
   },
   {
+    "id": "15526-001",
+    "title": "Basisschulung Ehrenamtskoordination",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/basisschulung-ehrenamtskoordination-6edda455-2827-44ab-bf66-6fc3f95f86d9",
+    "date": "09.09.2026 - 11.11.2026",
+    "place": "Katholische Akademie Schwerte Bergerhofweg 24 58239 Schwerte",
+    "fee": "800,00 € bzw. 650,00 € für MItarbeitende in katholischen Organisationen (bundesweit).",
+    "status": "offen"
+  },
+  {
     "id": "08.005.26",
     "title": "Dekubitus: Die neue EPUAP Leitlinie – was ist heute richtig und wie setze ich es um?",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/dekubitus-die-neue-epuap-leitlinie--was-ist-heute-richtig-und-wie-setze-ich-es-um-272e2445-899c-4e90",
@@ -144,15 +153,6 @@
     "status": "offen"
   },
   {
-    "id": "09.005.26",
-    "title": "Einführung in die ICF-CY",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-die-icf-cy-4b96491f-d3f1-4f97-a671-44c1feaeb1f2",
-    "date": "19.05.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "140,00 € 120,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas. 90,00 € für Mitarbeiter:innen von Kitas, deren Fachberatung für Kinder mit Behinderung durch den DiCV Essen durchgeführt wird..",
-    "status": "offen"
-  },
-  {
     "id": "09.006.26",
     "title": "Einführung in die ICF-CY",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-die-icf-cy-a284f683-44d7-4c41-8747-dd6793ceb4fc",
@@ -162,12 +162,30 @@
     "status": "offen"
   },
   {
+    "id": "09.005.26",
+    "title": "Einführung in die ICF-CY",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-die-icf-cy-4b96491f-d3f1-4f97-a671-44c1feaeb1f2",
+    "date": "19.05.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "140,00 € 120,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas. 90,00 € für Mitarbeiter:innen von Kitas, deren Fachberatung für Kinder mit Behinderung durch den DiCV Essen durchgeführt wird..",
+    "status": "offen"
+  },
+  {
     "id": "09.013.26",
     "title": "Einführung in Vorurteilsbewusste Bildung und Erziehung© (VBuE©) als inklusives Praxiskonzept",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-vorurteilsbewusste-bildung-und-erziehung-vbue-als-inklusives-praxiskonzept-ee0133a8-2",
     "date": "06.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "210,00 € bzw. 190,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "08.013.26",
+    "title": "Erfolgreicher Widerspruch gegen den abgelehnten Pflegegrad.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/erfolgreicher-widerspruch-gegen-den-abgelehnten-pflegegrad.-742265e5-fe46-417e-a81d-f09d8b437073",
+    "date": "29.04.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "270,00 € bzw. 250,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {

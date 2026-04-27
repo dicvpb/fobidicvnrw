@@ -95,7 +95,7 @@
     "date": "05. Mai 2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000000923"
   },
   {
@@ -317,8 +317,8 @@
   {
     "url": "https://fortbildung.caritas-muenster.de/sexualitaet-im-alter-in-einer-katholischen-einrichtung-was-geht/v000000880",
     "title": "Sexualität im Alter in einer katholischen Einrichtung – Was geht?",
-    "date": "01. Juli 2026, 09:00 Uhr - 16:00 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "date": "10. Dez. 2026, 09:00 Uhr - 16:00 Uhr",
+    "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
     "id": "V000000880"
@@ -491,7 +491,7 @@
     "date": "27. Apr. 2026 - 01. Mai 2026",
     "place": "Haus Ansgar Wangerooge Damenpfad 20 26486 Wangerooge",
     "fee": "pro Teilnehmer*in\n515,00 € (inkl. Unterkunft/Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n565,00 € (inkl. Unterkunft/Verpflegung) für Partner im Bistum Münster\n620,00 € (inkl. Unterkunft/Verpflegung) für alle Anderen\n\nDie An- und Abreise ist nicht im Betrag inbegriffen.",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000957"
   },
   {
@@ -842,7 +842,7 @@
     "date": "07. Mai 2026, 09:30 Uhr - 17:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001191"
   },
   {
@@ -943,5 +943,23 @@
     "fee": "195,00 € für Mitgliedseinrichtungen des DiCV Münster\n215,00 € für Partner im Bistum Münster\n235,00 € für Nicht-Mitglieder (alle Anderen)",
     "status": "Plätze verfügbar",
     "id": "V000001117"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/avr-2027-online-modul-zur-avr-2027/v000001275",
+    "title": "AVR 2027 – Online-Modul zur AVR 2027",
+    "date": "10. Juni 2026, 10:00 Uhr - 12:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "Die Teilnahmegebühr beträgt 45,00 €",
+    "status": "Plätze verfügbar",
+    "id": "V000001275"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/avr-2027-online-modul-zur-avr-2027/v000001274",
+    "title": "AVR 2027 – Online-Modul zur AVR 2027",
+    "date": "28. Mai 2026, 10:00 Uhr - 12:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "Die Teilnahmegebühr beträgt 45,00 €",
+    "status": "Plätze verfügbar",
+    "id": "V000001274"
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "id": "T80F2AV040",
-    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV040/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
-    "date": "VdK Kur- und Erholungshotel zum Hallenberg",
-    "place": "400,00 €",
-    "fee": "Es sind noch 35 Plätze frei",
-    "status": ""
-  },
-  {
     "id": "S80INVIA05",
     "title": "Weiterbildung für (angehende) Einrichtungsleitungen",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/S80INVIA05/kursname/Weiterbildung%20fuer%20angehende%20Einrichtungsleitungen/kategorie-id/2",
@@ -33,7 +24,7 @@
     "date": "Di., 05.05.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "0,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "S80INVIA10",
@@ -132,7 +123,7 @@
     "date": "Di., 02.06.2026, 09:30 Uhr - 15:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
-    "status": "Es sind noch 10 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "S80FTB_06B",
@@ -141,7 +132,7 @@
     "date": "Mi., 03.06.2026, 09:30 Uhr - 15:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "S80VIER06A",
@@ -168,7 +159,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 58 Plätze frei"
+    "status": "Es sind noch 53 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -286,6 +277,15 @@
     "place": "Stubaier Alpen",
     "fee": "595,00 €",
     "status": "Es ist noch 1 Platz frei"
+  },
+  {
+    "id": "S80F2AV048",
+    "title": "Tagesveranstaltung: Die \"AVR 2.0\"",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80F2AV048/kursname/Tagesveranstaltung%20Die%20AVR%2020/kategorie-id/",
+    "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Katholische Akademie Schwerte",
+    "fee": "100,00 €",
+    "status": "Es sind noch 120 Plätze frei"
   },
   {
     "id": "T80INVIA07",
@@ -430,6 +430,15 @@
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "590,00 €",
     "status": "Anmeldung auf Warteliste"
+  },
+  {
+    "id": "S80F2AV050",
+    "title": "Tagesveranstaltung: Die \"AVR 2.0\"",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80F2AV050/kursname/Tagesveranstaltung%20Die%20AVR%2020/kategorie-id/",
+    "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Katholische Akademie Schwerte",
+    "fee": "100,00 €",
+    "status": "Es sind noch 120 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
