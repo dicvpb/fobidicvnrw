@@ -1,23 +1,5 @@
 [
   {
-    "id": "24226-009",
-    "title": "Qualifizierung gemäß §3 Abs. 2 zum Einsatz auf Fachkraft- oder Ergänzungskraftstunden",
-    "date": "2026-04-27",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 1755.00 Extern: 2280.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5348"
-  },
-  {
-    "id": "23926-028",
-    "title": "Immer dieser Ärger – Konflikte konstruktiv lösen",
-    "date": "2026-04-27",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5551"
-  },
-  {
     "id": "23926-003",
     "title": "Meine (neue) Rolle als Führungskraft",
     "date": "2026-04-28",
@@ -941,7 +923,7 @@
     "date": "2026-06-11",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5882"
   },
   {
@@ -2455,6 +2437,15 @@
     "fee": "Intern: 175.00 Extern: 195.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5677"
+  },
+  {
+    "id": "23826-038",
+    "title": "Die Routine macht die KI - Die Qualität mache ich!",
+    "date": "2026-10-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 67.00 Extern: 83.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6056"
   },
   {
     "id": "24826-015",

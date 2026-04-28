@@ -9,15 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "S80CKQV05D",
-    "title": "CKD on Tour - Wir erkunden spannende Projekte vor Ort",
-    "url": "https://www.helfenmitprofil.de/programm/caritas-konferenzen/kw/bereich/kursdetails/kurs/S80CKQV05D/kursname/CKD%20on%20Tour%20-%20Wir%20erkunden%20spannende%20Projekte%20vor%20Ort/kategorie-id/4",
-    "date": "Di., 05.05.2026, 09:30 Uhr - 17:00 Uhr Uhr",
-    "place": "Ense",
-    "fee": "5,00 €",
-    "status": "Anmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
-  },
-  {
     "id": "S80FIDI05A",
     "title": "Mach’s mit KI: Ein Praxisworkshop für die Anwendung in der Fördermittelgewinnung",
     "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80FIDI05A/kursname/Machs%20mit%20KI%20Ein%20Praxisworkshop%20fuer%20die%20Anwendung%20in%20der%20Foerdermittelgewinnung/kategorie-id/",
@@ -48,10 +39,19 @@
     "id": "S8031BE127",
     "title": "Kind.Raum.Religion 2.0 - Aufbaukurs zum förderlichen Kitaumfeld",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/S8031BE127/kursname/KindRaumReligion%2020%20-%20Aufbaukurs%20zum%20foerderlichen%20Kitaumfeld/kategorie-id/10",
-    "date": "Mo., 11.05.2026, 09:00 Uhr - Di. 12.05.2026 16:30 Uhr",
-    "place": "Liborianum, Paderborn und Online",
+    "date": "Mo., 11.05.2026, 08:15 Uhr - 15:15 Uhr",
+    "place": "Onlineangebot",
+    "fee": "130,00 €",
+    "status": "Es sind noch 16 Plätze frei"
+  },
+  {
+    "id": "S8031BE130",
+    "title": "Kind.Raum.Religion 2.0 - Aufbaukurs zum förderlichen Kitaumfeld",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/S8031BE130/kursname/KindRaumReligion%2020%20-%20Aufbaukurs%20zum%20foerderlichen%20Kitaumfeld/kategorie-id/10",
+    "date": "Di., 12.05.2026, 09:00 Uhr - 16:30 Uhr",
+    "place": "Liborianum, Paderborn",
     "fee": "160,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "S80CKQV05B",
@@ -69,7 +69,7 @@
     "date": "Di., 19.05.2026, 09:00 Uhr - Mi. 20.05.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "S01PBBK100",
@@ -159,7 +159,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 53 Plätze frei"
+    "status": "Es sind noch 45 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -261,6 +261,24 @@
     "status": "Es sind noch 15 Plätze frei"
   },
   {
+    "id": "T80F2AV048",
+    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV048/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
+    "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Kommende in Dortmund",
+    "fee": "100,00 €",
+    "status": "Es sind noch 50 Plätze frei"
+  },
+  {
+    "id": "T80F2AV049",
+    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV049/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
+    "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Haus Maria Immaculata in Paderborn",
+    "fee": "100,00 €",
+    "status": "Es sind noch 50 Plätze frei"
+  },
+  {
     "id": "T80INVIA11",
     "title": "Personalwirtschaft - Aufgaben und Ziele",
     "url": "https://www.helfenmitprofil.de/programm/personalwirtschaft/kw/bereich/kursdetails/kurs/T80INVIA11/kursname/Personalwirtschaft%20-%20Aufgaben%20und%20Ziele/kategorie-id/9",
@@ -279,13 +297,22 @@
     "status": "Es ist noch 1 Platz frei"
   },
   {
-    "id": "S80F2AV048",
+    "id": "T80F2AV050",
     "title": "Tagesveranstaltung: Die \"AVR 2.0\"",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80F2AV048/kursname/Tagesveranstaltung%20Die%20AVR%2020/kategorie-id/",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV050/kursname/Tagesveranstaltung%20Die%20AVR%2020/kategorie-id/",
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
     "status": "Es sind noch 120 Plätze frei"
+  },
+  {
+    "id": "T80F2AV051",
+    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV051/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
+    "date": "Mi., 02.09.2026, 10:00 Uhr - Fr. 04.09.2026 14:30 Uhr",
+    "place": "VdK Kur- und Erholungshotel zum Hallenberg",
+    "fee": "400,00 €",
+    "status": "Es sind noch 35 Plätze frei"
   },
   {
     "id": "T80INVIA07",
@@ -405,6 +432,15 @@
     "status": "Anmeldung auf Warteliste"
   },
   {
+    "id": "T80F2AV052",
+    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV052/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
+    "date": "Do., 15.10.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Haus Maria Immaculata in Paderborn",
+    "fee": "100,00 €",
+    "status": "Es sind noch 50 Plätze frei"
+  },
+  {
     "id": "T80F3BF10B",
     "title": "Bewerbungsgespräche führen als Führungskraft",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF10B/kursname/Bewerbungsgespraeche%20fuehren%20als%20Fuehrungskraft/kategorie-id/7",
@@ -412,6 +448,15 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "220,00 €",
     "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "T80F2AV053",
+    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV053/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
+    "date": "Fr., 16.10.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Kommende in Dortmund",
+    "fee": "0,00 €",
+    "status": "Keine Anmeldung möglich"
   },
   {
     "id": "T80INVIA03",
@@ -432,9 +477,9 @@
     "status": "Anmeldung auf Warteliste"
   },
   {
-    "id": "S80F2AV050",
+    "id": "T80F2AV054",
     "title": "Tagesveranstaltung: Die \"AVR 2.0\"",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80F2AV050/kursname/Tagesveranstaltung%20Die%20AVR%2020/kategorie-id/",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV054/kursname/Tagesveranstaltung%20Die%20AVR%2020/kategorie-id/",
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
@@ -556,14 +601,5 @@
     "place": "Katholische Akademie, Schwerte",
     "fee": "430,00 €",
     "status": "Es sind noch 14 Plätze frei"
-  },
-  {
-    "id": "U80POK_03B",
-    "title": "Konfliktprävention in Teams",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03B/kursname/Konfliktpraevention%20in%20Teams/kategorie-id/7",
-    "date": "Mi., 17.03.2027, 09:00 Uhr - Do. 18.03.2027 17:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "400,00 €",
-    "status": "Es sind noch 15 Plätze frei"
   }
 ]

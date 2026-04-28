@@ -153,15 +153,6 @@
     "status": "offen"
   },
   {
-    "id": "09.006.26",
-    "title": "Einführung in die ICF-CY",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-die-icf-cy-a284f683-44d7-4c41-8747-dd6793ceb4fc",
-    "date": "30.06.2026",
-    "place": "Web-Seminar",
-    "fee": "100,00 € 80,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas. 40,00 € für Mitarbeiter*innen von Kitas deren Fachberatung für Kinder mit Behinderung durch den DiCV Essen durchgeführt wird.",
-    "status": "offen"
-  },
-  {
     "id": "09.005.26",
     "title": "Einführung in die ICF-CY",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-die-icf-cy-4b96491f-d3f1-4f97-a671-44c1feaeb1f2",
@@ -171,21 +162,21 @@
     "status": "offen"
   },
   {
+    "id": "09.006.26",
+    "title": "Einführung in die ICF-CY",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-die-icf-cy-a284f683-44d7-4c41-8747-dd6793ceb4fc",
+    "date": "30.06.2026",
+    "place": "Web-Seminar",
+    "fee": "100,00 € 80,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas. 40,00 € für Mitarbeiter*innen von Kitas deren Fachberatung für Kinder mit Behinderung durch den DiCV Essen durchgeführt wird.",
+    "status": "offen"
+  },
+  {
     "id": "09.013.26",
     "title": "Einführung in Vorurteilsbewusste Bildung und Erziehung© (VBuE©) als inklusives Praxiskonzept",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/einfuehrung-in-vorurteilsbewusste-bildung-und-erziehung-vbue-als-inklusives-praxiskonzept-ee0133a8-2",
     "date": "06.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "210,00 € bzw. 190,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
-    "id": "08.013.26",
-    "title": "Erfolgreicher Widerspruch gegen den abgelehnten Pflegegrad.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/erfolgreicher-widerspruch-gegen-den-abgelehnten-pflegegrad.-742265e5-fe46-417e-a81d-f09d8b437073",
-    "date": "29.04.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "270,00 € bzw. 250,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -306,21 +297,21 @@
     "status": "offen"
   },
   {
-    "id": "09.000.26",
-    "title": "Mediatisierung und Jugendhilfe: Kinder und Jugendliche sicher durch die digitale Welt begleiten.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mediatisierung-und-jugendhilfe-kinder-und-jugendliche-sicher-durch-die-digitale-welt-begleiten.-2d60",
-    "date": "19.05.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "115,00 € bzw. 95,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.008.26",
     "title": "Mediatisierung und Jugendhilfe: Kinder und Jugendliche sicher durch die digitale Welt begleiten.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mediatisierung-und-jugendhilfe-kinder-und-jugendliche-sicher-durch-die-digitale-welt-begleiten.-047a",
     "date": "19.05.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "140,00 € bzw. 120,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.000.26",
+    "title": "Mediatisierung und Jugendhilfe: Kinder und Jugendliche sicher durch die digitale Welt begleiten.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mediatisierung-und-jugendhilfe-kinder-und-jugendliche-sicher-durch-die-digitale-welt-begleiten.-2d60",
+    "date": "19.05.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "115,00 € bzw. 95,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -366,15 +357,6 @@
     "date": "30.06.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "210,00 € bzw. 190,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
-    "id": "06.008.26",
-    "title": "Nah‘ am Menschen – mit Humor und positiver Psychologie.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/nah-am-menschen--mit-humor-und-positiver-psychologie.-18fe2d4d-e941-40af-b9d4-66869033a714",
-    "date": "21.05.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "260,00 € bzw. 240,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {

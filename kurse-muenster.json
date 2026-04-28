@@ -491,7 +491,7 @@
     "date": "27. Apr. 2026 - 01. Mai 2026",
     "place": "Haus Ansgar Wangerooge Damenpfad 20 26486 Wangerooge",
     "fee": "pro Teilnehmer*in\n515,00 € (inkl. Unterkunft/Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n565,00 € (inkl. Unterkunft/Verpflegung) für Partner im Bistum Münster\n620,00 € (inkl. Unterkunft/Verpflegung) für alle Anderen\n\nDie An- und Abreise ist nicht im Betrag inbegriffen.",
-    "status": "Anmeldung deaktiviert",
+    "status": "Wenige Plätze",
     "id": "V000000957"
   },
   {
@@ -628,15 +628,6 @@
     "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.",
     "status": "Anmeldung deaktiviert",
     "id": "V000000996"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/ich-will-aber/v000001001",
-    "title": "Ich will aber!",
-    "date": "27. Apr. 2026, 09:00 Uhr - 16:00 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001001"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/systemsprenger-kinder-die-ratlos-machen-2-module/v000000913",
@@ -799,15 +790,6 @@
     "fee": "1.350,00 € (inkl. Verpflegung und Unterkunft) für Mitglieder des DiCV Münster\n1.485,00 € (inkl. Verpflegung und Unterkunft) für Partner des DiCV Münster\n1.620,00 € (inkl. Verpflegung und Unterkunft) für alle Anderen\n\ninkl. 4 Supervisionen à 3 Stunden",
     "status": "Plätze verfügbar",
     "id": "V000001136"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/fachtag-ak-wohnen/v000001163",
-    "title": "Fachtag AK Wohnen",
-    "date": "09. Juli 2026, 09:30 Uhr - 18:00 Uhr",
-    "place": "Hotel am Wasserturm Münster Alexianerweg 9 48163 Münster",
-    "fee": "260,00 € (inkl. Verpflegung) einschl. Abendessen für Mitglieder des AK Wohnen des DiCV Münster",
-    "status": "Plätze verfügbar",
-    "id": "V000001163"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/systemsprenger-kinder-die-ratlos-machen-2-module/v000001181",
