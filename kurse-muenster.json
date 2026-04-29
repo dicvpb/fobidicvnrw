@@ -392,7 +392,7 @@
     "date": "30. Sep. 2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Wasserburg Rindern Heimvolkshochschule Kleve Wasserburgallee 120 47533 Kleve",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Wenige Plätze",
     "id": "V000001026"
   },
   {
@@ -572,7 +572,7 @@
     "date": "25. Juni 2026, 09:00 Uhr - 14:00 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001002"
   },
   {
@@ -590,7 +590,7 @@
     "date": "10. Juni 2026, 09:00 Uhr - 11. Juni 2026, 16:30 Uhr",
     "place": "Heimvolkshochschule Gottfried-Könzgen Haltern am See Annaberg 40 45721 Haltern am See",
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Anmeldung deaktiviert",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000000999"
   },
   {
@@ -608,7 +608,7 @@
     "date": "11. Mai 2026, 09:00 Uhr - 17:00 Uhr",
     "place": "KUBUS Tagungshaus Bentlage Rheine Salinenstraße 99 48432 Rheine",
     "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000962"
   },
   {
@@ -619,15 +619,6 @@
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
     "status": "Anmeldung deaktiviert",
     "id": "V000000859"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/optimismus-in-krisenzeiten-geht-das/v000000996",
-    "title": "Optimismus in Krisenzeiten…geht das !?",
-    "date": "28. Apr. 2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000996"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/systemsprenger-kinder-die-ratlos-machen-2-module/v000000913",
@@ -799,15 +790,6 @@
     "fee": "490,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n540,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n590,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
     "status": "Plätze verfügbar",
     "id": "V000001181"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/resilienz-zauberkraft-fuer-den-alltag/v000001184",
-    "title": "Resilienz - Zauberkraft für den Alltag",
-    "date": "05. Mai 2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Hotel Klostergarten Kevelaer Klostergarten 1 47623 Kevelaer",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001184"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/sicher-vor-der-kamera-krisenkommunikation-im-interview/v000001192",

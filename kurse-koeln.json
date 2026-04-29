@@ -1,41 +1,5 @@
 [
   {
-    "id": "23926-003",
-    "title": "Meine (neue) Rolle als Führungskraft",
-    "date": "2026-04-28",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5059"
-  },
-  {
-    "id": "23926-006",
-    "title": "Web-Seminar: Machst du jetzt einen auf Chef_in, oder wie?",
-    "date": "2026-04-28",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5066"
-  },
-  {
-    "id": "24726-077",
-    "title": "Sprachentwicklung – Sprachauffälligkeit",
-    "date": "2026-04-28",
-    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5458"
-  },
-  {
-    "id": "13226-004",
-    "title": "Praxistag von Koch zu Koch: Alltagstaugliche Alternativen ausprobieren",
-    "date": "2026-04-28",
-    "place": "Katholisches Bildungsforum Rhein-Erft Kirchstraße 1b 50126 Bergheim",
-    "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5659"
-  },
-  {
     "id": "24726-010",
     "title": "Web-Seminar: Entwicklungsgespräche in der Kita offen und kreativ geführt",
     "date": "2026-04-29",
@@ -50,7 +14,7 @@
     "date": "2026-04-29",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 155.00 Extern: 180.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5351"
   },
   {
@@ -59,7 +23,7 @@
     "date": "2026-04-29",
     "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5918"
   },
   {
@@ -171,15 +135,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5493"
   },
   {
-    "id": "25026-011",
-    "title": "Web-Seminar: Microsoft OneNote",
-    "date": "2026-05-05",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5694"
-  },
-  {
     "id": "23826-028",
     "title": "KI im Arbeitsalltag",
     "date": "2026-05-05",
@@ -277,15 +232,6 @@
     "fee": "Intern: 74.00 Extern: 88.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5973"
-  },
-  {
-    "id": "34026-007",
-    "title": "ICF basierte Bedarfsermittlung BEI_NRW",
-    "date": "2026-05-11",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5147"
   },
   {
     "id": "24726-005",
@@ -482,7 +428,7 @@
     "date": "2026-05-20",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4999"
   },
   {
