@@ -1,41 +1,5 @@
 [
   {
-    "id": "24726-010",
-    "title": "Web-Seminar: Entwicklungsgespräche in der Kita offen und kreativ geführt",
-    "date": "2026-04-29",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 125.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5247"
-  },
-  {
-    "id": "24726-053",
-    "title": "All you can eat",
-    "date": "2026-04-29",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 155.00 Extern: 180.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5351"
-  },
-  {
-    "id": "21826-046",
-    "title": "Zwischen Ausschluss und Teilhabe, armutssensibel handeln",
-    "date": "2026-04-29",
-    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5918"
-  },
-  {
-    "id": "26826-008",
-    "title": "Web-Seminar: Scrollen in die Radikalisierung?",
-    "date": "2026-04-29",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5925"
-  },
-  {
     "id": "24626-051",
     "title": "Web-Seminar: Praxisorientierte Teilhabe- und Förderplanung (TuF) (LVR/LWL) in der Kita",
     "date": "2026-04-30",
@@ -477,15 +441,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5498"
   },
   {
-    "id": "24726-110",
-    "title": "Web-Seminar: Herzlich willkommen",
-    "date": "2026-05-21",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 25.00 Extern: 50.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5563"
-  },
-  {
     "id": "23826-026",
     "title": "Mit ChatGPT, Gemini und Copilot effizienter arbeiten",
     "date": "2026-05-21",
@@ -520,15 +475,6 @@
     "fee": "Intern: 42.00 Extern: 50.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6009"
-  },
-  {
-    "id": "24026-006",
-    "title": "Kinder nicht um Religion betrügen",
-    "date": "2026-05-27",
-    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
-    "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5297"
   },
   {
     "id": "24726-048",
@@ -941,7 +887,7 @@
     "date": "2026-06-15",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5988"
   },
   {

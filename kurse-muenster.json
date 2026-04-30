@@ -612,15 +612,6 @@
     "id": "V000000962"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/kindheit-in-familien-mit-psychisch-belasteten-eltern/v000000859",
-    "title": "Kindheit in Familien mit psychisch belasteten Eltern",
-    "date": "28. Apr. 2026, 09:00 Uhr - 29. Apr. 2026, 17:00 Uhr",
-    "place": "Heimvolkshochschule Gottfried-Könzgen Haltern am See Annaberg 40 45721 Haltern am See",
-    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000859"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/systemsprenger-kinder-die-ratlos-machen-2-module/v000000913",
     "title": "\"Systemsprenger\"? Kinder, die ratlos machen (2 Module)",
     "date": "16. Apr. 2026, 09:00 Uhr - 06. Mai 2026, 17:00 Uhr",
@@ -792,6 +783,15 @@
     "id": "V000001181"
   },
   {
+    "url": "https://fortbildung.caritas-muenster.de/resilienz-zauberkraft-fuer-den-alltag/v000001184",
+    "title": "Resilienz - Zauberkraft für den Alltag",
+    "date": "05. Mai 2026, 09:00 Uhr - 17:00 Uhr",
+    "place": "Hotel Klostergarten Kevelaer Klostergarten 1 47623 Kevelaer",
+    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Wenige Plätze",
+    "id": "V000001184"
+  },
+  {
     "url": "https://fortbildung.caritas-muenster.de/sicher-vor-der-kamera-krisenkommunikation-im-interview/v000001192",
     "title": "Sicher vor der Kamera - Krisenkommunikation im Interview",
     "date": "15. Sep. 2026, 09:30 Uhr - 17:30 Uhr",
@@ -806,7 +806,7 @@
     "date": "07. Mai 2026, 09:30 Uhr - 17:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
-    "status": "Wenige Plätze",
+    "status": "Plätze verfügbar",
     "id": "V000001191"
   },
   {
