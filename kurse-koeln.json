@@ -23,7 +23,7 @@
     "date": "2026-05-04",
     "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5469"
   },
   {
@@ -32,7 +32,7 @@
     "date": "2026-05-04",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5510"
   },
   {
@@ -41,7 +41,7 @@
     "date": "2026-05-04",
     "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
     "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5633"
   },
   {
@@ -50,7 +50,7 @@
     "date": "2026-05-04",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5697"
   },
   {
@@ -59,7 +59,7 @@
     "date": "2026-05-04",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 82.00 Extern: 99.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6013"
   },
   {
@@ -68,7 +68,7 @@
     "date": "2026-05-04",
     "place": "Haus Wiesengrund Evangelisches Tagungs- und Gästehaus Überdorf 8 51588 Nümbrecht",
     "fee": "Intern: 160.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6024"
   },
   {
@@ -381,9 +381,9 @@
     "id": "23126-012",
     "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
     "date": "2026-05-20",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4999"
   },
   {

@@ -132,7 +132,7 @@
     "date": "Mi., 10.06.2026, 09:00 Uhr - Do. 11.06.2026 17:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "420,00 €",
-    "status": "Es sind noch 5 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "S80INVIA09",
@@ -267,7 +267,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 106 Plätze frei"
+    "status": "Es sind noch 87 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -360,6 +360,15 @@
     "status": "Anmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
   },
   {
+    "id": "T80KEFB10A",
+    "title": "„Leichte Liturgie“ - damit alle mitfeiern können",
+    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80KEFB10A/kursname/Leichte%20Liturgie%20-%20damit%20alle%20mitfeiern%20koennen/kategorie-id/1",
+    "date": "Mi., 07.10.2026, 09:30 Uhr - 17:00 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "0,00 €",
+    "status": "ANMELDUNG über:www.kefb.de/kurse/kurs/T01PBRA500"
+  },
+  {
     "id": "T80F3RT10A",
     "title": "Vertiefungstage für Seelsorgliche Begleitungen",
     "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80F3RT10A/kursname/Vertiefungstage%20fuer%20Seelsorgliche%20Begleitungen/kategorie-id/1",
@@ -447,7 +456,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 109 Plätze frei"
+    "status": "Es sind noch 107 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
