@@ -9,15 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "S80FIDI05A",
-    "title": "Mach’s mit KI: Ein Praxisworkshop für die Anwendung in der Fördermittelgewinnung",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80FIDI05A/kursname/Machs%20mit%20KI%20Ein%20Praxisworkshop%20fuer%20die%20Anwendung%20in%20der%20Foerdermittelgewinnung/kategorie-id/",
-    "date": "Di., 05.05.2026, 09:30 Uhr - 16:30 Uhr",
-    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
-    "fee": "0,00 €",
-    "status": "Es sind noch 11 Plätze frei"
-  },
-  {
     "id": "S80INVIA10",
     "title": "Beratende Pflegefachkraft in Einrichtungen der Eingliederungshilfe",
     "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/S80INVIA10/kursname/Beratende%20Pflegefachkraft%20in%20Einrichtungen%20der%20Eingliederungshilfe/kategorie-id/14",
@@ -42,7 +33,7 @@
     "date": "Di., 19.05.2026, 09:00 Uhr - Mi. 20.05.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 5 Plätze frei"
+    "status": "Es sind noch 4 Plätze frei"
   },
   {
     "id": "S01PBBK100",
@@ -54,12 +45,21 @@
     "status": "Anmeldung über:https://www.kefb.de/kurssuche/kurs/Fachtag-Queersensibilitaet/S01PBBK100kefbRegionPlusDomplatz 333098 Paderborn"
   },
   {
+    "id": "S80POK_05B",
+    "title": "Dienst- und Arbeitsrecht (online-Veranstaltung)",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80POK_05B/kursname/Dienst-%20und%20Arbeitsrecht%20online-Veranstaltung/kategorie-id/",
+    "date": "Do., 21.05.2026, 09:00 Uhr - 12:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "75,00 €",
+    "status": "Es sind noch 100 Plätze frei"
+  },
+  {
     "id": "R80F3CC001",
     "title": "Tagesveranstaltung: Demokratie unter Druck (Paderborn)",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/R80F3CC001/kursname/Tagesveranstaltung%20Demokratie%20unter%20Druck%20Paderborn/kategorie-id/2",
     "date": "Do., 28.05.2026, 09:45 Uhr - 17:00 Uhr",
     "place": "Liborianum, Paderborn",
-    "fee": "0,00 €",
+    "fee": "20,00 €",
     "status": "Link zur Anmeldung:https://www.caritas-campus.de/detail.php?nr=5871Organisatorische Fragen:Zu Präsenz- und Web-Seminaren schreiben Sie an unser Service-Team: weiterbildung@caritasnet.de"
   },
   {
@@ -87,7 +87,7 @@
     "date": "Di., 02.06.2026, 09:30 Uhr - 15:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "S80FTB_06B",
@@ -123,7 +123,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 37 Plätze frei"
+    "status": "Es sind noch 36 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -267,7 +267,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 87 Plätze frei"
+    "status": "Es sind noch 82 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -456,7 +456,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 107 Plätze frei"
+    "status": "Es sind noch 106 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -483,7 +483,7 @@
     "date": "Mi., 04.11.2026, 09:00 Uhr - Do. 05.11.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80INVIA05",
