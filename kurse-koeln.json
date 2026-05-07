@@ -1,56 +1,11 @@
 [
   {
-    "id": "24726-024",
-    "title": "Web-Seminar: Implementierung und Selbstregulation von Gefühlen",
-    "date": "2026-05-06",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 200.00 Extern: 250.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5272"
-  },
-  {
-    "id": "21826-009",
-    "title": "Verwundbar stabil – Impulse mit nüchternem Blick",
-    "date": "2026-05-06",
-    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
-    "fee": "Intern: 50.00 Extern: 50.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5473"
-  },
-  {
-    "id": "24726-094",
-    "title": "Wertschätzend kommunizieren",
-    "date": "2026-05-06",
-    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
-    "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5519"
-  },
-  {
-    "id": "23326-025",
-    "title": "Arbeitsschutz und Arbeitssicherheit – Grundlagenwissen",
-    "date": "2026-05-06",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 60.00 Extern: 72.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5671"
-  },
-  {
-    "id": "24826-041",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-05-06",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5981"
-  },
-  {
     "id": "24426-015",
     "title": "Kita-Management in herausfordernden Zeiten",
     "date": "2026-05-07",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5596"
   },
   {
@@ -223,15 +178,6 @@
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5165"
-  },
-  {
-    "id": "25026-015",
-    "title": "Web-Seminar: PowerPoint II",
-    "date": "2026-05-18",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5698"
   },
   {
     "id": "23126-028",
@@ -540,10 +486,19 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5912"
   },
   {
+    "id": "24926-036",
+    "title": "kitaplus – Sprechstunde",
+    "date": "2026-06-03",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6078"
+  },
+  {
     "id": "24726-076",
     "title": "Neue mentale und körperliche Stärke und Ideen für eine motivierte Kita-Arbeit",
     "date": "2026-06-08",
-    "place": "CaritasCampus Prälat-Boskamp-Saal (Untergeschoss) Georgstraße 18 50676 Köln",
+    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5446"
@@ -1800,6 +1755,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5559"
   },
   {
+    "id": "24926-037",
+    "title": "kitaplus – Sprechstunde",
+    "date": "2026-09-28",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6079"
+  },
+  {
     "id": "48026-014",
     "title": "Fachlich fit – sozial und kommunikativ kompetent",
     "date": "2026-09-29",
@@ -1969,6 +1933,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5863"
+  },
+  {
+    "id": "24926-038",
+    "title": "kitaplus – Sprechstunde",
+    "date": "2026-10-01",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6080"
   },
   {
     "id": "23126-018",
@@ -3283,6 +3256,15 @@
     "fee": "Intern: 155.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5478"
+  },
+  {
+    "id": "24926-039",
+    "title": "kitaplus – Sprechstunde",
+    "date": "2026-12-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6081"
   },
   {
     "id": "21826-024",
