@@ -1,23 +1,5 @@
 [
   {
-    "id": "24426-015",
-    "title": "Kita-Management in herausfordernden Zeiten",
-    "date": "2026-05-07",
-    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5596"
-  },
-  {
-    "id": "24626-052",
-    "title": "Web-Seminar: Kinder im Autismus-Spektrum in der Kita",
-    "date": "2026-05-07",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5890"
-  },
-  {
     "id": "23126-021",
     "title": "Web-Seminar: Halbtägige Präventionsschulung (Minderjährige sowie schutz- oder hilfebedürftige Erwachsene)",
     "date": "2026-05-08",
@@ -32,7 +14,7 @@
     "date": "2026-05-08",
     "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5048"
   },
   {
@@ -455,7 +437,7 @@
     "date": "2026-06-02",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 75.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5956"
   },
   {
