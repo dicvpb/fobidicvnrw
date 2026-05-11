@@ -5,7 +5,7 @@
     "date": "2026-05-11",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 310.00 Extern: 360.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5238"
   },
   {
@@ -32,7 +32,7 @@
     "date": "2026-05-11",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 42.00 Extern: 50.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5624"
   },
   {
@@ -41,7 +41,7 @@
     "date": "2026-05-11",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5756"
   },
   {
@@ -50,7 +50,7 @@
     "date": "2026-05-11",
     "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
     "fee": "Intern: 50.00 Extern: 50.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5969"
   },
   {
@@ -356,7 +356,7 @@
     "date": "2026-06-01",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 240.00 Extern: 365.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5281"
   },
   {
