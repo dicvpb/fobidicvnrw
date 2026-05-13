@@ -243,15 +243,6 @@
     "id": "V000000869"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/ausbildungstag-fuer-praeventionsfachkraefte/v000000868",
-    "title": "Ausbildungstag für Präventionsfachkräfte",
-    "date": "12. Mai 2026, 09:30 Uhr - 16:30 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "180,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n195,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n210,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000868"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/jetzt-bloss-nicht-die-fassung-verlieren/v000000876",
     "title": "„Jetzt bloß nicht die Fassung verlieren“",
     "date": "02. Sep. 2026, 09:00 Uhr - 16:00 Uhr",
@@ -669,7 +660,7 @@
     "url": "https://fortbildung.caritas-muenster.de/elterngespraeche-als-schluessel-fuer-eine-gelungene-erziehungspartnerschaft/v000000861",
     "title": "Elterngespräche als Schlüssel für eine gelungene Erziehungspartnerschaft",
     "date": "18. Nov. 2026, 09:30 Uhr - 19. Nov. 2026, 16:30 Uhr",
-    "place": "",
+    "place": "Akademie Klausenhof Hamminkeln Klausenhofstraße 100 46499 Hamminkeln",
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
     "status": "Plätze verfügbar",
     "id": "V000000861"
@@ -743,7 +734,7 @@
     "date": "01. Okt. 2026 - 02. Okt. 2026",
     "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
     "fee": "pro Teilnehmer*in\n275,00 € (inkl. Verpflegung und Übernachtung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n300,00 € (inkl. Verpflegung und Übernachtung) für Partner im Bistum Münster\n330,00 € (inkl. Verpflegung und Übernachtung) für alle Anderen",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001180"
   },
   {
@@ -835,5 +826,59 @@
     "fee": "Die Teilnahmegebühr beträgt 45,00 €",
     "status": "Wenige Plätze",
     "id": "V000001274"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/kita-finanzierung-im-tandem/v000001259",
+    "title": "Kita-Finanzierung im Tandem",
+    "date": "06. Juli 2026, 10:00 Uhr - 15:00 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "130,00 € p. P. (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n143,00 € p. P. (inkl. Verpflegung) für Partner im Bistum Münster.\n156,00 € p. P. (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Anmeldung deaktiviert",
+    "id": "V000001259"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/wandelstimmung-fuehrung-wirksam-gestalten-in-zeiten-permanenter-veraenderung/v000001276",
+    "title": "WandelSTIMMung – Führung wirksam gestalten in Zeiten permanenter Veränderung",
+    "date": "29. Sep. 2026, 09:30 Uhr - 30. Sep. 2026, 16:30 Uhr",
+    "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
+    "fee": "390,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n429,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n468,00 € (inkl. Verpflegung) für alle Anderen\n\nVeranstaltung wird ohne Übernachtung angeboten.",
+    "status": "Plätze verfügbar",
+    "id": "V000001276"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/kita-finanzierung-im-tandem/v000001279",
+    "title": "Kita-Finanzierung im Tandem",
+    "date": "15. Juli 2026, 10:00 Uhr - 15:00 Uhr",
+    "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
+    "fee": "130,00 € p. P. (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n143,00 € p. P. (inkl. Verpflegung) für Partner im Bistum Münster.\n156,00 € p. P. (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001279"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/caritas-power-resilienz-fuer-alltag-und-beruf/v000001273",
+    "title": "Caritas Power - Resilienz für Alltag und Beruf",
+    "date": "25. Juni 2026, 09:30 Uhr - 15:30 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "",
+    "status": "Anmeldung deaktiviert",
+    "id": "V000001273"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/von-der-idee-zur-anwendung-ki-workathon/v000001280",
+    "title": "Von der Idee zur Anwendung: KI‑Workathon",
+    "date": "07. Juli 2026, 09:30 Uhr - 16:30 Uhr",
+    "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
+    "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
+    "status": "Plätze verfügbar",
+    "id": "V000001280"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/internationale-mitarbeitende-und-auszubildende-aus-drittstaaten-in-der-pflege/v000001131",
+    "title": "Internationale Mitarbeitende und Auszubildende aus Drittstaaten in der Pflege",
+    "date": "22. Sep. 2026, 12:30 Uhr - 17:00 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "98,00 € für Mitgliedseinrichtungen des DiCV Münster\n108,00 € für Partner im Bistum Münster\n118,00 € für Nicht-Mitglieder (alle Anderen)",
+    "status": "Plätze verfügbar",
+    "id": "V000001131"
   }
 ]

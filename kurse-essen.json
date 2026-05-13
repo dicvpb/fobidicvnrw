@@ -99,15 +99,6 @@
     "status": "offen"
   },
   {
-    "id": "03.015.26",
-    "title": "Die optimale Vorbereitung auf die neue Qualitätsprüfung n. SGB XI für die ambulante Pflege.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/die-optimale-vorbereitung-auf-die-neue-qualitaetspruefung-n.-sgb-xi-fuer-die-ambulante-pflege.-1d1c1",
-    "date": "08.07.2026 - 09.07.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "510,00 € bzw. 490,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.000.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
@@ -294,6 +285,15 @@
     "date": "19.05.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "140,00 € bzw. 120,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "10.001.26",
+    "title": "Meet the expert zum Thema \"Autismus\"",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/meet-the-expert-zum-thema-autismus-d4943cee-1d32-44c9-b85b-54398682b921",
+    "date": "27.05.2026",
+    "place": "Web-Seminar",
+    "fee": "70,00 € bzw. 60,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas. Mitarbeiter:innen von Kitas, deren Fachberatung für Kinder mit Behinderung durch den DiCV Essen durchgeführt wird, können kostenlos teilnehmen.",
     "status": "offen"
   },
   {
