@@ -15,7 +15,7 @@
     "date": "Di., 19.05.2026, 09:00 Uhr - Mi. 20.05.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "S01PBBK100",
@@ -33,7 +33,7 @@
     "date": "Do., 21.05.2026, 09:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "75,00 €",
-    "status": "Es sind noch 61 Plätze frei"
+    "status": "Es sind noch 56 Plätze frei"
   },
   {
     "id": "R80F3CC001",
@@ -47,7 +47,7 @@
   {
     "id": "S80FTB0003",
     "title": "Wichtige Gesetze für Nutzerbeiräte – Grundkurs für den Nutzerbeirat",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/S80FTB0003/kursname/Wichtige%20Gesetze%20fuer%20Nutzerbeiraete%20Grundkurs%20fuer%20den%20Nutzerbeirat/kategorie-id/7",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/S80FTB0003/kursname/Wichtige%20Gesetze%20fuer%20Nutzerbeiraete%20Grundkurs%20fuer%20den%20Nutzerbeirat/kategorie-id/2",
     "date": "Do., 28.05.2026, 09:30 Uhr - Fr. 29.05.2026 16:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "350,00 €",
@@ -60,7 +60,7 @@
     "date": "Di., 02.06.2026, 09:30 Uhr - 15:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "S80FTB_06B",
@@ -69,7 +69,7 @@
     "date": "Mi., 03.06.2026, 09:30 Uhr - 15:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "S80VIER06A",
@@ -78,7 +78,7 @@
     "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "35,00 €",
-    "status": "Es sind noch 133 Plätze frei"
+    "status": "Es sind noch 120 Plätze frei"
   },
   {
     "id": "S80CKQV06A",
@@ -96,7 +96,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 32 Plätze frei"
+    "status": "Es sind noch 27 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -195,7 +195,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 50 Plätze frei"
+    "status": "Es sind noch 38 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -204,7 +204,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 50 Plätze frei"
+    "status": "Es sind noch 45 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -231,7 +231,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 44 Plätze frei"
+    "status": "Es sind noch 46 Plätze frei"
   },
   {
     "id": "T80F2AV051",

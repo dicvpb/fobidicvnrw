@@ -743,7 +743,7 @@
     "date": "11. Juni 2026, 10:00 Uhr - 12. Juni 2026, 13:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "335,00 € (inkl. Verpflegung, für beide Tage - ohne Übernachtung)",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000000835"
   },
   {
@@ -779,7 +779,7 @@
     "date": "29. Mai 2026, 14:30 Uhr - 17:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "Die Teilnahme ist kostenfrei.",
-    "status": "Wenige Plätze",
+    "status": "Plätze verfügbar",
     "id": "V000001258"
   },
   {
@@ -788,7 +788,7 @@
     "date": "18. Juni 2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "75,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001257"
   },
   {
@@ -815,7 +815,7 @@
     "date": "28. Mai 2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "Die Teilnahmegebühr beträgt 45,00 €",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001274"
   },
   {
