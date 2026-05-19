@@ -15,7 +15,7 @@
     "date": "Di., 19.05.2026, 09:00 Uhr - Mi. 20.05.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "S01PBBK100",
@@ -25,15 +25,6 @@
     "place": "Liborianum, Paderborn",
     "fee": "0,00 €",
     "status": "Anmeldung über:https://www.kefb.de/kurssuche/kurs/Fachtag-Queersensibilitaet/S01PBBK100kefbRegionPlusDomplatz 333098 Paderborn"
-  },
-  {
-    "id": "S80POK_05B",
-    "title": "Dienst- und Arbeitsrecht (online-Veranstaltung)",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80POK_05B/kursname/Dienst-%20und%20Arbeitsrecht%20online-Veranstaltung/kategorie-id/",
-    "date": "Do., 21.05.2026, 09:00 Uhr - 12:30 Uhr",
-    "place": "Onlineangebot",
-    "fee": "75,00 €",
-    "status": "Es sind noch 56 Plätze frei"
   },
   {
     "id": "R80F3CC001",
@@ -78,7 +69,7 @@
     "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "35,00 €",
-    "status": "Es sind noch 120 Plätze frei"
+    "status": "Es sind noch 116 Plätze frei"
   },
   {
     "id": "S80CKQV06A",
@@ -96,7 +87,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 27 Plätze frei"
+    "status": "Es sind noch 26 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -195,7 +186,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 38 Plätze frei"
+    "status": "Es sind noch 37 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -204,7 +195,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 45 Plätze frei"
+    "status": "Es sind noch 44 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -222,7 +213,7 @@
     "date": "Mi., 05.08.2026, 13:00 Uhr - So. 09.08.2026 14:00 Uhr",
     "place": "Stubaier Alpen",
     "fee": "595,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80F2AV050",

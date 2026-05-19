@@ -1,32 +1,5 @@
 [
   {
-    "id": "24926-019",
-    "title": "Web-Seminar: kitaplus – Verwaltung von Inklusionskindern",
-    "date": "2026-05-18",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5116"
-  },
-  {
-    "id": "23626-003",
-    "title": "Qualitätsmanagement – der Einstieg",
-    "date": "2026-05-18",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5165"
-  },
-  {
-    "id": "23126-028",
-    "title": "Web-Seminar: Nur was wir kennen, können wir erkennen",
-    "date": "2026-05-18",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5987"
-  },
-  {
     "id": "26526-010",
     "title": "Führungsimpuls: Führen mit KI, Chat GPT & Co.",
     "date": "2026-05-19",
@@ -455,7 +428,7 @@
     "date": "2026-06-11",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5882"
   },
   {
@@ -556,6 +529,15 @@
     "fee": "Intern: 40.00 Extern: 40.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5907"
+  },
+  {
+    "id": "24126-002",
+    "title": "Religionspädagogischer Arbeitskreis für das Dekanat Kerpen",
+    "date": "2026-06-16",
+    "place": "Pfarrzentrum Christus König Hauptstr. 215 50169 Kerpen",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6087"
   },
   {
     "id": "31226-009",

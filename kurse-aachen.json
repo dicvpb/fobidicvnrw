@@ -90,6 +90,15 @@
     "status": "offen"
   },
   {
+    "id": "26-11.10",
+    "title": "Vorlese-Workshop Geschichten Leben einhauchen",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/vorlese-workshop-geschichten-leben-einhauchen-045c70d6-a63e-43da-8dc5-28a68639ca4c",
+    "date": "17.09.2026",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "60,00 Euro",
+    "status": "offen"
+  },
+  {
     "id": "26-7.12",
     "title": "Trägerschulung zur Qualitätsentwicklung",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/traegerschulung-zur-qualitaetsentwicklung-e9ea7f8e-33fb-4574-b1fd-7faba0c3f57d",
@@ -114,6 +123,15 @@
     "date": "28.09.2026 - 29.09.2026",
     "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
     "fee": "270,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "26-11.14",
+    "title": "Grundlagenschulung im QE-Projekt",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/grundlagenschulung-im-qe-projekt-0d423173-690b-49fe-9e41-1d25466aac7b",
+    "date": "28.09.2026 - 30.09.2026",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "125,00 Euro",
     "status": "offen"
   },
   {
@@ -198,21 +216,21 @@
     "status": "offen"
   },
   {
-    "id": "26-7.17",
-    "title": "Mitarbeitergespräche kompetent führen",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
-    "date": "03.11.2026",
-    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
-    "fee": "110,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-2.04",
     "title": "Erfolgreiches Projektmanagement",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
     "date": "03.11.2026",
     "place": "Online",
     "fee": "120,00",
+    "status": "offen"
+  },
+  {
+    "id": "26-7.17",
+    "title": "Mitarbeitergespräche kompetent führen",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
+    "date": "03.11.2026",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "110,00 Euro",
     "status": "offen"
   },
   {
