@@ -9,15 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "S80F3BF05A",
-    "title": "Neu in Führung - DAS Kit zum Durchstarten",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/S80F3BF05A/kursname/Neu%20in%20Fuehrung%20-%20DAS%20Kit%20zum%20Durchstarten/kategorie-id/7",
-    "date": "Di., 19.05.2026, 09:00 Uhr - Mi. 20.05.2026 17:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "490,00 €",
-    "status": "Anmeldung auf Warteliste"
-  },
-  {
     "id": "S01PBBK100",
     "title": "Fachtag: Himmelweit offen?! Kirche für trans* und inter* Menschen",
     "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/S01PBBK100/kursname/Fachtag%20Himmelweit%20offen%20Kirche%20fuer%20trans%20und%20inter%20Menschen/kategorie-id/1",
@@ -69,7 +60,7 @@
     "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "35,00 €",
-    "status": "Es sind noch 116 Plätze frei"
+    "status": "Es sind noch 65 Plätze frei"
   },
   {
     "id": "S80CKQV06A",
@@ -177,7 +168,7 @@
     "date": "Di., 30.06.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "120,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "T80F2AV048",
@@ -186,7 +177,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 37 Plätze frei"
+    "status": "Es sind noch 34 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -195,7 +186,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 44 Plätze frei"
+    "status": "Es sind noch 41 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -438,7 +429,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 91 Plätze frei"
+    "status": "Es sind noch 89 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -556,5 +547,14 @@
     "place": "Katholische Akademie, Schwerte",
     "fee": "430,00 €",
     "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "U80POK_03B",
+    "title": "Konfliktprävention und -interaktion in Teams",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03B/kursname/Konfliktpraevention%20und%20-interaktion%20in%20Teams/kategorie-id/7",
+    "date": "Mi., 17.03.2027, 09:00 Uhr - Do. 18.03.2027 17:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "400,00 €",
+    "status": "Es sind noch 15 Plätze frei"
   }
 ]

@@ -500,7 +500,7 @@
     "date": "19. Mai 2026, 09:30 Uhr - 15. Juni 2027, 15:00 Uhr",
     "place": "",
     "fee": "1.250,00 € (inkl. Verpflegung) für Mitglieder des DiCV Paderborn und des DiCV Münster\n1.350,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n1.450,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Anmeldung deaktiviert",
+    "status": "Wenige Plätze",
     "id": "V000001079"
   },
   {
@@ -815,7 +815,7 @@
     "date": "28. Mai 2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "Die Teilnahmegebühr beträgt 45,00 €",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Wenige Plätze",
     "id": "V000001274"
   },
   {
