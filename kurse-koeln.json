@@ -1,41 +1,5 @@
 [
   {
-    "id": "23126-012",
-    "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
-    "date": "2026-05-20",
-    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4999"
-  },
-  {
-    "id": "48026-012",
-    "title": "Fachlich fit – sozial und kommunikativ kompetent",
-    "date": "2026-05-20",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5085"
-  },
-  {
-    "id": "23926-019",
-    "title": "Web-Seminar: Führung in Häppchen",
-    "date": "2026-05-20",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 50.00 Extern: 60.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5413"
-  },
-  {
-    "id": "21826-008",
-    "title": "Web-Seminar: Räume, die bewegen",
-    "date": "2026-05-20",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5468"
-  },
-  {
     "id": "48026-013",
     "title": "Fachlich fit – sozial und kommunikativ kompetent",
     "date": "2026-05-21",
@@ -397,7 +361,7 @@
   },
   {
     "id": "13226-009",
-    "title": "Web-Seminar: Kommunikation ist alles – auch beim Essen!",
+    "title": "Web-Seminar: Kommunikation ist alles – auch beim Essen",
     "date": "2026-06-10",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 35.00 Extern: 42.00",
@@ -419,7 +383,7 @@
     "date": "2026-06-11",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5882"
   },
   {
