@@ -1,32 +1,5 @@
 [
   {
-    "id": "48026-013",
-    "title": "Fachlich fit – sozial und kommunikativ kompetent",
-    "date": "2026-05-21",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5086"
-  },
-  {
-    "id": "21826-026",
-    "title": "Neu in der ambulanten Jugendhilfe",
-    "date": "2026-05-21",
-    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 320.00 Extern: 370.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5498"
-  },
-  {
-    "id": "23826-026",
-    "title": "Mit ChatGPT, Gemini und Copilot effizienter arbeiten",
-    "date": "2026-05-21",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5924"
-  },
-  {
     "id": "23826-032",
     "title": "KI-Kompaktkurs für Lehrende: Praxisnah, kreativ & sofort einsetzbar",
     "date": "2026-05-22",
@@ -70,15 +43,6 @@
     "fee": "Intern: 310.00 Extern: 370.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5675"
-  },
-  {
-    "id": "25026-020",
-    "title": "Mail oder Chat – Outlook oder MS Teams. Was nehme ich wann?",
-    "date": "2026-05-27",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 55.00 Extern: 66.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6014"
   },
   {
     "id": "24826-027",
@@ -541,7 +505,7 @@
   },
   {
     "id": "24026-033",
-    "title": "Da bin ich ganz bei mir – Kraft für den Alltag",
+    "title": "",
     "date": "2026-06-22",
     "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
     "fee": "Intern: 210.00 Extern: 260.00",
@@ -675,15 +639,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5597"
   },
   {
-    "id": "23826-036",
-    "title": "Canva für Fortgeschrittene",
-    "date": "2026-06-29",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6010"
-  },
-  {
     "id": "24026-042",
     "title": "Mit Pfeil und Bogen – was trägt im Glauben?",
     "date": "2026-06-30",
@@ -709,24 +664,6 @@
     "fee": "Intern: 82.00 Extern: 99.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6016"
-  },
-  {
-    "id": "24026-034",
-    "title": "Kraft schöpfen an der Quelle des Lebens",
-    "date": "2026-07-01",
-    "place": "Bergkloster Bestwig SMMP Europa e.V. Bergkloster 1 59909 Bestwig",
-    "fee": "Intern: 590.00 Extern: 665.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5350"
-  },
-  {
-    "id": "24726-063",
-    "title": "Zufriedenheit und Wohlbefinden in der Kita",
-    "date": "2026-07-01",
-    "place": "Karl Rahner Akademie Jabachstraße 4-8 50676 Köln",
-    "fee": "Intern: 280.00 Extern: 380.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5417"
   },
   {
     "id": "23826-034",
@@ -2556,15 +2493,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5110"
   },
   {
-    "id": "24726-002",
-    "title": "Keine Angst vor der Aufsichtspflicht",
-    "date": "2026-11-17",
-    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
-    "fee": "Intern: 125.00 Extern: 150.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5235"
-  },
-  {
     "id": "24026-028",
     "title": "Mit Kindern dem Tod begegnen",
     "date": "2026-11-17",
@@ -2788,15 +2716,6 @@
     "fee": "Intern: 25.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6049"
-  },
-  {
-    "id": "13226-012",
-    "title": "Web-Seminar: Gesunde Erde – gesunde Kinder",
-    "date": "2026-11-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 25.00 Extern: 35.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6053"
   },
   {
     "id": "34026-002",
@@ -3724,6 +3643,33 @@
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
+  },
+  {
+    "id": "13227-001",
+    "title": "Web-Seminar: Leitungswasser statt Flaschenwasser?",
+    "date": "2027-03-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 30.00 Extern: 40.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6077"
+  },
+  {
+    "id": "13227-002",
+    "title": "Web-Seminar: Klimaschutz und Klimaanpassung in der Kita",
+    "date": "2027-04-20",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6083"
+  },
+  {
+    "id": "13227-004",
+    "title": "Web-Seminar: Kommunikation ist alles – auch beim Essen",
+    "date": "2027-06-02",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 35.00 Extern: 42.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6105"
   },
   {
     "id": "21827-001",
