@@ -794,7 +794,7 @@
   {
     "url": "https://fortbildung.caritas-muenster.de/avr-2027-online-modul-zur-avr-2027/v000001274",
     "title": "AVR 2027 – Online-Modul zur AVR 2027",
-    "date": "28. Mai 2026, 10:00 Uhr - 12:30 Uhr",
+    "date": "28. Mai 2026, 12:00 Uhr - 14:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "Die Teilnahmegebühr beträgt 45,00 €",
     "status": "Wenige Plätze",
@@ -853,5 +853,23 @@
     "fee": "98,00 € für Mitgliedseinrichtungen des DiCV Münster\n108,00 € für Partner im Bistum Münster\n118,00 € für Nicht-Mitglieder (alle Anderen)",
     "status": "Plätze verfügbar",
     "id": "V000001131"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/online-seminar-avr-caritas-2027-die-ganz-grosse-tarifreform/v000001292",
+    "title": "Online-Seminar „AVR Caritas 2027 – die ganz große Tarifreform“",
+    "date": "15. Juli 2026, 09:00 Uhr - 13:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "75,00 € für Mitglieder des DiCV im Bistum Münster.\n85,00 € für Partner im Bistum Münster.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001292"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/online-seminar-avr-caritas-2027-die-ganz-grosse-tarifreform/v000001291",
+    "title": "Online-Seminar „AVR Caritas 2027 – die ganz große Tarifreform“",
+    "date": "09. Juli 2026, 11:00 Uhr - 15:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "75,00 € für Mitglieder des DiCV im Bistum Münster.\n85,00 € für Partner im Bistum Münster.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001291"
   }
 ]

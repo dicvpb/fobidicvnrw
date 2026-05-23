@@ -1,14 +1,5 @@
 [
   {
-    "id": "23826-032",
-    "title": "KI-Kompaktkurs für Lehrende: Praxisnah, kreativ & sofort einsetzbar",
-    "date": "2026-05-22",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 74.00 Extern: 88.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5989"
-  },
-  {
     "id": "24826-005",
     "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-05-26",
@@ -639,6 +630,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5597"
   },
   {
+    "id": "23826-036",
+    "title": "Canva für Fortgeschrittene",
+    "date": "2026-06-29",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6010"
+  },
+  {
     "id": "24026-042",
     "title": "Mit Pfeil und Bogen – was trägt im Glauben?",
     "date": "2026-06-30",
@@ -664,6 +664,24 @@
     "fee": "Intern: 82.00 Extern: 99.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6016"
+  },
+  {
+    "id": "24026-034",
+    "title": "Kraft schöpfen an der Quelle des Lebens",
+    "date": "2026-07-01",
+    "place": "Bergkloster Bestwig SMMP Europa e.V. Bergkloster 1 59909 Bestwig",
+    "fee": "Intern: 590.00 Extern: 665.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5350"
+  },
+  {
+    "id": "24726-063",
+    "title": "Zufriedenheit und Wohlbefinden in der Kita",
+    "date": "2026-07-01",
+    "place": "Karl Rahner Akademie Jabachstraße 4-8 50676 Köln",
+    "fee": "Intern: 280.00 Extern: 380.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5417"
   },
   {
     "id": "23826-034",
@@ -2491,6 +2509,15 @@
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5110"
+  },
+  {
+    "id": "24726-002",
+    "title": "Keine Angst vor der Aufsichtspflicht",
+    "date": "2026-11-17",
+    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
+    "fee": "Intern: 125.00 Extern: 150.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5235"
   },
   {
     "id": "24026-028",
