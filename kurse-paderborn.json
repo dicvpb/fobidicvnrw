@@ -24,7 +24,7 @@
     "date": "Mi., 03.06.2026, 09:30 Uhr - 15:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "99,00 €",
-    "status": "Es sind noch 2 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "S80VIER06A",
@@ -33,7 +33,7 @@
     "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "35,00 €",
-    "status": "Es sind noch 57 Plätze frei"
+    "status": "Es sind noch 55 Plätze frei"
   },
   {
     "id": "S80CKQV06A",
@@ -51,7 +51,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 24 Plätze frei"
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "S80F3BF06A",

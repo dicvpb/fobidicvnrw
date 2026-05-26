@@ -428,7 +428,7 @@
     "date": "2026-06-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 60.00 Extern: 80.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5727"
   },
   {
@@ -941,7 +941,7 @@
     "date": "2026-09-07",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 20.00 Extern: 20.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5904"
   },
   {
@@ -1175,7 +1175,7 @@
     "date": "2026-09-18",
     "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
     "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5180"
   },
   {
