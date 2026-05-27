@@ -33,7 +33,7 @@
     "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "35,00 €",
-    "status": "Es sind noch 55 Plätze frei"
+    "status": "Es sind noch 53 Plätze frei"
   },
   {
     "id": "S80CKQV06A",
@@ -51,7 +51,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 23 Plätze frei"
+    "status": "Es sind noch 21 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -150,7 +150,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 33 Plätze frei"
+    "status": "Es sind noch 27 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -159,7 +159,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 41 Plätze frei"
+    "status": "Es sind noch 37 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -168,7 +168,7 @@
     "date": "Do., 09.07.2026, 09:30 Uhr - Sa. 11.07.2026 13:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "https://app.seminarmanagercloud.de/in-via-akademiemeinwerk-institut-ggmbh/buchungsportal/personalwirtschaft-aufgaben-ziele-und-strategische-ausrichtung-in-kooperation-mit-dem-caritasverband-fur-das-erzbistum-paderborn-ev-19d4b5e107d94bd992e4a090cdf35cbf"
   },
   {
     "id": "T80F3RS08A",
@@ -186,7 +186,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 47 Plätze frei"
+    "status": "Es sind noch 45 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -402,7 +402,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 88 Plätze frei"
+    "status": "Es sind noch 87 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
