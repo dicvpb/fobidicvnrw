@@ -1,23 +1,5 @@
 [
   {
-    "id": "24726-048",
-    "title": "Spiele für eine verbesserte Körperwahrnehmung",
-    "date": "2026-05-27",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5329"
-  },
-  {
-    "id": "23226-003",
-    "title": "Reg dich doch nicht so auf!",
-    "date": "2026-05-27",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 310.00 Extern: 370.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5675"
-  },
-  {
     "id": "24826-027",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-05-28",
@@ -401,7 +383,7 @@
     "date": "2026-06-16",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5058"
   },
   {
@@ -419,7 +401,7 @@
     "date": "2026-06-16",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5907"
   },
   {
@@ -511,15 +493,6 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5628"
-  },
-  {
-    "id": "24626-034",
-    "title": "Hochsensibel oder Reiz-Sucher?",
-    "date": "2026-06-24",
-    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
-    "fee": "Intern: 225.00 Extern: 300.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5405"
   },
   {
     "id": "23126-031",
