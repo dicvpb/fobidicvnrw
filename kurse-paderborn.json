@@ -33,7 +33,7 @@
     "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "35,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "S80GESA06A",
@@ -51,7 +51,7 @@
     "date": "Mi., 10.06.2026, 09:00 Uhr - Do. 11.06.2026 17:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "420,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "S80INVIA09",
@@ -135,13 +135,22 @@
     "status": "Es sind noch 2 Plätze frei"
   },
   {
+    "id": "T8031BE001",
+    "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE001/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Mi., 01.07.2026, 09:00 Uhr - 16:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 22 Plätze frei"
+  },
+  {
     "id": "T80F2AV048",
     "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
     "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV048/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 26 Plätze frei"
+    "status": "Es sind noch 25 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -169,6 +178,15 @@
     "place": "Stubaier Alpen",
     "fee": "595,00 €",
     "status": "Anmeldung auf Warteliste"
+  },
+  {
+    "id": "T8031BE012",
+    "title": "Immer diese anstrengenden Kinder: Fortbildung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE012/kursname/Immer%20diese%20anstrengenden%20Kinder%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Mo., 31.08.2026, 09:00 Uhr - 16:30 Uhr",
+    "place": "Bergkloster, Bestwig",
+    "fee": "200,00 €",
+    "status": "Es sind noch 22 Plätze frei"
   },
   {
     "id": "T80F2AV050",
@@ -223,6 +241,24 @@
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "150,00 €",
     "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "T8031BE006",
+    "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE006/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Do., 17.09.2026, 09:00 Uhr - 16:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 22 Plätze frei"
+  },
+  {
+    "id": "T8031BE002",
+    "title": "Neue Blickwinkel für schwierige Verhaltensweisen",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE002/kursname/Neue%20Blickwinkel%20fuer%20schwierige%20Verhaltensweisen/kategorie-id/10",
+    "date": "Mo., 21.09.2026, 09:00 Uhr - Di. 22.09.2026 17:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "350,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80F3BF09C",
@@ -288,6 +324,33 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
+    "id": "T8031BE007",
+    "title": "PrävO-Intensivschulung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE007/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Di., 06.10.2026, 09:00 Uhr - 17:30 Uhr",
+    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
+    "fee": "90,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "T8031BE011",
+    "title": "Neurodivergenzen im pädagogischen Alltag",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE011/kursname/Neurodivergenzen%20im%20paedagogischen%20Alltag/kategorie-id/10",
+    "date": "Di., 06.10.2026, 09:00 Uhr - 17:00 Uhr",
+    "place": "Liborianum, Paderborn und Online",
+    "fee": "380,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "T8031BE124",
+    "title": "Vertiefungstag ICF",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE124/kursname/Vertiefungstag%20ICF/kategorie-id/10",
+    "date": "Di., 06.10.2026, 09:00 Uhr - 16:30 Uhr",
+    "place": "Kommende - Sozialinstitut des Erzbistums Paderborn",
+    "fee": "130,00 €",
+    "status": "Es sind noch 6 Plätze frei"
+  },
+  {
     "id": "T80CKQV10A",
     "title": "Wenn Wege sich trennen und Neues wächst - Abschied und Neuanfang",
     "url": "https://www.helfenmitprofil.de/programm/caritas-konferenzen/kw/bereich/kursdetails/kurs/T80CKQV10A/kursname/Wenn%20Wege%20sich%20trennen%20und%20Neues%20waechst%20-%20Abschied%20und%20Neuanfang/kategorie-id/4",
@@ -315,6 +378,24 @@
     "status": "ANMELDUNG über:www.kefb.de/kurse/kurs/T01PBRA500"
   },
   {
+    "id": "T8031BE004",
+    "title": "Beschwerden erwünscht! Beschwerde- und Verbesserungsmanagement in der Kita",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE004/kursname/Beschwerden%20erwuenscht%20Beschwerde-%20und%20Verbesserungsmanagement%20in%20der%20Kita/kategorie-id/10",
+    "date": "Do., 08.10.2026, 09:00 Uhr - 17:00 Uhr",
+    "place": "Katholische Akademie, Schwerte",
+    "fee": "140,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "T8031BE005",
+    "title": "Web-Seminar: Einführung in den Beobachtungsbogen BaSiK",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE005/kursname/Web-Seminar%20Einfuehrung%20in%20den%20Beobachtungsbogen%20BaSiK/kategorie-id/10",
+    "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 22 Plätze frei"
+  },
+  {
     "id": "T80F3RT10A",
     "title": "Vertiefungstage für Seelsorgliche Begleitungen",
     "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80F3RT10A/kursname/Vertiefungstage%20fuer%20Seelsorgliche%20Begleitungen/kategorie-id/1",
@@ -331,6 +412,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+  },
+  {
+    "id": "T8031BE010",
+    "title": "Blended-Learning für Führungskräfte",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE010/kursname/Blended-Learning%20fuer%20Fuehrungskraefte/kategorie-id/10",
+    "date": "Mo., 12.10.2026, 09:00 Uhr - 17:00 Uhr",
+    "place": "Liborianum, Paderborn und Online",
+    "fee": "400,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80INVIA02",
@@ -358,6 +448,15 @@
     "place": "Onlineangebot",
     "fee": "85,00 €",
     "status": "Keine Anmeldung möglich"
+  },
+  {
+    "id": "T8031BE003",
+    "title": "Kind.Raum.Religion – ein förderliches Umfeld in der Kita gestalten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE003/kursname/KindRaumReligion%20ein%20foerderliches%20Umfeld%20in%20der%20Kita%20gestalten/kategorie-id/10",
+    "date": "Mi., 14.10.2026, 09:00 Uhr - 16:30 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "110,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -432,6 +531,15 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
+    "id": "T8031BE009",
+    "title": "Web-Seminar: Crashkurs - Bibel für die Kita",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE009/kursname/Web-Seminar%20Crashkurs%20-%20Bibel%20fuer%20die%20Kita/kategorie-id/10",
+    "date": "Mi., 04.11.2026, 08:30 Uhr - 15:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "T80F3BF11B",
     "title": "Feedbackkultur in Teams",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF11B/kursname/Feedbackkultur%20in%20Teams/kategorie-id/7",
@@ -450,6 +558,15 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
+    "id": "T8031BE227",
+    "title": "Web-Seminar: Einführung in den Beobachtungsbogen BaSiK",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE227/kursname/Web-Seminar%20Einfuehrung%20in%20den%20Beobachtungsbogen%20BaSiK/kategorie-id/10",
+    "date": "Mo., 16.11.2026, 09:00 Uhr - 16:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 23 Plätze frei"
+  },
+  {
     "id": "T80CKQV11B",
     "title": "Ein Keks für die Seele - Lesung mit Annette Jantzen",
     "url": "https://www.helfenmitprofil.de/programm/caritas-konferenzen/kw/bereich/kursdetails/kurs/T80CKQV11B/kursname/Ein%20Keks%20fuer%20die%20Seele%20-%20Lesung%20mit%20Annette%20Jantzen/kategorie-id/4",
@@ -466,6 +583,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "8490,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+  },
+  {
+    "id": "T8031BE008",
+    "title": "Leiten bedeutet Kommunizieren!",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE008/kursname/Leiten%20bedeutet%20Kommunizieren/kategorie-id/10",
+    "date": "Mi., 25.11.2026, 09:00 Uhr - Do. 26.11.2026 17:00 Uhr",
+    "place": "Bergkloster, Bestwig",
+    "fee": "250,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80CKQV11C",
@@ -504,6 +630,78 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
+    "id": "U8031BE011",
+    "title": "PrävO-Intensivschulung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE011/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Di., 12.01.2027, 09:00 Uhr - 17:30 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn und Online",
+    "fee": "130,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE020",
+    "title": "Mit Kindern Teilhabe erleben",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE020/kursname/Mit%20Kindern%20Teilhabe%20erleben/kategorie-id/10",
+    "date": "Mo., 18.01.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "220,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE013",
+    "title": "Spielend durch das Jahr",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE013/kursname/Spielend%20durch%20das%20Jahr/kategorie-id/10",
+    "date": "Mi., 20.01.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "110,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE006",
+    "title": "Web-Seminar: Einführung in den Beobachtungsbogen BaSiK",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE006/kursname/Web-Seminar%20Einfuehrung%20in%20den%20Beobachtungsbogen%20BaSiK/kategorie-id/10",
+    "date": "Mo., 25.01.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 23 Plätze frei"
+  },
+  {
+    "id": "T8031BE013",
+    "title": "160-Stunden-Qualifizierung gem. PersVO (Modulreihe in 11 Abschnitten)",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE013/kursname/160-Stunden-Qualifizierung%20gem%20PersVO%20Modulreihe%20in%2011%20Abschnitten/kategorie-id/10",
+    "date": "Mi., 27.01.2027, 09:00 Uhr - Do. 28.01.2027 16:30 Uhr",
+    "place": "Liborianum, Paderborn und weitere",
+    "fee": "2200,00 €",
+    "status": "Es sind noch 22 Plätze frei"
+  },
+  {
+    "id": "U8031BE021",
+    "title": "Anleitung von Praktikanten in 3 Modulen",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE021/kursname/Anleitung%20von%20Praktikanten%20in%203%20Modulen/kategorie-id/10",
+    "date": "Do., 28.01.2027, 09:00 Uhr - Fr. 29.01.2027 17:00 Uhr",
+    "place": "Kath. Akademie Schwerte und Online",
+    "fee": "340,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE009",
+    "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE009/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Di., 02.02.2027, 09:00 Uhr - 16:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 24 Plätze frei"
+  },
+  {
+    "id": "U8031BE600",
+    "title": "Modulfortbildung: Fachkraft für Inklusion in der Kita (8 Module)",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE600/kursname/Modulfortbildung%20Fachkraft%20fuer%20Inklusion%20in%20der%20Kita%208%20Module/kategorie-id/10",
+    "date": "Mi., 03.02.2027, 09:00 Uhr - Do. 04.02.2027 17:00 Uhr",
+    "place": "Paderborn, Schwerte, Bestwig, Möhnesee-Günne",
+    "fee": "2000,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "U80POK_02A",
     "title": "Sich selbst und andere führen",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02A/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
@@ -522,6 +720,15 @@
     "status": "Es sind noch 15 Plätze frei"
   },
   {
+    "id": "U8031BE003",
+    "title": "Vertiefungstag ICF",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE003/kursname/Vertiefungstag%20ICF/kategorie-id/10",
+    "date": "Fr., 26.02.2027, 09:00 Uhr - 16:30 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "120,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "U80POK_03A",
     "title": "Kommunikation im Office",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03A/kursname/Kommunikation%20im%20Office/kategorie-id/7",
@@ -531,6 +738,24 @@
     "status": "Es sind noch 14 Plätze frei"
   },
   {
+    "id": "U8031BE008",
+    "title": "Web-Seminar: Einführung in den Beobachtungsbogen BaSiK",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE008/kursname/Web-Seminar%20Einfuehrung%20in%20den%20Beobachtungsbogen%20BaSiK/kategorie-id/10",
+    "date": "Mo., 15.03.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 23 Plätze frei"
+  },
+  {
+    "id": "U8031BE004",
+    "title": "Lernwerkstätten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE004/kursname/Lernwerkstaetten/kategorie-id/10",
+    "date": "Di., 16.03.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "130,00 €",
+    "status": "Es sind noch 22 Plätze frei"
+  },
+  {
     "id": "U80POK_03B",
     "title": "Konfliktprävention und -interaktion in Teams",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03B/kursname/Konfliktpraevention%20und%20-interaktion%20in%20Teams/kategorie-id/7",
@@ -538,5 +763,50 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "400,00 €",
     "status": "Es sind noch 15 Plätze frei"
+  },
+  {
+    "id": "U8031BE019",
+    "title": "Kinder verstehen und bedürfnisorientiert begleiten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE019/kursname/Kinder%20verstehen%20und%20beduerfnisorientiert%20begleiten/kategorie-id/10",
+    "date": "Di., 20.04.2027, 09:00 Uhr - Mi. 21.04.2027 17:00 Uhr",
+    "place": "Katholische Akademie, Schwerte",
+    "fee": "220,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE900",
+    "title": "Erzieherische Macht und Gewalt in der Kita -und wie wir ihr begegnen",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE900/kursname/Erzieherische%20Macht%20und%20Gewalt%20in%20der%20Kita%20-und%20wie%20wir%20ihr%20begegnen/kategorie-id/10",
+    "date": "Mo., 26.04.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "90,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE018",
+    "title": "Web-Seminar: Kita fragt! Mit Familien im Dialog zu Religion",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE018/kursname/Web-Seminar%20Kita%20fragt%20Mit%20Familien%20im%20Dialog%20zu%20Religion/kategorie-id/10",
+    "date": "Mi., 28.04.2027, 08:30 Uhr - 15:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE010",
+    "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE010/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Mo., 03.05.2027, 09:00 Uhr - 16:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 24 Plätze frei"
+  },
+  {
+    "id": "U8031BE012",
+    "title": "PrävO-Intensivschulung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE012/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Di., 08.06.2027, 09:00 Uhr - 17:30 Uhr",
+    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
+    "fee": "90,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   }
 ]
