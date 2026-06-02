@@ -9,15 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "S80FTB_06A",
-    "title": "Dokumentation in der EGH",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80FTB_06A/kursname/Dokumentation%20in%20der%20EGH/kategorie-id/",
-    "date": "Di., 02.06.2026, 09:30 Uhr - 15:00 Uhr",
-    "place": "Kommende Dortmund",
-    "fee": "99,00 €",
-    "status": "Anmeldung auf Warteliste"
-  },
-  {
     "id": "S80FTB_06B",
     "title": "Dokumentation in der EGH",
     "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80FTB_06B/kursname/Dokumentation%20in%20der%20EGH/kategorie-id/",
@@ -33,7 +24,7 @@
     "date": "Mo., 08.06.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "35,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "S80GESA06A",
@@ -42,7 +33,7 @@
     "date": "Di., 09.06.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "180,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 21 Plätze frei"
   },
   {
     "id": "S80F3BF06A",
@@ -96,7 +87,7 @@
     "date": "Di., 16.06.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Kommende - Sozialinstitut des Erzbistums Paderborn",
     "fee": "130,00 €",
-    "status": "Es sind noch 5 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "S80CKQV06D",
@@ -195,7 +186,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 42 Plätze frei"
+    "status": "Es sind noch 41 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -310,8 +301,8 @@
     "title": "NRW Fachtag - Migration",
     "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80VIER10A/kursname/NRW%20Fachtag%20-%20Migration/kategorie-id/",
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
-    "place": "",
-    "fee": "0,00 €",
+    "place": "Caritasverband für das Erzbistum Köln e.V.",
+    "fee": "60,00 €",
     "status": "Es sind noch 100 Plätze frei"
   },
   {

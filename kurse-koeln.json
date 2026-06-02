@@ -1,47 +1,11 @@
 [
   {
-    "id": "24926-013",
-    "title": "kitaplus – Basisschulung",
-    "date": "2026-06-01",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5029"
-  },
-  {
-    "id": "24826-004",
-    "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-06-01",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5041"
-  },
-  {
-    "id": "24726-031",
-    "title": "Web-Seminar: Mehrsprachigkeit in der Kita",
-    "date": "2026-06-01",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 240.00 Extern: 365.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5281"
-  },
-  {
-    "id": "24626-011",
-    "title": "Web-Seminar: Vielfühler und Schnelldenker oder auch Schnellfühler und Vieldenker",
-    "date": "2026-06-01",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5376"
-  },
-  {
     "id": "21526-002",
     "title": "Supervision für Leitungen der katholischen Schwangerschaftsberatung esperanza",
     "date": "2026-06-02",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5033"
   },
   {
@@ -50,7 +14,7 @@
     "date": "2026-06-02",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5105"
   },
   {
@@ -59,7 +23,7 @@
     "date": "2026-06-02",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5132"
   },
   {
@@ -68,7 +32,7 @@
     "date": "2026-06-02",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 420.00 Extern: 490.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5552"
   },
   {
@@ -149,7 +113,7 @@
     "date": "2026-06-08",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5986"
   },
   {
@@ -275,7 +239,7 @@
     "date": "2026-06-15",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 320.00 Extern: 390.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4990"
   },
   {
@@ -311,7 +275,7 @@
     "date": "2026-06-16",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5058"
   },
   {
@@ -329,7 +293,7 @@
     "date": "2026-06-16",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5907"
   },
   {
@@ -338,7 +302,7 @@
     "date": "2026-06-17",
     "place": "IN VIA Köln e.V. Mädchen- und Frauensozialarbeit Stolzestraße 1A 50674 Köln",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5966"
   },
   {
@@ -446,7 +410,7 @@
     "date": "2026-06-25",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5421"
   },
   {
@@ -583,6 +547,15 @@
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6076"
+  },
+  {
+    "id": "23826-039",
+    "title": "Der richtige Prompt für Ihren Erfolg mit der KI",
+    "date": "2026-07-02",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6135"
   },
   {
     "id": "24826-037",
@@ -774,6 +747,24 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5069"
   },
   {
+    "id": "23426-002",
+    "title": "Betriebswirtschaft für Führungskräfte",
+    "date": "2026-09-02",
+    "place": "",
+    "fee": "Intern: 980.00 Extern: 1200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5161"
+  },
+  {
+    "id": "23826-040",
+    "title": "ChatGPT im Controlling",
+    "date": "2026-09-02",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6136"
+  },
+  {
     "id": "34026-008",
     "title": "ICF basierte Bedarfsermittlung BEI_NRW",
     "date": "2026-09-07",
@@ -853,6 +844,15 @@
     "fee": "Intern: 260.00 Extern: 310.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5494"
+  },
+  {
+    "id": "23826-041",
+    "title": "KI für Anfänger",
+    "date": "2026-09-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6137"
   },
   {
     "id": "23326-017",
@@ -1006,6 +1006,24 @@
     "fee": "Intern: 50.00 Extern: 60.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5538"
+  },
+  {
+    "id": "15126-002",
+    "title": "Fit`n Fun – Fitness und Gesundheit",
+    "date": "2026-09-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5853"
+  },
+  {
+    "id": "23826-042",
+    "title": "KI im Büro: Effiziente und professionelle Business-Kommunikation",
+    "date": "2026-09-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6138"
   },
   {
     "id": "23126-004",
@@ -1240,6 +1258,15 @@
     "fee": "Intern: 220.00 Extern: 265.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5516"
+  },
+  {
+    "id": "23826-043",
+    "title": "Canva für Fortgeschrittene",
+    "date": "2026-09-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6139"
   },
   {
     "id": "23926-032",
@@ -1899,6 +1926,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6044"
   },
   {
+    "id": "23826-044",
+    "title": "KI im Arbeitsalltag",
+    "date": "2026-10-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 74.00 Extern: 88.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6140"
+  },
+  {
     "id": "24026-008",
     "title": "Mit Kindern über Gott sprechen – leicht, lebendig",
     "date": "2026-10-15",
@@ -1915,6 +1951,15 @@
     "fee": "Intern: 605.00 Extern: 880.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5537"
+  },
+  {
+    "id": "23826-045",
+    "title": "Der KI-Copilot in Microsoft 365",
+    "date": "2026-10-15",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 42.00 Extern: 50.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6141"
   },
   {
     "id": "24026-017",
@@ -2140,6 +2185,24 @@
     "fee": "Intern: 320.00 Extern: 370.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5499"
+  },
+  {
+    "id": "23126-032",
+    "title": "Herausforderndes Verhalten bei Demenz – Grenzen schützen und sicher handeln im Pflegealltag",
+    "date": "2026-11-05",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6133"
+  },
+  {
+    "id": "23826-046",
+    "title": "Der richtige Prompt für Ihren Erfolg mit der KI",
+    "date": "2026-11-05",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6142"
   },
   {
     "id": "24826-030",
@@ -2671,6 +2734,15 @@
     "fee": "Intern: 250.00 Extern: 300.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5392"
+  },
+  {
+    "id": "23826-047",
+    "title": "Mit ChatGPT, Gemini und Copilot effizienter arbeiten",
+    "date": "2026-11-26",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6143"
   },
   {
     "id": "24626-046",
