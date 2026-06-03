@@ -1,56 +1,11 @@
 [
   {
-    "id": "21526-002",
-    "title": "Supervision für Leitungen der katholischen Schwangerschaftsberatung esperanza",
-    "date": "2026-06-02",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5033"
-  },
-  {
-    "id": "24926-018",
-    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
-    "date": "2026-06-02",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5105"
-  },
-  {
-    "id": "21526-005",
-    "title": "Supervision für Väterberater der katholischen Schwangerschaftsberatung esperanza",
-    "date": "2026-06-02",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5132"
-  },
-  {
-    "id": "23926-029",
-    "title": "Zukunft gestalten mit agiler Führung",
-    "date": "2026-06-02",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 420.00 Extern: 490.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5552"
-  },
-  {
-    "id": "48026-027",
-    "title": "Web-Seminar: Crashkurs Neue Grundsicherung",
-    "date": "2026-06-02",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5956"
-  },
-  {
     "id": "24826-006",
     "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-06-03",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5043"
   },
   {
@@ -68,7 +23,7 @@
     "date": "2026-06-03",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5912"
   },
   {
@@ -77,7 +32,7 @@
     "date": "2026-06-03",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6078"
   },
   {
@@ -302,7 +257,7 @@
     "date": "2026-06-17",
     "place": "IN VIA Köln e.V. Mädchen- und Frauensozialarbeit Stolzestraße 1A 50674 Köln",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5966"
   },
   {
@@ -765,6 +720,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6136"
   },
   {
+    "id": "17026-008",
+    "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
+    "date": "2026-09-04",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6145"
+  },
+  {
     "id": "34026-008",
     "title": "ICF basierte Bedarfsermittlung BEI_NRW",
     "date": "2026-09-07",
@@ -916,6 +880,15 @@
     "fee": "Intern: 80.00 Extern: 105.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5423"
+  },
+  {
+    "id": "17026-009",
+    "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
+    "date": "2026-09-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6146"
   },
   {
     "id": "23526-002",
@@ -1087,6 +1060,15 @@
     "fee": "Intern: 100.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5185"
+  },
+  {
+    "id": "17026-010",
+    "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
+    "date": "2026-09-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6147"
   },
   {
     "id": "24626-027",
