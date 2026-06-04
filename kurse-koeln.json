@@ -1,41 +1,5 @@
 [
   {
-    "id": "24826-006",
-    "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-06-03",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5043"
-  },
-  {
-    "id": "24726-083",
-    "title": "Kinder an die Macht",
-    "date": "2026-06-03",
-    "place": "Kardinal-Bea-Haus Furtherhofstr. 29 41462 Neuss",
-    "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5472"
-  },
-  {
-    "id": "17026-005",
-    "title": "Forderungsmanagement",
-    "date": "2026-06-03",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5912"
-  },
-  {
-    "id": "24926-036",
-    "title": "kitaplus – Sprechstunde",
-    "date": "2026-06-03",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6078"
-  },
-  {
     "id": "24726-076",
     "title": "Neue mentale und körperliche Stärke und Ideen für eine motivierte Kita-Arbeit",
     "date": "2026-06-08",
@@ -385,15 +349,6 @@
     "fee": "Intern: 55.00 Extern: 66.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6017"
-  },
-  {
-    "id": "24726-138",
-    "title": "Partizipation ist ein großes Wort – was bedeutet das für unseren Arbeitsalltag?",
-    "date": "2026-06-25",
-    "place": "Karl Rahner Akademie Jabachstraße 4-8 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6023"
   },
   {
     "id": "17026-007",
