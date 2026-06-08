@@ -54,21 +54,21 @@
     "status": "offen"
   },
   {
-    "id": "08.008.26",
-    "title": "Den Pflegeprozess effektiv steuern: Die Kernkompetenz und Vorbehaltsaufgabe der Pflegefachkraft.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/den-pflegeprozess-effektiv-steuern-die-kernkompetenz-und-vorbehaltsaufgabe-der-pflegefachkraft.-be1f",
-    "date": "17.06.2026 - 18.06.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "450,00 € bzw. 410,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.003.26",
     "title": "Der Weg zur Selbstregulation: Förderung der emotionalen Entwicklung und der Impulskontrolle bei Kindern",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/der-weg-zur-selbstregulation-foerderung-der-emotionalen-entwicklung-und-der-impulskontrolle-bei-kind",
     "date": "03.07.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "195,00 € bzw. 180,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.014.26",
+    "title": "Die Aufarbeitung von sexualisierter Gewalt",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/die-aufarbeitung-von-sexualisierter-gewalt-53499906-c317-4199-99d7-3622bcd96253",
+    "date": "11.06.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "95,00 €",
     "status": "offen"
   },
   {
@@ -90,21 +90,21 @@
     "status": "offen"
   },
   {
-    "id": "09.000.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
-    "date": "06.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.009.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.000.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
