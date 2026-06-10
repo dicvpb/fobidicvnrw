@@ -1,32 +1,5 @@
 [
   {
-    "id": "24926-017",
-    "title": "kitaplus – Allgemeine Vertiefungsschulung",
-    "date": "2026-06-09",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 180.00 Extern: 216.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5093"
-  },
-  {
-    "id": "23526-001",
-    "title": "Unterwegs mit DIR",
-    "date": "2026-06-09",
-    "place": "Kloster Steinfeld Gästehaus Hermann-Josef-Straße 4 53925 Kall-Steinfeld",
-    "fee": "Intern: 455.00 Extern: 555.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5135"
-  },
-  {
-    "id": "24726-009",
-    "title": "Web-Seminar: Tür- und Angelgespräche",
-    "date": "2026-06-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 60.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5245"
-  },
-  {
     "id": "23126-007",
     "title": "Ganztägige Präventionsschulung für Leitungskräfte (schutz- oder hilfebedürftige Erwachsene)",
     "date": "2026-06-10",
@@ -297,15 +270,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6055"
   },
   {
-    "id": "24826-028",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-06-26",
-    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5082"
-  },
-  {
     "id": "24226-008",
     "title": "Professionelle Anleitung und Ausbildung von Praktikantinnen und Praktikanten",
     "date": "2026-06-29",
@@ -466,6 +430,15 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5327"
+  },
+  {
+    "id": "23826-033",
+    "title": "Die Routine macht die KI - Die Qualität mache ich!",
+    "date": "2026-07-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 67.00 Extern: 83.00",
+    "status": "Warteliste",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5994"
   },
   {
     "id": "34026-016",
@@ -1818,6 +1791,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5315"
   },
   {
+    "id": "23126-034",
+    "title": "Web-Seminar: In der Nähe abgrenzen – in der Distanz Kontakt halten",
+    "date": "2026-10-19",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6156"
+  },
+  {
     "id": "24726-055",
     "title": "Sprachreiche Umgebung in der Kita nutzen",
     "date": "2026-10-20",
@@ -1879,6 +1861,15 @@
     "fee": "Intern: 790.00 Extern: 790.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6091"
+  },
+  {
+    "id": "23126-033",
+    "title": "Web-Seminar: Nur was wir kennen, können wir erkennen",
+    "date": "2026-10-26",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6155"
   },
   {
     "id": "23126-020",

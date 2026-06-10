@@ -374,7 +374,7 @@
     "date": "10. Juni 2026, 09:00 - 17:00 Uhr",
     "place": "Wasserburg Rindern Heimvolkshochschule Kleve Wasserburgallee 120 47533 Kleve",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001040"
   },
   {
@@ -475,15 +475,6 @@
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
     "status": "Anmeldung deaktiviert",
     "id": "V000000999"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/qualifizierungsreihe-anleitung-von-praktikant-innen-3-module/v000000944",
-    "title": "Qualifizierungsreihe \"Anleitung von Praktikant*innen\" (3 Module)",
-    "date": "09. Mär. 2026, 09:00 Uhr - 09. Juni 2026, 16:00 Uhr",
-    "place": "",
-    "fee": "755,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n830,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n905,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000944"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/das-autistische-kind-ich/v000000998",
@@ -725,7 +716,7 @@
     "date": "10. Juni 2026, 10:00 - 12:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "Die Teilnahmegebühr beträgt 45,00 €",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001275"
   },
   {
