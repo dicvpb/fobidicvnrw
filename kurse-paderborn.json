@@ -9,15 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "S80TEST3",
-    "title": "Test Seminar",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/S80TEST3/kursname/Test%20Seminar/kategorie-id/",
-    "date": "Mi., 10.06.2026, 09:00 Uhr - Do. 11.06.2026 17:00 Uhr",
-    "place": "Liborianum, Paderborn",
-    "fee": "420,00 €",
-    "status": "Es sind noch 15 Plätze frei"
-  },
-  {
     "id": "S80INVIA11",
     "title": "Berufspädagogische Weiterbildung in Pflegeberufen",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/S80INVIA11/kursname/Berufspaedagogische%20Weiterbildung%20in%20Pflegeberufen/kategorie-id/2",
@@ -25,15 +16,6 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "2910,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
-  },
-  {
-    "id": "S8031BE140",
-    "title": "Workshop: Qualitätsentwicklung lebendig halten",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/S8031BE140/kursname/Workshop%20Qualitaetsentwicklung%20lebendig%20halten/kategorie-id/10",
-    "date": "Di., 16.06.2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Kommende Dortmund",
-    "fee": "130,00 €",
-    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "S80INVIA02",
@@ -78,7 +60,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 24 Plätze frei"
+    "status": "Es sind noch 22 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -87,7 +69,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 33 Plätze frei"
+    "status": "Es sind noch 30 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -132,7 +114,7 @@
     "date": "Mi., 02.09.2026, 10:00 Uhr - Fr. 04.09.2026 14:30 Uhr",
     "place": "VdK Kur- und Erholungshotel zum Hallenberg",
     "fee": "400,00 €",
-    "status": "Es sind noch 23 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80INVIA07",
@@ -159,7 +141,7 @@
     "date": "Di., 15.09.2026, 09:00 Uhr - Mi. 16.09.2026 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "400,00 €",
-    "status": "Es sind noch 5 Plätze frei"
+    "status": "Es sind noch 4 Plätze frei"
   },
   {
     "id": "T80F3BF09G",
@@ -187,6 +169,15 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
     "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "T8031BE140",
+    "title": "Workshop: Qualitätsentwicklung lebendig halten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE140/kursname/Workshop%20Qualitaetsentwicklung%20lebendig%20halten/kategorie-id/10",
+    "date": "Di., 22.09.2026, 09:00 Uhr - 17:00 Uhr",
+    "place": "Kommende Dortmund",
+    "fee": "130,00 €",
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "T80F3BF09C",
@@ -438,7 +429,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 81 Plätze frei"
+    "status": "Es sind noch 80 Plätze frei"
   },
   {
     "id": "T80F3RS11A",

@@ -1,59 +1,5 @@
 [
   {
-    "id": "23126-007",
-    "title": "Ganztägige Präventionsschulung für Leitungskräfte (schutz- oder hilfebedürftige Erwachsene)",
-    "date": "2026-06-10",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4994"
-  },
-  {
-    "id": "23326-009",
-    "title": "Vom Wissen zum Können!",
-    "date": "2026-06-10",
-    "place": "CaritasCampus Prälat-Boskamp-Saal (Untergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 180.00 Extern: 210.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5171"
-  },
-  {
-    "id": "23926-020",
-    "title": "Web-Seminar: Führung in Häppchen",
-    "date": "2026-06-10",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 50.00 Extern: 60.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5414"
-  },
-  {
-    "id": "24526-006",
-    "title": "Vorbeugen gegen Stress und Burnout",
-    "date": "2026-06-10",
-    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5467"
-  },
-  {
-    "id": "23326-027",
-    "title": "Arbeitszeugnisse formulieren und interpretieren",
-    "date": "2026-06-10",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 90.00 Extern: 108.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5673"
-  },
-  {
-    "id": "13226-009",
-    "title": "Web-Seminar: Kommunikation ist alles – auch beim Essen",
-    "date": "2026-06-10",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 35.00 Extern: 42.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5705"
-  },
-  {
     "id": "24726-117",
     "title": "Mach dir ein Bild von der Welt: Fotografie pädagogisch einsetzen in Kita und OGS",
     "date": "2026-06-11",
@@ -190,7 +136,7 @@
   },
   {
     "id": "24026-033",
-    "title": "Spiritualität erfahren - zwei Oasentage ohne Übernachtung",
+    "title": "Da bin ich ganz bei mir - Kraft für den Alltag",
     "date": "2026-06-22",
     "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
     "fee": "Intern: 210.00 Extern: 260.00",
@@ -360,15 +306,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6135"
   },
   {
-    "id": "24826-037",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-07-03",
-    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
-    "fee": "Intern: 95.00 Extern: 115.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5223"
-  },
-  {
     "id": "24026-016",
     "title": "Bunte Feste im Kirchenjahr",
     "date": "2026-07-03",
@@ -439,15 +376,6 @@
     "fee": "Intern: 67.00 Extern: 83.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5994"
-  },
-  {
-    "id": "34026-016",
-    "title": "Menschen mit chronischer Depression unterstützen und begleiten",
-    "date": "2026-07-09",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 300.00 Extern: 460.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5746"
   },
   {
     "id": "23826-037",
@@ -1519,6 +1447,15 @@
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6074"
+  },
+  {
+    "id": "48026-030",
+    "title": "Web-Seminar: Crashkurs Neue Grundsicherung",
+    "date": "2026-10-06",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6160"
   },
   {
     "id": "24926-015",
