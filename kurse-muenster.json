@@ -347,7 +347,7 @@
     "date": "05. Aug. 2026, 09:00 - 17:00 Uhr",
     "place": "Bürgerbahnhof Dorsten Dorsten Johannes-Rau-Platz 1 46282 Dorsten",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Wenige Plätze",
     "id": "V000001024"
   },
   {
@@ -457,15 +457,6 @@
     "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
     "status": "Ausgebucht (Warteliste)",
     "id": "V000001002"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/provokant.-verweigernd.-herausfordernd.-raetselhaft./v000000999",
-    "title": "Provokant. Verweigernd. Herausfordernd. Rätselhaft.",
-    "date": "10. Juni 2026, 09:00 Uhr - 11. Juni 2026, 16:30 Uhr",
-    "place": "Heimvolkshochschule Gottfried-Könzgen Haltern am See Annaberg 40 45721 Haltern am See",
-    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000999"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/das-autistische-kind-ich/v000000998",
@@ -689,7 +680,7 @@
     "date": "18. Juni 2026, 09:30 - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "75,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.",
-    "status": "Anmeldung deaktiviert",
+    "status": "Wenige Plätze",
     "id": "V000001257"
   },
   {

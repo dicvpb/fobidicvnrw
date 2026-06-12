@@ -1,32 +1,5 @@
 [
   {
-    "id": "24726-117",
-    "title": "Mach dir ein Bild von der Welt: Fotografie pädagogisch einsetzen in Kita und OGS",
-    "date": "2026-06-11",
-    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
-    "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5634"
-  },
-  {
-    "id": "24926-026",
-    "title": "Web-Seminar: kitaplus – Gruppen-App und Bildungsdokumentation",
-    "date": "2026-06-11",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5882"
-  },
-  {
-    "id": "23126-030",
-    "title": "Fachtag \"Die Aufarbeitung von sexualisierter Gewalt\"",
-    "date": "2026-06-11",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "Intern: 95.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6043"
-  },
-  {
     "id": "48026-029",
     "title": "Web-Seminar: Workshop zu den arbeitsmarktpolitischen Neuerungen im SGB II",
     "date": "2026-06-12",
@@ -650,7 +623,7 @@
   {
     "id": "17026-009",
     "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
-    "date": "2026-09-11",
+    "date": "2026-09-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 75.00 Extern: 0.00",
     "status": "Angebot buchbar",
@@ -3391,6 +3364,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5847"
+  },
+  {
+    "id": "24326-001",
+    "title": "Forschen im Alltag – Kita wird zum Experimentierfeld (Online-Seminar)",
+    "date": "2026-12-31",
+    "place": "Online-Seminar - nur im Internet",
+    "fee": "Intern: 160.00 Extern: 190.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6161"
   },
   {
     "id": "01527-001",
