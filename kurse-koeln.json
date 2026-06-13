@@ -1,14 +1,5 @@
 [
   {
-    "id": "48026-029",
-    "title": "Web-Seminar: Workshop zu den arbeitsmarktpolitischen Neuerungen im SGB II",
-    "date": "2026-06-12",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 20.00 Extern: 25.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6038"
-  },
-  {
     "id": "23326-003",
     "title": "War's das – dann kann ich jetzt gehen?",
     "date": "2026-06-15",
@@ -621,15 +612,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5423"
   },
   {
-    "id": "17026-009",
-    "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
-    "date": "2026-09-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6146"
-  },
-  {
     "id": "23526-002",
     "title": "Unterwegs mit Dir – In den Bergen Gott und sich selbst begegnen",
     "date": "2026-09-13",
@@ -736,6 +718,15 @@
     "fee": "Intern: 45.00 Extern: 54.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6138"
+  },
+  {
+    "id": "17026-009",
+    "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
+    "date": "2026-09-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6146"
   },
   {
     "id": "23126-004",
