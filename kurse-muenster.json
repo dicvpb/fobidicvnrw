@@ -338,7 +338,7 @@
     "date": "10. Aug. 2026, 09:00 Uhr - 11. Aug. 2026, 17:00 Uhr",
     "place": "Akademie Klausenhof Hamminkeln Klausenhofstraße 100 46499 Hamminkeln",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001019"
   },
   {
@@ -671,7 +671,7 @@
     "date": "18. Juni 2026, 09:30 - 16:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "75,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001257"
   },
   {

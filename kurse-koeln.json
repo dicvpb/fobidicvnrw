@@ -5,7 +5,7 @@
     "date": "2026-06-15",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 320.00 Extern: 390.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4990"
   },
   {
@@ -14,7 +14,7 @@
     "date": "2026-06-15",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5758"
   },
   {
@@ -293,7 +293,7 @@
     "date": "2026-07-06",
     "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
     "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5520"
   },
   {
@@ -581,7 +581,7 @@
     "date": "2026-09-10",
     "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
     "fee": "Intern: 1000.00 Extern: 1200.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5479"
   },
   {
