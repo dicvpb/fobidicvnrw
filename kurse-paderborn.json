@@ -42,7 +42,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -51,7 +51,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 30 Plätze frei"
+    "status": "Es sind noch 29 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -60,7 +60,7 @@
     "date": "Do., 09.07.2026, 09:30 Uhr - Sa. 11.07.2026 13:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de Link zur Anmeldung im Text"
   },
   {
     "id": "T80F3RS08A",
@@ -105,7 +105,7 @@
     "date": "Mo., 07.09.2026, 10:30 Uhr - Di. 22.09.2026 18:15 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "710,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T80INVIA01",
@@ -114,7 +114,7 @@
     "date": "Mi., 09.09.2026, 15:00 Uhr - 18:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "120,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T80F3BF09B",
@@ -123,12 +123,12 @@
     "date": "Di., 15.09.2026, 09:00 Uhr - Mi. 16.09.2026 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "400,00 €",
-    "status": "Es sind noch 2 Plätze frei"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80F3BF09G",
-    "title": "BWL Basics",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F3BF09G/kursname/BWL%20Basics/kategorie-id/",
+    "title": "BWL Basics für Fach- und Führungskräfte im sozialen Bereich",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF09G/kursname/BWL%20Basics%20fuer%20Fach-%20und%20Fuehrungskraefte%20im%20sozialen%20Bereich/kategorie-id/7",
     "date": "Mi., 16.09.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "150,00 €",
@@ -172,12 +172,12 @@
   },
   {
     "id": "T80F3BF09F",
-    "title": "Einführung Generationen und soziale Kohorten",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F3BF09F/kursname/Einfuehrung%20Generationen%20und%20soziale%20Kohorten/kategorie-id/",
+    "title": "Generationen: Unterschiedlich geprägt – gemeinsam wirksam!",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF09F/kursname/Generationen%20Unterschiedlich%20gepraegt%20gemeinsam%20wirksam/kategorie-id/2",
     "date": "Fr., 25.09.2026, 09:30 Uhr - 14:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "170,00 €",
-    "status": "Keine Anmeldung möglich"
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "T80F3RS09A",
@@ -200,11 +200,11 @@
   {
     "id": "T80VIER10A",
     "title": "NRW Fachtag - Migration",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80VIER10A/kursname/NRW%20Fachtag%20-%20Migration/kategorie-id/",
+    "url": "https://www.helfenmitprofil.de/soziale-sicherung/kw/bereich/kursdetails/kurs/T80VIER10A/kursname/NRW%20Fachtag%20-%20Migration/kategorie-id/23",
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 80 Plätze frei"
+    "status": "Es sind noch 79 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -213,7 +213,7 @@
     "date": "Mo., 05.10.2026, 10:30 Uhr - Do. 30.09.2027 16:15 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "2280,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T8031BE007",
@@ -253,12 +253,12 @@
   },
   {
     "id": "T80F3BF10E",
-    "title": "Diskriminierungskritisches Arbeiten am Beispiel Gender/Sexualität",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F3BF10E/kursname/Diskriminierungskritisches%20Arbeiten%20am%20Beispiel%20GenderSexualitaet/kategorie-id/",
+    "title": "Mehr als gute Absichten – diskriminierungssensibel handeln!",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF10E/kursname/Mehr%20als%20gute%20Absichten%20diskriminierungssensibel%20handeln/kategorie-id/2",
     "date": "Mi., 07.10.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "190,00 €",
-    "status": "Keine Anmeldung möglich"
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "T80KEFB10A",
@@ -303,7 +303,7 @@
     "date": "Do., 08.10.2026, 09:30 Uhr - Sa. 10.10.2026 13:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T8031BE010",
@@ -315,13 +315,22 @@
     "status": "Es sind noch 20 Plätze frei"
   },
   {
+    "id": "T80F3BF10I",
+    "title": "Generative KI Workshop",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF10I/kursname/Generative%20KI%20Workshop/kategorie-id/7",
+    "date": "Mo., 12.10.2026, 09:00 Uhr - Mo. 19.10.2026 12:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "160,00 €",
+    "status": "Es sind noch 26 Plätze frei"
+  },
+  {
     "id": "T80INVIA02",
     "title": "HOT® - Das HaushaltsOrganisationsTraining",
     "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/T80INVIA02/kursname/HOT%20-%20Das%20HaushaltsOrganisationsTraining/kategorie-id/14",
     "date": "Mo., 12.10.2026, 12:00 Uhr - Do. 18.11.2027 15:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "1350,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T80CKQV10B",
@@ -334,12 +343,12 @@
   },
   {
     "id": "T80F3BF10F",
-    "title": "Einführung Generationen und soziale Kohorten",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F3BF10F/kursname/Einfuehrung%20Generationen%20und%20soziale%20Kohorten/kategorie-id/",
+    "title": "Generationen: Unterschiedlich geprägt – gemeinsam wirksam!",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF10F/kursname/Generationen%20Unterschiedlich%20gepraegt%20gemeinsam%20wirksam/kategorie-id/2",
     "date": "Di., 13.10.2026, 09:00 Uhr - 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Keine Anmeldung möglich"
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "T8031BE003",
@@ -384,7 +393,16 @@
     "date": "Mo., 19.10.2026, 08:45 Uhr - Fr. 23.10.2026 15:15 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "990,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
+  },
+  {
+    "id": "T80VIER10B",
+    "title": "Workshop InsO",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80VIER10B/kursname/Workshop%20InsO/kategorie-id/",
+    "date": "Mi., 28.10.2026, 09:00 Uhr - 15:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "85,00 €",
+    "status": "Es sind noch 25 Plätze frei"
   },
   {
     "id": "T80F3RS10C",
@@ -420,7 +438,7 @@
     "date": "Di., 03.11.2026, 09:30 Uhr - 16:45 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "240,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T8031BE009",
@@ -474,7 +492,7 @@
     "date": "Mo., 23.11.2026, 08:30 Uhr - Fr. 30.06.2028 16:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "8490,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T8031BE008",
@@ -501,7 +519,7 @@
     "date": "Mi., 25.11.2026, 15:00 Uhr - 18:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "120,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T80INVIA10",
@@ -510,7 +528,7 @@
     "date": "Do., 26.11.2026, 09:30 Uhr - Fr. 27.11.2026 16:30 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "450,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T80INVIA13",
@@ -519,7 +537,7 @@
     "date": "Do., 10.12.2026, 09:30 Uhr - Sa. 12.12.2026 13:00 Uhr",
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "U8031BE011",
@@ -564,7 +582,7 @@
     "date": "Mi., 27.01.2027, 09:00 Uhr - Do. 28.01.2027 16:30 Uhr",
     "place": "Liborianum, Paderborn und weitere",
     "fee": "2200,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 21 Plätze frei"
   },
   {
     "id": "U8031BE021",

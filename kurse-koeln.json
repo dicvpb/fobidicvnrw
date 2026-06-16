@@ -1,38 +1,11 @@
 [
   {
-    "id": "23326-003",
-    "title": "War's das – dann kann ich jetzt gehen?",
-    "date": "2026-06-15",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 320.00 Extern: 390.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4990"
-  },
-  {
-    "id": "26626-009",
-    "title": "Neustart Inklusion: Die/der Inklusionsbeauftragte",
-    "date": "2026-06-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5758"
-  },
-  {
-    "id": "23126-029",
-    "title": "Web-Seminar: Achtsame Sprache – gelingendes Miteinander",
-    "date": "2026-06-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5988"
-  },
-  {
     "id": "23926-002",
     "title": "Ich selbst in meiner Rolle als Führungskraft",
     "date": "2026-06-16",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5058"
   },
   {
@@ -347,7 +320,7 @@
     "date": "2026-07-09",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 74.00 Extern: 88.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6032"
   },
   {
@@ -581,7 +554,7 @@
     "date": "2026-09-10",
     "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
     "fee": "Intern: 1000.00 Extern: 1200.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5479"
   },
   {
