@@ -1,32 +1,5 @@
 [
   {
-    "id": "23926-002",
-    "title": "Ich selbst in meiner Rolle als Führungskraft",
-    "date": "2026-06-16",
-    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5058"
-  },
-  {
-    "id": "48026-017",
-    "title": "Web-Seminar: Basiswissen Ausländerrecht",
-    "date": "2026-06-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 60.00 Extern: 80.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5727"
-  },
-  {
-    "id": "26826-005",
-    "title": "Zweitägiger Workshop: Haltung zeigen (Essen)",
-    "date": "2026-06-16",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5907"
-  },
-  {
     "id": "31226-009",
     "title": "Fachtag Suizidalität im Alter",
     "date": "2026-06-17",
@@ -869,7 +842,7 @@
     "date": "2026-09-22",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5934"
   },
   {

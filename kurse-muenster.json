@@ -50,7 +50,7 @@
     "date": "17. Juni 2026, 10:00 - 16:00 Uhr",
     "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000866"
   },
   {
@@ -378,15 +378,6 @@
     "id": "V000000958"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/loslassen-lernen.-mit-pfeil-und-bogen/v000000836",
-    "title": "Loslassen lernen. Mit Pfeil und Bogen",
-    "date": "16. Juni 2026, 13:00 - 17:00 Uhr",
-    "place": "Bogenschützen-Club Nordkirchen e. V. Nordkirchen Am Gorbach 59394 Nordkirchen",
-    "fee": "pro Teilnehmer*in\n80,00 € für Mitgliedseinrichtungen des DiCV im Bistum Münster\n88,00 € für Partner im Bistum Münster\n95,00 € für alle Anderen\n\nDer Teilnahmepreis beinhaltet keine Verpflegung.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000836"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/bilder-im-kopf.-eine-achtsame-fotografie-auszeit/v000001102",
     "title": "Bilder im Kopf. Eine achtsame Fotografie-Auszeit",
     "date": "10. Sep. 2026, 12:30 Uhr - 11. Sep. 2026, 13:00 Uhr",
@@ -491,7 +482,7 @@
     "date": "12. Nov. 2026, 09:00 - 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000000997"
   },
   {

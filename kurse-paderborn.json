@@ -33,7 +33,7 @@
     "date": "Mi., 01.07.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "T80F2AV048",
@@ -51,7 +51,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 29 Plätze frei"
+    "status": "Es sind noch 30 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -88,6 +88,15 @@
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
     "status": "Es sind noch 39 Plätze frei"
+  },
+  {
+    "id": "T80F3BF09H",
+    "title": "Produktiver mit KI: So wird generative KI zu ihrem Assistenten",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF09H/kursname/Produktiver%20mit%20KI%20So%20wird%20generative%20KI%20zu%20ihrem%20Assistenten/kategorie-id/7",
+    "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "160,00 €",
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -132,7 +141,7 @@
     "date": "Mi., 16.09.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "150,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "T8031BE006",
@@ -172,8 +181,8 @@
   },
   {
     "id": "T80F3BF09F",
-    "title": "Generationen: Unterschiedlich geprägt – gemeinsam wirksam!",
-    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF09F/kursname/Generationen%20Unterschiedlich%20gepraegt%20gemeinsam%20wirksam/kategorie-id/2",
+    "title": "Generationen: unterschiedlich geprägt – gemeinsam wirksam!",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF09F/kursname/Generationen%20unterschiedlich%20gepraegt%20gemeinsam%20wirksam/kategorie-id/2",
     "date": "Fr., 25.09.2026, 09:30 Uhr - 14:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "170,00 €",
@@ -204,7 +213,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 79 Plätze frei"
+    "status": "Es sind noch 77 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -258,7 +267,7 @@
     "date": "Mi., 07.10.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "190,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80KEFB10A",
@@ -315,15 +324,6 @@
     "status": "Es sind noch 20 Plätze frei"
   },
   {
-    "id": "T80F3BF10I",
-    "title": "Generative KI Workshop",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF10I/kursname/Generative%20KI%20Workshop/kategorie-id/7",
-    "date": "Mo., 12.10.2026, 09:00 Uhr - Mo. 19.10.2026 12:00 Uhr",
-    "place": "Onlineangebot",
-    "fee": "160,00 €",
-    "status": "Es sind noch 26 Plätze frei"
-  },
-  {
     "id": "T80INVIA02",
     "title": "HOT® - Das HaushaltsOrganisationsTraining",
     "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/T80INVIA02/kursname/HOT%20-%20Das%20HaushaltsOrganisationsTraining/kategorie-id/14",
@@ -343,8 +343,8 @@
   },
   {
     "id": "T80F3BF10F",
-    "title": "Generationen: Unterschiedlich geprägt – gemeinsam wirksam!",
-    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF10F/kursname/Generationen%20Unterschiedlich%20gepraegt%20gemeinsam%20wirksam/kategorie-id/2",
+    "title": "Generationen: unterschiedlich geprägt – gemeinsam wirksam!",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF10F/kursname/Generationen%20unterschiedlich%20gepraegt%20gemeinsam%20wirksam/kategorie-id/2",
     "date": "Di., 13.10.2026, 09:00 Uhr - 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
@@ -358,6 +358,15 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "110,00 €",
     "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "T80VIER10B",
+    "title": "Workshop InsO",
+    "url": "https://www.helfenmitprofil.de/soziale-sicherung/kw/bereich/kursdetails/kurs/T80VIER10B/kursname/Workshop%20InsO/kategorie-id/23",
+    "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "85,00 €",
+    "status": "Es sind noch 25 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -394,15 +403,6 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "990,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
-  },
-  {
-    "id": "T80VIER10B",
-    "title": "Workshop InsO",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80VIER10B/kursname/Workshop%20InsO/kategorie-id/",
-    "date": "Mi., 28.10.2026, 09:00 Uhr - 15:00 Uhr",
-    "place": "Onlineangebot",
-    "fee": "85,00 €",
-    "status": "Es sind noch 25 Plätze frei"
   },
   {
     "id": "T80F3RS10C",
@@ -617,7 +617,7 @@
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02A/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
     "date": "Mi., 17.02.2027, 09:00 Uhr - Do. 18.02.2027 17:00 Uhr",
     "place": "Liborianum, Paderborn",
-    "fee": "460,00 €",
+    "fee": "470,00 €",
     "status": "Es sind noch 15 Plätze frei"
   },
   {
@@ -716,6 +716,15 @@
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE012/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
     "date": "Di., 08.06.2027, 09:00 Uhr - 17:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
+    "fee": "90,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE022",
+    "title": "Kindliche Sexualität - ein spannendes Thema",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE022/kursname/Kindliche%20Sexualitaet%20-%20ein%20spannendes%20Thema/kategorie-id/10",
+    "date": "Mo., 14.06.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Kommende Dortmund",
     "fee": "90,00 €",
     "status": "Es sind noch 20 Plätze frei"
   }
