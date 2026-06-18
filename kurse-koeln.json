@@ -1,14 +1,5 @@
 [
   {
-    "id": "31226-009",
-    "title": "Fachtag Suizidalität im Alter",
-    "date": "2026-06-17",
-    "place": "IN VIA Köln e.V. Mädchen- und Frauensozialarbeit Stolzestraße 1A 50674 Köln",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5966"
-  },
-  {
     "id": "24726-042",
     "title": "Kompetent beobachten – sehen, verstehen, handeln",
     "date": "2026-06-18",
@@ -540,15 +531,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5486"
   },
   {
-    "id": "24826-014",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-09-11",
-    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5051"
-  },
-  {
     "id": "24626-043",
     "title": "Web-Seminar: Einfache Sprache mit Gebärden begleiten",
     "date": "2026-09-11",
@@ -1024,15 +1006,6 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5237"
-  },
-  {
-    "id": "24026-026",
-    "title": "Trauer ist bunt",
-    "date": "2026-09-29",
-    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5335"
   },
   {
     "id": "23326-024",
@@ -1742,7 +1715,7 @@
     "date": "2026-11-02",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5347"
   },
   {
