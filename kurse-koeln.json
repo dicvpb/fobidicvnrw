@@ -1,32 +1,5 @@
 [
   {
-    "id": "24726-042",
-    "title": "Kompetent beobachten – sehen, verstehen, handeln",
-    "date": "2026-06-18",
-    "place": "Pfarrheim Kath. Kirchengemeinde St. Anna Franz-Jacobi-Str. 1 53757 Sankt Augustin (Hangelar)",
-    "fee": "Intern: 150.00 Extern: 300.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5314"
-  },
-  {
-    "id": "24626-024",
-    "title": "Ist das denn noch normal?",
-    "date": "2026-06-18",
-    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
-    "fee": "Intern: 310.00 Extern: 360.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5390"
-  },
-  {
-    "id": "23326-020",
-    "title": "Das papierlose Büro – so schaffen Sie den Umstieg",
-    "date": "2026-06-18",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 250.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5627"
-  },
-  {
     "id": "24726-047",
     "title": "Spiele und Traumreisen mit der Klangschale und Co",
     "date": "2026-06-22",
@@ -97,15 +70,6 @@
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5421"
-  },
-  {
-    "id": "25026-023",
-    "title": "Outlook, ToDo und Planner perfekt nutzen",
-    "date": "2026-06-25",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 55.00 Extern: 66.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6017"
   },
   {
     "id": "17026-007",
@@ -302,7 +266,7 @@
     "date": "2026-07-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5942"
   },
   {
@@ -1006,6 +970,15 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5237"
+  },
+  {
+    "id": "24026-026",
+    "title": "Trauer ist bunt",
+    "date": "2026-09-29",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5335"
   },
   {
     "id": "23326-024",
@@ -1809,6 +1782,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5704"
   },
   {
+    "id": "21526-007",
+    "title": "Vielfalt verstehen – kompetent beraten",
+    "date": "2026-11-04",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 50.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6162"
+  },
+  {
     "id": "23126-016",
     "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
     "date": "2026-11-05",
@@ -2104,6 +2086,15 @@
     "fee": "Intern: 20.00 Extern: 20.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5905"
+  },
+  {
+    "id": "17026-011",
+    "title": "Forderungsmanagement",
+    "date": "2026-11-16",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 165.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6176"
   },
   {
     "id": "24826-034",

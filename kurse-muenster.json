@@ -185,7 +185,7 @@
     "date": "19. Juni 2026, 08:45 - 12:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "95,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000869"
   },
   {
@@ -522,15 +522,6 @@
     "id": "V000000916"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/inklusive-praxis-leben/v000001129",
-    "title": "Inklusive Praxis leben",
-    "date": "17. Juni 2026, 09:00 Uhr - 18. Juni 2026, 17:00 Uhr",
-    "place": "Haus Mariengrund Ludgerusgemeinschaft e.V. Münster-Gievenbeck Nünningweg 133 48161 Münster-Gievenbeck",
-    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001129"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/elterngespraeche-als-schluessel-fuer-eine-gelungene-erziehungspartnerschaft/v000000861",
     "title": "Elterngespräche als Schlüssel für eine gelungene Erziehungspartnerschaft",
     "date": "18. Nov. 2026, 09:30 Uhr - 19. Nov. 2026, 16:30 Uhr",
@@ -581,7 +572,7 @@
     "date": "15. Sep. 2026, 09:30 - 17:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001192"
   },
   {
@@ -648,15 +639,6 @@
     "id": "V000001232"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/age-kinder-und-jugendhilfekonferenz-2026/v000001257",
-    "title": "AGE Kinder- und Jugendhilfekonferenz 2026",
-    "date": "18. Juni 2026, 09:30 - 16:00 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "75,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001257"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/zwischen-mensch-und-maschine-digitalisierung-und-ki-in-der-altenhilfe/v000001117",
     "title": "Zwischen Mensch und Maschine: Digitalisierung und KI in der Altenhilfe",
     "date": "14. Juli 2026, 09:30 - 15:30 Uhr",
@@ -705,7 +687,7 @@
     "url": "https://fortbildung.caritas-muenster.de/von-der-idee-zur-anwendung-ki-workathon/v000001280",
     "title": "Von der Idee zur Anwendung: KI‑Workathon",
     "date": "07. Juli 2026, 09:30 - 16:30 Uhr",
-    "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
     "id": "V000001280"
