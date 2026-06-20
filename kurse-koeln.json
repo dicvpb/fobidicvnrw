@@ -270,6 +270,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5942"
   },
   {
+    "id": "26826-014",
+    "title": "FIT FÜR DEMOKRATIE!",
+    "date": "2026-07-16",
+    "place": "siehe Ausschreibungstext oder -flyer",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6187"
+  },
+  {
     "id": "24926-007",
     "title": "Web-Seminar: kitaplus – Eltern App",
     "date": "2026-07-17",
@@ -1782,15 +1791,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5704"
   },
   {
-    "id": "21526-007",
-    "title": "Vielfalt verstehen – kompetent beraten",
-    "date": "2026-11-04",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 50.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6162"
-  },
-  {
     "id": "23126-016",
     "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
     "date": "2026-11-05",
@@ -3274,6 +3274,15 @@
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6161"
+  },
+  {
+    "id": "26726-001",
+    "title": "Datenschutz nach dem KDG - Online-Seminar",
+    "date": "2026-12-31",
+    "place": "Online-Seminar - nur im Internet",
+    "fee": "Intern: 40.00 Extern: 60.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6186"
   },
   {
     "id": "01527-001",
