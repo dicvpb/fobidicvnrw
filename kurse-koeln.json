@@ -1,32 +1,5 @@
 [
   {
-    "id": "24726-047",
-    "title": "Spiele und Traumreisen mit der Klangschale und Co",
-    "date": "2026-06-22",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5328"
-  },
-  {
-    "id": "24026-033",
-    "title": "Da bin ich ganz bei mir - Kraft für den Alltag",
-    "date": "2026-06-22",
-    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5344"
-  },
-  {
-    "id": "24726-090",
-    "title": "Eingewöhnung ist Teamwork",
-    "date": "2026-06-22",
-    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5505"
-  },
-  {
     "id": "23326-004",
     "title": "Souverän verhandeln – mit Strategie zum Erfolg",
     "date": "2026-06-23",
@@ -124,15 +97,6 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5927"
-  },
-  {
-    "id": "25026-022",
-    "title": "Einfach. Schnell. Professionell. Umfragen mit MS Forms",
-    "date": "2026-06-30",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 82.00 Extern: 99.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6016"
   },
   {
     "id": "24026-034",
@@ -961,6 +925,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6079"
+  },
+  {
+    "id": "31826-023",
+    "title": "Web-Seminar: Retten – Bergen – Löschen",
+    "date": "2026-09-28",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 35.00 Extern: 42.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6188"
   },
   {
     "id": "48026-014",
@@ -2466,6 +2439,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5760"
   },
   {
+    "id": "23826-048",
+    "title": "PowerAutomate als digitaler Rückenwind",
+    "date": "2026-12-01",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6191"
+  },
+  {
     "id": "23426-003",
     "title": "Web-Seminar: Kompetent führen: Arbeitsrecht",
     "date": "2026-12-02",
@@ -3292,6 +3274,15 @@
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
+  },
+  {
+    "id": "48027-001",
+    "title": "Workshop InsO",
+    "date": "2027-03-04",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 90.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6052"
   },
   {
     "id": "13227-001",

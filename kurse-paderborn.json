@@ -15,7 +15,7 @@
     "date": "Mo., 29.06.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "120,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "S8031BE918",
@@ -33,7 +33,7 @@
     "date": "Mi., 01.07.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "T80F2AV048",
@@ -42,7 +42,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 23 Plätze frei"
+    "status": "Es sind noch 22 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -51,7 +51,7 @@
     "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 30 Plätze frei"
+    "status": "Es sind noch 25 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -61,6 +61,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de Link zur Anmeldung im Text"
+  },
+  {
+    "id": "T8011BA073",
+    "title": "Strategietag - Gesundheitliche Versorgungsplanung für die letzte Lebensphase",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T8011BA073/kursname/Strategietag%20-%20Gesundheitliche%20Versorgungsplanung%20fuer%20die%20letzte%20Lebensphase/kategorie-id/2",
+    "date": "Mi., 15.07.2026, 09:00 Uhr Uhr - 14:30 Uhr Uhr",
+    "place": "IN VIA Akademie, Paderborn",
+    "fee": "160,00 €",
+    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T80F3RS08A",
@@ -87,7 +96,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 39 Plätze frei"
+    "status": "Es sind noch 38 Plätze frei"
   },
   {
     "id": "T80F3BF09H",
@@ -96,7 +105,7 @@
     "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 21 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -105,7 +114,7 @@
     "date": "Mi., 02.09.2026, 10:00 Uhr - Fr. 04.09.2026 14:30 Uhr",
     "place": "VdK Kur- und Erholungshotel zum Hallenberg",
     "fee": "400,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "T80INVIA07",
@@ -141,7 +150,7 @@
     "date": "Mi., 16.09.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "150,00 €",
-    "status": "Es sind noch 11 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "T8031BE006",
@@ -160,6 +169,24 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
     "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "T80Z1BFO3C",
+    "title": "Systematik und Grundlagen der AVR - für neue Mitarbeiter*innen der Caritas",
+    "url": "https://www.helfenmitprofil.de/programm/personalwirtschaft/kw/bereich/kursdetails/kurs/T80Z1BFO3C/kursname/Systematik%20und%20Grundlagen%20der%20AVR%20-%20fuer%20neue%20Mitarbeiterinnen%20der%20Caritas/kategorie-id/9",
+    "date": "Mo., 21.09.2026, 08:30 Uhr - Mi. 23.09.2026 16:30 Uhr",
+    "place": "IN VIA Akademie, Paderborn",
+    "fee": "620,00 €",
+    "status": "Anmeldung über IN VIA Akademie, Giersmauer 35, 33098 PaderbornFrau Natalie BergenE-mail: info@invia-akademie.deTel. 05251 290 838Link zur Anmeldung im Text"
+  },
+  {
+    "id": "T8031BE140",
+    "title": "Workshop: Qualitätsentwicklung lebendig halten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE140/kursname/Workshop%20Qualitaetsentwicklung%20lebendig%20halten/kategorie-id/10",
+    "date": "Di., 22.09.2026, 09:00 Uhr - 17:00 Uhr",
+    "place": "Kommende Dortmund",
+    "fee": "130,00 €",
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "T80F3BF09C",
@@ -213,7 +240,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 73 Plätze frei"
+    "status": "Es sind noch 71 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -267,7 +294,7 @@
     "date": "Mi., 07.10.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "190,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80KEFB10A",
@@ -420,7 +447,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 80 Plätze frei"
+    "status": "Es sind noch 78 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -639,6 +666,15 @@
     "status": "Es sind noch 20 Plätze frei"
   },
   {
+    "id": "U8031BE014",
+    "title": "Kinder mit autistischen Verhaltensweisen verstehen, begleiten und fördern",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE014/kursname/Kinder%20mit%20autistischen%20Verhaltensweisen%20verstehen%20begleiten%20und%20foerdern/kategorie-id/10",
+    "date": "Do., 04.03.2027, 09:00 Uhr - Fr. 05.03.2027 17:00 Uhr",
+    "place": "Katholische Akademie, Schwerte",
+    "fee": "350,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "U80POK_03A",
     "title": "Kommunikation im Office",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03A/kursname/Kommunikation%20im%20Office/kategorie-id/7",
@@ -717,6 +753,15 @@
     "date": "Di., 08.06.2027, 09:00 Uhr - 17:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "90,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U8031BE005",
+    "title": "Web-Seminar: Ich darf auch \"Nein\" sagen! Aber wie?",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE005/kursname/Web-Seminar%20Ich%20darf%20auch%20Nein%20sagen%20Aber%20wie/kategorie-id/10",
+    "date": "Mi., 09.06.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
     "status": "Es sind noch 20 Plätze frei"
   },
   {
