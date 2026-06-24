@@ -1,23 +1,5 @@
 [
   {
-    "id": "23326-004",
-    "title": "Souverän verhandeln – mit Strategie zum Erfolg",
-    "date": "2026-06-23",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 140.00 Extern: 170.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4992"
-  },
-  {
-    "id": "24726-112",
-    "title": "Ist das normal?",
-    "date": "2026-06-23",
-    "place": "CaritasCampus Prälat-Boskamp-Haus Raum K 11 (1. Obergeschoss) Georgstraße 18 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5628"
-  },
-  {
     "id": "23126-031",
     "title": "Web-Seminar: Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
     "date": "2026-06-24",
@@ -761,7 +743,7 @@
     "date": "2026-09-22",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5934"
   },
   {

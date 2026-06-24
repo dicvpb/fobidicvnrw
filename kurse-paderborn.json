@@ -33,7 +33,7 @@
     "date": "Mi., 01.07.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 6 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "T80F2AV048",
@@ -42,7 +42,7 @@
     "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 21 Plätze frei"
   },
   {
     "id": "T80F2AV049",
@@ -105,7 +105,7 @@
     "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 17 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -240,7 +240,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 71 Plätze frei"
+    "status": "Es sind noch 70 Plätze frei"
   },
   {
     "id": "T80INVIA09",
