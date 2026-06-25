@@ -1,14 +1,5 @@
 [
   {
-    "id": "23126-031",
-    "title": "Web-Seminar: Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
-    "date": "2026-06-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6070"
-  },
-  {
     "id": "24826-002",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
     "date": "2026-06-25",
@@ -3256,6 +3247,15 @@
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
+  },
+  {
+    "id": "13227-005",
+    "title": "Web-Seminar: Dauernd Wurst ist irgendwie Käse: Pflanzenpower für Frühstück, Abendessen und Sitzungsverpflegung",
+    "date": "2027-02-02",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6213"
   },
   {
     "id": "48027-001",

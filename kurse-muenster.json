@@ -428,7 +428,7 @@
     "date": "25. Juni 2026, 09:00 - 14:00 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001002"
   },
   {
@@ -770,7 +770,7 @@
     "date": "25. Juni 2026, 10:00 - 12:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "Die Teilnahmegebühr beträgt 45,00 €",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001310"
   }
 ]

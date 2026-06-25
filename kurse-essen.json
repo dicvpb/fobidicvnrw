@@ -90,21 +90,21 @@
     "status": "offen"
   },
   {
-    "id": "09.000.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
-    "date": "06.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.009.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.000.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -315,7 +315,7 @@
     "status": "offen"
   },
   {
-    "id": "01.000.27",
+    "id": "01.002.27",
     "title": "Qualifizierung \"Behandlungspflege für Pflegehilfskräfte (LG 1 und LG 2)\"",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/qualifizierung-behandlungspflege-fuer-pflegehilfskraefte-lg-1-und-lg-2-2647e438-c2ed-4730-b7fe-b4240",
     "date": "03.06.2027 - 02.12.2027",
@@ -324,7 +324,7 @@
     "status": "offen"
   },
   {
-    "id": "01.000.27",
+    "id": "01.001.27",
     "title": "Qualifizierung \"Pflegeassistenz (QN 2)\"",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/qualifizierung-pflegeassistenz-qn-2-e08e4116-3783-4bf6-ae7e-cacc1099c1c5",
     "date": "12.01.2027 - 18.05.2027",
@@ -342,12 +342,21 @@
     "status": "offen"
   },
   {
-    "id": "03.000.27",
+    "id": "03.002.27",
     "title": "Souverän führen – auch wenn’s schwierig wird.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/souveraen-fuehren--auch-wenns-schwierig-wird.-a7f9fee0-25a8-4be9-baab-8773025e9f6a",
     "date": "03.03.2027 - 04.03.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "540,00 € bzw. 490,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.015.26",
+    "title": "Suizidprävention für junge Menschen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/suizidpraevention-fuer-junge-menschen.-970ff964-30c9-45df-8cb0-38002b1bbe2f",
+    "date": "01.07.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "105,00 € bzw. 95,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
