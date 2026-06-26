@@ -24,7 +24,7 @@
     "date": "Di., 30.06.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "120,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T8031BE001",
@@ -34,24 +34,6 @@
     "place": "Onlineangebot",
     "fee": "80,00 €",
     "status": "Es sind noch 2 Plätze frei"
-  },
-  {
-    "id": "T80F2AV048",
-    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV048/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
-    "date": "Fr., 03.07.2026, 10:00 Uhr - 16:00 Uhr",
-    "place": "Kommende in Dortmund",
-    "fee": "100,00 €",
-    "status": "Es sind noch 21 Plätze frei"
-  },
-  {
-    "id": "T80F2AV049",
-    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV049/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
-    "date": "Mo., 06.07.2026, 10:00 Uhr - 16:00 Uhr",
-    "place": "Haus Maria Immaculata in Paderborn",
-    "fee": "100,00 €",
-    "status": "Es sind noch 25 Plätze frei"
   },
   {
     "id": "T80INVIA11",
@@ -150,7 +132,7 @@
     "date": "Mi., 16.09.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "150,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "T8031BE006",
