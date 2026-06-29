@@ -135,15 +135,6 @@
     "status": "offen"
   },
   {
-    "id": "26-2.03",
-    "title": "Kundenorientierung in Wort und Schrift",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/kundenorientierung-in-wort-und-schrift-dcf5de7b-9d49-41d5-8e49-908dee83f94f",
-    "date": "14.10.2026 - 15.10.2026",
-    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
-    "fee": "245,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-2.06",
     "title": "Update im Arbeitsrecht 2026",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-im-arbeitsrecht-2026-e85097fe-adc0-4bf9-b295-bdfdd933f31b",
@@ -171,21 +162,21 @@
     "status": "offen"
   },
   {
-    "id": "26-7.17",
-    "title": "Mitarbeitergespräche kompetent führen",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
-    "date": "03.11.2026",
-    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
-    "fee": "110,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-2.04",
     "title": "Erfolgreiches Projektmanagement",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
     "date": "03.11.2026",
     "place": "Online",
     "fee": "120,00",
+    "status": "offen"
+  },
+  {
+    "id": "26-7.17",
+    "title": "Mitarbeitergespräche kompetent führen",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
+    "date": "03.11.2026",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "110,00 Euro",
     "status": "offen"
   },
   {

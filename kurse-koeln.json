@@ -225,6 +225,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5045"
   },
   {
+    "id": "24826-044",
+    "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2026-08-28",
+    "place": "",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6240"
+  },
+  {
     "id": "24726-100",
     "title": "Manege frei für unsere Kleinsten",
     "date": "2026-09-01",
@@ -545,7 +554,7 @@
     "date": "2026-09-17",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4970"
   },
   {
@@ -1796,7 +1805,7 @@
     "date": "2026-11-06",
     "place": "Frühförderzentrum Bergisch Gladbach Cederwaldstr. 22 51465 Bergisch Gladbach",
     "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5420"
   },
   {
