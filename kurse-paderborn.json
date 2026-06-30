@@ -9,33 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "S8031BE929",
-    "title": "Auf den (Bildungs-) Spuren der Kinder",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/S8031BE929/kursname/Auf%20den%20Bildungs-%20Spuren%20der%20Kinder/kategorie-id/10",
-    "date": "Mo., 29.06.2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Katholische Akademie, Schwerte",
-    "fee": "120,00 €",
-    "status": "Es ist noch 1 Platz frei"
-  },
-  {
-    "id": "S8031BE918",
-    "title": "Orte des Forschens: Ideen – Werkstatt Mathematik und Philosophie",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/S8031BE918/kursname/Orte%20des%20Forschens%20Ideen%20Werkstatt%20Mathematik%20und%20Philosophie/kategorie-id/10",
-    "date": "Di., 30.06.2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Katholische Akademie, Schwerte",
-    "fee": "120,00 €",
-    "status": "Anmeldung auf Warteliste"
-  },
-  {
-    "id": "T8031BE001",
-    "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE001/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
-    "date": "Mi., 01.07.2026, 09:00 Uhr - 16:30 Uhr",
-    "place": "Onlineangebot",
-    "fee": "80,00 €",
-    "status": "Es sind noch 2 Plätze frei"
-  },
-  {
     "id": "T80INVIA11",
     "title": "Personalwirtschaft - Aufgaben und Ziele",
     "url": "https://www.helfenmitprofil.de/programm/personalwirtschaft/kw/bereich/kursdetails/kurs/T80INVIA11/kursname/Personalwirtschaft%20-%20Aufgaben%20und%20Ziele/kategorie-id/9",
@@ -69,7 +42,7 @@
     "date": "Mo., 31.08.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Bergkloster, Bestwig",
     "fee": "200,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 21 Plätze frei"
   },
   {
     "id": "T80F2AV050",
@@ -186,7 +159,7 @@
     "date": "Mi., 23.09.2026, 14:00 Uhr - So. 27.09.2026 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "T80F3BF09F",
@@ -630,6 +603,15 @@
     "status": "Es sind noch 20 Plätze frei"
   },
   {
+    "id": "U8031BE025",
+    "title": "VERGESSENE INKLUSIONSKINDER",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE025/kursname/VERGESSENE%20INKLUSIONSKINDER/kategorie-id/10",
+    "date": "Do., 11.02.2027, 09:30 Uhr - 16:30 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "350,00 €",
+    "status": "Es sind noch 18 Plätze frei"
+  },
+  {
     "id": "U80POK_02A",
     "title": "Sich selbst und andere führen",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02A/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
@@ -637,6 +619,15 @@
     "place": "Liborianum, Paderborn",
     "fee": "470,00 €",
     "status": "Es sind noch 15 Plätze frei"
+  },
+  {
+    "id": "U80FTB_02A",
+    "title": "Zukunftsfähige Ausrichtung der Eingliederungshilfe für Trägereinrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_02A/kursname/Zukunftsfaehige%20Ausrichtung%20der%20Eingliederungshilfe%20fuer%20Traegereinrichtungen/kategorie-id/14",
+    "date": "Di., 23.02.2027, 09:00 Uhr - Mi. 19.05.2027 17:00 Uhr",
+    "place": "Hotel Aspethera, Paderborn und weitere",
+    "fee": "0,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "U80POK_02B",

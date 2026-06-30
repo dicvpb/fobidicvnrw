@@ -1,32 +1,5 @@
 [
   {
-    "id": "24226-008",
-    "title": "Professionelle Anleitung und Ausbildung von Praktikantinnen und Praktikanten",
-    "date": "2026-06-29",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 840.00 Extern: 1040.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5342"
-  },
-  {
-    "id": "24426-016",
-    "title": "Kita-Management in herausfordernden Zeiten",
-    "date": "2026-06-29",
-    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5597"
-  },
-  {
-    "id": "23826-036",
-    "title": "Canva für Fortgeschrittene",
-    "date": "2026-06-29",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6010"
-  },
-  {
     "id": "24026-042",
     "title": "Mit Pfeil und Bogen – was trägt im Glauben?",
     "date": "2026-06-30",
@@ -223,6 +196,15 @@
     "fee": "Intern: 80.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5045"
+  },
+  {
+    "id": "26826-015",
+    "title": "Wie umgehen mit Desinformation?",
+    "date": "2026-08-06",
+    "place": "siehe Ausschreibungstext oder -flyer",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6246"
   },
   {
     "id": "24826-044",
@@ -502,6 +484,15 @@
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5553"
+  },
+  {
+    "id": "23826-049",
+    "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
+    "date": "2026-09-15",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 68.00 Extern: 82.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6242"
   },
   {
     "id": "24726-064",
@@ -799,6 +790,15 @@
     "fee": "Intern: 45.00 Extern: 54.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6139"
+  },
+  {
+    "id": "23826-051",
+    "title": "KI für die professionelle Öffentlichkeitsarbeit",
+    "date": "2026-09-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 68.00 Extern: 82.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6244"
   },
   {
     "id": "23926-032",
@@ -1440,6 +1440,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6022"
   },
   {
+    "id": "23826-052",
+    "title": "Mit KI als Boost: Anträge und Konzepte wirksam entwickeln",
+    "date": "2026-10-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 68.00 Extern: 82.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6245"
+  },
+  {
     "id": "24726-032",
     "title": "Web-Seminar: Einführung in die traumasensible Pädagogik",
     "date": "2026-10-14",
@@ -1841,7 +1850,7 @@
     "date": "2026-11-09",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4968"
   },
   {
@@ -1897,6 +1906,15 @@
     "fee": "Intern: 75.00 Extern: 90.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5660"
+  },
+  {
+    "id": "23826-050",
+    "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
+    "date": "2026-11-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 68.00 Extern: 82.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6243"
   },
   {
     "id": "24826-003",
