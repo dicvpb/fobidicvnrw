@@ -45,6 +45,24 @@
     "status": "offen"
   },
   {
+    "id": "03.000.26",
+    "title": "Basiswissen „Pflegesatzverhandlungen“ in der stationären Langzeitpflege.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/basiswissen-pflegesatzverhandlungen-in-der-stationaeren-langzeitpflege.-bb80e08f-386a-4196-b7de-422f",
+    "date": "18.11.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "110,00 € für MItarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "V000001318",
+    "title": "Beratung zur gesundheitlichen Versorgungsplanung für die letzte Lebensphase.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/beratung-zur-gesundheitlichen-versorgungsplanung-fuer-die-letzte-lebensphase.-6ae9e545-102a-413e-818",
+    "date": "28.01.2027 - 04.11.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "2615,00 EUR bzw. 2175,00 EUR für Mitarbeiter*innen in Einrichtungen und Diensten des DiCV Essen und des DiCV Münster.",
+    "status": "offen"
+  },
+  {
     "id": "08.005.26",
     "title": "Dekubitus: Die neue EPUAP Leitlinie – was ist heute richtig und wie setze ich es um?",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/dekubitus-die-neue-epuap-leitlinie--was-ist-heute-richtig-und-wie-setze-ich-es-um-272e2445-899c-4e90",
@@ -90,21 +108,21 @@
     "status": "offen"
   },
   {
-    "id": "09.009.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
-    "date": "06.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.000.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.009.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -213,15 +231,6 @@
     "date": "29.09.2026 - 30.09.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "420,00 € bzw. 380,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas. Mitarbeiter:innen der Ehe-, Familien- und Lebensberatung im Bistum Essen nehmen kostenlos teil.",
-    "status": "offen"
-  },
-  {
-    "id": "07.014.26",
-    "title": "KI und Robotik im Sozial- und Gesundheitswesen – heute verstehen, morgen gestalten.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/ki-und-robotik-im-sozial-und-gesundheitswesen--heute-verstehen-morgen-gestalten.-ea2c9e8e-c3a7-414e-",
-    "date": "07.07.2026",
-    "place": "Hotel Franz Steeler Straße 261 45138 Essen",
-    "fee": "180,00 € bzw. 160,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {

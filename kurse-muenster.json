@@ -27,15 +27,6 @@
     "id": "V000000770"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/re-zertifizierungszirkel-2026-27-3-module/v000000788",
-    "title": "Re-Zertifizierungszirkel 2026/27 (3 Module)",
-    "date": "13. Nov. 2025, 09:00 Uhr - 30. Juni 2026, 16:30 Uhr",
-    "place": "Systemische Wirkstatt Münster Münster Schifffahrter Damm 3 - 5 48145 Münster",
-    "fee": "570,00 € für Mitglieder des DiCV im Bistum Münster\n655,00 € für alle Anderen\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000788"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/paedagogik-der-kindheit-2025-2026/v000000837",
     "title": "Pädagogik der Kindheit 2025/2026",
     "date": "29. Okt. 2025, 09:00 Uhr - 11. Nov. 2026, 17:00 Uhr",
@@ -621,15 +612,6 @@
     "id": "V000001117"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/kita-finanzierung-im-tandem/v000001259",
-    "title": "Kita-Finanzierung im Tandem",
-    "date": "06. Juli 2026, 10:00 - 15:00 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "130,00 € p. P. (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n143,00 € p. P. (inkl. Verpflegung) für Partner im Bistum Münster.\n156,00 € p. P. (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001259"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/wandelstimmung-fuehrung-wirksam-gestalten-in-zeiten-permanenter-veraenderung/v000001276",
     "title": "WandelSTIMMung – Führung wirksam gestalten in Zeiten permanenter Veränderung",
     "date": "29. Sep. 2026, 09:30 Uhr - 30. Sep. 2026, 16:30 Uhr",
@@ -736,5 +718,14 @@
     "fee": "1.250,00 € (inkl. Verpflegung) für Mitglieder der DiCVen NRW\n1.350,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n1.450,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
     "id": "V000001298"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/weiterbildung-berater-in-zur-gesundheitlichen-versorgungsplanung/v000001318",
+    "title": "Weiterbildung \"Berater:in zur gesundheitlichen Versorgungsplanung",
+    "date": "28. Jan. 2027 - 04. Nov. 2027",
+    "place": "",
+    "fee": "2.175,00 € (inkl. Verpflegung) für Mitglieder des DiCV Essen und des DiCV Münster\n2.615,00 € (inkl. Verpflegung) für alle Anderen\n\nDiese Veranstaltung beinhaltet keine Übernachtungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001318"
   }
 ]
