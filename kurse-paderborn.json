@@ -42,7 +42,7 @@
     "date": "Mo., 31.08.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Bergkloster, Bestwig",
     "fee": "200,00 €",
-    "status": "Es sind noch 21 Plätze frei"
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80F2AV050",
@@ -159,7 +159,7 @@
     "date": "Mi., 23.09.2026, 14:00 Uhr - So. 27.09.2026 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Es sind noch 4 Plätze frei"
   },
   {
     "id": "T80F3BF09F",
@@ -621,15 +621,6 @@
     "status": "Es sind noch 15 Plätze frei"
   },
   {
-    "id": "U80FTB_02A",
-    "title": "Zukunftsfähige Ausrichtung der Eingliederungshilfe für Trägereinrichtungen",
-    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_02A/kursname/Zukunftsfaehige%20Ausrichtung%20der%20Eingliederungshilfe%20fuer%20Traegereinrichtungen/kategorie-id/14",
-    "date": "Di., 23.02.2027, 09:00 Uhr - Mi. 19.05.2027 17:00 Uhr",
-    "place": "Hotel Aspethera, Paderborn und weitere",
-    "fee": "0,00 €",
-    "status": "Es sind noch 20 Plätze frei"
-  },
-  {
     "id": "U80POK_02B",
     "title": "Mitarbeitendengespräche als Instrument von Führung",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02B/kursname/Mitarbeitendengespraeche%20als%20Instrument%20von%20Fuehrung/kategorie-id/7",
@@ -654,6 +645,15 @@
     "date": "Do., 04.03.2027, 09:00 Uhr - Fr. 05.03.2027 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "350,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U80FTB_03A",
+    "title": "Sozialpsychiatrie in der Praxis",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_03A/kursname/Sozialpsychiatrie%20in%20der%20Praxis/kategorie-id/14",
+    "date": "Di., 09.03.2027, 10:00 Uhr - Fr. 11.06.2027 17:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "0,00 €",
     "status": "Es sind noch 20 Plätze frei"
   },
   {

@@ -1,32 +1,5 @@
 [
   {
-    "id": "24026-034",
-    "title": "Kraft schöpfen an der Quelle des Lebens",
-    "date": "2026-07-01",
-    "place": "Bergkloster Bestwig SMMP Europa e.V. Bergkloster 1 59909 Bestwig",
-    "fee": "Intern: 590.00 Extern: 665.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5350"
-  },
-  {
-    "id": "23826-034",
-    "title": "PowerPoint-Präsentationen mit KI – kreativ, effizient, überzeugend",
-    "date": "2026-07-01",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6001"
-  },
-  {
-    "id": "24926-035",
-    "title": "Web-Seminar: kitaplus – Gruppen-App und Bildungsdokumentation",
-    "date": "2026-07-01",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6076"
-  },
-  {
     "id": "24026-016",
     "title": "Bunte Feste im Kirchenjahr",
     "date": "2026-07-03",
@@ -1278,6 +1251,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5548"
   },
   {
+    "id": "48026-031",
+    "title": "Kölner Studientage Wohnungslosenhilfe – Block II",
+    "date": "2026-10-07",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 350.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6268"
+  },
+  {
     "id": "24626-007",
     "title": "Web-Seminar: Kinder psychisch kranker Eltern(teile) in der Kita bedürfnisangemessen unterstützen",
     "date": "2026-10-08",
@@ -1699,6 +1681,15 @@
     "fee": "Intern: 75.00 Extern: 90.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5704"
+  },
+  {
+    "id": "15126-003",
+    "title": "Führungskräftetag: KI und Führung",
+    "date": "2026-11-04",
+    "place": "AI Village Studio 6 auf dem Euronova Campus An der Hasenkaule 10 50354 Hürth",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6291"
   },
   {
     "id": "23126-016",
@@ -3247,6 +3238,15 @@
     "fee": "Intern: 30.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6077"
+  },
+  {
+    "id": "24727-006",
+    "title": "Kompetent beobachten – sehen, verstehen, handeln",
+    "date": "2027-04-06",
+    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
+    "fee": "Intern: 150.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6267"
   },
   {
     "id": "13227-002",

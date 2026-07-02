@@ -311,7 +311,7 @@
     "date": "10. Aug. 2026, 09:00 Uhr - 11. Aug. 2026, 17:00 Uhr",
     "place": "Akademie Klausenhof Hamminkeln Klausenhofstraße 100 46499 Hamminkeln",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001019"
   },
   {
@@ -374,7 +374,7 @@
     "date": "02. Juli 2026, 10:00 - 16:00 Uhr",
     "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n110,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n120,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n135,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001115"
   },
   {
@@ -527,7 +527,7 @@
     "date": "02. Juli 2026, 09:00 Uhr - 17. Juli 2026, 17:00 Uhr",
     "place": "",
     "fee": "490,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n540,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n590,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001181"
   },
   {
