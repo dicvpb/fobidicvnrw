@@ -1643,7 +1643,7 @@
     "date": "2026-11-03",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5930"
   },
   {
@@ -1683,8 +1683,17 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5704"
   },
   {
+    "id": "21526-007",
+    "title": "Vielfalt verstehen – kompetent beraten",
+    "date": "2026-11-04",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6162"
+  },
+  {
     "id": "15126-003",
-    "title": "Führungskräftetag: KI und Führung",
+    "title": "Orientierung geben, Zukunft gestalten",
     "date": "2026-11-04",
     "place": "AI Village Studio 6 auf dem Euronova Campus An der Hasenkaule 10 50354 Hürth",
     "fee": "Intern: 0.00 Extern: 0.00",
@@ -1859,7 +1868,7 @@
     "date": "2026-11-10",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5484"
   },
   {
@@ -2385,15 +2394,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6191"
   },
   {
-    "id": "23426-003",
-    "title": "Web-Seminar: Kompetent führen: Arbeitsrecht",
-    "date": "2026-12-02",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 170.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5162"
-  },
-  {
     "id": "24726-096",
     "title": "Resilienz im Kindesalter",
     "date": "2026-12-02",
@@ -2410,6 +2410,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5865"
+  },
+  {
+    "id": "15126-004",
+    "title": "Orientierung geben, Zukunft gestalten",
+    "date": "2026-12-02",
+    "place": "AI Village Studio 6 auf dem Euronova Campus An der Hasenkaule 10 50354 Hürth",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6292"
   },
   {
     "id": "24626-016",
