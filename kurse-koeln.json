@@ -1,14 +1,5 @@
 [
   {
-    "id": "24026-016",
-    "title": "Bunte Feste im Kirchenjahr",
-    "date": "2026-07-03",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5313"
-  },
-  {
     "id": "21826-032",
     "title": "Geschwisterbeziehungen",
     "date": "2026-07-06",
@@ -3283,5 +3274,14 @@
     "fee": "Intern: 1200.00 Extern: 1450.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5953"
+  },
+  {
+    "id": "24727-009",
+    "title": "Kinder besser verstehen – sicher handeln im Kita-Alltag",
+    "date": "2027-11-18",
+    "place": "Jugendherberge Köln-Riehl An der Schanz 14 50735 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6326"
   }
 ]
