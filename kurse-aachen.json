@@ -63,15 +63,6 @@
     "status": "offen"
   },
   {
-    "id": "26-11.14",
-    "title": "Grundlagenschulung im QE-Projekt",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/grundlagenschulung-im-qe-projekt-0d423173-690b-49fe-9e41-1d25466aac7b",
-    "date": "28.09.2026 - 30.09.2026",
-    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
-    "fee": "125,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-7.14",
     "title": "Arbeiten mit der KiWo-Skala",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/arbeiten-mit-der-kiwo-skala-78a1604f-a18c-4c8d-8431-4511cfffdfdd",
@@ -153,21 +144,21 @@
     "status": "offen"
   },
   {
-    "id": "26-2.04",
-    "title": "Erfolgreiches Projektmanagement",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
-    "date": "03.11.2026",
-    "place": "Online",
-    "fee": "120,00",
-    "status": "offen"
-  },
-  {
     "id": "26-7.17",
     "title": "Mitarbeitergespräche kompetent führen",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
     "date": "03.11.2026",
     "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
     "fee": "110,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "26-2.04",
+    "title": "Erfolgreiches Projektmanagement",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
+    "date": "03.11.2026",
+    "place": "Online",
+    "fee": "120,00",
     "status": "offen"
   },
   {
