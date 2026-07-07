@@ -1,32 +1,5 @@
 [
   {
-    "id": "21826-032",
-    "title": "Geschwisterbeziehungen",
-    "date": "2026-07-06",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5512"
-  },
-  {
-    "id": "24726-095",
-    "title": "Ritual und Struktur ganz einfach",
-    "date": "2026-07-06",
-    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
-    "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5520"
-  },
-  {
-    "id": "24726-133",
-    "title": "Künstlich, kindgerecht, kreativ: KI in Kita und OGS",
-    "date": "2026-07-06",
-    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
-    "fee": "Intern: 399.00 Extern: 399.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5867"
-  },
-  {
     "id": "24826-032",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-07-07",
@@ -1393,6 +1366,15 @@
     "fee": "Intern: 68.00 Extern: 82.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6245"
+  },
+  {
+    "id": "24826-045",
+    "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2026-10-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 200.00 Extern: 250.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6331"
   },
   {
     "id": "24726-032",
