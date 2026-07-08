@@ -9,15 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "T80INVIA11",
-    "title": "Personalwirtschaft - Aufgaben und Ziele",
-    "url": "https://www.helfenmitprofil.de/programm/personalwirtschaft/kw/bereich/kursdetails/kurs/T80INVIA11/kursname/Personalwirtschaft%20-%20Aufgaben%20und%20Ziele/kategorie-id/9",
-    "date": "Do., 09.07.2026, 09:30 Uhr - Sa. 11.07.2026 13:00 Uhr",
-    "place": "IN VIA Akademie, Paderborn",
-    "fee": "590,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de Link zur Anmeldung im Text"
-  },
-  {
     "id": "T8011BA073",
     "title": "Strategietag - Gesundheitliche Versorgungsplanung für die letzte Lebensphase",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T8011BA073/kursname/Strategietag%20-%20Gesundheitliche%20Versorgungsplanung%20fuer%20die%20letzte%20Lebensphase/kategorie-id/2",
@@ -160,6 +151,15 @@
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
     "status": "Es sind noch 4 Plätze frei"
+  },
+  {
+    "id": "T80F3RS09I",
+    "title": "Familiengeschichte entdecken: Der Einstieg in die Ahnenforschung",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/T80F3RS09I/kursname/Familiengeschichte%20entdecken%20Der%20Einstieg%20in%20die%20Ahnenforschung/kategorie-id/12",
+    "date": "Mi., 23.09.2026, 17:00 Uhr - 19:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "0,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80F3BF09F",
@@ -385,6 +385,15 @@
     "place": "Kommende in Dortmund",
     "fee": "0,00 €",
     "status": "Keine Anmeldung möglich"
+  },
+  {
+    "id": "T80F3RT10I",
+    "title": "Oasentag für Seelsorgliche Begleitungen",
+    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80F3RT10I/kursname/Oasentag%20fuer%20Seelsorgliche%20Begleitungen/kategorie-id/1",
+    "date": "Fr., 16.10.2026, 09:00 Uhr - 16:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "70,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80INVIA03",

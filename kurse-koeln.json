@@ -1,14 +1,5 @@
 [
   {
-    "id": "24826-032",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-07-07",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5108"
-  },
-  {
     "id": "23626-001",
     "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
     "date": "2026-07-08",
@@ -320,7 +311,7 @@
     "date": "2026-09-11",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5423"
   },
   {
@@ -671,7 +662,7 @@
     "date": "2026-09-24",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5395"
   },
   {
@@ -815,7 +806,7 @@
     "date": "2026-09-29",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5237"
   },
   {
@@ -1159,6 +1150,15 @@
     "fee": "Intern: 75.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6160"
+  },
+  {
+    "id": "26826-016",
+    "title": "Aktuelle Entwicklungen der Erlebniswelt Rechtsextremismus",
+    "date": "2026-10-06",
+    "place": "siehe Ausschreibungstext oder -flyer",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6364"
   },
   {
     "id": "24926-015",
@@ -1742,7 +1742,7 @@
     "date": "2026-11-06",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 65.00 Extern: 90.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5263"
   },
   {
