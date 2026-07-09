@@ -1,32 +1,5 @@
 [
   {
-    "id": "23626-001",
-    "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
-    "date": "2026-07-08",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 85.00 Extern: 100.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5163"
-  },
-  {
-    "id": "24726-046",
-    "title": "Sing, tanze mit mir Sonne, Wind und Regen",
-    "date": "2026-07-08",
-    "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5327"
-  },
-  {
-    "id": "23826-033",
-    "title": "Die Routine macht die KI - Die Qualität mache ich!",
-    "date": "2026-07-08",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 67.00 Extern: 83.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5994"
-  },
-  {
     "id": "23826-037",
     "title": "KI im Arbeitsalltag",
     "date": "2026-07-09",
@@ -95,7 +68,7 @@
     "date": "2026-08-03",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5045"
   },
   {
@@ -1639,7 +1612,7 @@
   },
   {
     "id": "24226-020",
-    "title": "Inklusion: Das Kind im Mittelpunkt",
+    "title": "Inklusion: Das Kind im Mittelpunkt (2026/2027)",
     "date": "2026-11-04",
     "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
     "fee": "Intern: 375.00 Extern: 450.00",
@@ -3220,15 +3193,6 @@
     "fee": "Intern: 30.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6077"
-  },
-  {
-    "id": "24727-006",
-    "title": "Kompetent beobachten – sehen, verstehen, handeln",
-    "date": "2027-04-06",
-    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
-    "fee": "Intern: 150.00 Extern: 300.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6267"
   },
   {
     "id": "13227-002",
