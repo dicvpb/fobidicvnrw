@@ -1,14 +1,5 @@
 [
   {
-    "id": "23826-037",
-    "title": "KI im Arbeitsalltag",
-    "date": "2026-07-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 74.00 Extern: 88.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6032"
-  },
-  {
     "id": "24926-004",
     "title": "Web-Seminar: kitaplus – Basisschulung",
     "date": "2026-07-13",
@@ -84,7 +75,7 @@
     "id": "24826-044",
     "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-08-28",
-    "place": "",
+    "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6240"
@@ -1510,6 +1501,15 @@
     "fee": "Intern: 70.00 Extern: 85.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6155"
+  },
+  {
+    "id": "24226-026",
+    "title": "Qualifizierung gemäß §3 Abs. 2 zum Einsatz auf Fachkraft- oder Ergänzungskraftstunden",
+    "date": "2026-10-27",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 1700.00 Extern: 1800.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6388"
   },
   {
     "id": "23126-020",
@@ -3220,14 +3220,5 @@
     "fee": "Intern: 1200.00 Extern: 1450.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5953"
-  },
-  {
-    "id": "24727-009",
-    "title": "Kinder besser verstehen – sicher handeln im Kita-Alltag",
-    "date": "2027-11-18",
-    "place": "Jugendherberge Köln-Riehl An der Schanz 14 50735 Köln",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6326"
   }
 ]
