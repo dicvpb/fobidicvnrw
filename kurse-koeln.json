@@ -1,14 +1,5 @@
 [
   {
-    "id": "24926-004",
-    "title": "Web-Seminar: kitaplus – Basisschulung",
-    "date": "2026-07-13",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5015"
-  },
-  {
     "id": "23826-027",
     "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
     "date": "2026-07-16",
@@ -50,7 +41,7 @@
     "date": "2026-07-27",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5846"
   },
   {
