@@ -158,7 +158,7 @@
     "date": "2026-09-07",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5645"
   },
   {
@@ -1116,6 +1116,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6364"
   },
   {
+    "id": "15526-004",
+    "title": "„Vorurteile? – ich doch nicht!“ – Wie wir unseren Blick weiten können, um neue Zielgruppen zu erreichen.",
+    "date": "2026-10-06",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 50.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6496"
+  },
+  {
     "id": "24926-015",
     "title": "kitaplus – Basisschulung",
     "date": "2026-10-07",
@@ -1208,7 +1217,7 @@
   {
     "id": "24926-029",
     "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
-    "date": "2026-10-08",
+    "date": "",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
