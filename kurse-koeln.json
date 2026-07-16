@@ -1,5 +1,14 @@
 [
   {
+    "id": "24926-029",
+    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
+    "date": "2026-10-08",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6029"
+  },
+  {
     "id": "23826-027",
     "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
     "date": "2026-07-16",
@@ -41,7 +50,7 @@
     "date": "2026-07-27",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5846"
   },
   {
@@ -115,6 +124,15 @@
     "fee": "Intern: 45.00 Extern: 54.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6136"
+  },
+  {
+    "id": "26826-017",
+    "title": "Tradwives, Stay-at-home-Girls, Momfluencerinnen",
+    "date": "2026-09-02",
+    "place": "siehe Ausschreibungstext oder -flyer",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6531"
   },
   {
     "id": "17026-008",
@@ -1213,15 +1231,6 @@
     "fee": "Intern: 175.00 Extern: 195.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5677"
-  },
-  {
-    "id": "24926-029",
-    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
-    "date": "",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6029"
   },
   {
     "id": "23826-038",

@@ -77,7 +77,7 @@
     "date": "16. Juli 2026, 09:00 - 15:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "95,00 € für Mitgliedseinrichtungen des DiCV Münster\n105,00 € für Partner im Bistum Münster\n115,00 € für Nicht-Mitglieder (alle Anderen)",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000950"
   },
   {
@@ -374,7 +374,7 @@
     "date": "19. Mai 2026, 09:30 Uhr - 15. Juni 2027, 15:00 Uhr",
     "place": "",
     "fee": "1.250,00 € (inkl. Verpflegung) für Mitglieder des DiCV Paderborn und des DiCV Münster\n1.350,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n1.450,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001079"
   },
   {
@@ -594,15 +594,6 @@
     "id": "V000001276"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/kita-finanzierung-im-tandem/v000001279",
-    "title": "Kita-Finanzierung im Tandem",
-    "date": "15. Juli 2026, 10:00 - 15:00 Uhr",
-    "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
-    "fee": "130,00 € p. P. (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n143,00 € p. P. (inkl. Verpflegung) für Partner im Bistum Münster.\n156,00 € p. P. (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001279"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/internationale-mitarbeitende-und-auszubildende-aus-drittstaaten-in-der-pflege/v000001131",
     "title": "Internationale Mitarbeitende und Auszubildende aus Drittstaaten in der Pflege",
     "date": "22. Sep. 2026, 12:30 - 17:00 Uhr",
@@ -610,15 +601,6 @@
     "fee": "98,00 € für Mitgliedseinrichtungen des DiCV Münster\n108,00 € für Partner im Bistum Münster\n118,00 € für Nicht-Mitglieder (alle Anderen)",
     "status": "Plätze verfügbar",
     "id": "V000001131"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/online-seminar-avr-caritas-2027-die-ganz-grosse-tarifreform/v000001292",
-    "title": "Online-Seminar „AVR Caritas 2027 – die ganz große Tarifreform“",
-    "date": "15. Juli 2026, 09:00 - 13:00 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "75,00 € für Mitglieder des DiCV im Bistum Münster.\n85,00 € für Partner im Bistum Münster.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001292"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/ki-basisseminar/v000001294",
