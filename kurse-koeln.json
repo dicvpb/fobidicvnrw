@@ -1,32 +1,5 @@
 [
   {
-    "id": "24926-029",
-    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
-    "date": "2026-10-08",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6029"
-  },
-  {
-    "id": "23826-027",
-    "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
-    "date": "2026-07-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5942"
-  },
-  {
-    "id": "26826-014",
-    "title": "FIT FÜR DEMOKRATIE!",
-    "date": "2026-07-16",
-    "place": "siehe Ausschreibungstext oder -flyer",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6187"
-  },
-  {
     "id": "24926-007",
     "title": "Web-Seminar: kitaplus – Eltern App",
     "date": "2026-07-17",
@@ -1231,6 +1204,15 @@
     "fee": "Intern: 175.00 Extern: 195.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5677"
+  },
+  {
+    "id": "24926-029",
+    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
+    "date": "2026-10-08",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6029"
   },
   {
     "id": "23826-038",

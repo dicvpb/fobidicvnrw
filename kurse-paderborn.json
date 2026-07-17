@@ -96,7 +96,7 @@
     "date": "Mo., 21.09.2026, 09:00 Uhr - Di. 22.09.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80Z1BFO3C",
@@ -177,7 +177,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 25 Plätze frei"
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -402,7 +402,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 74 Plätze frei"
+    "status": "Es sind noch 73 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -474,7 +474,7 @@
     "date": "Do., 19.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "150,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80INVIA08",
@@ -603,12 +603,12 @@
     "status": "Es sind noch 20 Plätze frei"
   },
   {
-    "id": "U8031BE025",
+    "id": "U8031BE028",
     "title": "VERGESSENE INKLUSIONSKINDER",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE025/kursname/VERGESSENE%20INKLUSIONSKINDER/kategorie-id/10",
-    "date": "Do., 11.02.2027, 09:30 Uhr - 16:30 Uhr",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE028/kursname/VERGESSENE%20INKLUSIONSKINDER/kategorie-id/10",
+    "date": "Do., 11.02.2027, 09:30 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "350,00 €",
+    "fee": "280,00 €",
     "status": "Es sind noch 18 Plätze frei"
   },
   {

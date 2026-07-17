@@ -72,15 +72,6 @@
     "id": "V000000926"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/ergebniserfassung-und-feedbackberichte/v000000950",
-    "title": "Ergebniserfassung und Feedbackberichte",
-    "date": "16. Juli 2026, 09:00 - 15:30 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "95,00 € für Mitgliedseinrichtungen des DiCV Münster\n105,00 € für Partner im Bistum Münster\n115,00 € für Nicht-Mitglieder (alle Anderen)",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000950"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/umgang-mit-stress-und-belastung/v000000954",
     "title": "Umgang mit Stress und Belastung",
     "date": "07. Okt. 2026, 09:00 - 16:30 Uhr",
@@ -509,7 +500,7 @@
     "date": "02. Juli 2026, 09:00 Uhr - 17. Juli 2026, 17:00 Uhr",
     "place": "",
     "fee": "490,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n540,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n590,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001181"
   },
   {
@@ -655,5 +646,59 @@
     "fee": "2.175,00 € (inkl. Verpflegung) für Mitglieder des DiCV Essen und des DiCV Münster\n2.615,00 € (inkl. Verpflegung) für alle Anderen\n\nDiese Veranstaltung beinhaltet keine Übernachtungen.",
     "status": "Plätze verfügbar",
     "id": "V000001318"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/sicher-vor-der-kamera-krisenkommunikation-im-interview/v000001327",
+    "title": "Sicher vor der Kamera - Krisenkommunikation im Interview",
+    "date": "05. Nov. 2026, 09:30 - 17:30 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
+    "status": "Plätze verfügbar",
+    "id": "V000001327"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/sicher-vor-der-kamera-krisenkommunikation-im-interview/v000001326",
+    "title": "Sicher vor der Kamera - Krisenkommunikation im Interview",
+    "date": "10. Sep. 2026, 09:30 - 17:30 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
+    "status": "Plätze verfügbar",
+    "id": "V000001326"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/von-der-idee-zur-anwendung-ki-workathon/v000001328",
+    "title": "Von der Idee zur Anwendung: KI‑Workathon",
+    "date": "12. Nov. 2026, 09:30 - 16:30 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
+    "status": "Plätze verfügbar",
+    "id": "V000001328"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/praxisupdate-dienstrecht-2026/v000001169",
+    "title": "PraxisUpdate Dienstrecht 2026",
+    "date": "08. Sep. 2026, 09:00 - 12:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "70,00 € für Mitglieder",
+    "status": "Plätze verfügbar",
+    "id": "V000001169"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/praxisupdate-dienstrecht-2026/v000000867",
+    "title": "PraxisUpdate Dienstrecht 2026",
+    "date": "04. Sep. 2026, 09:00 - 13:00 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "95,00 € inkl. Verpflegung für Mitglieder",
+    "status": "Plätze verfügbar",
+    "id": "V000000867"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/praxisupdate-dienstrecht-2026/v000001168",
+    "title": "PraxisUpdate Dienstrecht 2026",
+    "date": "01. Sep. 2026, 09:00 - 12:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "70,00 € für Mitglieder",
+    "status": "Plätze verfügbar",
+    "id": "V000001168"
   }
 ]
