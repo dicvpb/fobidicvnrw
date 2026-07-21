@@ -545,7 +545,7 @@
     "date": "2026-09-22",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5934"
   },
   {
@@ -2239,6 +2239,15 @@
     "fee": "Intern: 45.00 Extern: 54.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6143"
+  },
+  {
+    "id": "23826-053",
+    "title": "KI, der Sie vertrauen können",
+    "date": "2026-11-26",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 68.00 Extern: 82.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6599"
   },
   {
     "id": "24626-046",

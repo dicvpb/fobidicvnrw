@@ -33,7 +33,7 @@
     "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -177,7 +177,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 23 Plätze frei"
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -457,6 +457,15 @@
     "place": "Onlineangebot",
     "fee": "80,00 €",
     "status": "Es sind noch 22 Plätze frei"
+  },
+  {
+    "id": "T80FIDI11A",
+    "title": "Einführungskurs strategisches Fundraising",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80FIDI11A/kursname/Einfuehrungskurs%20strategisches%20Fundraising/kategorie-id/",
+    "date": "Mo., 16.11.2026, 09:30 Uhr - 16:30 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "200,00 €",
+    "status": "Es sind noch 25 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
