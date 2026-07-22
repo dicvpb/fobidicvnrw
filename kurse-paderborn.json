@@ -69,7 +69,7 @@
     "date": "Di., 15.09.2026, 09:00 Uhr - Mi. 16.09.2026 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "400,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80F3BF09G",
@@ -393,7 +393,7 @@
     "date": "Do., 29.10.2026, 18:00 Uhr - Mo. 02.11.2026 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "590,00 €",
-    "status": "Es sind noch 2 Plätze frei"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80F2AV054",
