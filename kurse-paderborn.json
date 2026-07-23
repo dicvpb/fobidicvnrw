@@ -33,7 +33,7 @@
     "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 10 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -96,7 +96,7 @@
     "date": "Mo., 21.09.2026, 09:00 Uhr - Di. 22.09.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 17 Plätze frei"
   },
   {
     "id": "T80Z1BFO3C",
@@ -115,6 +115,15 @@
     "place": "Kommende Dortmund",
     "fee": "130,00 €",
     "status": "Es sind noch 10 Plätze frei"
+  },
+  {
+    "id": "T80F3RT09E",
+    "title": "12. Diözesantreffen für Seelsorgliche Begleitungen",
+    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80F3RT09E/kursname/12%20Dioezesantreffen%20fuer%20Seelsorgliche%20Begleitungen/kategorie-id/1",
+    "date": "Di., 22.09.2026, 09:30 Uhr - 16:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "0,00 €",
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80F3BF09C",
@@ -177,7 +186,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -375,7 +384,7 @@
     "date": "Fr., 16.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "70,00 €",
-    "status": "Es sind noch 17 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80INVIA03",
@@ -402,7 +411,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 73 Plätze frei"
+    "status": "Es sind noch 72 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -615,7 +624,7 @@
     "id": "U8031BE028",
     "title": "VERGESSENE INKLUSIONSKINDER",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE028/kursname/VERGESSENE%20INKLUSIONSKINDER/kategorie-id/10",
-    "date": "Do., 11.02.2027, 09:30 Uhr - 16:00 Uhr",
+    "date": "Do., 11.02.2027, 09:30 Uhr - Do. 04.03.2027 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "280,00 €",
     "status": "Es sind noch 18 Plätze frei"
