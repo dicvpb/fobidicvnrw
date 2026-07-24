@@ -1,14 +1,5 @@
 [
   {
-    "id": "24726-128",
-    "title": "Neu in der Gruppenleitung",
-    "date": "2026-07-23",
-    "place": "Familienzentrum Heidepänz Uckendorfer Str. 53 53844 Troisdorf",
-    "fee": "Intern: 110.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5651"
-  },
-  {
     "id": "31226-008",
     "title": "Web-Seminar: Basisschulung – Suizidalen Krisen begegnen",
     "date": "2026-07-27",
@@ -2210,7 +2201,7 @@
     "date": "2026-11-26",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4972"
   },
   {

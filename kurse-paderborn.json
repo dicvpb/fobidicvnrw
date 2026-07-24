@@ -24,7 +24,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 30 Plätze frei"
+    "status": "Es sind noch 26 Plätze frei"
   },
   {
     "id": "T80F3BF09H",
@@ -151,15 +151,6 @@
     "place": "Onlineangebot",
     "fee": "0,00 €",
     "status": "Es sind noch 20 Plätze frei"
-  },
-  {
-    "id": "T80F3BF09F",
-    "title": "Generationen: unterschiedlich geprägt – gemeinsam wirksam!",
-    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF09F/kursname/Generationen%20unterschiedlich%20gepraegt%20gemeinsam%20wirksam/kategorie-id/2",
-    "date": "Fr., 25.09.2026, 09:30 Uhr - 14:00 Uhr",
-    "place": "Forum St. Liborius Tagungshaus",
-    "fee": "170,00 €",
-    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80F3RS09A",
@@ -411,7 +402,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 72 Plätze frei"
+    "status": "Es sind noch 69 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -438,7 +429,7 @@
     "date": "Mi., 04.11.2026, 08:30 Uhr - 15:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T80F3BF11B",
