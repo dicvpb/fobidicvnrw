@@ -311,7 +311,7 @@
     "date": "05. Aug. 2026, 09:00 - 17:00 Uhr",
     "place": "Bürgerbahnhof Dorsten Dorsten Johannes-Rau-Platz 1 46282 Dorsten",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Wenige Plätze",
     "id": "V000001024"
   },
   {
@@ -691,5 +691,50 @@
     "fee": "70,00 € für Mitglieder",
     "status": "Plätze verfügbar",
     "id": "V000001168"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/autismus-erkennen-verstehen-helfen/v000001367",
+    "title": "Autismus - Erkennen, Verstehen, Helfen",
+    "date": "05. Nov. 2026, 09:00 - 12:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "69,00€ (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n76,00€ (inkl. Verpflegung) für Partner im Bistum Münster.\n83,00€ (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001367"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/fuehren-in-bewegten-zeiten/v000001290",
+    "title": "Führen in bewegten Zeiten",
+    "date": "13. Apr. 2027, 09:00 Uhr - 14. Apr. 2027, 16:30 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001290"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/fallwerkstatt-stellenbewertung-bewertungspraxis-gemeinsam-anwenden-und-reflektieren/v000001395",
+    "title": "Fallwerkstatt Stellenbewertung - Bewertungspraxis gemeinsam anwenden und reflektieren",
+    "date": "15. Okt. 2026, 09:00 - 13:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "95 € für Mitglieder\n115 € für alle andere",
+    "status": "Plätze verfügbar",
+    "id": "V000001395"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/vertiefung-stellenbewertung-und-eingruppierung-bewertungsstandards-und-tarifrechtliche-grundlagen/v000001394",
+    "title": "Vertiefung Stellenbewertung und Eingruppierung - Bewertungsstandards und tarifrechtliche Grundlagen",
+    "date": "12. Okt. 2026, 09:00 - 13:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "95 € für Mitglieder\n115 € für alle andere",
+    "status": "Plätze verfügbar",
+    "id": "V000001394"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/stellenbeschreibungen-professionell-erstellen/v000001393",
+    "title": "Stellenbeschreibungen professionell erstellen",
+    "date": "07. Okt. 2026, 09:00 - 13:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "95 € für Mitglieder\n115 € für alle andere",
+    "status": "Plätze verfügbar",
+    "id": "V000001393"
   }
 ]
