@@ -33,7 +33,7 @@
     "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 7 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -126,6 +126,15 @@
     "status": "Es sind noch 15 Plätze frei"
   },
   {
+    "id": "T80TEST7",
+    "title": "Test 7",
+    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80TEST7/kursname/Test%207/kategorie-id/1",
+    "date": "Di., 22.09.2026, 09:30 Uhr - 16:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "0,00 €",
+    "status": "Es sind noch 50 Plätze frei"
+  },
+  {
     "id": "T80F3BF09C",
     "title": "Sich selbst und andere führen",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF09C/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
@@ -141,7 +150,7 @@
     "date": "Mi., 23.09.2026, 14:00 Uhr - So. 27.09.2026 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "T80F3RS09I",
@@ -177,7 +186,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -258,7 +267,7 @@
     "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 21 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T80F3RT10A",
@@ -699,7 +708,7 @@
     "date": "Di., 20.04.2027, 09:00 Uhr - Mi. 21.04.2027 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "220,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "U8031BE900",
@@ -744,7 +753,7 @@
     "date": "Mi., 09.06.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "U8031BE022",
