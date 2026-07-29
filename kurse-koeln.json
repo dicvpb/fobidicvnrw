@@ -644,7 +644,7 @@
     "date": "2026-09-28",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 420.00 Extern: 490.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5057"
   },
   {
@@ -1359,6 +1359,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6141"
   },
   {
+    "id": "48026-032",
+    "title": "Hearing: Arbeitsausbeutung erkennen - und handeln!",
+    "date": "2026-10-15",
+    "place": "Karl Rahner Akademie Jabachstraße 4-8 50676 Köln",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6655"
+  },
+  {
     "id": "24026-017",
     "title": "Bunte Feste im Kirchenjahr",
     "date": "2026-10-16",
@@ -1609,15 +1618,6 @@
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5333"
-  },
-  {
-    "id": "24626-014",
-    "title": "Malen mag ich nicht!",
-    "date": "2026-11-05",
-    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
-    "fee": "Intern: 310.00 Extern: 360.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5379"
   },
   {
     "id": "21826-027",

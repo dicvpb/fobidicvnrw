@@ -123,7 +123,7 @@
     "date": "Di., 22.09.2026, 09:30 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "0,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80TEST7",
@@ -186,7 +186,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 17 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -267,7 +267,7 @@
     "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80F3RT10A",
@@ -644,7 +644,7 @@
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02B/kursname/Mitarbeitendengespraeche%20als%20Instrument%20von%20Fuehrung/kategorie-id/7",
     "date": "Mi., 24.02.2027, 09:00 Uhr - Do. 25.02.2027 17:00 Uhr",
     "place": "Hotel Susato, Soest",
-    "fee": "450,00 €",
+    "fee": "490,00 €",
     "status": "Es sind noch 15 Plätze frei"
   },
   {
@@ -671,7 +671,7 @@
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03A/kursname/Kommunikation%20im%20Office/kategorie-id/7",
     "date": "Di., 09.03.2027, 09:00 Uhr - Mi. 10.03.2027 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
-    "fee": "430,00 €",
+    "fee": "490,00 €",
     "status": "Es sind noch 14 Plätze frei"
   },
   {
@@ -699,6 +699,15 @@
     "date": "Mi., 17.03.2027, 09:00 Uhr - Do. 18.03.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "400,00 €",
+    "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "U80POK_04A",
+    "title": "Die Führungskraft als Mediator*in",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_04A/kursname/Die%20Fuehrungskraft%20als%20Mediatorin/kategorie-id/7",
+    "date": "Mi., 14.04.2027, 09:00 Uhr - Do. 15.04.2027 17:00 Uhr",
+    "place": "Katholische Akademie, Schwerte",
+    "fee": "490,00 €",
     "status": "Es sind noch 15 Plätze frei"
   },
   {
