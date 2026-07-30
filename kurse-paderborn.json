@@ -24,7 +24,7 @@
     "date": "Mo., 31.08.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 26 Plätze frei"
+    "status": "Es sind noch 24 Plätze frei"
   },
   {
     "id": "T80F3BF09H",
@@ -33,7 +33,7 @@
     "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 7 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "T80F2AV051",
@@ -186,7 +186,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 17 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -286,6 +286,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
+  },
+  {
+    "id": "T80F3RM10G",
+    "title": "17. Paderborner Caritas.diskurs Ethik",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3RM10G/kursname/17%20Paderborner%20Caritasdiskurs%20Ethik/kategorie-id/2",
+    "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "120,00 €",
+    "status": "Es sind noch 70 Plätze frei"
   },
   {
     "id": "T8031BE010",
@@ -635,7 +644,7 @@
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02A/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
     "date": "Mi., 17.02.2027, 09:00 Uhr - Do. 18.02.2027 17:00 Uhr",
     "place": "Liborianum, Paderborn",
-    "fee": "470,00 €",
+    "fee": "490,00 €",
     "status": "Es sind noch 15 Plätze frei"
   },
   {
