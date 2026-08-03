@@ -60,7 +60,7 @@
     "date": "Di., 15.09.2026, 09:00 Uhr - Mi. 16.09.2026 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "400,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80F3BF09G",
@@ -177,7 +177,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "T80INVIA09",
@@ -285,7 +285,7 @@
     "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "120,00 €",
-    "status": "Es sind noch 70 Plätze frei"
+    "status": "Es sind noch 69 Plätze frei"
   },
   {
     "id": "T8031BE010",
@@ -321,7 +321,7 @@
     "date": "Di., 13.10.2026, 09:00 Uhr - 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "T80FIDI10A",
@@ -457,6 +457,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "440,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
+  },
+  {
+    "id": "T80KOM_11A",
+    "title": "LinkedIn für Referent*innen, Fach- und Führungskräfte",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80KOM_11A/kursname/LinkedIn%20fuer%20Referentinnen%20Fach-%20und%20Fuehrungskraefte/kategorie-id/7",
+    "date": "Di., 10.11.2026, 09:00 Uhr - Di. 17.11.2026 12:00 Uhr",
+    "place": "Onlineangebot",
+    "fee": "160,00 €",
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T8031BE227",
