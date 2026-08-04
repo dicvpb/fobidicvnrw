@@ -1,14 +1,5 @@
 [
   {
-    "id": "24826-008",
-    "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-08-03",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5045"
-  },
-  {
     "id": "26826-015",
     "title": "Wie umgehen mit Desinformation?",
     "date": "2026-08-06",
@@ -25,15 +16,6 @@
     "fee": "Intern: 80.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6240"
-  },
-  {
-    "id": "24726-100",
-    "title": "Manege frei für unsere Kleinsten",
-    "date": "2026-09-01",
-    "place": "Pfarrsaal der Kath. Kath. Kirchengemeinde St. Franziskus An St. Franziskus 2 50739 Köln",
-    "fee": "Intern: 95.00 Extern: 120.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5526"
   },
   {
     "id": "26526-011",
@@ -113,17 +95,8 @@
     "date": "2026-09-07",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5645"
-  },
-  {
-    "id": "23326-022",
-    "title": "Prüfungsvorbereitungskurs Kaufleute für Büromanagement Teil 1",
-    "date": "2026-09-07",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 250.00 Extern: 300.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5666"
   },
   {
     "id": "26826-002",
@@ -149,7 +122,7 @@
     "date": "2026-09-08",
     "place": "Katholische Akademie Schwerte Bergerhofweg 24 58239 Schwerte",
     "fee": "Intern: 675.00 Extern: 800.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5205"
   },
   {
@@ -279,15 +252,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5277"
   },
   {
-    "id": "23926-027",
-    "title": "Führen von Spezialistinnen und Spezialisten",
-    "date": "2026-09-15",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5550"
-  },
-  {
     "id": "23926-030",
     "title": "Web-Seminar: Moderation und Sitzungsgestaltung für Online- und Präsenz-Termine",
     "date": "2026-09-15",
@@ -313,15 +277,6 @@
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5419"
-  },
-  {
-    "id": "23926-021",
-    "title": "Web-Seminar: Onboarding in Häppchen I",
-    "date": "2026-09-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 50.00 Extern: 60.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5538"
   },
   {
     "id": "15126-002",
@@ -428,7 +383,7 @@
     "date": "2026-09-21",
     "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
     "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5393"
   },
   {
@@ -828,15 +783,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5360"
   },
   {
-    "id": "24626-017",
-    "title": "Sicherheit in der Beantragung von Leistungen für Kinder mit (drohender) Behinderung",
-    "date": "2026-10-01",
-    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5383"
-  },
-  {
     "id": "24626-022",
     "title": "Hoppla, hier komm ich!",
     "date": "2026-10-01",
@@ -970,15 +916,6 @@
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6025"
-  },
-  {
-    "id": "16026-002",
-    "title": "Anträge stellen – KI nutzen",
-    "date": "2026-10-06",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 60.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4974"
   },
   {
     "id": "48026-011",
