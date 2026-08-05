@@ -14,7 +14,7 @@
     "date": "2026-08-28",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6240"
   },
   {
@@ -284,7 +284,7 @@
     "date": "2026-09-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5853"
   },
   {
@@ -304,6 +304,15 @@
     "fee": "Intern: 75.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6146"
+  },
+  {
+    "id": "25026-028",
+    "title": "Microsoft 365 - Was steckt drin – was bringt es mir?",
+    "date": "2026-09-16",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 55.00 Extern: 66.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6734"
   },
   {
     "id": "23126-004",
@@ -502,6 +511,15 @@
     "fee": "Intern: 60.00 Extern: 80.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5728"
+  },
+  {
+    "id": "25026-025",
+    "title": "Excel Level 1",
+    "date": "2026-09-23",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 350.00 Extern: 420.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6731"
   },
   {
     "id": "24026-023",
@@ -711,6 +729,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5815"
   },
   {
+    "id": "25026-029",
+    "title": "Kollaboration mit Microsoft Teams",
+    "date": "2026-09-29",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6735"
+  },
+  {
     "id": "23126-014",
     "title": "Web-Seminar: Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
     "date": "2026-09-30",
@@ -772,6 +799,15 @@
     "fee": "Intern: 450.00 Extern: 550.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5810"
+  },
+  {
+    "id": "25026-026",
+    "title": "Optimales Zeitmanagement und bessere Selbstorganisation mit Outlook",
+    "date": "2026-09-30",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6732"
   },
   {
     "id": "24726-057",
@@ -1269,6 +1305,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6140"
   },
   {
+    "id": "25026-030",
+    "title": "Mail oder Chat – Outlook oder MS Teams. Was nehme ich wann?",
+    "date": "2026-10-14",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 55.00 Extern: 66.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6736"
+  },
+  {
     "id": "24026-008",
     "title": "Mit Kindern über Gott sprechen – leicht, lebendig",
     "date": "2026-10-15",
@@ -1755,6 +1800,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5998"
   },
   {
+    "id": "25026-031",
+    "title": "MS Planner – Der heldenhafte Aufgaben-Manager",
+    "date": "2026-11-12",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6737"
+  },
+  {
     "id": "24926-008",
     "title": "Web-Seminar: kitaplus – Eltern App",
     "date": "2026-11-13",
@@ -2041,6 +2095,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5864"
+  },
+  {
+    "id": "25026-027",
+    "title": "Web-Seminar: Funktionen clever nutzen mit Excel",
+    "date": "2026-11-23",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6733"
   },
   {
     "id": "48026-005",
