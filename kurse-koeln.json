@@ -5,7 +5,7 @@
     "date": "2026-08-06",
     "place": "siehe Ausschreibungstext oder -flyer",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6246"
   },
   {
@@ -320,7 +320,7 @@
     "date": "2026-09-17",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4970"
   },
   {
@@ -1161,6 +1161,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6056"
   },
   {
+    "id": "25026-033",
+    "title": "Orientierung im Speicher-Labyrint von OneDrive, SharePoint, Teams & Co.",
+    "date": "2026-10-08",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 42.00 Extern: 50.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6740"
+  },
+  {
     "id": "23326-012",
     "title": "Menschen mit psychischen Beeinträchtigungen begleiten – Vertiefungsseminar",
     "date": "2026-10-09",
@@ -1348,6 +1357,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6655"
+  },
+  {
+    "id": "24826-046",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2026-10-15",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6738"
   },
   {
     "id": "24026-017",
@@ -1582,6 +1600,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6291"
+  },
+  {
+    "id": "25026-034",
+    "title": "Microsoft OneNote – Alles. An. Einem. Ort.",
+    "date": "2026-11-04",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6741"
   },
   {
     "id": "23126-016",
@@ -2268,6 +2295,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=4995"
   },
   {
+    "id": "25026-032",
+    "title": "Outlook, ToDo und Planner perfekt nutzen",
+    "date": "2026-11-30",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 55.00 Extern: 66.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6739"
+  },
+  {
     "id": "24526-004",
     "title": "Kompetente Gesprächsführung",
     "date": "2026-12-01",
@@ -2471,7 +2507,7 @@
     "date": "2026-12-12",
     "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
     "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5591"
   },
   {

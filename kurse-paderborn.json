@@ -168,7 +168,7 @@
     "date": "Mo., 28.09.2026, 11:00 Uhr - Do. 01.10.2026 13:00 Uhr",
     "place": "Kloster Marienrode, Hildesheim",
     "fee": "550,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "T80CKQV09B",
@@ -195,7 +195,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80INVIA09",
@@ -241,15 +241,6 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "25,00 €",
     "status": "Anmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
-  },
-  {
-    "id": "T80F3BF10E",
-    "title": "Mehr als gute Absichten – diskriminierungssensibel handeln!",
-    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3BF10E/kursname/Mehr%20als%20gute%20Absichten%20diskriminierungssensibel%20handeln/kategorie-id/2",
-    "date": "Mi., 07.10.2026, 09:30 Uhr - 16:00 Uhr",
-    "place": "Forum St. Liborius Tagungshaus",
-    "fee": "190,00 €",
-    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80KEFB10A",
@@ -348,7 +339,7 @@
     "date": "Di., 13.10.2026, 09:30 Uhr - Mi. 14.10.2026 13:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "470,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 21 Plätze frei"
   },
   {
     "id": "T8031BE003",
@@ -429,7 +420,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 69 Plätze frei"
+    "status": "Es sind noch 68 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
