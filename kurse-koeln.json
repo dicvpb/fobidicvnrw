@@ -1,14 +1,5 @@
 [
   {
-    "id": "26826-015",
-    "title": "Wie umgehen mit Desinformation?",
-    "date": "2026-08-06",
-    "place": "siehe Ausschreibungstext oder -flyer",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6246"
-  },
-  {
     "id": "24826-044",
     "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-08-28",
@@ -16,6 +7,15 @@
     "fee": "Intern: 80.00 Extern: 95.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6240"
+  },
+  {
+    "id": "24826-047",
+    "title": "Web-Seminar: Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2026-08-31",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6744"
   },
   {
     "id": "26526-011",
@@ -95,7 +95,7 @@
     "date": "2026-09-07",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5645"
   },
   {
@@ -167,7 +167,7 @@
     "date": "2026-09-10",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 520.00 Extern: 595.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5463"
   },
   {
@@ -320,7 +320,7 @@
     "date": "2026-09-17",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4970"
   },
   {
@@ -898,15 +898,6 @@
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5166"
-  },
-  {
-    "id": "24626-028",
-    "title": "Sensorische Integrationsstörung und Wahrnehmungsbesonderheiten",
-    "date": "2026-10-05",
-    "place": "CVJM Düsseldorf Graf-Adolf-Str. 102 40210 Düsseldorf",
-    "fee": "Intern: 225.00 Extern: 300.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5399"
   },
   {
     "id": "23326-018",
