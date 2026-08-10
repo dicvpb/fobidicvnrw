@@ -95,7 +95,7 @@
     "date": "2026-09-07",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5645"
   },
   {
@@ -684,6 +684,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6188"
   },
   {
+    "id": "25026-035",
+    "title": "Excel – Low Level",
+    "date": "2026-09-28",
+    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 216.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6762"
+  },
+  {
     "id": "48026-014",
     "title": "Fachlich fit – sozial und kommunikativ kompetent",
     "date": "2026-09-29",
@@ -1162,7 +1171,7 @@
   },
   {
     "id": "25026-033",
-    "title": "Orientierung im Speicher-Labyrint von OneDrive, SharePoint, Teams & Co.",
+    "title": "Orientierung im Speicher-Labyrinth von OneDrive, SharePoint, Teams & Co.",
     "date": "2026-10-08",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 42.00 Extern: 50.00",
@@ -1755,6 +1764,24 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6040"
   },
   {
+    "id": "25026-036",
+    "title": "PIVOTTABELLEN: Daten effizient auswerten",
+    "date": "2026-11-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6763"
+  },
+  {
+    "id": "25026-037",
+    "title": "Die große Excel-Filtershow",
+    "date": "2026-11-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 38.00 Extern: 45.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6764"
+  },
+  {
     "id": "23626-002",
     "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
     "date": "2026-11-10",
@@ -2219,7 +2246,7 @@
     "date": "2026-11-26",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4972"
   },
   {

@@ -33,7 +33,7 @@
     "date": "Mi., 02.09.2026, 10:00 Uhr - Fr. 04.09.2026 14:30 Uhr",
     "place": "VdK Kur- und Erholungshotel zum Hallenberg",
     "fee": "400,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80INVIA07",
@@ -150,7 +150,7 @@
     "date": "Mi., 23.09.2026, 14:00 Uhr - So. 27.09.2026 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80F3RS09I",
@@ -339,7 +339,7 @@
     "date": "Di., 13.10.2026, 09:30 Uhr - Mi. 14.10.2026 13:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "470,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T8031BE003",
@@ -357,7 +357,7 @@
     "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 25 Plätze frei"
+    "status": "Es sind noch 24 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -420,7 +420,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 68 Plätze frei"
+    "status": "Es sind noch 69 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -657,6 +657,15 @@
     "status": "Es sind noch 15 Plätze frei"
   },
   {
+    "id": "U80FTB_02A",
+    "title": "Zukunftsfähige Ausrichtung der EGH für Trägereinrichtungen - Modul 1",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/U80FTB_02A/kursname/Zukunftsfaehige%20Ausrichtung%20der%20EGH%20fuer%20Traegereinrichtungen%20-%20Modul%201/kategorie-id/",
+    "date": "Di., 23.02.2027, 09:00 Uhr - Mi. 24.02.2027 17:00 Uhr",
+    "place": "Hotel Aspethera, Paderborn",
+    "fee": "700,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "U80POK_02B",
     "title": "Mitarbeitendengespräche als Instrument von Führung",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02B/kursname/Mitarbeitendengespraeche%20als%20Instrument%20von%20Fuehrung/kategorie-id/7",
@@ -720,6 +729,15 @@
     "status": "Es sind noch 14 Plätze frei"
   },
   {
+    "id": "U80FTB_04A",
+    "title": "Zukunftsfähige Ausrichtung der EGH für Trägereinrichtungen - Modul 2",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_04A/kursname/Zukunftsfaehige%20Ausrichtung%20der%20EGH%20fuer%20Traegereinrichtungen%20-%20Modul%202/kategorie-id/14",
+    "date": "Mi., 07.04.2027, 09:00 Uhr - Do. 08.04.2027 17:00 Uhr",
+    "place": "Hotel Aspethera, Paderborn",
+    "fee": "700,00 €",
+    "status": "Anmeldung über Modul 1"
+  },
+  {
     "id": "U80POK_04A",
     "title": "Die Führungskraft als Mediator*in",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_04A/kursname/Die%20Fuehrungskraft%20als%20Mediatorin/kategorie-id/7",
@@ -772,6 +790,15 @@
     "place": "Onlineangebot",
     "fee": "80,00 €",
     "status": "Es sind noch 24 Plätze frei"
+  },
+  {
+    "id": "U80FTB_05A",
+    "title": "Zukunftsfähige Ausrichtung der EGH für Trägereinrichtungen - Modul 3",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_05A/kursname/Zukunftsfaehige%20Ausrichtung%20der%20EGH%20fuer%20Traegereinrichtungen%20-%20Modul%203/kategorie-id/14",
+    "date": "Di., 18.05.2027, 09:00 Uhr - Mi. 19.05.2027 17:00 Uhr",
+    "place": "Hotel Aspethera, Paderborn",
+    "fee": "700,00 €",
+    "status": "Anmeldung über Modul 1"
   },
   {
     "id": "U8031BE012",
