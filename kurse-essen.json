@@ -72,6 +72,15 @@
     "status": "offen"
   },
   {
+    "id": "04.003.27",
+    "title": "Das QM entschlacken und Freiräume schaffen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/das-qm-entschlacken-und-freiraeume-schaffen.-831030ac-ae47-4274-81cb-460dd86adbab",
+    "date": "14.04.2027",
+    "place": "Web-Seminar",
+    "fee": "95,00 € bzw. 85,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "08.005.26",
     "title": "Dekubitus: Die neue EPUAP Leitlinie – was ist heute richtig und wie setze ich es um?",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/dekubitus-die-neue-epuap-leitlinie--was-ist-heute-richtig-und-wie-setze-ich-es-um-272e2445-899c-4e90",
@@ -108,21 +117,21 @@
     "status": "offen"
   },
   {
-    "id": "09.009.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
-    "date": "06.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.000.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.009.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -252,6 +261,15 @@
     "status": "offen"
   },
   {
+    "id": "07.001.27",
+    "title": "Mit kleinen KI-Agenten Zeit gewinnen. So erledigen Sie viele QM-Routineaufgaben einfacher.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-kleinen-ki-agenten-zeit-gewinnen.-so-erledigen-sie-viele-qm-routineaufgaben-einfacher.-41f29a3f-",
+    "date": "14.01.2027",
+    "place": "Web-Seminar",
+    "fee": "95,00 € bzw. 85,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "08.019.26",
     "title": "Nutzen Sie SIS® & Co. noch effizient?",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/nutzen-sie-sis-co.-noch-effizient-c9afbb06-8c20-41df-9621-4c57612495ea",
@@ -300,9 +318,18 @@
     "id": "09.001.27",
     "title": "Professionelle Elternkommunikation (z B. Aushänge, Elternbriefe) einfach und wirkungsvoll gestalten",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/professionelle-elternkommunikation-z-b.-aushaenge-elternbriefe-einfach-und-wirkungsvoll-gestalten-cc",
-    "date": "02.03.2027",
+    "date": "13.04.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "230,00 € bzw. 210,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "04.005.27",
+    "title": "QM-Wirkung erkennen und sinnvoll messen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/qm-wirkung-erkennen-und-sinnvoll-messen.-105c0f75-5c53-4ec2-a166-9cbff7828a50",
+    "date": "04.10.2027",
+    "place": "Web-Seminar",
+    "fee": "95,00 € bzw. 85,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
