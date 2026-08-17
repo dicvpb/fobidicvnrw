@@ -60,7 +60,7 @@
     "date": "Do., 17.09.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T80CKQV09A",
@@ -321,7 +321,7 @@
     "date": "Di., 13.10.2026, 09:30 Uhr - Mi. 14.10.2026 13:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "470,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T8031BE003",
@@ -594,15 +594,6 @@
     "status": "Es sind noch 20 Plätze frei"
   },
   {
-    "id": "U8031BE009",
-    "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE009/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
-    "date": "Di., 02.02.2027, 09:00 Uhr - 16:30 Uhr",
-    "place": "Onlineangebot",
-    "fee": "80,00 €",
-    "status": "Es sind noch 23 Plätze frei"
-  },
-  {
     "id": "U8031BE600",
     "title": "Modulfortbildung: Fachkraft für Inklusion in der Kita (8 Module)",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE600/kursname/Modulfortbildung%20Fachkraft%20fuer%20Inklusion%20in%20der%20Kita%208%20Module/kategorie-id/10",
@@ -628,6 +619,15 @@
     "place": "Liborianum, Paderborn",
     "fee": "490,00 €",
     "status": "Es sind noch 15 Plätze frei"
+  },
+  {
+    "id": "U8031BE009",
+    "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE009/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
+    "date": "Mo., 22.02.2027, 09:00 Uhr - 16:30 Uhr",
+    "place": "Onlineangebot",
+    "fee": "80,00 €",
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "U80FTB_02A",
