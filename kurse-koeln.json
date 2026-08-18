@@ -95,7 +95,7 @@
     "date": "2026-09-07",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5645"
   },
   {
@@ -124,15 +124,6 @@
     "fee": "Intern: 675.00 Extern: 800.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5205"
-  },
-  {
-    "id": "21826-022",
-    "title": "Gelassener wirksam sein",
-    "date": "2026-09-08",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 260.00 Extern: 310.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5494"
   },
   {
     "id": "23826-041",
@@ -2228,7 +2219,7 @@
     "date": "2026-11-26",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 200.00 Extern: 250.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5284"
   },
   {
@@ -3177,6 +3168,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6186"
   },
   {
+    "id": "31827-007",
+    "title": "NEU: Wenn es knirscht im Miteinander – Konflikte als Chance in der Selbsthilfe",
+    "date": "2027-01-16",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 65.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6792"
+  },
+  {
     "id": "01527-001",
     "title": "Ob du's glaubst oder nicht",
     "date": "2027-01-21",
@@ -3195,6 +3195,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6213"
   },
   {
+    "id": "31827-010",
+    "title": "NEU: Die Welt in Flammen - Gesund und resilient durch Krisenzeiten",
+    "date": "2027-02-13",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6795"
+  },
+  {
     "id": "48027-001",
     "title": "Workshop Insolvenzordnung (InsO)",
     "date": "2027-03-04",
@@ -3211,6 +3220,24 @@
     "fee": "Intern: 30.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6077"
+  },
+  {
+    "id": "31827-008",
+    "title": "NEU: KI als Begleiter suchtkranker Menschen – Konkurrenz oder Chance für die Selbsthilfe?",
+    "date": "2027-03-20",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 65.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6793"
+  },
+  {
+    "id": "31827-011",
+    "title": "NEU: Prävention sexualisierter Gewalt",
+    "date": "2027-04-17",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 65.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6796"
   },
   {
     "id": "13227-002",
@@ -3240,6 +3267,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6105"
   },
   {
+    "id": "31827-009",
+    "title": "Kraft in der Gruppe: Was wir denken, wirkt – Denkmuster und Gruppendynamik in der Suchtselbsthilfe",
+    "date": "2027-10-02",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6794"
+  },
+  {
     "id": "21827-001",
     "title": "Kinder im Blick 2027/2028 – Modul 1 und Modul 2",
     "date": "2027-10-20",
@@ -3247,5 +3283,23 @@
     "fee": "Intern: 1200.00 Extern: 1450.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5953"
+  },
+  {
+    "id": "31827-012",
+    "title": "NEU: Angehörige im Blick – den eigenen Weg finden trotz Sucht in der Familie",
+    "date": "2027-10-30",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6797"
+  },
+  {
+    "id": "31827-013",
+    "title": "NEU: Die Zukunft der Suchtselbsthilfe beginnt mit uns – jetzt!",
+    "date": "2027-12-11",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6798"
   }
 ]
