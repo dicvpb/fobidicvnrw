@@ -383,7 +383,7 @@
     "date": "15. Sep. 2026 - 08. Okt. 2026",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "245,00 € für Mitglieder des DiCV im Bistum Münster.\n270,00 € für Partner des DICV im Bistum Münster.\n295,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000916"
   },
   {
@@ -500,7 +500,7 @@
     "date": "26. Nov. 2026, 09:30 - 17:00 Uhr",
     "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n195 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215 € (inkl. Verpflegung) für Partner im Bistum Münster\n235 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001276"
   },
   {
@@ -529,15 +529,6 @@
     "fee": "69,00 € für Mitglieder des DiCV im Bistum Münster\n76,00 € für Partner im Bistum Münster\n83,00 € für alle Anderen",
     "status": "Plätze verfügbar",
     "id": "V000001295"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/gestaltung-von-kindlichem-alltag-in-der-kita/v000001296",
-    "title": "Gestaltung von kindlichem Alltag in der Kita",
-    "date": "13. Okt. 2026, 09:00 Uhr - 14. Okt. 2026, 17:00 Uhr",
-    "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
-    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Wenige Plätze",
-    "id": "V000001296"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/fachtag-sexualitaet-und-religion/v000001297",
