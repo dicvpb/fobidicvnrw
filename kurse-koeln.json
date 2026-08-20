@@ -387,15 +387,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5393"
   },
   {
-    "id": "24726-103",
-    "title": "Spiele spielen – Vielfältige Einblicke in die Welt der Spiele",
-    "date": "2026-09-21",
-    "place": "Ökologische Nischen Städt. Behindertenzentrum Lachemer Weg 22 50737 Köln",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5556"
-  },
-  {
     "id": "24426-017",
     "title": "Kita-Management in herausfordernden Zeiten",
     "date": "2026-09-21",
@@ -403,15 +394,6 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5598"
-  },
-  {
-    "id": "23926-033",
-    "title": "Generationen verbinden – altersgemischte Teams wirksam führen",
-    "date": "2026-09-21",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5872"
   },
   {
     "id": "26826-006",
@@ -576,15 +558,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6244"
   },
   {
-    "id": "23926-032",
-    "title": "Führen aus der inneren Mitte",
-    "date": "2026-09-25",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5822"
-  },
-  {
     "id": "23126-010",
     "title": "Web-Seminar: Ganztägige Präventionsschulung für Leitungskräfte (Kinder- und Jugendhilfe – ohne Kita)",
     "date": "2026-09-26",
@@ -619,24 +592,6 @@
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5151"
-  },
-  {
-    "id": "24526-002",
-    "title": "Das gute Sprechen",
-    "date": "2026-09-28",
-    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
-    "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5430"
-  },
-  {
-    "id": "24726-071",
-    "title": "Gesprächspartner Kind",
-    "date": "2026-09-28",
-    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5437"
   },
   {
     "id": "24726-106",
@@ -918,15 +873,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5636"
   },
   {
-    "id": "24226-025",
-    "title": "Werden Sie Wegbegleiter: Qualifizierung zur Fachkraft für sexuelle Bildung in Kitas",
-    "date": "2026-10-05",
-    "place": "Pfarrheim Spich Pfarrer-Werr-Straße 56 53842 Troisdorf",
-    "fee": "Intern: 1500.00 Extern: 1500.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5992"
-  },
-  {
     "id": "31226-010",
     "title": "Der Trauer Raum geben",
     "date": "2026-10-05",
@@ -1105,15 +1051,6 @@
     "fee": "Intern: 150.00 Extern: 175.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5482"
-  },
-  {
-    "id": "23226-005",
-    "title": "Entfalte Dein Gedächtnis – erlebe, wie Lernen Spaß macht",
-    "date": "2026-10-08",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 175.00 Extern: 195.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5677"
   },
   {
     "id": "24926-029",
@@ -2102,7 +2039,7 @@
     "date": "2026-11-23",
     "place": "Haus Marienhof Königswinterer Str. 414 53639 Königswinter - Ittenbach",
     "fee": "Intern: 350.00 Extern: 400.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5129"
   },
   {

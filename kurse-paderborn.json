@@ -60,7 +60,7 @@
     "date": "Do., 17.09.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 7 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "T80CKQV09A",
@@ -141,7 +141,7 @@
     "date": "Mi., 23.09.2026, 17:00 Uhr - 19:00 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T80F3RS09A",
@@ -201,7 +201,7 @@
     "id": "T8031BE011",
     "title": "Neurodivergenzen im pädagogischen Alltag",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE011/kursname/Neurodivergenzen%20im%20paedagogischen%20Alltag/kategorie-id/10",
-    "date": "Di., 06.10.2026, 09:00 Uhr - 17:00 Uhr",
+    "date": "Di., 06.10.2026, 09:00 Uhr - Mi. 18.11.2026 17:00 Uhr",
     "place": "Liborianum, Paderborn und Online",
     "fee": "380,00 €",
     "status": "Es sind noch 20 Plätze frei"
@@ -384,7 +384,7 @@
     "date": "Do., 29.10.2026, 18:00 Uhr - Mo. 02.11.2026 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "590,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80F2AV054",
