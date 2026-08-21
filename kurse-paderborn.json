@@ -51,7 +51,7 @@
     "date": "Mi., 16.09.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "150,00 €",
-    "status": "Es sind noch 2 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T8031BE006",
@@ -60,7 +60,7 @@
     "date": "Do., 17.09.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 6 Plätze frei"
+    "status": "Es sind noch 4 Plätze frei"
   },
   {
     "id": "T80CKQV09A",
@@ -276,7 +276,7 @@
     "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "120,00 €",
-    "status": "Es sind noch 63 Plätze frei"
+    "status": "Es sind noch 62 Plätze frei"
   },
   {
     "id": "T8031BE010",
