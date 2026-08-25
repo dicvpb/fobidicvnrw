@@ -15,7 +15,7 @@
     "date": "Di., 01.09.2026, 09:00 Uhr - Mi. 09.09.2026 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "T80INVIA07",
@@ -60,7 +60,7 @@
     "date": "Do., 17.09.2026, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80CKQV09A",
@@ -78,7 +78,7 @@
     "date": "Mo., 21.09.2026, 09:00 Uhr - Di. 22.09.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80Z1BFO3C",
@@ -150,7 +150,7 @@
     "date": "Mo., 28.09.2026, 11:00 Uhr - Do. 01.10.2026 13:00 Uhr",
     "place": "Kloster Marienrode, Hildesheim",
     "fee": "550,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80CKQV09B",
@@ -249,7 +249,7 @@
     "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "T80F3RT10A",
@@ -276,7 +276,7 @@
     "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "120,00 €",
-    "status": "Es sind noch 62 Plätze frei"
+    "status": "Es sind noch 58 Plätze frei"
   },
   {
     "id": "T8031BE010",
@@ -376,6 +376,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "990,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
+  },
+  {
+    "id": "T80POK10C",
+    "title": "Beten mit den Füßen",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/T80POK10C/kursname/Beten%20mit%20den%20Fuessen/kategorie-id/12",
+    "date": "Fr., 23.10.2026, 17:00 Uhr - So. 25.10.2026 13:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "75,00 €",
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "T80F3RS10C",
@@ -597,8 +606,8 @@
     "id": "U8031BE600",
     "title": "Modulfortbildung: Fachkraft für Inklusion in der Kita (8 Module)",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE600/kursname/Modulfortbildung%20Fachkraft%20fuer%20Inklusion%20in%20der%20Kita%208%20Module/kategorie-id/10",
-    "date": "Mi., 03.02.2027, 09:00 Uhr - Do. 04.02.2027 17:00 Uhr",
-    "place": "Paderborn, Schwerte, Bestwig, Möhnesee-Günne",
+    "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
+    "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
     "status": "Es sind noch 20 Plätze frei"
   },

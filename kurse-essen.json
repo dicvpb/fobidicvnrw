@@ -108,6 +108,15 @@
     "status": "offen"
   },
   {
+    "id": "03.003.27",
+    "title": "Die Mischung machts: Heterogene Teams erfolgreich führen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/die-mischung-machts-heterogene-teams-erfolgreich-fuehren.-82a5c593-9fb6-4426-9d6e-e479f06013b8",
+    "date": "29.09.2027 - 30.09.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "440,00 € bzw. 420,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "03.006.26",
     "title": "Die Mischung machts: Heterogene Teams erfolgreich führen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/die-mischung-machts-heterogene-teams-erfolgreich-fuehren.-a0729e3d-f7ee-4f8e-9aaa-93154c4574b8",
@@ -117,21 +126,21 @@
     "status": "offen"
   },
   {
-    "id": "09.000.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
-    "date": "06.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.009.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.000.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -315,12 +324,30 @@
     "status": "offen"
   },
   {
+    "id": "08.001.27",
+    "title": "Palliative Wundversorgung – Lebensqualität und Symptomkontrolle im Fokus.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/palliative-wundversorgung--lebensqualitaet-und-symptomkontrolle-im-fokus.-919e5350-2464-4678-bb55-08",
+    "date": "05.10.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "270,00 € bzw. 250,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "03.001.27",
     "title": "PeBeM wirksam steuern und in belastbare Alltagsstrukturen übersetzen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/pebem-wirksam-steuern-und-in-belastbare-alltagsstrukturen-uebersetzen.-772055a8-3cb5-4eaf-9d18-78491",
     "date": "16.03.2027 - 17.03.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "540,00 € bzw. 490,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.003.27",
+    "title": "Positive Psychologie in der Arbeit mit Menschen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/positive-psychologie-in-der-arbeit-mit-menschen.-34eb2050-0429-4ac4-bcc1-835a4ec32e84",
+    "date": "09.06.2027 - 10.06.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "440,00 € bzw. 420,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -432,6 +459,15 @@
     "status": "offen"
   },
   {
+    "id": "03.000.27",
+    "title": "Vom Indikator zur systemischen Prozesssteuerung.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/vom-indikator-zur-systemischen-prozesssteuerung.-60e93aa3-9b86-4eca-9071-1d708a350bee",
+    "date": "11.05.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "270,00 € bzw. 250,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "04.002.27",
     "title": "Von hektischer Betriebsamkeit zu umsichtig gesteuerten Betriebsprozessen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/von-hektischer-betriebsamkeit-zu-umsichtig-gesteuerten-betriebsprozessen.-a8b572a0-6d7b-4a05-8ba8-49",
@@ -465,6 +501,15 @@
     "date": "03.12.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "210,00 € bzw. 190,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "01.003.27",
+    "title": "Wundexperte / Wundexpertin ICW",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/wundexperte-wundexpertin-icw-95b5a733-d878-455e-b025-804374b1ebf1",
+    "date": "07.06.2027 - 13.07.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "1690,00 € bzw. 1590,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   }
 ]
