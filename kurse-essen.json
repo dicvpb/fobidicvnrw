@@ -108,15 +108,6 @@
     "status": "offen"
   },
   {
-    "id": "03.003.27",
-    "title": "Die Mischung machts: Heterogene Teams erfolgreich führen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/die-mischung-machts-heterogene-teams-erfolgreich-fuehren.-82a5c593-9fb6-4426-9d6e-e479f06013b8",
-    "date": "29.09.2027 - 30.09.2027",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "440,00 € bzw. 420,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "03.006.26",
     "title": "Die Mischung machts: Heterogene Teams erfolgreich führen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/die-mischung-machts-heterogene-teams-erfolgreich-fuehren.-a0729e3d-f7ee-4f8e-9aaa-93154c4574b8",
@@ -126,12 +117,12 @@
     "status": "offen"
   },
   {
-    "id": "09.009.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
-    "date": "06.10.2026 - 07.10.2026",
+    "id": "03.003.27",
+    "title": "Die Mischung machts: Heterogene Teams erfolgreich führen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/die-mischung-machts-heterogene-teams-erfolgreich-fuehren.-82a5c593-9fb6-4426-9d6e-e479f06013b8",
+    "date": "29.09.2027 - 30.09.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "fee": "440,00 € bzw. 420,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -141,6 +132,15 @@
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.009.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -459,7 +459,7 @@
     "status": "offen"
   },
   {
-    "id": "03.000.27",
+    "id": "03.004.27",
     "title": "Vom Indikator zur systemischen Prozesssteuerung.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/vom-indikator-zur-systemischen-prozesssteuerung.-60e93aa3-9b86-4eca-9071-1d708a350bee",
     "date": "11.05.2027",
