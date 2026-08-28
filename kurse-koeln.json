@@ -5,7 +5,7 @@
     "date": "2026-08-28",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6240"
   },
   {
@@ -347,7 +347,7 @@
     "date": "2026-09-18",
     "place": "Pfarrheim Kath. Kirchengemeinde St. Anna Franz-Jacobi-Str. 1 53757 Sankt Augustin (Hangelar)",
     "fee": "Intern: 95.00 Extern: 115.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5079"
   },
   {
@@ -522,15 +522,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5432"
   },
   {
-    "id": "21826-036",
-    "title": "Gewalterfahrungen, Drohungen und Übergriffigkeiten durch Klient_innen",
-    "date": "2026-09-24",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 220.00 Extern: 265.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5516"
-  },
-  {
     "id": "23826-043",
     "title": "Canva für Fortgeschrittene",
     "date": "2026-09-24",
@@ -576,15 +567,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5057"
   },
   {
-    "id": "34026-011",
-    "title": "Ziele formulieren, Maßnahmen planen, Leistungszweck beachten",
-    "date": "2026-09-28",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5151"
-  },
-  {
     "id": "24726-106",
     "title": "Spiele spielen – Vielfältige Einblicke in die Welt der Spiele",
     "date": "2026-09-28",
@@ -626,7 +608,7 @@
     "date": "2026-09-29",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5087"
   },
   {
@@ -635,7 +617,7 @@
     "date": "2026-09-29",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5237"
   },
   {
@@ -646,15 +628,6 @@
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5335"
-  },
-  {
-    "id": "23326-024",
-    "title": "Prüfungsvorbereitungskurs Kaufleute für Büromanagement Teil 2",
-    "date": "2026-09-29",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 390.00 Extern: 460.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5668"
   },
   {
     "id": "48026-020",
@@ -734,7 +707,7 @@
     "date": "2026-09-30",
     "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
     "fee": "Intern: 450.00 Extern: 550.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5810"
   },
   {
@@ -826,15 +799,6 @@
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5009"
-  },
-  {
-    "id": "23626-004",
-    "title": "Qualitätsmanagement – Aufbauseminar",
-    "date": "2026-10-05",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5166"
   },
   {
     "id": "23326-018",
@@ -1008,15 +972,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5305"
   },
   {
-    "id": "23926-025",
-    "title": "Selbstführung als Schlüssel",
-    "date": "2026-10-07",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 110.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5548"
-  },
-  {
     "id": "48026-031",
     "title": "Kölner Studientage Wohnungslosenhilfe – Block II",
     "date": "2026-10-07",
@@ -1130,8 +1085,17 @@
     "date": "2026-10-12",
     "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5997"
+  },
+  {
+    "id": "26626-020",
+    "title": "Gefährdungsanzeige kompakt",
+    "date": "2026-10-12",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 270.00 Extern: 270.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6803"
   },
   {
     "id": "23326-005",
@@ -1168,6 +1132,15 @@
     "fee": "Intern: 200.00 Extern: 250.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6331"
+  },
+  {
+    "id": "26626-022",
+    "title": "Beraten - Begleiten - Unterstützen",
+    "date": "2026-10-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 495.00 Extern: 495.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6805"
   },
   {
     "id": "24726-032",
@@ -1267,6 +1240,15 @@
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6738"
+  },
+  {
+    "id": "26626-021",
+    "title": "MAV-Wahlen rechtssicher durchführen",
+    "date": "2026-10-15",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 270.00 Extern: 270.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6804"
   },
   {
     "id": "24026-017",
@@ -1377,6 +1359,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5007"
   },
   {
+    "id": "26826-020",
+    "title": "Web-Seminar: Scrollen in die Radikalisierung?",
+    "date": "2026-10-28",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6819"
+  },
+  {
     "id": "26826-007",
     "title": "Zweitägiger Workshop: Haltung zeigen (Köln)",
     "date": "2026-10-29",
@@ -1393,6 +1384,15 @@
     "fee": "Intern: 315.00 Extern: 390.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5347"
+  },
+  {
+    "id": "26626-023",
+    "title": "Die Arbeitsvertragsrichtlinien des Deutschen Caritasverbandes (AVR) | Thema: Aufbau und Struktur der AVR | Arbeitsvertrag",
+    "date": "2026-11-02",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6806"
   },
   {
     "id": "24826-033",
@@ -1512,6 +1512,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6741"
   },
   {
+    "id": "26626-024",
+    "title": "Alles erledigt!",
+    "date": "2026-11-04",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 495.00 Extern: 495.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6807"
+  },
+  {
     "id": "23126-016",
     "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
     "date": "2026-11-05",
@@ -1611,6 +1620,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6071"
   },
   {
+    "id": "26826-019",
+    "title": "Web-Seminar: Scrollen in die Radikalisierung?",
+    "date": "2026-11-06",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6818"
+  },
+  {
     "id": "31826-014",
     "title": "EFT – Emotionale Freiheit durch Klopfen",
     "date": "2026-11-07",
@@ -1672,6 +1690,15 @@
     "fee": "Intern: 38.00 Extern: 45.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6764"
+  },
+  {
+    "id": "26626-025",
+    "title": "Diskriminierung und (Un-)Gleichbehandlung im Dienstverhältnis",
+    "date": "2026-11-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 270.00 Extern: 270.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6808"
   },
   {
     "id": "23626-002",
@@ -1845,6 +1872,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6176"
   },
   {
+    "id": "26626-026",
+    "title": "AVR Caritas: Ein vertiefter Einstieg für Führungskräfte und Beschäftigte im HR-Management (Teil 1+2)",
+    "date": "2026-11-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 495.00 Extern: 495.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6809"
+  },
+  {
     "id": "24826-034",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-17",
@@ -2007,6 +2043,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6644"
   },
   {
+    "id": "26626-027",
+    "title": "Die Arbeitsvertragsrichtlinien des Deutschen Caritasverbandes (AVR) | Thema: Fort- und Weiterbildung, Urlaub und Krankheit",
+    "date": "2026-11-19",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6810"
+  },
+  {
     "id": "24826-038",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-20",
@@ -2115,6 +2160,33 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6049"
   },
   {
+    "id": "26626-028",
+    "title": "Aufbauseminar Arbeitsschutz in Wohnformen für Menschen mit Behinderung",
+    "date": "2026-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 270.00 Extern: 270.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6811"
+  },
+  {
+    "id": "26626-029",
+    "title": "Zukunft beginnt jetzt – Haltung zeigen in bewegten Zeiten",
+    "date": "2026-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6812"
+  },
+  {
+    "id": "26626-030",
+    "title": "Mitarbeiterversammlungen attraktiv gestalten",
+    "date": "2026-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 270.00 Extern: 270.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6813"
+  },
+  {
     "id": "34026-002",
     "title": "Psychiatrie kompakt",
     "date": "2026-11-25",
@@ -2176,6 +2248,15 @@
     "fee": "Intern: 68.00 Extern: 82.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6599"
+  },
+  {
+    "id": "26626-031",
+    "title": "Die Arbeitsvertragsrichtlinien des Deutschen Caritasverbandes (AVR) | Thema: Arbeitszeit",
+    "date": "2026-11-26",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6814"
   },
   {
     "id": "24626-046",
@@ -2268,6 +2349,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6191"
   },
   {
+    "id": "26626-032",
+    "title": "Generationenwechsel in Einrichtungen und Mitarbeitervertretungen: \"Die Boomer geben ihre Schlüssel ab\"",
+    "date": "2026-12-01",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 580.00 Extern: 580.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6815"
+  },
+  {
     "id": "24726-096",
     "title": "Resilienz im Kindesalter",
     "date": "2026-12-02",
@@ -2311,6 +2401,15 @@
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6073"
+  },
+  {
+    "id": "26626-033",
+    "title": "Die Arbeitsvertragsrichtlinien des Deutschen Caritasverbandes (AVR) | Thema: Vergütung und Entgelt",
+    "date": "2026-12-03",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 95.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6816"
   },
   {
     "id": "24026-037",
@@ -2419,6 +2518,15 @@
     "fee": "Intern: 95.00 Extern: 95.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5591"
+  },
+  {
+    "id": "26626-034",
+    "title": "Der Zukunft eine Stimme geben: Alles rund um die Interessenvertretung junger Kolleg*innen",
+    "date": "2026-12-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 270.00 Extern: 270.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6817"
   },
   {
     "id": "23226-009",

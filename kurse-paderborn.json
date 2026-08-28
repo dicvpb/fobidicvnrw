@@ -78,7 +78,7 @@
     "date": "Mo., 21.09.2026, 09:00 Uhr - Di. 22.09.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T80Z1BFO3C",
@@ -88,15 +88,6 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "620,00 €",
     "status": "Anmeldung über IN VIA Akademie, Giersmauer 35, 33098 PaderbornFrau Natalie BergenE-mail: info@invia-akademie.deTel. 05251 290 838Link zur Anmeldung im Text"
-  },
-  {
-    "id": "T8031BE140",
-    "title": "Workshop: Qualitätsentwicklung lebendig halten",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE140/kursname/Workshop%20Qualitaetsentwicklung%20lebendig%20halten/kategorie-id/10",
-    "date": "Di., 22.09.2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Kommende Dortmund",
-    "fee": "130,00 €",
-    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "T80F3RT09E",
@@ -321,7 +312,7 @@
     "date": "Di., 13.10.2026, 09:30 Uhr - Mi. 14.10.2026 13:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "470,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T8031BE003",
@@ -465,7 +456,7 @@
     "date": "Mo., 16.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80FIDI11A",
@@ -475,6 +466,15 @@
     "place": "Liborianum, Paderborn",
     "fee": "200,00 €",
     "status": "Es sind noch 25 Plätze frei"
+  },
+  {
+    "id": "T80POK11B",
+    "title": "Sexualisierte Gewalt im Netz",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/T80POK11B/kursname/Sexualisierte%20Gewalt%20im%20Netz/kategorie-id/14",
+    "date": "Mi., 18.11.2026, 09:00 Uhr - 16:00 Uhr",
+    "place": "Kommende Dortmund",
+    "fee": "60,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
@@ -588,8 +588,8 @@
     "id": "T8031BE013",
     "title": "160-Stunden-Qualifizierung gem. PersVO (Modulreihe in 11 Abschnitten)",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE013/kursname/160-Stunden-Qualifizierung%20gem%20PersVO%20Modulreihe%20in%2011%20Abschnitten/kategorie-id/10",
-    "date": "Mi., 27.01.2027, 09:00 Uhr - Do. 28.01.2027 16:30 Uhr",
-    "place": "Liborianum, Paderborn und weitere",
+    "date": "Mi., 27.01.2027, 09:00 Uhr - Mi. 29.03.2028 16:30 Uhr",
+    "place": "Liborianum, Paderborn, Kath. Akademie Schwerte",
     "fee": "2200,00 €",
     "status": "Es sind noch 21 Plätze frei"
   },
@@ -636,7 +636,16 @@
     "date": "Mo., 22.02.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 23 Plätze frei"
+    "status": "Es sind noch 22 Plätze frei"
+  },
+  {
+    "id": "U8031BE140",
+    "title": "Workshop: Qualitätsentwicklung lebendig halten",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE140/kursname/Workshop%20Qualitaetsentwicklung%20lebendig%20halten/kategorie-id/10",
+    "date": "Mo., 22.02.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Kommende Dortmund",
+    "fee": "130,00 €",
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "U80POK_02B",

@@ -9,6 +9,150 @@
     "status": "offen"
   },
   {
+    "id": "27-1.01",
+    "title": "Schema F war gestern",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/schema-f-war-gestern-463d82f6-fb0d-409e-9998-777c018983b1",
+    "date": "05.10.2026 - 10.03.2027",
+    "place": "Online",
+    "fee": "75,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-1.02",
+    "title": "Moderation von Teamsitzungen und Workshops",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/moderation-von-teamsitzungen-und-workshops-2c4cf84b-d2e8-4274-aa8f-45ec6dafed71",
+    "date": "05.10.2026 - 08.04.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "210,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-1.03",
+    "title": "Selbstmanagement im digitalen Zeitalter",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/selbstmanagement-im-digitalen-zeitalter-08b19720-8d33-4c65-b21a-4f1a73ac4031",
+    "date": "05.10.2026 - 13.04.2027",
+    "place": "Online",
+    "fee": "125,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-1.04",
+    "title": "Mit Vielfalt gegen Vorurteile: Anti-Bias",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mit-vielfalt-gegen-vorurteile-anti-bias-552a1889-3800-4a7a-a67f-ebc2ea248c03",
+    "date": "05.10.2026 - 14.05.2027",
+    "place": "Online",
+    "fee": "110,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.05",
+    "title": "Kommunikation und Rhetorik im Office",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/kommunikation-und-rhetorik-im-office-e3098996-35fa-48be-9063-4786d7191a84",
+    "date": "05.10.2026 - 14.10.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "245,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.06",
+    "title": "Digitales Büromanagement",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/digitales-bueromanagement-60e2b382-2372-4084-98cf-b754c5e872f8",
+    "date": "05.10.2026 - 08.11.2027",
+    "place": "Online",
+    "fee": "100,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.07",
+    "title": "Protokollführung",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/protokollfuehrung-631aa600-6ee9-4a8e-b7c0-b5c9e0e505d7",
+    "date": "05.10.2026 - 10.11.2027",
+    "place": "Online",
+    "fee": "125,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.07",
+    "title": "MAVO-Novelle: Workshop für Dienstgeber",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mavo-novelle-workshop-fuer-dienstgeber-87d24d36-dcec-41f8-8e14-5e594916be6d",
+    "date": "05.10.2026 - 18.11.2027",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "145,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "26-2.09",
+    "title": "Update Gemeinnützigkeit 2027",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-gemeinnuetzigkeit-2027-417c6d6a-91e1-4a4b-9509-cc4812100abf",
+    "date": "05.10.2026 - 25.11.2027",
+    "place": "Online",
+    "fee": "50,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-1.06",
+    "title": "Psychologische Sicherheit im Team",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/psychologische-sicherheit-im-team-5729cfa8-354c-4f21-9f0a-523156dfd064",
+    "date": "05.10.2026 - 07.12.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "170,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-1.05",
+    "title": "Systemische Beratung kompakt",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/systemische-beratung-kompakt-bc539692-c90d-4189-ba11-6c9ae348a4f9",
+    "date": "05.10.2026 - 15.12.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "595,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "26-11.07",
+    "title": "\"Internes Audit\"",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/internes-audit-1c971252-c894-48ba-8de9-a7c9778f2d09",
+    "date": "05.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "170,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.01",
+    "title": "Verbale Angriffe gekonnt parieren",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/verbale-angriffe-gekonnt-parieren-31c1b2c8-10e3-4a43-b771-cafe33b2bb70",
+    "date": "05.10.2026 - 02.02.2027",
+    "place": "Online",
+    "fee": "120,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.02",
+    "title": "Workshop zum Arbeitsrecht",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/workshop-zum-arbeitsrecht-44ddbbc4-10e3-46da-9a3a-eb5591158bbc",
+    "date": "05.10.2026 - 13.05.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "145,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.03",
+    "title": "Wirkungsvolle Chef*inentlastung",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/wirkungsvolle-chefinentlastung-0085021d-26c4-4d13-a14f-34a64a96aff2",
+    "date": "05.10.2026 - 22.09.2027",
+    "place": "Online",
+    "fee": "125,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.04",
+    "title": "Update im Arbeitsrecht",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-im-arbeitsrecht-e85097fe-adc0-4bf9-b295-bdfdd933f31b",
+    "date": "05.10.2026 - 30.09.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "145,00 Euro",
+    "status": "offen"
+  },
+  {
     "id": "26.7-15",
     "title": "Teamentwicklung 2.0",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/teamentwicklung-2.0-aa130372-5e5b-428c-8378-ee2c2e9e68df",
@@ -36,15 +180,6 @@
     "status": "offen"
   },
   {
-    "id": "26-2.06",
-    "title": "Update im Arbeitsrecht 2026",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-im-arbeitsrecht-2026-e85097fe-adc0-4bf9-b295-bdfdd933f31b",
-    "date": "14.10.2026",
-    "place": "Brigitte Neuß Fort- und Weiterbildung",
-    "fee": "140,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-5.08",
     "title": "Wir vertreten uns selbst! – Baustein 3",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/wir-vertreten-uns-selbst--baustein-3-c3d08d75-9377-47ed-8c77-898589d90f97",
@@ -63,21 +198,21 @@
     "status": "offen"
   },
   {
-    "id": "26-7.17",
-    "title": "Mitarbeitergespräche kompetent führen",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
-    "date": "03.11.2026",
-    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
-    "fee": "110,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-2.04",
     "title": "Erfolgreiches Projektmanagement",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
     "date": "03.11.2026",
     "place": "Online",
     "fee": "120,00",
+    "status": "offen"
+  },
+  {
+    "id": "26-7.17",
+    "title": "Mitarbeitergespräche kompetent führen",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
+    "date": "03.11.2026",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "110,00 Euro",
     "status": "offen"
   },
   {
@@ -168,15 +303,6 @@
     "date": "03.12.2026",
     "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
     "fee": "120,00 Euro",
-    "status": "offen"
-  },
-  {
-    "id": "26-2.08",
-    "title": "Update Gemeinnützigkeit 2026",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-gemeinnuetzigkeit-2026-417c6d6a-91e1-4a4b-9509-cc4812100abf",
-    "date": "08.12.2026",
-    "place": "Online",
-    "fee": "50,00 Euro",
     "status": "offen"
   }
 ]
