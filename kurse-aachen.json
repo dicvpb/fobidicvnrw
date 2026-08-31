@@ -1,11 +1,47 @@
 [
   {
+    "id": "27-5.01",
+    "title": "Psychische Erkrankungen und Sucht",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/psychische-erkrankungen-und-sucht-c2f614f0-b8f1-4776-a203-abe148005788",
+    "date": "05.10.2026 - 28.01.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "140,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-3.02",
+    "title": "Konflikt- und Krisenprävention im Team",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/konflikt-und-krisenpraevention-im-team-f536aefc-f13f-4162-b5f3-db64df6e874e",
+    "date": "05.10.2026 - 24.02.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "160,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-5.02",
+    "title": "Doppeldiagnose bei geistiger Behinderung",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/doppeldiagnose-bei-geistiger-behinderung-803e638a-971d-4100-9af3-b36a22381ee5",
+    "date": "05.10.2026 - 04.03.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "320,00",
+    "status": "offen"
+  },
+  {
     "id": "27-1.01",
     "title": "Schema F war gestern",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/schema-f-war-gestern-463d82f6-fb0d-409e-9998-777c018983b1",
     "date": "05.10.2026 - 10.03.2027",
     "place": "Online",
     "fee": "75,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-3.03",
+    "title": "Psychologisches Empowerment fördern",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/psychologisches-empowerment-foerdern-1c577137-209f-47a2-95e7-bad863797385",
+    "date": "05.10.2026 - 16.03.2027",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "170,00 Euro",
     "status": "offen"
   },
   {
@@ -36,6 +72,33 @@
     "status": "offen"
   },
   {
+    "id": "27-4.02",
+    "title": "Traumakompetenz und Selbstfürsorge",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/traumakompetenz-und-selbstfuersorge-f6369e8a-9f1c-4e30-98d2-6350a4461fb4",
+    "date": "05.10.2026 - 04.06.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "380,00",
+    "status": "offen"
+  },
+  {
+    "id": "27-4.03",
+    "title": "Grundsicherungsgeld - Praxisprobleme",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/grundsicherungsgeld-praxisprobleme-2ddc87ac-7b54-4712-a720-9558ee1ed682",
+    "date": "05.10.2026 - 08.07.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "75,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-3.05",
+    "title": "Gesprächsführung für Leitungskräfte",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/gespraechsfuehrung-fuer-leitungskraefte-15673dc7-f87d-4a1b-a186-462ad6c6f726",
+    "date": "05.10.2026 - 23.09.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "160,00 Euro",
+    "status": "offen"
+  },
+  {
     "id": "27-2.05",
     "title": "Kommunikation und Rhetorik im Office",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/kommunikation-und-rhetorik-im-office-e3098996-35fa-48be-9063-4786d7191a84",
@@ -63,12 +126,39 @@
     "status": "offen"
   },
   {
+    "id": "27-4.04",
+    "title": "Kultursensible Beratung in der Praxis",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/kultursensible-beratung-in-der-praxis-812568ef-099b-4f20-960f-4e71f88c8abc",
+    "date": "05.10.2026 - 15.11.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "90,00 Euro",
+    "status": "offen"
+  },
+  {
     "id": "27-2.07",
     "title": "MAVO-Novelle: Workshop für Dienstgeber",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mavo-novelle-workshop-fuer-dienstgeber-87d24d36-dcec-41f8-8e14-5e594916be6d",
     "date": "05.10.2026 - 18.11.2027",
     "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
     "fee": "145,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-3.01",
+    "title": "Führen und Leiten 2027",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/fuehren-und-leiten-2027-ecbe2d2c-fade-4f25-b4f1-b96dab39f8e6",
+    "date": "05.10.2026 - 19.11.2027",
+    "place": "Nell-Breuning-Haus Wiesenstraße 17 52134 Herzogenrath",
+    "fee": "2.850,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "26-3.05",
+    "title": "Systemisch führen",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/systemisch-fuehren-ad03ae1f-2bb1-4bb7-8ca9-d7e59ac893cc",
+    "date": "05.10.2026 - 24.11.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "590,00 Euro",
     "status": "offen"
   },
   {
@@ -117,6 +207,15 @@
     "status": "offen"
   },
   {
+    "id": "27-4.01",
+    "title": "Asyl- und Ausländerrecht",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/asyl-und-auslaenderrecht-41b8e7f0-5d4e-4020-8bc2-a894f09a2faa",
+    "date": "05.10.2026 - 12.05.2027",
+    "place": "Online",
+    "fee": "150,00 Euro",
+    "status": "offen"
+  },
+  {
     "id": "27-2.02",
     "title": "Workshop zum Arbeitsrecht",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/workshop-zum-arbeitsrecht-44ddbbc4-10e3-46da-9a3a-eb5591158bbc",
@@ -159,15 +258,6 @@
     "date": "13.10.2026",
     "place": "Brigitte Neuß Fort- und Weiterbildung",
     "fee": "140,00 Euro",
-    "status": "offen"
-  },
-  {
-    "id": "26-11.15",
-    "title": "Herausfordernde Präventionsarbeit",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/herausfordernde-praeventionsarbeit-57aac909-144f-4306-8ea8-6a3c79c210cb",
-    "date": "13.10.2026",
-    "place": "BDKJ Jugendbildungsstöätte Rolleferberg e.V. Rollefbachweg 64 52078 Aachen",
-    "fee": "190,00 Euro",
     "status": "offen"
   },
   {
