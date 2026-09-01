@@ -51,7 +51,7 @@
     "date": "Mo., 21.09.2026, 09:00 Uhr - Di. 22.09.2026 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "T80Z1BFO3C",
@@ -105,7 +105,7 @@
     "date": "Mi., 23.09.2026, 17:00 Uhr - 19:00 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80F3RS09A",
@@ -240,7 +240,7 @@
     "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "120,00 €",
-    "status": "Es sind noch 58 Plätze frei"
+    "status": "Es sind noch 57 Plätze frei"
   },
   {
     "id": "T8031BE010",
@@ -366,7 +366,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 68 Plätze frei"
+    "status": "Es sind noch 57 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -582,7 +582,7 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
-    "status": "Es sind noch 17 Plätze frei"
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "U8031BE028",
