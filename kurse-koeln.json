@@ -1,14 +1,5 @@
 [
   {
-    "id": "26526-011",
-    "title": "Führungsimpuls: Next Level-Recruiting",
-    "date": "2026-09-01",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5862"
-  },
-  {
     "id": "23926-009",
     "title": "Web-Seminar: Muss ich dieses Gespräch wirklich führen?",
     "date": "2026-09-02",
@@ -23,7 +14,7 @@
     "date": "2026-09-02",
     "place": "",
     "fee": "Intern: 980.00 Extern: 1200.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5161"
   },
   {
@@ -32,7 +23,7 @@
     "date": "2026-09-02",
     "place": "siehe Ausschreibungstext oder -flyer",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6531"
   },
   {
@@ -41,7 +32,7 @@
     "date": "2026-09-04",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 75.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6145"
   },
   {
@@ -248,7 +239,7 @@
     "date": "2026-09-16",
     "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5419"
   },
   {
@@ -275,7 +266,7 @@
     "date": "2026-09-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 75.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6146"
   },
   {
@@ -356,7 +347,7 @@
     "date": "2026-09-18",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 75.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6147"
   },
   {
@@ -590,7 +581,7 @@
     "date": "2026-09-29",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5237"
   },
   {
@@ -1850,7 +1841,7 @@
     "date": "2026-11-16",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6176"
   },
   {

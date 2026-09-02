@@ -36,6 +36,15 @@
     "status": "offen"
   },
   {
+    "id": "06.003.27",
+    "title": "Basis Plus Schulung zur Prävention sexualisierter Gewalt.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/basis-plus-schulung-zur-praevention-sexualisierter-gewalt.-f676b942-be26-407e-8474-e14cb4a15e44",
+    "date": "11.11.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "190,00 €.",
+    "status": "offen"
+  },
+  {
     "id": "06.011.26",
     "title": "Basis Plus Schulung zur Prävention sexualisierter Gewalt.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/basis-plus-schulung-zur-praevention-sexualisierter-gewalt.-e3ad080e-f572-4089-9cfa-4b9e14510860",
@@ -72,7 +81,7 @@
     "status": "offen"
   },
   {
-    "id": "09.000.27",
+    "id": "09.005.27",
     "title": "Cybergrooming und Hass im Netz – jetzt auch schon in der Grundschule.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/cybergrooming-und-hass-im-netz--jetzt-auch-schon-in-der-grundschule.-968f0621-5c41-4c54-9105-e85360c",
     "date": "18.03.2027",
@@ -135,21 +144,21 @@
     "status": "offen"
   },
   {
-    "id": "09.009.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
-    "date": "06.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.000.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.009.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -207,7 +216,7 @@
     "status": "offen"
   },
   {
-    "id": "09.000.27",
+    "id": "09.004.27",
     "title": "Herausfordernd erlebtes Verhalten in Kindertagesstätten – verstehen, begleiten, handlungsfähig bleiben.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/herausfordernd-erlebtes-verhalten-in-kindertagesstaetten--verstehen-begleiten-handlungsfaehig-bleibe",
     "date": "02.03.2027",
@@ -252,7 +261,7 @@
     "status": "offen"
   },
   {
-    "id": "09.000.27",
+    "id": "09.006.27",
     "title": "Kinderschutz im offenen Ganztag - gemeinsam Verantwortung übernehmen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/kinderschutz-im-offenen-ganztag-gemeinsam-verantwortung-uebernehmen.-dba9d2e9-9f7f-4c8e-8e81-b9a4ca4",
     "date": "22.09.2027",
@@ -288,21 +297,21 @@
     "status": "offen"
   },
   {
-    "id": "06.000.27",
-    "title": "Mit Belastungen umgehen können.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-84d8ec34-3e2b-43bc-8c5e-f5b3be4a804a",
-    "date": "24.11.2027 - 25.11.2027",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "390,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "06.003.26",
     "title": "Mit Belastungen umgehen können.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-a87e0172-75db-4018-ac54-16a910ea61be",
     "date": "25.11.2026 - 26.11.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "370,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "06.004.27",
+    "title": "Mit Belastungen umgehen können.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-84d8ec34-3e2b-43bc-8c5e-f5b3be4a804a",
+    "date": "24.11.2027 - 25.11.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "390,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -483,6 +492,15 @@
     "date": "15.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "210,00 € bzw. 190,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "06.002.27",
+    "title": "Vertiefungsschulung zur Prävention sexualisierter Gewalt.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/vertiefungsschulung-zur-praevention-sexualisierter-gewalt.-03ea7fa5-22f9-47ba-9ab8-67ef6d9d12b0",
+    "date": "02.06.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "190,00 €.",
     "status": "offen"
   },
   {
