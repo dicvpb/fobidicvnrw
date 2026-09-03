@@ -87,7 +87,7 @@
     "date": "Mi., 23.09.2026, 09:00 Uhr - Do. 24.09.2026 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "400,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80F3RS09D",
@@ -159,7 +159,7 @@
     "date": "Di., 06.10.2026, 09:00 Uhr - 17:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "90,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T8031BE011",
@@ -168,7 +168,7 @@
     "date": "Di., 06.10.2026, 09:00 Uhr - Mi. 18.11.2026 17:00 Uhr",
     "place": "Liborianum, Paderborn und Online",
     "fee": "380,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T8031BE124",
@@ -286,15 +286,6 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "470,00 €",
     "status": "Es sind noch 14 Plätze frei"
-  },
-  {
-    "id": "T8031BE003",
-    "title": "Kind.Raum.Religion – ein förderliches Umfeld in der Kita gestalten",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE003/kursname/KindRaumReligion%20ein%20foerderliches%20Umfeld%20in%20der%20Kita%20gestalten/kategorie-id/10",
-    "date": "Mi., 14.10.2026, 09:00 Uhr - 16:30 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "110,00 €",
-    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T80VIER10B",
@@ -582,7 +573,7 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "U8031BE028",
@@ -609,7 +600,7 @@
     "date": "Mo., 22.02.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "U8031BE140",
@@ -627,7 +618,7 @@
     "date": "Mi., 24.02.2027, 09:00 Uhr - Do. 25.02.2027 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "490,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "U8031BE003",
@@ -690,7 +681,7 @@
     "date": "Mi., 17.03.2027, 09:00 Uhr - Do. 18.03.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "400,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "U80POK_04A",

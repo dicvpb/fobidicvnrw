@@ -1,32 +1,5 @@
 [
   {
-    "id": "23926-009",
-    "title": "Web-Seminar: Muss ich dieses Gespräch wirklich führen?",
-    "date": "2026-09-02",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5069"
-  },
-  {
-    "id": "23426-002",
-    "title": "Betriebswirtschaft für Führungskräfte",
-    "date": "2026-09-02",
-    "place": "",
-    "fee": "Intern: 980.00 Extern: 1200.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5161"
-  },
-  {
-    "id": "26826-017",
-    "title": "Tradwives, Stay-at-home-Girls, Momfluencerinnen",
-    "date": "2026-09-02",
-    "place": "siehe Ausschreibungstext oder -flyer",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6531"
-  },
-  {
     "id": "17026-008",
     "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
     "date": "2026-09-04",
@@ -39,7 +12,7 @@
     "id": "34026-008",
     "title": "ICF basierte Bedarfsermittlung BEI_NRW",
     "date": "2026-09-07",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5148"
@@ -75,7 +48,7 @@
     "id": "26826-002",
     "title": "Tagesveranstaltung: Demokratie unter Druck (Köln)",
     "date": "2026-09-07",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 20.00 Extern: 20.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5904"
@@ -84,7 +57,7 @@
     "id": "34026-004",
     "title": "Psychopharmaka",
     "date": "2026-09-08",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5144"
@@ -120,7 +93,7 @@
     "id": "24926-027",
     "title": "kitaplus – Allgemeine Vertiefungsschulung",
     "date": "2026-09-09",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 216.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6027"
@@ -147,7 +120,7 @@
     "id": "21826-014",
     "title": "Systeme in Aktion – Lieblingsmethoden Nummer Zwei",
     "date": "2026-09-10",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5486"
@@ -174,7 +147,7 @@
     "id": "23126-023",
     "title": "Prävention von sexualisierter Gewalt im Kinder- und Jugendbereich",
     "date": "2026-09-14",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5010"
@@ -183,7 +156,7 @@
     "id": "24926-002",
     "title": "kitaplus – Basisschulung",
     "date": "2026-09-14",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5013"
@@ -309,7 +282,7 @@
     "id": "48026-028",
     "title": "Studientag: Arbeitsausbeutung erkennen - und handeln!",
     "date": "2026-09-17",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 25.00 Extern: 25.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6021"
@@ -336,7 +309,7 @@
     "id": "21826-007",
     "title": "Gelassener, klarer und konsequenter handeln im Offenen Ganztag",
     "date": "2026-09-18",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 100.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5185"
@@ -399,7 +372,7 @@
     "id": "23326-002",
     "title": "Systemische Beratung: kompakt – kurz – konstruktiv",
     "date": "2026-09-22",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 590.00 Extern: 710.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4989"
@@ -408,7 +381,7 @@
     "id": "23326-007",
     "title": "Einfach visualisieren: Starke Bilder – starke Wirkung!",
     "date": "2026-09-22",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5169"
@@ -417,7 +390,7 @@
     "id": "23926-016",
     "title": "Wertschätzung in Führung und Teamarbeit",
     "date": "2026-09-22",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 245.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5410"
@@ -426,7 +399,7 @@
     "id": "17026-006",
     "title": "Einführung in die MAVO für Dienstgeber",
     "date": "2026-09-22",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 165.00 Extern: 0.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5934"
@@ -435,7 +408,7 @@
     "id": "48026-006",
     "title": "Diversitätsorientierte Soziale Arbeit",
     "date": "2026-09-23",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4984"
@@ -444,7 +417,7 @@
     "id": "23326-010",
     "title": "Vom Wissen zum Können!",
     "date": "2026-09-23",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5172"
@@ -462,7 +435,7 @@
     "id": "25026-025",
     "title": "Excel Level 1",
     "date": "2026-09-23",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 350.00 Extern: 420.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6731"
@@ -480,7 +453,7 @@
     "id": "23326-014",
     "title": "Worte wirken – überzeugend sprechen, souverän auftreten",
     "date": "2026-09-24",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5395"
@@ -536,7 +509,7 @@
     "date": "2026-09-28",
     "place": "Ökologische Nischen Städt. Behindertenzentrum Lachemer Weg 22 50737 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5559"
   },
   {
@@ -561,7 +534,7 @@
     "id": "25026-035",
     "title": "Excel – Low Level",
     "date": "2026-09-28",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 216.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6762"
@@ -570,7 +543,7 @@
     "id": "48026-014",
     "title": "Fachlich fit – sozial und kommunikativ kompetent",
     "date": "2026-09-29",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5087"
@@ -597,7 +570,7 @@
     "id": "48026-020",
     "title": "Grenz- und Mischfälle in der Sozialberatung",
     "date": "2026-09-29",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 75.00 Extern: 90.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5815"
@@ -633,7 +606,7 @@
     "id": "48026-015",
     "title": "Fachlich fit – sozial und kommunikativ kompetent",
     "date": "2026-09-30",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5088"
@@ -642,7 +615,7 @@
     "id": "21826-013",
     "title": "Im Flow bleiben",
     "date": "2026-09-30",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5485"
@@ -678,7 +651,7 @@
     "id": "25026-026",
     "title": "Optimales Zeitmanagement und bessere Selbstorganisation mit Outlook",
     "date": "2026-09-30",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6732"
@@ -759,7 +732,7 @@
     "id": "23126-022",
     "title": "Halbtägige Präventionsschulung (Minderjährige sowie schutz- oder hilfebedürftige Erwachsene)",
     "date": "2026-10-05",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5009"
@@ -795,19 +768,10 @@
     "id": "31226-010",
     "title": "Der Trauer Raum geben",
     "date": "2026-10-05",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 110.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6025"
-  },
-  {
-    "id": "48026-011",
-    "title": "SGB II - Grundsicherung für Arbeitsuchende",
-    "date": "2026-10-06",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 85.00 Extern: 100.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5035"
   },
   {
     "id": "13226-002",
@@ -840,7 +804,7 @@
     "id": "23926-024",
     "title": "Wie will ich führen?",
     "date": "2026-10-06",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 110.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5547"
@@ -858,7 +822,7 @@
     "id": "34026-017",
     "title": "Fit für die Selbstvertretungsarbeit - Rechte kennen, Rolle übernehmen, Stärken entdecken",
     "date": "2026-10-06",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 175.00 Extern: 205.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6036"
@@ -903,7 +867,7 @@
     "id": "24926-015",
     "title": "kitaplus – Basisschulung",
     "date": "2026-10-07",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5031"
@@ -912,7 +876,7 @@
     "id": "21826-001",
     "title": "Kinder im Blick 2026/2027 – Modul 1 und Modul 2",
     "date": "2026-10-07",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 1200.00 Extern: 1450.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5128"
@@ -993,7 +957,7 @@
     "id": "23326-012",
     "title": "Menschen mit psychischen Beeinträchtigungen begleiten – Vertiefungsseminar",
     "date": "2026-10-09",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5174"
@@ -1038,7 +1002,7 @@
     "id": "24626-045",
     "title": "Deutsche Gebärdensprache – Fortgeschrittenenkurs",
     "date": "2026-10-12",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 250.00 Extern: 300.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5425"
@@ -1056,7 +1020,7 @@
     "id": "23926-034",
     "title": "Meine (neue) Rolle als Führungskraft",
     "date": "2026-10-12",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 245.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5997"
@@ -1074,7 +1038,7 @@
     "id": "23326-005",
     "title": "Mehr Erfolg durch mentale Fitness",
     "date": "2026-10-13",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5167"
@@ -1083,7 +1047,7 @@
     "id": "24726-137",
     "title": "Partizipatives Handeln in der Arbeit mit den Eltern",
     "date": "2026-10-13",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 315.00 Extern: 390.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6022"
@@ -1128,7 +1092,7 @@
     "id": "21826-035",
     "title": "Fachtag für Teamassistenz in Beratungsstellen",
     "date": "2026-10-14",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5515"
@@ -1209,7 +1173,7 @@
     "id": "24826-046",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-10-15",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6738"
@@ -1227,7 +1191,7 @@
     "id": "24026-017",
     "title": "Bunte Feste im Kirchenjahr",
     "date": "2026-10-16",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5315"
@@ -1254,16 +1218,16 @@
     "id": "31826-004",
     "title": "Basisqualifikation Suchthilfe – Modul I",
     "date": "2026-10-20",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5570"
   },
   {
     "id": "31826-005",
     "title": "Basisqualifikation Suchthilfe – Modul II",
     "date": "2026-10-21",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5571"
@@ -1272,7 +1236,7 @@
     "id": "23326-008",
     "title": "Partizipative Prozesse professionell moderieren",
     "date": "2026-10-22",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 290.00 Extern: 350.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5170"
@@ -1281,7 +1245,7 @@
     "id": "31826-006",
     "title": "Basisqualifikation Suchthilfe – Modul III",
     "date": "2026-10-22",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5572"
@@ -1344,7 +1308,7 @@
     "id": "26826-007",
     "title": "Zweitägiger Workshop: Haltung zeigen (Köln)",
     "date": "2026-10-29",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
@@ -1371,7 +1335,7 @@
     "id": "24826-033",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-03",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5109"
@@ -1461,7 +1425,7 @@
     "id": "21526-007",
     "title": "Vielfalt verstehen – kompetent beraten",
     "date": "2026-11-04",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 45.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6162"
@@ -1497,7 +1461,7 @@
     "id": "23126-016",
     "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
     "date": "2026-11-05",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5003"
@@ -1515,7 +1479,7 @@
     "id": "21826-027",
     "title": "Neu in der ambulanten Jugendhilfe",
     "date": "2026-11-05",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 320.00 Extern: 370.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5499"
@@ -1524,7 +1488,7 @@
     "id": "23126-032",
     "title": "Herausforderndes Verhalten bei Demenz – Grenzen schützen und sicher handeln im Pflegealltag",
     "date": "2026-11-05",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 95.00 Extern: 115.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6133"
@@ -1677,7 +1641,7 @@
     "id": "23626-002",
     "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
     "date": "2026-11-10",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 85.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5164"
@@ -1686,7 +1650,7 @@
     "id": "21826-012",
     "title": "Beraten in der Krise",
     "date": "2026-11-10",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5484"
@@ -1731,7 +1695,7 @@
     "id": "24426-018",
     "title": "Kita-Management in herausfordernden Zeiten",
     "date": "2026-11-12",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5599"
@@ -1740,7 +1704,7 @@
     "id": "23326-032",
     "title": "In der Ruhe liegt die Kraft",
     "date": "2026-11-12",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 310.00 Extern: 370.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5998"
@@ -1778,14 +1742,14 @@
     "date": "2026-11-13",
     "place": "Web-Seminar mit Go to Meeting",
     "fee": "Intern: 40.00 Extern: 65.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5562"
   },
   {
     "id": "24726-126",
     "title": "Mehr als nur Spielen",
     "date": "2026-11-13",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5649"
@@ -1803,7 +1767,7 @@
     "id": "34026-009",
     "title": "ICF basierte Bedarfsermittlung BEI_NRW",
     "date": "2026-11-16",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5149"
@@ -1857,7 +1821,7 @@
     "id": "24826-034",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-17",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5110"
@@ -1875,7 +1839,7 @@
     "id": "24026-028",
     "title": "Mit Kindern dem Tod begegnen",
     "date": "2026-11-17",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5337"
@@ -1893,7 +1857,7 @@
     "id": "24626-031",
     "title": "Vielfalt macht das Leben bunter!",
     "date": "2026-11-17",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5402"
@@ -1902,7 +1866,7 @@
     "id": "31226-005",
     "title": "Update Palliative Care",
     "date": "2026-11-17",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5801"
@@ -1911,7 +1875,7 @@
     "id": "23126-024",
     "title": "Missbrauch durch Kindern und Jugendlichen",
     "date": "2026-11-18",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5011"
@@ -1956,7 +1920,7 @@
     "id": "23926-026",
     "title": "Komm an Bord!",
     "date": "2026-11-18",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 110.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5549"
@@ -1992,7 +1956,7 @@
     "id": "34026-015",
     "title": "So kann man doch nicht leben?! – Chaos in Messie-Wohnungen: was tun?!",
     "date": "2026-11-19",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5701"
@@ -2037,7 +2001,7 @@
     "id": "34026-014",
     "title": "Basisqualifizierung für Schulbegleiter_innen und Inklusionsassistent_innen",
     "date": "2026-11-20",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 100.00 Extern: 120.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5602"
@@ -2082,7 +2046,7 @@
     "id": "23126-013",
     "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
     "date": "2026-11-24",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5000"
@@ -2091,7 +2055,7 @@
     "id": "21826-023",
     "title": "Starthilfen in die stationäre Jugendhilfe",
     "date": "2026-11-24",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5495"
@@ -2163,7 +2127,7 @@
     "id": "34026-002",
     "title": "Psychiatrie kompakt",
     "date": "2026-11-25",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5142"
@@ -2235,7 +2199,7 @@
     "id": "24626-046",
     "title": "Reflexion, Kooperation und Ideen für den Weg der Inklusion",
     "date": "2026-11-27",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5427"
@@ -2244,7 +2208,7 @@
     "id": "24726-130",
     "title": "Digitalisierung in der Frühpädagogik – Chancen und Risiken",
     "date": "2026-11-27",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5654"
@@ -2262,7 +2226,7 @@
     "id": "23126-008",
     "title": "Ganztägige Präventionsschulung für Leitungskräfte (schutz- oder hilfebedürftige Erwachsene)",
     "date": "2026-11-30",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4995"
@@ -2298,7 +2262,7 @@
     "id": "23226-007",
     "title": "Produktivitätsstrategien für den Arbeitsalltag",
     "date": "2026-12-01",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 195.00 Extern: 215.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5679"
@@ -2415,7 +2379,7 @@
     "id": "34026-005",
     "title": "Die Persönlichkeitsstörung Borderline",
     "date": "2026-12-08",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5145"
@@ -2451,7 +2415,7 @@
     "id": "21826-024",
     "title": "Gelassener, klarer und konsequenter Handeln – Raus aus der Brüllfalle",
     "date": "2026-12-09",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 155.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5496"
@@ -2487,7 +2451,7 @@
     "id": "21826-025",
     "title": "Grenzen setzen in der Jugendhilfe",
     "date": "2026-12-11",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 155.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5497"
@@ -2514,7 +2478,7 @@
     "id": "23226-009",
     "title": "Dein Weg zur Schlagfertigkeit – Schnelle und witzige Antworten, die sitzen!",
     "date": "2026-12-15",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 195.00 Extern: 215.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5681"
@@ -3189,7 +3153,7 @@
     "id": "01527-001",
     "title": "Ob du's glaubst oder nicht",
     "date": "2027-01-21",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
@@ -3216,7 +3180,7 @@
     "id": "48027-001",
     "title": "Workshop Insolvenzordnung (InsO)",
     "date": "2027-03-04",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6052"
@@ -3288,7 +3252,7 @@
     "id": "21827-001",
     "title": "Kinder im Blick 2027/2028 – Modul 1 und Modul 2",
     "date": "2027-10-20",
-    "place": "CaritasCampus Diözesan-Caritasverband Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 1200.00 Extern: 1450.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5953"
