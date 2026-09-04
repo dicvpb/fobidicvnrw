@@ -662,7 +662,7 @@
     "date": "2026-10-01",
     "place": "Seminarhaus DER RAUM! Mucher Straße 31 53804 Much",
     "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5360"
   },
   {
@@ -680,7 +680,7 @@
     "date": "2026-10-01",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5646"
   },
   {
@@ -1958,7 +1958,7 @@
     "date": "2026-11-19",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5701"
   },
   {
@@ -2320,6 +2320,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6292"
+  },
+  {
+    "id": "24826-048",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2026-12-02",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 240.00 Extern: 290.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6840"
   },
   {
     "id": "24626-016",
