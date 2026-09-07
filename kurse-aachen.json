@@ -1,23 +1,5 @@
 [
   {
-    "id": "27-4.03",
-    "title": "Grundsicherungsgeld - Praxisprobleme",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/grundsicherungsgeld-praxisprobleme-2ddc87ac-7b54-4712-a720-9558ee1ed682",
-    "date": "05.10.2026 - 08.07.2027",
-    "place": "Brigitte Neuß Fort- und Weiterbildung",
-    "fee": "75,00 Euro",
-    "status": "offen"
-  },
-  {
-    "id": "26-11.07",
-    "title": "\"Internes Audit\"",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/internes-audit-1c971252-c894-48ba-8de9-a7c9778f2d09",
-    "date": "05.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
-    "fee": "170,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-5.07",
     "title": "Psychiatrie kompakt",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/psychiatrie-kompakt-a9652e00-e72f-4fcd-9bd5-e4126482be47",
@@ -54,21 +36,21 @@
     "status": "offen"
   },
   {
-    "id": "26-7.17",
-    "title": "Mitarbeitergespräche kompetent führen",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
-    "date": "03.11.2026",
-    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
-    "fee": "110,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-2.04",
     "title": "Erfolgreiches Projektmanagement",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/erfolgreiches-projektmanagement-85ec08e5-1e66-47f7-80ef-d9eec5df8be1",
     "date": "03.11.2026",
     "place": "Online",
     "fee": "120,00",
+    "status": "offen"
+  },
+  {
+    "id": "26-7.17",
+    "title": "Mitarbeitergespräche kompetent führen",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mitarbeitergespraeche-kompetent-fuehren-863d9ee1-13dc-47fd-8a48-9ee06a6d711d",
+    "date": "03.11.2026",
+    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
+    "fee": "110,00 Euro",
     "status": "offen"
   },
   {
@@ -168,6 +150,15 @@
     "date": "08.12.2026",
     "place": "Online",
     "fee": "50,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-4.03",
+    "title": "Grundsicherungsgeld - Praxisprobleme",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/grundsicherungsgeld-praxisprobleme-2ddc87ac-7b54-4712-a720-9558ee1ed682",
+    "date": "08.07.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "75,00 Euro",
     "status": "offen"
   }
 ]

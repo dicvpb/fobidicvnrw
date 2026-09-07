@@ -72,15 +72,6 @@
     "status": "Es sind noch 7 Plätze frei"
   },
   {
-    "id": "T80TEST7",
-    "title": "Test 7",
-    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80TEST7/kursname/Test%207/kategorie-id/1",
-    "date": "Di., 22.09.2026, 09:30 Uhr - 16:00 Uhr",
-    "place": "Onlineangebot",
-    "fee": "0,00 €",
-    "status": "Es sind noch 50 Plätze frei"
-  },
-  {
     "id": "T80F3BF09C",
     "title": "Sich selbst und andere führen",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF09C/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
@@ -96,7 +87,7 @@
     "date": "Mi., 23.09.2026, 14:00 Uhr - So. 27.09.2026 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80F3RS09I",
@@ -141,7 +132,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80INVIA09",
@@ -168,7 +159,7 @@
     "date": "Di., 06.10.2026, 09:00 Uhr - Mi. 18.11.2026 17:00 Uhr",
     "place": "Liborianum, Paderborn und Online",
     "fee": "380,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T8031BE124",
@@ -240,7 +231,7 @@
     "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "120,00 €",
-    "status": "Es sind noch 57 Plätze frei"
+    "status": "Es sind noch 54 Plätze frei"
   },
   {
     "id": "T8031BE010",
@@ -387,15 +378,6 @@
     "status": "Es sind noch 19 Plätze frei"
   },
   {
-    "id": "T80F3BF11B",
-    "title": "Feedbackkultur in Teams",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF11B/kursname/Feedbackkultur%20in%20Teams/kategorie-id/7",
-    "date": "Mi., 04.11.2026, 09:00 Uhr - Do. 05.11.2026 17:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "350,00 €",
-    "status": "Es sind noch 14 Plätze frei"
-  },
-  {
     "id": "T80INVIA05",
     "title": "Management hauswirtschaftlicher Prozesse nachhaltig gestalten",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80INVIA05/kursname/Management%20hauswirtschaftlicher%20Prozesse%20nachhaltig%20gestalten/kategorie-id/2",
@@ -420,7 +402,7 @@
     "date": "Mo., 16.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T80FIDI11A",
@@ -445,7 +427,7 @@
     "title": "Ein Keks für die Seele - Lesung mit Annette Jantzen",
     "url": "https://www.helfenmitprofil.de/programm/caritas-konferenzen/kw/bereich/kursdetails/kurs/T80CKQV11B/kursname/Ein%20Keks%20fuer%20die%20Seele%20-%20Lesung%20mit%20Annette%20Jantzen/kategorie-id/4",
     "date": "Do., 19.11.2026, 16:00 Uhr - 18:30 Uhr Uhr",
-    "place": "kefb Dortmund, Propsteihof 10, 44137 Dortmund",
+    "place": "ehem. Bonifatius-Buchhandlung, Propsteihof 6, 44137 Dortmund",
     "fee": "0,00 €",
     "status": "Anmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
   },
@@ -564,7 +546,7 @@
     "date": "Do., 28.01.2027, 09:00 Uhr - Fr. 29.01.2027 17:00 Uhr",
     "place": "Kath. Akademie Schwerte und Online",
     "fee": "340,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "U8031BE600",
@@ -573,6 +555,15 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
+    "status": "Es sind noch 16 Plätze frei"
+  },
+  {
+    "id": "U80POK02C",
+    "title": "Feedbackkultur in Teams",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK02C/kursname/Feedbackkultur%20in%20Teams/kategorie-id/7",
+    "date": "Mi., 10.02.2027, 09:00 Uhr - Do. 11.02.2027 17:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "350,00 €",
     "status": "Es sind noch 15 Plätze frei"
   },
   {
@@ -681,7 +672,7 @@
     "date": "Mi., 17.03.2027, 09:00 Uhr - Do. 18.03.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "400,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "U80POK_04A",

@@ -59,7 +59,7 @@
     "date": "07. Sep. 2026, 09:00 - 16:00 Uhr",
     "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000926"
   },
   {
@@ -293,7 +293,7 @@
     "date": "30. Nov. 2026, 09:00 Uhr - 01. Dez. 2026, 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000000998"
   },
   {
@@ -302,7 +302,7 @@
     "date": "19. Nov. 2026, 09:00 - 16:00 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001000"
   },
   {
@@ -387,15 +387,6 @@
     "id": "V000000995"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/netzwerken-praeventionsfachkraefte/v000000871",
-    "title": "Netzwerken Präventionsfachkräfte",
-    "date": "08. Okt. 2026, 09:30 - 16:30 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Plätze verfügbar",
-    "id": "V000000871"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/refresher-leitung-aktiv-halten/v000001136",
     "title": "Refresher \"Leitung aktiv halten\"",
     "date": "23. Nov. 2026, 09:30 Uhr - 12. Okt. 2027, 16:30 Uhr",
@@ -437,7 +428,7 @@
     "date": "07. Sep. 2026, 10:00 - 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n75,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n83,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n90,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001203"
   },
   {
