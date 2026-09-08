@@ -63,15 +63,6 @@
     "status": "Anmeldung über IN VIA Akademie, Giersmauer 35, 33098 PaderbornFrau Natalie BergenE-mail: info@invia-akademie.deTel. 05251 290 838Link zur Anmeldung im Text"
   },
   {
-    "id": "T80F3RT09E",
-    "title": "12. Diözesantreffen für Seelsorgliche Begleitungen",
-    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80F3RT09E/kursname/12%20Dioezesantreffen%20fuer%20Seelsorgliche%20Begleitungen/kategorie-id/1",
-    "date": "Di., 22.09.2026, 09:30 Uhr - 16:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "0,00 €",
-    "status": "Es sind noch 7 Plätze frei"
-  },
-  {
     "id": "T80F3BF09C",
     "title": "Sich selbst und andere führen",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF09C/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
@@ -132,7 +123,7 @@
     "date": "Do., 01.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Caritasverband für das Erzbistum Köln e.V.",
     "fee": "65,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80INVIA09",
@@ -231,7 +222,7 @@
     "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "120,00 €",
-    "status": "Es sind noch 54 Plätze frei"
+    "status": "Es sind noch 53 Plätze frei"
   },
   {
     "id": "T8031BE010",
@@ -285,7 +276,7 @@
     "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 24 Plätze frei"
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -294,7 +285,7 @@
     "date": "Do., 15.10.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 50 Plätze frei"
+    "status": "Es sind noch 49 Plätze frei"
   },
   {
     "id": "T80F2AV053",
@@ -302,8 +293,8 @@
     "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV053/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
     "date": "Fr., 16.10.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
-    "fee": "0,00 €",
-    "status": "Keine Anmeldung möglich"
+    "fee": "100,00 €",
+    "status": "Es sind noch 50 Plätze frei"
   },
   {
     "id": "T80F3RT10I",
@@ -312,7 +303,7 @@
     "date": "Fr., 16.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "70,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T80INVIA03",
@@ -333,6 +324,15 @@
     "status": "Es sind noch 10 Plätze frei"
   },
   {
+    "id": "T80BFD_10A",
+    "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80BFD_10A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/",
+    "date": "Di., 27.10.2026, 09:30 Uhr - 16:00 Uhr",
+    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
+    "fee": "60,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "T80F3RS10C",
     "title": "Atempause - Kraft schöpfen für den beruflichen und privaten Alltag",
     "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/T80F3RS10C/kursname/Atempause%20-%20Kraft%20schoepfen%20fuer%20den%20beruflichen%20und%20privaten%20Alltag/kategorie-id/12",
@@ -348,7 +348,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 57 Plätze frei"
+    "status": "Es sind noch 55 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -385,6 +385,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "440,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.de"
+  },
+  {
+    "id": "T80BFD_11A",
+    "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80BFD_11A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/",
+    "date": "Di., 10.11.2026, 09:30 Uhr - 16:00 Uhr",
+    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
+    "fee": "60,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80KOM_11A",
@@ -495,6 +504,15 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
+    "id": "T80BFD_12A",
+    "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80BFD_12A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/",
+    "date": "Mo., 21.12.2026, 09:30 Uhr - 16:00 Uhr",
+    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
+    "fee": "60,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "U8031BE011",
     "title": "PrävO-Intensivschulung in zwei Abschnitten",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE011/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
@@ -555,12 +573,12 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
-    "id": "U80POK02C",
+    "id": "U80POK_02C",
     "title": "Feedbackkultur in Teams",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK02C/kursname/Feedbackkultur%20in%20Teams/kategorie-id/7",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02C/kursname/Feedbackkultur%20in%20Teams/kategorie-id/7",
     "date": "Mi., 10.02.2027, 09:00 Uhr - Do. 11.02.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "350,00 €",
@@ -603,6 +621,15 @@
     "status": "Es sind noch 10 Plätze frei"
   },
   {
+    "id": "U80FTB_02A",
+    "title": "Zukunftsfähige Ausrichtung der EGH für Trägereinrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/U80FTB_02A/kursname/Zukunftsfaehige%20Ausrichtung%20der%20EGH%20fuer%20Traegereinrichtungen/kategorie-id/",
+    "date": "Di., 23.02.2027, 09:00 Uhr - Mi. 19.05.2027 17:00 Uhr",
+    "place": "Hotel Aspethera, Paderborn",
+    "fee": "1100,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "U80POK_02B",
     "title": "Mitarbeitendengespräche als Instrument von Führung",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02B/kursname/Mitarbeitendengespraeche%20als%20Instrument%20von%20Fuehrung/kategorie-id/7",
@@ -631,12 +658,12 @@
   },
   {
     "id": "U80FTB_03A",
-    "title": "Sozialpsychiatrie in der Praxis - Modul 1",
-    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_03A/kursname/Sozialpsychiatrie%20in%20der%20Praxis%20-%20Modul%201/kategorie-id/14",
-    "date": "Di., 09.03.2027, 10:00 Uhr - Do. 11.03.2027 17:00 Uhr",
+    "title": "Sozialpsychiatrie in der Praxis",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_03A/kursname/Sozialpsychiatrie%20in%20der%20Praxis/kategorie-id/14",
+    "date": "Di., 09.03.2027, 10:00 Uhr - Fr. 11.06.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "1600,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "U80POK_03A",
@@ -729,15 +756,6 @@
     "status": "Es sind noch 24 Plätze frei"
   },
   {
-    "id": "U80FTB_05B",
-    "title": "Sozialpsychiatrie in der Praxis - Modul 2",
-    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_05B/kursname/Sozialpsychiatrie%20in%20der%20Praxis%20-%20Modul%202/kategorie-id/14",
-    "date": "Di., 18.05.2027, 10:00 Uhr - Fr. 21.05.2027 17:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "0,00 €",
-    "status": "Anmeldung über Modul 1"
-  },
-  {
     "id": "U8031BE012",
     "title": "PrävO-Intensivschulung in zwei Abschnitten",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE012/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
@@ -754,15 +772,6 @@
     "place": "Onlineangebot",
     "fee": "80,00 €",
     "status": "Es sind noch 19 Plätze frei"
-  },
-  {
-    "id": "U80FTB_06A",
-    "title": "Sozialpsychiatrie in der Praxis - Modul 3",
-    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80FTB_06A/kursname/Sozialpsychiatrie%20in%20der%20Praxis%20-%20Modul%203/kategorie-id/14",
-    "date": "Mi., 09.06.2027, 10:00 Uhr - Fr. 11.06.2027 17:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "0,00 €",
-    "status": "Anmeldung über Modul 1"
   },
   {
     "id": "U8031BE022",
