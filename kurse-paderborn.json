@@ -15,7 +15,7 @@
     "date": "Di., 15.09.2026, 09:00 Uhr - Mi. 16.09.2026 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "400,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80F3BF09G",
@@ -78,16 +78,7 @@
     "date": "Mi., 23.09.2026, 14:00 Uhr - So. 27.09.2026 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
-    "status": "Es ist noch 1 Platz frei"
-  },
-  {
-    "id": "T80F3RS09I",
-    "title": "Familiengeschichte entdecken: Der Einstieg in die Ahnenforschung",
-    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80F3RS09I/kursname/Familiengeschichte%20entdecken%20Der%20Einstieg%20in%20die%20Ahnenforschung/kategorie-id/1",
-    "date": "Mi., 23.09.2026, 17:00 Uhr - 19:00 Uhr",
-    "place": "Onlineangebot",
-    "fee": "0,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80F3RS09A",
@@ -141,16 +132,7 @@
     "date": "Di., 06.10.2026, 09:00 Uhr - 17:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "90,00 €",
-    "status": "Es sind noch 15 Plätze frei"
-  },
-  {
-    "id": "T8031BE011",
-    "title": "Neurodivergenzen im pädagogischen Alltag",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE011/kursname/Neurodivergenzen%20im%20paedagogischen%20Alltag/kategorie-id/10",
-    "date": "Di., 06.10.2026, 09:00 Uhr - Mi. 18.11.2026 17:00 Uhr",
-    "place": "Liborianum, Paderborn und Online",
-    "fee": "380,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T8031BE124",
@@ -180,22 +162,13 @@
     "status": "ANMELDUNG über:www.kefb.de/kurse/kurs/T01PBRA500"
   },
   {
-    "id": "T8031BE004",
-    "title": "Beschwerden erwünscht! Beschwerde- und Verbesserungsmanagement in der Kita",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE004/kursname/Beschwerden%20erwuenscht%20Beschwerde-%20und%20Verbesserungsmanagement%20in%20der%20Kita/kategorie-id/10",
-    "date": "Do., 08.10.2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Katholische Akademie, Schwerte",
-    "fee": "140,00 €",
-    "status": "Es sind noch 20 Plätze frei"
-  },
-  {
     "id": "T8031BE005",
     "title": "Web-Seminar: Einführung in den Beobachtungsbogen BaSiK",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE005/kursname/Web-Seminar%20Einfuehrung%20in%20den%20Beobachtungsbogen%20BaSiK/kategorie-id/10",
     "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "T80F3RT10A",
@@ -225,15 +198,6 @@
     "status": "Es sind noch 53 Plätze frei"
   },
   {
-    "id": "T8031BE010",
-    "title": "Blended-Learning für Führungskräfte",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE010/kursname/Blended-Learning%20fuer%20Fuehrungskraefte/kategorie-id/10",
-    "date": "Mo., 12.10.2026, 09:00 Uhr - 17:00 Uhr",
-    "place": "Liborianum, Paderborn und Online",
-    "fee": "400,00 €",
-    "status": "Es sind noch 20 Plätze frei"
-  },
-  {
     "id": "T80INVIA02",
     "title": "HOT® - Das HaushaltsOrganisationsTraining",
     "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/T80INVIA02/kursname/HOT%20-%20Das%20HaushaltsOrganisationsTraining/kategorie-id/14",
@@ -258,7 +222,7 @@
     "date": "Di., 13.10.2026, 09:00 Uhr - 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "T80FIDI10A",
@@ -276,7 +240,7 @@
     "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 23 Plätze frei"
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -285,7 +249,7 @@
     "date": "Do., 15.10.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 49 Plätze frei"
+    "status": "Es sind noch 44 Plätze frei"
   },
   {
     "id": "T80F2AV053",
@@ -294,7 +258,7 @@
     "date": "Fr., 16.10.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 50 Plätze frei"
+    "status": "Es sind noch 38 Plätze frei"
   },
   {
     "id": "T80F3RT10I",
@@ -326,8 +290,8 @@
   {
     "id": "T80BFD_10A",
     "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80BFD_10A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/",
-    "date": "Di., 27.10.2026, 09:30 Uhr - 16:00 Uhr",
+    "url": "https://www.helfenmitprofil.de/programm/bundesfreiwilligendienst/kw/bereich/kursdetails/kurs/T80BFD_10A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/15",
+    "date": "Di., 27.10.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
     "status": "Es sind noch 20 Plätze frei"
@@ -389,8 +353,8 @@
   {
     "id": "T80BFD_11A",
     "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80BFD_11A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/",
-    "date": "Di., 10.11.2026, 09:30 Uhr - 16:00 Uhr",
+    "url": "https://www.helfenmitprofil.de/programm/bundesfreiwilligendienst/kw/bereich/kursdetails/kurs/T80BFD_11A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/15",
+    "date": "Di., 10.11.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
     "status": "Es sind noch 20 Plätze frei"
@@ -405,6 +369,15 @@
     "status": "Es sind noch 12 Plätze frei"
   },
   {
+    "id": "T80POK11D",
+    "title": "Grundlagen für interne Ansprechpersonen im Kontext (sexualisierter) Gewalt",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80POK11D/kursname/Grundlagen%20fuer%20interne%20Ansprechpersonen%20im%20Kontext%20sexualisierter%20Gewalt/kategorie-id/2",
+    "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
+    "place": "Online",
+    "fee": "0,00 €",
+    "status": "Es sind noch 100 Plätze frei"
+  },
+  {
     "id": "T8031BE227",
     "title": "Web-Seminar: Einführung in den Beobachtungsbogen BaSiK",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE227/kursname/Web-Seminar%20Einfuehrung%20in%20den%20Beobachtungsbogen%20BaSiK/kategorie-id/10",
@@ -415,11 +388,11 @@
   },
   {
     "id": "T80FIDI11A",
-    "title": "Einführungskurs strategisches Fundraising",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80FIDI11A/kursname/Einfuehrungskurs%20strategisches%20Fundraising/kategorie-id/",
+    "title": "Spenden, Sponsoring und Co. – Einführung in das strategische Fundraising",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80FIDI11A/kursname/Spenden%20Sponsoring%20und%20Co%20Einfuehrung%20in%20das%20strategische%20Fundraising/kategorie-id/",
     "date": "Mo., 16.11.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Liborianum, Paderborn",
-    "fee": "200,00 €",
+    "fee": "250,00 €",
     "status": "Es sind noch 25 Plätze frei"
   },
   {
@@ -506,8 +479,8 @@
   {
     "id": "T80BFD_12A",
     "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80BFD_12A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/",
-    "date": "Mo., 21.12.2026, 09:30 Uhr - 16:00 Uhr",
+    "url": "https://www.helfenmitprofil.de/programm/bundesfreiwilligendienst/kw/bereich/kursdetails/kurs/T80BFD_12A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/15",
+    "date": "Mo., 21.12.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
     "status": "Es sind noch 20 Plätze frei"
@@ -573,7 +546,7 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "U80POK_02C",
@@ -613,8 +586,8 @@
   },
   {
     "id": "U8031BE140",
-    "title": "Workshop: Qualitätsentwicklung lebendig halten",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE140/kursname/Workshop%20Qualitaetsentwicklung%20lebendig%20halten/kategorie-id/10",
+    "title": "Qualitätsentwicklung im Team – Praktische Methoden für die nachhaltige Umsetzung",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE140/kursname/Qualitaetsentwicklung%20im%20Team%20Praktische%20Methoden%20fuer%20die%20nachhaltige%20Umsetzung/kategorie-id/10",
     "date": "Mo., 22.02.2027, 09:00 Uhr - 17:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "130,00 €",
@@ -673,6 +646,15 @@
     "place": "Katholische Akademie, Schwerte",
     "fee": "490,00 €",
     "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "T8031BE004",
+    "title": "Beschwerden erwünscht! Beschwerde- und Verbesserungsmanagement in der K",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE004/kursname/Beschwerden%20erwuenscht%20Beschwerde-%20und%20Verbesserungsmanagement%20in%20der%20K/kategorie-id/10",
+    "date": "Do., 11.03.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Katholische Akademie, Schwerte",
+    "fee": "140,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "U8031BE008",

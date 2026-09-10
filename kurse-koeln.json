@@ -1,29 +1,11 @@
 [
   {
-    "id": "23326-017",
-    "title": "Hast Du kurz Zeit?",
-    "date": "2026-09-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 140.00 Extern: 175.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5398"
-  },
-  {
-    "id": "24926-027",
-    "title": "kitaplus – Allgemeine Vertiefungsschulung",
-    "date": "2026-09-09",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 180.00 Extern: 216.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6027"
-  },
-  {
     "id": "24426-010",
     "title": "Teammotivation – Teamentwicklung – Teamcoaching",
     "date": "2026-09-10",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 520.00 Extern: 595.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5463"
   },
   {
@@ -41,7 +23,7 @@
     "date": "2026-09-10",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5486"
   },
   {
@@ -398,7 +380,7 @@
   {
     "id": "23126-010",
     "title": "Web-Seminar: Ganztägige Präventionsschulung für Leitungskräfte (Kinder- und Jugendhilfe – ohne Kita)",
-    "date": "2026-09-26",
+    "date": "2026-09-30",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 100.00 Extern: 120.00",
     "status": "Angebot buchbar",
@@ -502,15 +484,6 @@
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5076"
-  },
-  {
-    "id": "48026-015",
-    "title": "Fachlich fit – sozial und kommunikativ kompetent",
-    "date": "2026-09-30",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5088"
   },
   {
     "id": "21826-013",
@@ -1202,7 +1175,7 @@
     "date": "2026-10-29",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
   },
   {
@@ -1211,7 +1184,7 @@
     "date": "2026-11-02",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5347"
   },
   {
@@ -3130,6 +3103,15 @@
     "fee": "Intern: 75.00 Extern: 90.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6083"
+  },
+  {
+    "id": "48027-017",
+    "title": "Fachlich fit: Fortbildung für Anleitende in den Beschäftigungsbetrieben",
+    "date": "2027-04-21",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6449"
   },
   {
     "id": "25227-001",

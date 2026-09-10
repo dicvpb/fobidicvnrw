@@ -90,6 +90,15 @@
     "status": "offen"
   },
   {
+    "id": "08.005.26",
+    "title": "Dekubitus: Die neue EPUAP Leitlinie – was ist heute richtig und wie setze ich es um?",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/dekubitus-die-neue-epuap-leitlinie--was-ist-heute-richtig-und-wie-setze-ich-es-um-272e2445-899c-4e90",
+    "date": "08.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "250,00 € bzw. 240,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "08.011.26",
     "title": "Den Menschen, die sterben wollen, achtsam begegnen und sie palliativ begleiten.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/den-menschen-die-sterben-wollen-achtsam-begegnen-und-sie-palliativ-begleiten.-f03cdf49-74ed-4391-935",
@@ -126,21 +135,21 @@
     "status": "offen"
   },
   {
-    "id": "09.000.26",
-    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
-    "date": "06.10.2026 - 07.10.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "09.009.26",
     "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-f4da5e89-e209-4815-9fee-11dcdda6d6da",
     "date": "06.10.2026 - 07.10.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.000.26",
+    "title": "Digitale Lebenswelt im Ganztag: Chancen nutzen, Risiken erkennen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/digitale-lebenswelt-im-ganztag-chancen-nutzen-risiken-erkennen.-9b45fef0-d6d0-4fec-9ac9-dcb3ef2c804e",
+    "date": "06.10.2026 - 07.10.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "205,00 € bzw. 185,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -180,6 +189,33 @@
     "status": "offen"
   },
   {
+    "id": "08.002.27",
+    "title": "Expertenstandard: Beziehungsgestaltung in der Pflege von Menschen mit Demenz.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/expertenstandard-beziehungsgestaltung-in-der-pflege-von-menschen-mit-demenz.-c32d72e9-4ae2-4732-ae8c",
+    "date": "25.02.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "120,00 € bzw. 110,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "08.000.27",
+    "title": "Expertenstandard: Dekubitusprophylaxe in der Pflege.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/expertenstandard-dekubitusprophylaxe-in-der-pflege.-650bab5d-5b45-49ea-9d0c-45db45e5ae41",
+    "date": "18.11.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "120,00 € bzw. 110,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "08.003.27",
+    "title": "Expertenstandard: Ernährungsmanagement zur Sicherung und Förderung der oralen Ernährung in der Pflege.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/expertenstandard-ernaehrungsmanagement-zur-sicherung-und-foerderung-der-oralen-ernaehrung-in-der-pfl",
+    "date": "09.09.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "120,00 € bzw. 110,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "26-7.25",
     "title": "Fit für die Jugendhilfe 2",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/fit-fuer-die-jugendhilfe-2-fc82bfdf-8694-43f7-a6e1-299b4f6b10a4",
@@ -195,6 +231,15 @@
     "date": "27.04.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "230,00 € bzw. 210,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "08.015.26",
+    "title": "Hauswirtschaft neu denken – mehr als nur „Küche“.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/hauswirtschaft-neu-denken--mehr-als-nur-kueche.-305b599a-e15f-46c8-a16d-faa2b2e856b9",
+    "date": "28.01.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "195,00 € bzw. 185,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -509,7 +554,7 @@
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/was-koennen-die-kinder--jugend-und-eingliederungshilfe-voneinander-lernen-122474ac-9c70-404b-97c4-85",
     "date": "12.11.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "85,00 €",
+    "fee": "95,00 € bzw. 85,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
