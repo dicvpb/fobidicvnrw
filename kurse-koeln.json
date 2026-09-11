@@ -1,32 +1,5 @@
 [
   {
-    "id": "24426-010",
-    "title": "Teammotivation – Teamentwicklung – Teamcoaching",
-    "date": "2026-09-10",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 520.00 Extern: 595.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5463"
-  },
-  {
-    "id": "24226-013",
-    "title": "Fachkraft für Kinderschutz – Prävention und Handlungssicherheit im Kita-Alltag",
-    "date": "2026-09-10",
-    "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
-    "fee": "Intern: 1000.00 Extern: 1200.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5479"
-  },
-  {
-    "id": "21826-014",
-    "title": "Systeme in Aktion – Lieblingsmethoden Nummer Zwei",
-    "date": "2026-09-10",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5486"
-  },
-  {
     "id": "24626-043",
     "title": "Web-Seminar: Einfache Sprache mit Gebärden begleiten",
     "date": "2026-09-11",
@@ -95,7 +68,7 @@
     "date": "2026-09-15",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6242"
   },
   {
@@ -378,15 +351,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6244"
   },
   {
-    "id": "23126-010",
-    "title": "Web-Seminar: Ganztägige Präventionsschulung für Leitungskräfte (Kinder- und Jugendhilfe – ohne Kita)",
-    "date": "2026-09-30",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4997"
-  },
-  {
     "id": "26626-010",
     "title": "Neustart Inklusion: Wozu Inklusionsvereinbarungen?",
     "date": "2026-09-26",
@@ -466,6 +430,15 @@
     "fee": "Intern: 82.00 Extern: 99.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6735"
+  },
+  {
+    "id": "23126-010",
+    "title": "Web-Seminar: Ganztägige Präventionsschulung für Leitungskräfte (Kinder- und Jugendhilfe – ohne Kita)",
+    "date": "2026-09-30",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=4997"
   },
   {
     "id": "23126-014",
@@ -1112,7 +1085,7 @@
     "date": "2026-10-22",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5572"
   },
   {
@@ -1321,6 +1294,15 @@
     "fee": "Intern: 495.00 Extern: 495.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6807"
+  },
+  {
+    "id": "23126-036",
+    "title": "Web-Seminar: Das war schon immer so",
+    "date": "2026-11-04",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6848"
   },
   {
     "id": "23126-016",
@@ -2194,6 +2176,15 @@
     "fee": "Intern: 240.00 Extern: 290.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6840"
+  },
+  {
+    "id": "23126-037",
+    "title": "Web-Seminar: Krieg, Schweigen, Erinnerung",
+    "date": "2026-12-02",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6850"
   },
   {
     "id": "24626-016",
