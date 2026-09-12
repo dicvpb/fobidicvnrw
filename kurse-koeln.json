@@ -1,14 +1,5 @@
 [
   {
-    "id": "24626-043",
-    "title": "Web-Seminar: Einfache Sprache mit Gebärden begleiten",
-    "date": "2026-09-11",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5423"
-  },
-  {
     "id": "23526-002",
     "title": "Unterwegs mit Dir – In den Bergen Gott und sich selbst begegnen",
     "date": "2026-09-13",
@@ -115,15 +106,6 @@
     "fee": "Intern: 75.00 Extern: 0.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6146"
-  },
-  {
-    "id": "25026-028",
-    "title": "Microsoft 365 - Was steckt drin – was bringt es mir?",
-    "date": "2026-09-16",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 55.00 Extern: 66.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6734"
   },
   {
     "id": "23126-004",
@@ -819,6 +801,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5373"
   },
   {
+    "id": "24826-049",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2026-10-09",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6853"
+  },
+  {
     "id": "31826-013",
     "title": "Verletzte Seelen: Den Zusammenhang von Sucht und Trauma erkennen und bewältigen",
     "date": "2026-10-10",
@@ -844,15 +835,6 @@
     "fee": "Intern: 160.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5369"
-  },
-  {
-    "id": "24626-045",
-    "title": "Deutsche Gebärdensprache – Fortgeschrittenenkurs",
-    "date": "2026-10-12",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 250.00 Extern: 300.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5425"
   },
   {
     "id": "26626-014",
