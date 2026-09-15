@@ -315,21 +315,21 @@
     "status": "offen"
   },
   {
-    "id": "06.004.27",
-    "title": "Mit Belastungen umgehen können.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-84d8ec34-3e2b-43bc-8c5e-f5b3be4a804a",
-    "date": "24.11.2027 - 25.11.2027",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "390,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "06.003.26",
     "title": "Mit Belastungen umgehen können.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-a87e0172-75db-4018-ac54-16a910ea61be",
     "date": "25.11.2026 - 26.11.2026",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "370,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "06.004.27",
+    "title": "Mit Belastungen umgehen können.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-84d8ec34-3e2b-43bc-8c5e-f5b3be4a804a",
+    "date": "24.11.2027 - 25.11.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "390,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -486,15 +486,6 @@
     "status": "offen"
   },
   {
-    "id": "09.011.26",
-    "title": "Umgang mit ADHS",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/umgang-mit-adhs-6f2b30a8-9009-4d80-bd63-c469b4c91f77",
-    "date": "14.01.2027",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "210,00 € bzw. 190,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "04.003.26",
     "title": "Update Interne Audits",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/update-interne-audits-80f47f46-a902-44ad-b7c4-4fb47684ec72",
@@ -519,6 +510,15 @@
     "date": "11.05.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "270,00 € bzw. 250,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "09.011.26",
+    "title": "Von der Herausforderung zur Chance: Kinder mit ADHS gut begleiten.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/von-der-herausforderung-zur-chance-kinder-mit-adhs-gut-begleiten.-6f2b30a8-9009-4d80-bd63-c469b4c91f",
+    "date": "14.01.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "210,00 € bzw. 190,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {

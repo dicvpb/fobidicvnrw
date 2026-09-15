@@ -9,22 +9,13 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "T80F3BF09B",
-    "title": "Erfolgreiches Office-Management",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF09B/kursname/Erfolgreiches%20Office-Management/kategorie-id/7",
-    "date": "Di., 15.09.2026, 09:00 Uhr - Mi. 16.09.2026 17:00 Uhr",
-    "place": "Hotel Susato, Soest",
-    "fee": "400,00 €",
-    "status": "Anmeldung auf Warteliste"
-  },
-  {
     "id": "T80F3BF09G",
     "title": "BWL Basics für Fach- und Führungskräfte im sozialen Bereich",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80F3BF09G/kursname/BWL%20Basics%20fuer%20Fach-%20und%20Fuehrungskraefte%20im%20sozialen%20Bereich/kategorie-id/7",
     "date": "Mi., 16.09.2026, 09:00 Uhr - 17:00 Uhr",
     "place": "Forum St. Liborius Tagungshaus",
     "fee": "150,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T8031BE006",
@@ -168,7 +159,7 @@
     "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T80F3RT10A",
@@ -231,7 +222,7 @@
     "date": "Di., 13.10.2026, 09:30 Uhr - Mi. 14.10.2026 13:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "470,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "T80VIER10B",
@@ -240,7 +231,7 @@
     "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 17 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -249,7 +240,7 @@
     "date": "Do., 15.10.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 44 Plätze frei"
+    "status": "Es sind noch 41 Plätze frei"
   },
   {
     "id": "T80F2AV053",
@@ -258,7 +249,7 @@
     "date": "Fr., 16.10.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Kommende in Dortmund",
     "fee": "100,00 €",
-    "status": "Es sind noch 35 Plätze frei"
+    "status": "Es sind noch 32 Plätze frei"
   },
   {
     "id": "T80F3RT10I",
@@ -375,7 +366,7 @@
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Online",
     "fee": "0,00 €",
-    "status": "Es sind noch 100 Plätze frei"
+    "status": "Es sind noch 90 Plätze frei"
   },
   {
     "id": "T8031BE227",
@@ -402,7 +393,7 @@
     "date": "Mi., 18.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "60,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
@@ -636,7 +627,7 @@
     "date": "Di., 09.03.2027, 10:00 Uhr - Fr. 11.06.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "1600,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "U80POK_03A",

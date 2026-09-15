@@ -1,32 +1,5 @@
 [
   {
-    "id": "23126-023",
-    "title": "Prävention von sexualisierter Gewalt im Kinder- und Jugendbereich",
-    "date": "2026-09-14",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5010"
-  },
-  {
-    "id": "24926-002",
-    "title": "kitaplus – Basisschulung",
-    "date": "2026-09-14",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5013"
-  },
-  {
-    "id": "24426-009",
-    "title": "Schwierige Situationen, Konflikte und Probleme professionell und beherzt anfassen",
-    "date": "2026-09-14",
-    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
-    "fee": "Intern: 420.00 Extern: 520.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5459"
-  },
-  {
     "id": "24726-028",
     "title": "Web-Seminar: Freiraum für Fantasie und Kreativität",
     "date": "2026-09-15",
@@ -34,15 +7,6 @@
     "fee": "Intern: 80.00 Extern: 105.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5277"
-  },
-  {
-    "id": "23926-030",
-    "title": "Web-Seminar: Moderation und Sitzungsgestaltung für Online- und Präsenz-Termine",
-    "date": "2026-09-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5553"
   },
   {
     "id": "23826-049",
@@ -59,7 +23,7 @@
     "date": "2026-09-15",
     "place": "siehe Ausschreibungstext oder -flyer",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6761"
   },
   {
@@ -293,7 +257,7 @@
     "date": "2026-09-24",
     "place": "Martinushaus An St. Martin 9 50354 Hürth-Fischenich",
     "fee": "Intern: 55.00 Extern: 80.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5332"
   },
   {
@@ -385,15 +349,6 @@
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5335"
-  },
-  {
-    "id": "48026-020",
-    "title": "Grenz- und Mischfälle in der Sozialberatung",
-    "date": "2026-09-29",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5815"
   },
   {
     "id": "25026-029",
@@ -729,15 +684,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6268"
   },
   {
-    "id": "24626-007",
-    "title": "Web-Seminar: Kinder psychisch kranker Eltern(teile) in der Kita bedürfnisangemessen unterstützen",
-    "date": "2026-10-08",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5372"
-  },
-  {
     "id": "21826-010",
     "title": "Traumasensibles Arbeiten",
     "date": "2026-10-08",
@@ -916,15 +862,6 @@
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5515"
-  },
-  {
-    "id": "23926-022",
-    "title": "Web-Seminar: Onboarding in Häppchen",
-    "date": "2026-10-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 50.00 Extern: 60.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5539"
   },
   {
     "id": "24726-140",
@@ -1501,15 +1438,6 @@
     "fee": "Intern: 240.00 Extern: 290.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5040"
-  },
-  {
-    "id": "24626-021",
-    "title": "Hoppla, hier komm ich!",
-    "date": "2026-11-12",
-    "place": "CVJM-Bildungsstätte Bundeshöhe Bundeshöhe 6 42285 Wuppertal",
-    "fee": "Intern: 310.00 Extern: 360.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5387"
   },
   {
     "id": "24426-018",
@@ -2217,7 +2145,7 @@
     "id": "26826-022",
     "title": "Zweitägiger Workshop: Haltung zeigen (Köln)",
     "date": "2026-12-07",
-    "place": "",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6841"
@@ -2257,6 +2185,15 @@
     "fee": "Intern: 68.00 Extern: 82.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6645"
+  },
+  {
+    "id": "23326-017",
+    "title": "Hast Du kurz Zeit?",
+    "date": "2026-12-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 140.00 Extern: 175.00",
+    "status": "Warteliste",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5398"
   },
   {
     "id": "21826-024",
@@ -3006,6 +2943,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
   },
   {
+    "id": "48027-022",
+    "title": "Supervision für Mitarbeitende in der Flüchtlings- und Migrationsarbeit",
+    "date": "2027-01-27",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 275.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6856"
+  },
+  {
     "id": "13227-005",
     "title": "Dauernd Wurst ist irgendwie Käse: Pflanzenpower",
     "date": "2027-02-02",
@@ -3049,6 +2995,15 @@
     "fee": "Intern: 65.00 Extern: 65.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6793"
+  },
+  {
+    "id": "23127-012",
+    "title": "Ganztägige Präventionsschulung für Leitungskräfte (Kinder- und Jugendhilfe – ohne Kita)",
+    "date": "2027-04-06",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6197"
   },
   {
     "id": "31827-011",
