@@ -1,32 +1,5 @@
 [
   {
-    "id": "24726-028",
-    "title": "Web-Seminar: Freiraum für Fantasie und Kreativität",
-    "date": "2026-09-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5277"
-  },
-  {
-    "id": "23826-049",
-    "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
-    "date": "2026-09-15",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6242"
-  },
-  {
-    "id": "26826-018",
-    "title": "Vom Vorurteil zur Gewalt",
-    "date": "2026-09-15",
-    "place": "siehe Ausschreibungstext oder -flyer",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6761"
-  },
-  {
     "id": "24726-064",
     "title": "Nonverbale Interaktionen mit Kindern",
     "date": "2026-09-16",
@@ -41,7 +14,7 @@
     "date": "2026-09-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5853"
   },
   {
@@ -50,7 +23,7 @@
     "date": "2026-09-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6138"
   },
   {
@@ -196,15 +169,6 @@
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5169"
-  },
-  {
-    "id": "23926-016",
-    "title": "Wertschätzung in Führung und Teamarbeit",
-    "date": "2026-09-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5410"
   },
   {
     "id": "17026-006",
@@ -1008,6 +972,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5764"
   },
   {
+    "id": "24826-050",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2026-10-22",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6854"
+  },
+  {
     "id": "26626-019",
     "title": "Ohne Vertrauen ist alles nichts?! Eine Anfrage an die Player im kirchlichen Dienst",
     "date": "2026-10-26",
@@ -1058,7 +1031,7 @@
     "date": "2026-10-29",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
   },
   {
@@ -2943,6 +2916,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
   },
   {
+    "id": "24827-001",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2027-01-27",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 240.00 Extern: 290.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6061"
+  },
+  {
     "id": "48027-022",
     "title": "Supervision für Mitarbeitende in der Flüchtlings- und Migrationsarbeit",
     "date": "2027-01-27",
@@ -2952,6 +2934,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6856"
   },
   {
+    "id": "26527-001",
+    "title": "Spiritual / Existential Care interprofessionell",
+    "date": "2027-02-01",
+    "place": "Caritas Akademie Rhein-Erft Caritasverband für den Rhein-Erft-Kreis Im Gleisdreieck 2 50169 Kerpen",
+    "fee": "Intern: 450.00 Extern: 550.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6855"
+  },
+  {
     "id": "13227-005",
     "title": "Dauernd Wurst ist irgendwie Käse: Pflanzenpower",
     "date": "2027-02-02",
@@ -2959,6 +2950,15 @@
     "fee": "Intern: 45.00 Extern: 54.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6213"
+  },
+  {
+    "id": "48027-023",
+    "title": "Supervision für Mitarbeitende in der Flüchtlings- und Migrationsarbeit",
+    "date": "2027-02-03",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 270.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6859"
   },
   {
     "id": "31827-010",
@@ -3049,6 +3049,15 @@
     "fee": "Intern: 35.00 Extern: 42.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6105"
+  },
+  {
+    "id": "26527-002",
+    "title": "Spiritual / Existential Care interprofessionell",
+    "date": "2027-09-30",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 450.00 Extern: 550.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6858"
   },
   {
     "id": "31827-009",
