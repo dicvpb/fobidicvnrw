@@ -1,41 +1,5 @@
 [
   {
-    "id": "23126-004",
-    "title": "Web-Seminar: Achtsame Sprache – gelingendes Miteinander",
-    "date": "2026-09-17",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4970"
-  },
-  {
-    "id": "23926-007",
-    "title": "Web-Seminar: Machst du jetzt einen auf Chef_in, oder wie?",
-    "date": "2026-09-17",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5067"
-  },
-  {
-    "id": "24726-118",
-    "title": "Digitale Entwicklungsdokumentation: Lerngeschichten partizipativ erzählen",
-    "date": "2026-09-17",
-    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
-    "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5635"
-  },
-  {
-    "id": "48026-028",
-    "title": "Studientag: Arbeitsausbeutung erkennen - und handeln!",
-    "date": "2026-09-17",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 25.00 Extern: 25.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6021"
-  },
-  {
     "id": "24826-026",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-09-18",
@@ -59,7 +23,7 @@
     "date": "2026-09-18",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 100.00 Extern: 100.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5185"
   },
   {
@@ -149,7 +113,7 @@
     "date": "2026-09-23",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4984"
   },
   {
@@ -266,7 +230,7 @@
     "date": "2026-09-29",
     "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5335"
   },
   {
@@ -311,7 +275,7 @@
     "date": "2026-09-30",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5485"
   },
   {
@@ -581,7 +545,7 @@
     "date": "2026-10-07",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5298"
   },
   {
@@ -1283,7 +1247,7 @@
     "date": "2026-11-09",
     "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
     "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5400"
   },
   {
