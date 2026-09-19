@@ -1,41 +1,5 @@
 [
   {
-    "id": "24826-026",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-09-18",
-    "place": "Pfarrheim Kath. Kirchengemeinde St. Anna Franz-Jacobi-Str. 1 53757 Sankt Augustin (Hangelar)",
-    "fee": "Intern: 95.00 Extern: 115.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5079"
-  },
-  {
-    "id": "23226-002",
-    "title": "Intuitives Bogenschießen für das innere Gleichgewicht",
-    "date": "2026-09-18",
-    "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5180"
-  },
-  {
-    "id": "21826-007",
-    "title": "Gelassener, klarer und konsequenter handeln im Offenen Ganztag",
-    "date": "2026-09-18",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 100.00 Extern: 100.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5185"
-  },
-  {
-    "id": "17026-010",
-    "title": "AVR-Caritas 2027: Stellenbewertung und Eingruppierung",
-    "date": "2026-09-18",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6147"
-  },
-  {
     "id": "24626-027",
     "title": "Kinder mit Autismus-Spektrum-Störungen in der Kita",
     "date": "2026-09-21",
@@ -151,15 +115,6 @@
     "fee": "Intern: 160.00 Extern: 190.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5395"
-  },
-  {
-    "id": "23826-043",
-    "title": "Canva für Fortgeschrittene",
-    "date": "2026-09-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6139"
   },
   {
     "id": "23826-051",
@@ -646,15 +601,6 @@
     "fee": "Intern: 135.00 Extern: 135.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6833"
-  },
-  {
-    "id": "24626-004",
-    "title": "Web-Seminar: Elternpartnerschaft im inklusiven Setting stärken",
-    "date": "2026-10-12",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 160.00 Extern: 210.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5369"
   },
   {
     "id": "26626-014",
@@ -2887,6 +2833,33 @@
     "fee": "Intern: 95.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6795"
+  },
+  {
+    "id": "31827-001",
+    "title": "Basisqualifikation Suchthilfe – Modul I",
+    "date": "2027-02-23",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 135.00 Extern: 165.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6674"
+  },
+  {
+    "id": "31827-002",
+    "title": "Basisqualifikation Suchthilfe – Modul II",
+    "date": "2027-02-24",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 135.00 Extern: 165.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6675"
+  },
+  {
+    "id": "31827-003",
+    "title": "Basisqualifikation Suchthilfe – Modul III",
+    "date": "2027-02-25",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 135.00 Extern: 165.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6676"
   },
   {
     "id": "48027-001",
