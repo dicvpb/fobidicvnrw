@@ -15,7 +15,7 @@
     "date": "Mo., 28.09.2026, 11:00 Uhr - Do. 01.10.2026 13:00 Uhr",
     "place": "Kloster Marienrode, Hildesheim",
     "fee": "550,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "T80CKQV09C",
@@ -51,7 +51,7 @@
     "date": "Di., 06.10.2026, 09:00 Uhr - 17:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "90,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "T80CKQV10A",
@@ -78,7 +78,7 @@
     "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "T80F3RT10A",
@@ -97,15 +97,6 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
-  },
-  {
-    "id": "T80F3RM10G",
-    "title": "17. Paderborner Caritas.diskurs Ethik",
-    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80F3RM10G/kursname/17%20Paderborner%20Caritasdiskurs%20Ethik/kategorie-id/2",
-    "date": "Fr., 09.10.2026, 09:00 Uhr - 16:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "120,00 €",
-    "status": "Es sind noch 52 Plätze frei"
   },
   {
     "id": "T80INVIA02",
@@ -150,7 +141,7 @@
     "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -159,7 +150,7 @@
     "date": "Do., 15.10.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata in Paderborn",
     "fee": "100,00 €",
-    "status": "Es sind noch 32 Plätze frei"
+    "status": "Es sind noch 30 Plätze frei"
   },
   {
     "id": "T80F2AV053",
@@ -312,7 +303,7 @@
     "date": "Mi., 18.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "60,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
@@ -465,7 +456,7 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "U80POK_02C",

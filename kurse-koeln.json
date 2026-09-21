@@ -32,7 +32,7 @@
     "date": "2026-09-21",
     "place": "AOK Bildungszentrum Schwarzer Weg 5-7 41515 Grevenbroich",
     "fee": "Intern: 40.00 Extern: 50.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6042"
   },
   {
@@ -149,7 +149,7 @@
     "date": "2026-09-28",
     "place": "Ökologische Nischen Städt. Behindertenzentrum Lachemer Weg 22 50737 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5559"
   },
   {
@@ -275,7 +275,7 @@
     "date": "2026-10-01",
     "place": "Seminarhaus DER RAUM! Mucher Straße 31 53804 Much",
     "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5360"
   },
   {
@@ -923,7 +923,7 @@
     "date": "2026-11-03",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5109"
   },
   {
