@@ -78,7 +78,7 @@
     "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 7 Plätze frei"
   },
   {
     "id": "T80F3RT10A",
@@ -168,7 +168,7 @@
     "date": "Fr., 16.10.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "70,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 7 Plätze frei"
   },
   {
     "id": "T80INVIA03",
@@ -178,15 +178,6 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "990,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
-  },
-  {
-    "id": "T80POK10C",
-    "title": "Beten mit den Füßen",
-    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/T80POK10C/kursname/Beten%20mit%20den%20Fuessen/kategorie-id/12",
-    "date": "Fr., 23.10.2026, 17:00 Uhr - So. 25.10.2026 13:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "75,00 €",
-    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "T80BFD_10A",
@@ -204,7 +195,7 @@
     "date": "Do., 29.10.2026, 18:00 Uhr - Mo. 02.11.2026 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "590,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "T80F2AV054",
@@ -303,7 +294,7 @@
     "date": "Mi., 18.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "60,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
