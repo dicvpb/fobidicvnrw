@@ -1,41 +1,5 @@
 [
   {
-    "id": "48026-004",
-    "title": "Web-Seminar: SGB II – Die neuen Grundsicherungs-Bescheide verstehen",
-    "date": "2026-09-22",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4978"
-  },
-  {
-    "id": "23326-002",
-    "title": "Systemische Beratung: kompakt – kurz – konstruktiv",
-    "date": "2026-09-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 590.00 Extern: 710.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4989"
-  },
-  {
-    "id": "23326-007",
-    "title": "Einfach visualisieren: Starke Bilder – starke Wirkung!",
-    "date": "2026-09-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5169"
-  },
-  {
-    "id": "17026-006",
-    "title": "Einführung in die MAVO für Dienstgeber",
-    "date": "2026-09-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5934"
-  },
-  {
     "id": "48026-006",
     "title": "Diversitätsorientierte Soziale Arbeit",
     "date": "2026-09-23",
@@ -59,7 +23,7 @@
     "date": "2026-09-23",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 60.00 Extern: 80.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5728"
   },
   {
@@ -88,6 +52,15 @@
     "fee": "Intern: 68.00 Extern: 82.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6244"
+  },
+  {
+    "id": "25026-025",
+    "title": "Excel Level 1",
+    "date": "2026-09-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 350.00 Extern: 420.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6731"
   },
   {
     "id": "26626-010",
@@ -151,15 +124,6 @@
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5335"
-  },
-  {
-    "id": "25026-029",
-    "title": "Kollaboration mit Microsoft Teams",
-    "date": "2026-09-29",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 82.00 Extern: 99.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6735"
   },
   {
     "id": "23126-010",
@@ -356,7 +320,7 @@
     "date": "2026-10-06",
     "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
     "fee": "Intern: 85.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5264"
   },
   {
@@ -365,7 +329,7 @@
     "date": "2026-10-06",
     "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
     "fee": "Intern: 1600.00 Extern: 1950.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
@@ -1157,7 +1121,7 @@
     "date": "2026-11-09",
     "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
     "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5400"
   },
   {
@@ -1267,6 +1231,15 @@
     "fee": "Intern: 82.00 Extern: 99.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6737"
+  },
+  {
+    "id": "24826-051",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2026-11-12",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6865"
   },
   {
     "id": "24926-008",
@@ -1483,6 +1456,15 @@
     "fee": "Intern: 100.00 Extern: 120.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6028"
+  },
+  {
+    "id": "24426-020",
+    "title": "Kita im Wandel: Was beschäftigt uns morgen?",
+    "date": "2026-11-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6864"
   },
   {
     "id": "24926-016",
