@@ -1,41 +1,5 @@
 [
   {
-    "id": "24026-023",
-    "title": "Beziehung gestalten und erleben",
-    "date": "2026-09-24",
-    "place": "Martinushaus An St. Martin 9 50354 Hürth-Fischenich",
-    "fee": "Intern: 55.00 Extern: 80.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5332"
-  },
-  {
-    "id": "23326-014",
-    "title": "Worte wirken – überzeugend sprechen, souverän auftreten",
-    "date": "2026-09-24",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5395"
-  },
-  {
-    "id": "23826-051",
-    "title": "KI für die professionelle Öffentlichkeitsarbeit",
-    "date": "2026-09-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6244"
-  },
-  {
-    "id": "25026-025",
-    "title": "Excel Level 1",
-    "date": "2026-09-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 350.00 Extern: 420.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6731"
-  },
-  {
     "id": "26626-010",
     "title": "Neustart Inklusion: Wozu Inklusionsvereinbarungen?",
     "date": "2026-09-26",
@@ -540,15 +504,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5167"
   },
   {
-    "id": "24726-137",
-    "title": "Partizipatives Handeln in der Arbeit mit den Eltern",
-    "date": "2026-10-13",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6022"
-  },
-  {
     "id": "23826-052",
     "title": "Mit KI als Boost: Anträge und Konzepte wirksam entwickeln",
     "date": "2026-10-13",
@@ -592,15 +547,6 @@
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5515"
-  },
-  {
-    "id": "24726-140",
-    "title": "KI im Kita-Alltag nutzen",
-    "date": "2026-10-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 40.00 Extern: 50.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6044"
   },
   {
     "id": "23826-044",
@@ -684,15 +630,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6156"
   },
   {
-    "id": "24726-055",
-    "title": "Sprachreiche Umgebung in der Kita nutzen",
-    "date": "2026-10-20",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5354"
-  },
-  {
     "id": "31826-004",
     "title": "Basisqualifikation Suchthilfe – Modul I",
     "date": "2026-10-20",
@@ -709,15 +646,6 @@
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5571"
-  },
-  {
-    "id": "23326-008",
-    "title": "Partizipative Prozesse professionell moderieren",
-    "date": "2026-10-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 290.00 Extern: 350.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5170"
   },
   {
     "id": "31826-006",
@@ -1004,7 +932,7 @@
     "date": "2026-11-06",
     "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
     "fee": "Intern: 95.00 Extern: 115.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5100"
   },
   {
@@ -2763,6 +2691,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6795"
   },
   {
+    "id": "23327-023",
+    "title": "Partizipative Prozesse professionell moderieren",
+    "date": "2027-02-18",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 290.00 Extern: 350.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6874"
+  },
+  {
     "id": "31827-001",
     "title": "Basisqualifikation Suchthilfe – Modul I",
     "date": "2027-02-23",
@@ -2878,15 +2815,6 @@
     "fee": "Intern: 35.00 Extern: 42.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6105"
-  },
-  {
-    "id": "24527-001",
-    "title": "Vorsorge – Selbstfürsorge",
-    "date": "2027-06-07",
-    "place": "Haus Venusberg e. V. Haager Weg 28 - 30 53127 Bonn",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6344"
   },
   {
     "id": "26527-002",
