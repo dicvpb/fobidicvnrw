@@ -5,7 +5,7 @@
     "date": "2026-09-26",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5759"
   },
   {
@@ -2626,6 +2626,15 @@
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
+  },
+  {
+    "id": "48027-024",
+    "title": "Supervision für FIM-Leitungen (Fachdienste für Integration und Migration)",
+    "date": "2027-01-22",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 380.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6875"
   },
   {
     "id": "24827-001",
