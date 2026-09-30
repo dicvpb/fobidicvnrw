@@ -78,7 +78,7 @@
     "date": "Di., 13.10.2026, 09:00 Uhr - 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "T80FIDI10A",
@@ -96,7 +96,7 @@
     "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "85,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80F2AV052",
@@ -150,7 +150,7 @@
     "date": "Do., 29.10.2026, 18:00 Uhr - Mo. 02.11.2026 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "590,00 €",
-    "status": "Es sind noch 2 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "T80F2AV054",
@@ -213,7 +213,7 @@
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 21 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   },
   {
     "id": "T8031BE227",
@@ -379,8 +379,8 @@
   },
   {
     "id": "U8031BE021",
-    "title": "Anleitung von Praktikanten in 3 Modulen",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE021/kursname/Anleitung%20von%20Praktikanten%20in%203%20Modulen/kategorie-id/10",
+    "title": "Anleitung von Praktikant*innen in 3 Modulen",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE021/kursname/Anleitung%20von%20Praktikantinnen%20in%203%20Modulen/kategorie-id/10",
     "date": "Do., 28.01.2027, 09:00 Uhr - Fr. 29.01.2027 17:00 Uhr",
     "place": "Kath. Akademie Schwerte und Online",
     "fee": "340,00 €",
