@@ -1,23 +1,5 @@
 [
   {
-    "id": "23126-018",
-    "title": "Web-Seminar: Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Altenhilfe",
-    "date": "2026-10-02",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5005"
-  },
-  {
-    "id": "24726-012",
-    "title": "Web-Seminar: Portfolio",
-    "date": "2026-10-02",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 125.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5249"
-  },
-  {
     "id": "23126-022",
     "title": "Halbtägige Präventionsschulung (Minderjährige sowie schutz- oder hilfebedürftige Erwachsene)",
     "date": "2026-10-05",
@@ -151,15 +133,6 @@
     "fee": "Intern: 50.00 Extern: 65.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6496"
-  },
-  {
-    "id": "24926-015",
-    "title": "kitaplus – Basisschulung",
-    "date": "2026-10-07",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5031"
   },
   {
     "id": "21826-001",
@@ -691,15 +664,6 @@
     "fee": "Intern: 320.00 Extern: 370.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5499"
-  },
-  {
-    "id": "23126-032",
-    "title": "Herausforderndes Verhalten bei Demenz – Grenzen schützen und sicher handeln im Pflegealltag",
-    "date": "2026-11-05",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 95.00 Extern: 115.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6133"
   },
   {
     "id": "23826-046",
@@ -2410,6 +2374,15 @@
     "fee": "Intern: 40.00 Extern: 60.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6186"
+  },
+  {
+    "id": "24827-014",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-01-14",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6253"
   },
   {
     "id": "31827-007",
