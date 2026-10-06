@@ -5,7 +5,7 @@
     "date": "2026-10-05",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5009"
   },
   {
@@ -23,7 +23,7 @@
     "date": "2026-10-05",
     "place": "Kardinal-Bea-Haus Furtherhofstr. 29 41462 Neuss",
     "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5471"
   },
   {
@@ -32,7 +32,7 @@
     "date": "2026-10-05",
     "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
     "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5636"
   },
   {
@@ -293,7 +293,7 @@
     "date": "2026-10-13",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 200.00 Extern: 250.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6331"
   },
   {
@@ -419,7 +419,7 @@
     "date": "2026-10-21",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5571"
   },
   {
@@ -831,7 +831,7 @@
     "id": "13226-005",
     "title": "Praxistag von Koch zu Koch: Alltagstaugliche Alternativen ausprobieren",
     "date": "2026-11-10",
-    "place": "Kath. Familienbildungsstätte Wuppertal Bernhard-Letterhaus-Str. 8 42275 Wuppertal",
+    "place": "Kath Kita St. Antonius Bernhard-Letterhaus-Str. 8 42275 Wuppertal",
     "fee": "Intern: 75.00 Extern: 90.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5660"
