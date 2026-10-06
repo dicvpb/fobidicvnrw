@@ -9,13 +9,13 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "T8031BE005",
-    "title": "Web-Seminar: Einführung in den Beobachtungsbogen BaSiK",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE005/kursname/Web-Seminar%20Einfuehrung%20in%20den%20Beobachtungsbogen%20BaSiK/kategorie-id/10",
-    "date": "Do., 08.10.2026, 09:00 Uhr - 16:00 Uhr",
-    "place": "Onlineangebot",
-    "fee": "80,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "id": "T80CKQV10C",
+    "title": "Brakel-Gehrden erkunden - Fachtag für caritativ-engagierte Männer",
+    "url": "https://www.helfenmitprofil.de/programm/caritas-konferenzen/kw/bereich/kursdetails/kurs/T80CKQV10C/kursname/Brakel-Gehrden%20erkunden%20-%20Fachtag%20fuer%20caritativ-engagierte%20Maenner/kategorie-id/4",
+    "date": "Mi., 07.10.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Pfarrhaus, Schlossstraße 2, 33034 Brakel-Gehrden",
+    "fee": "0,00 €",
+    "status": "Anmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
   },
   {
     "id": "T80F3RT10A",
@@ -25,15 +25,6 @@
     "place": "Bildungsstätte St. Bonifatius, Winterberg",
     "fee": "270,00 €",
     "status": "Anmeldung auf Warteliste"
-  },
-  {
-    "id": "T80INVIA12",
-    "title": "Personalentwicklung – Strategien und Chancen",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80INVIA12/kursname/Personalentwicklung%20Strategien%20und%20Chancen/kategorie-id/7",
-    "date": "Do., 08.10.2026, 09:30 Uhr - Sa. 10.10.2026 13:00 Uhr",
-    "place": "IN VIA Akademie, Paderborn",
-    "fee": "590,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
     "id": "T80INVIA02",
@@ -54,15 +45,6 @@
     "status": "Es sind noch 9 Plätze frei"
   },
   {
-    "id": "T80FIDI10A",
-    "title": "Follow up: Strategisches Fundraising",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80FIDI10A/kursname/Follow%20up%20Strategisches%20Fundraising/kategorie-id/",
-    "date": "Di., 13.10.2026, 09:30 Uhr - Mi. 14.10.2026 13:30 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "470,00 €",
-    "status": "Es sind noch 13 Plätze frei"
-  },
-  {
     "id": "T80VIER10B",
     "title": "Workshop InsO",
     "url": "https://www.helfenmitprofil.de/soziale-sicherung/kw/bereich/kursdetails/kurs/T80VIER10B/kursname/Workshop%20InsO/kategorie-id/23",
@@ -70,6 +52,24 @@
     "place": "Onlineangebot",
     "fee": "85,00 €",
     "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "T80F2AV052",
+    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV052/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
+    "date": "Do., 15.10.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Haus Maria Immaculata in Paderborn",
+    "fee": "100,00 €",
+    "status": "Es sind noch 25 Plätze frei"
+  },
+  {
+    "id": "T80F2AV053",
+    "title": "Sinn und Bedeutung des Arbeitsrechts in kirchlich sozialen Einrichtungen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80F2AV053/kursname/Sinn%20und%20Bedeutung%20des%20Arbeitsrechts%20in%20kirchlich%20sozialen%20Einrichtungen/kategorie-id/",
+    "date": "Fr., 16.10.2026, 10:00 Uhr - 16:00 Uhr",
+    "place": "Kommende in Dortmund",
+    "fee": "100,00 €",
+    "status": "Es sind noch 22 Plätze frei"
   },
   {
     "id": "T80F3RT10I",
@@ -96,7 +96,7 @@
     "date": "Di., 27.10.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80F3RS10C",
@@ -114,7 +114,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 56 Plätze frei"
+    "status": "Es sind noch 55 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -168,7 +168,7 @@
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 17 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "T8031BE227",
@@ -297,6 +297,15 @@
     "status": "Es sind noch 20 Plätze frei"
   },
   {
+    "id": "U80GESA01A",
+    "title": "Intensivschulung und interkollegialer Austausch zur Kurberatung",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/U80GESA01A/kursname/Intensivschulung%20und%20interkollegialer%20Austausch%20zur%20Kurberatung/kategorie-id/",
+    "date": "Di., 12.01.2027, 09:30 Uhr - Mi. 13.01.2027 16:00 Uhr",
+    "place": "Klinik St. Ursula, Winterberg",
+    "fee": "190,00 €",
+    "status": "Es sind noch 16 Plätze frei"
+  },
+  {
     "id": "U8031BE020",
     "title": "Mit Kindern Teilhabe erleben",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE020/kursname/Mit%20Kindern%20Teilhabe%20erleben/kategorie-id/10",
@@ -324,6 +333,15 @@
     "status": "Es sind noch 21 Plätze frei"
   },
   {
+    "id": "U80POK_01A",
+    "title": "Basics: Projektmanagement",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_01A/kursname/Basics%20Projektmanagement/kategorie-id/7",
+    "date": "Di., 26.01.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Bergkloster, Bestwig",
+    "fee": "195,00 €",
+    "status": "Es sind noch 16 Plätze frei"
+  },
+  {
     "id": "T8031BE013",
     "title": "160-Stunden-Qualifizierung gem. PersVO (Modulreihe in 11 Abschnitten)",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/T8031BE013/kursname/160-Stunden-Qualifizierung%20gem%20PersVO%20Modulreihe%20in%2011%20Abschnitten/kategorie-id/10",
@@ -340,6 +358,15 @@
     "place": "Kath. Akademie Schwerte und Online",
     "fee": "340,00 €",
     "status": "Es sind noch 17 Plätze frei"
+  },
+  {
+    "id": "U80POK_02D",
+    "title": "Basics: Moderation",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02D/kursname/Basics%20Moderation/kategorie-id/7",
+    "date": "Di., 02.02.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Kommende Dortmund",
+    "fee": "195,00 €",
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "U8031BE600",
@@ -430,6 +457,15 @@
     "place": "Katholische Akademie, Schwerte",
     "fee": "350,00 €",
     "status": "Es sind noch 18 Plätze frei"
+  },
+  {
+    "id": "U80POK_03C",
+    "title": "Basics: On and Offboarding",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03C/kursname/Basics%20On%20and%20Offboarding/kategorie-id/7",
+    "date": "Do., 04.03.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Kommende Dortmund",
+    "fee": "195,00 €",
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "U80FTB_03A",
@@ -540,6 +576,24 @@
     "status": "Es sind noch 24 Plätze frei"
   },
   {
+    "id": "U80POK_05A",
+    "title": "Basics: Kommunikation",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_05A/kursname/Basics%20Kommunikation/kategorie-id/7",
+    "date": "Di., 11.05.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Bergkloster, Bestwig",
+    "fee": "195,00 €",
+    "status": "Es sind noch 16 Plätze frei"
+  },
+  {
+    "id": "U80POK_05B",
+    "title": "Basics: Selbstmanagement",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_05B/kursname/Basics%20Selbstmanagement/kategorie-id/7",
+    "date": "Di., 25.05.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Hotel Aspethera, Paderborn",
+    "fee": "195,00 €",
+    "status": "Es sind noch 15 Plätze frei"
+  },
+  {
     "id": "U8031BE012",
     "title": "PrävO-Intensivschulung in zwei Abschnitten",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE012/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
@@ -547,6 +601,15 @@
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "90,00 €",
     "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U80POK_06A",
+    "title": "Basics: Entscheidungen",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_06A/kursname/Basics%20Entscheidungen/kategorie-id/7",
+    "date": "Di., 08.06.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Hotel Aspethera, Paderborn",
+    "fee": "195,00 €",
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "U8031BE005",

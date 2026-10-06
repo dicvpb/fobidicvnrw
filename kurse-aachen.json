@@ -1,23 +1,5 @@
 [
   {
-    "id": "27-2.04",
-    "title": "Update im Arbeitsrecht",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-im-arbeitsrecht-e85097fe-adc0-4bf9-b295-bdfdd933f31b",
-    "date": "30.09.2026 - 30.09.2027",
-    "place": "Brigitte Neuß Fort- und Weiterbildung",
-    "fee": "145,00 Euro",
-    "status": "offen"
-  },
-  {
-    "id": "27-4.02",
-    "title": "Traumakompetenz und Selbstfürsorge",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/traumakompetenz-und-selbstfuersorge-f6369e8a-9f1c-4e30-98d2-6350a4461fb4",
-    "date": "05.10.2026 - 04.06.2027",
-    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
-    "fee": "380,00",
-    "status": "offen"
-  },
-  {
     "id": "27-5.06",
     "title": "Sozialpsychiatrie in der Praxis",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/sozialpsychiatrie-in-der-praxis-813d37b6-9315-4773-8e0a-007960e107f5",
@@ -54,15 +36,6 @@
     "status": "offen"
   },
   {
-    "id": "27-2.09",
-    "title": "Update Gemeinnützigkeit 2027",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-gemeinnuetzigkeit-2027-417c6d6a-91e1-4a4b-9509-cc4812100abf",
-    "date": "25.11.2026 - 25.11.2027",
-    "place": "Online",
-    "fee": "50,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-7.18",
     "title": "Praxisanleitung vertiefen für Kita-Leitung",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/praxisanleitung-vertiefen-fuer-kita-leitung-0853a7ba-31bb-4b69-9a8e-d94e425b99f4",
@@ -78,6 +51,15 @@
     "date": "08.12.2026",
     "place": "Online",
     "fee": "50,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-8.08",
+    "title": "Blended Learning Prävention 2027",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/blended-learning-praevention-2027-50cd586c-a56d-4118-bd56-f2b0d1e0ad7c",
+    "date": "01.01.2027 - 31.12.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "variieren je nach Angebot",
     "status": "offen"
   },
   {
@@ -123,15 +105,6 @@
     "date": "03.02.2027 - 12.05.2027",
     "place": "Online",
     "fee": "150,00 Euro",
-    "status": "offen"
-  },
-  {
-    "id": "27-10.01",
-    "title": "Test - \"DU - mit dir suchen, fragen, gehen\"",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/test-du-mit-dir-suchen-fragen-gehen-1b336252-a7a9-402b-a44d-618bcec942a6",
-    "date": "15.02.2027 - 19.03.2027",
-    "place": "Online",
-    "fee": "kostenlos",
     "status": "offen"
   },
   {
@@ -253,8 +226,8 @@
   },
   {
     "id": "27-1.02",
-    "title": "Moderation von Teamsitzungen und Workshops",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/moderation-von-teamsitzungen-und-workshops-2c4cf84b-d2e8-4274-aa8f-45ec6dafed71",
+    "title": "Teamsitzungen und Workshops moderieren",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/teamsitzungen-und-workshops-moderieren-2c4cf84b-d2e8-4274-aa8f-45ec6dafed71",
     "date": "08.04.2027",
     "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
     "fee": "210,00 Euro",
@@ -307,15 +280,6 @@
   },
   {
     "id": "27-10.02",
-    "title": "Test Abschied und Neubeginn (Bildungsurlaub NRW)",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/test-abschied-und-neubeginn-bildungsurlaub-nrw-e1edc2b0-ea10-4542-9de5-0c2691ac0a9d",
-    "date": "27.04.2027 - 30.04.2027",
-    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
-    "fee": "517,50 € Tagungsbeitrag incl. Tagungsverpflegung/Vollpension und Übernachtung im Einzelzimmer incl. Beherbergungsabgabe* 487,50 € Tagungsbeitrag incl. Tagungsverpflegung/Vollpension und Übernachtung im Doppelzimmer incl. Beherbergungsabgabe*",
-    "status": "offen"
-  },
-  {
-    "id": "27-10.02",
     "title": "Abschied und Neubeginn",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/abschied-und-neubeginn-fd4deff7-08c8-4d0b-8683-9ad947283960",
     "date": "27.04.2027 - 30.04.2027",
@@ -324,7 +288,7 @@
     "status": "offen"
   },
   {
-    "id": "27-6.01",
+    "id": "27-6.02",
     "title": "EinSTEP: Strukturmodell 3.1",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/einstep-strukturmodell-3.1-26725341-1a8e-4900-af6b-6a73c34244a0",
     "date": "29.04.2027",
@@ -393,6 +357,15 @@
     "date": "01.06.2027",
     "place": "Brigitte Neuß Fort- und Weiterbildung",
     "fee": "130,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-4.02",
+    "title": "Traumakompetenz und Selbstfürsorge",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/traumakompetenz-und-selbstfuersorge-f6369e8a-9f1c-4e30-98d2-6350a4461fb4",
+    "date": "03.06.2027 - 04.06.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "380,00",
     "status": "offen"
   },
   {
@@ -486,21 +459,21 @@
     "status": "offen"
   },
   {
-    "id": "27-7.12",
-    "title": "Qualitätsmanagement ist toll",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/qualitaetsmanagement-ist-toll-c7340fd9-1349-4e6a-8af0-f09868fd2db4",
-    "date": "10.09.2027 - 01.10.2027",
-    "place": "Online",
-    "fee": "190,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "27-7.15",
     "title": "Leiten mit Kompetenz und Weitblick - Basiskurs",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/leiten-mit-kompetenz-und-weitblick-basiskurs-4ce5a306-ebec-4998-8cf9-adb428963b4b",
     "date": "10.09.2027 - 01.10.2027",
     "place": "Online",
     "fee": "230,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-7.12",
+    "title": "Qualitätsmanagement ist toll",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/qualitaetsmanagement-ist-toll-c7340fd9-1349-4e6a-8af0-f09868fd2db4",
+    "date": "10.09.2027 - 01.10.2027",
+    "place": "Online",
+    "fee": "190,00 Euro",
     "status": "offen"
   },
   {
@@ -546,6 +519,15 @@
     "date": "27.09.2027 - 13.03.2028",
     "place": "in Präsenz und online",
     "fee": "350,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.04",
+    "title": "Update im Arbeitsrecht",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-im-arbeitsrecht-e85097fe-adc0-4bf9-b295-bdfdd933f31b",
+    "date": "30.09.2027",
+    "place": "Brigitte Neuß Fort- und Weiterbildung",
+    "fee": "145,00 Euro",
     "status": "offen"
   },
   {
@@ -684,7 +666,7 @@
     "status": "offen"
   },
   {
-    "id": "27-2.07",
+    "id": "27-2.08",
     "title": "MAVO-Novelle: Workshop für Dienstgeber",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/mavo-novelle-workshop-fuer-dienstgeber-87d24d36-dcec-41f8-8e14-5e594916be6d",
     "date": "18.11.2027",
@@ -708,6 +690,15 @@
     "date": "22.11.2027 - 24.11.2027",
     "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
     "fee": "590,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-2.09",
+    "title": "Update Gemeinnützigkeit 2027",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/update-gemeinnuetzigkeit-2027-417c6d6a-91e1-4a4b-9509-cc4812100abf",
+    "date": "25.11.2027",
+    "place": "Online",
+    "fee": "50,00 Euro",
     "status": "offen"
   },
   {

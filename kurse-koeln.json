@@ -1,50 +1,5 @@
 [
   {
-    "id": "23126-022",
-    "title": "Halbtägige Präventionsschulung (Minderjährige sowie schutz- oder hilfebedürftige Erwachsene)",
-    "date": "2026-10-05",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5009"
-  },
-  {
-    "id": "23326-018",
-    "title": "Web-Seminar: Motivierende Gesprächsführung in der Beratung",
-    "date": "2026-10-05",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 280.00 Extern: 350.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5406"
-  },
-  {
-    "id": "24726-082",
-    "title": "Bildungsprozesse verstehen und sichtbar machen",
-    "date": "2026-10-05",
-    "place": "Kardinal-Bea-Haus Furtherhofstr. 29 41462 Neuss",
-    "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5471"
-  },
-  {
-    "id": "24726-119",
-    "title": "Das Tablet, ein kreatives Tool: Aktive Medienarbeit mit Kindern spielerisch umsetzen",
-    "date": "2026-10-05",
-    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
-    "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5636"
-  },
-  {
-    "id": "31226-010",
-    "title": "Der Trauer Raum geben",
-    "date": "2026-10-05",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6025"
-  },
-  {
     "id": "13226-002",
     "title": "Viertes Klima-Forum für Wohlfahrt und Kirche",
     "date": "2026-10-06",
@@ -68,7 +23,7 @@
     "date": "2026-10-06",
     "place": "Kardinal-Bea-Haus Furtherhofstr. 29 41462 Neuss",
     "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5470"
   },
   {
@@ -77,7 +32,7 @@
     "date": "2026-10-06",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 110.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5547"
   },
   {
@@ -86,7 +41,7 @@
     "date": "2026-10-06",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5929"
   },
   {
@@ -104,7 +59,7 @@
     "date": "2026-10-06",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6074"
   },
   {
@@ -113,7 +68,7 @@
     "date": "2026-10-06",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 75.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6160"
   },
   {
@@ -122,7 +77,7 @@
     "date": "2026-10-06",
     "place": "siehe Ausschreibungstext oder -flyer",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6364"
   },
   {
@@ -131,7 +86,7 @@
     "date": "2026-10-06",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 50.00 Extern: 65.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6496"
   },
   {
@@ -151,15 +106,6 @@
     "fee": "Intern: 80.00 Extern: 105.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5298"
-  },
-  {
-    "id": "24726-038",
-    "title": "Spielpädagogik im Kindergarten",
-    "date": "2026-10-07",
-    "place": "Bürgerzentrum Engelshof e. V. Oberstr. 96 51149 Köln (Porz)",
-    "fee": "Intern: 225.00 Extern: 300.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5305"
   },
   {
     "id": "48026-031",
@@ -329,13 +275,13 @@
     "date": "2026-10-14",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 74.00 Extern: 88.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6140"
   },
   {
     "id": "25026-030",
     "title": "Mail oder Chat – Outlook oder MS Teams. Was nehme ich wann?",
-    "date": "2026-10-14",
+    "date": "2026-12-08",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 55.00 Extern: 66.00",
     "status": "Angebot buchbar",
@@ -707,7 +653,7 @@
     "date": "2026-11-06",
     "place": "Frühförderzentrum Bergisch Gladbach Cederwaldstr. 22 51465 Bergisch Gladbach",
     "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5420"
   },
   {
