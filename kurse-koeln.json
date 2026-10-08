@@ -1,14 +1,5 @@
 [
   {
-    "id": "13226-002",
-    "title": "Viertes Klima-Forum für Wohlfahrt und Kirche",
-    "date": "2026-10-06",
-    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
-    "fee": "Intern: 85.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5264"
-  },
-  {
     "id": "34026-012",
     "title": "Sozialpsychiatrie in der Praxis – 29. Sozialpsychiatrische Zusatzqualifikation",
     "date": "2026-10-06",
@@ -16,78 +7,6 @@
     "fee": "Intern: 1600.00 Extern: 1950.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
-  },
-  {
-    "id": "24726-081",
-    "title": "Geschichten erzählen mit dem Kamishibai und der Erzählschiene",
-    "date": "2026-10-06",
-    "place": "Kardinal-Bea-Haus Furtherhofstr. 29 41462 Neuss",
-    "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5470"
-  },
-  {
-    "id": "23926-024",
-    "title": "Wie will ich führen?",
-    "date": "2026-10-06",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 110.00 Extern: 130.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5547"
-  },
-  {
-    "id": "26826-012",
-    "title": "Web-Seminar: Scrollen in die Radikalisierung?",
-    "date": "2026-10-06",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5929"
-  },
-  {
-    "id": "34026-017",
-    "title": "Fit für die Selbstvertretungsarbeit - Rechte kennen, Rolle übernehmen, Stärken entdecken",
-    "date": "2026-10-06",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 175.00 Extern: 205.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6036"
-  },
-  {
-    "id": "24926-034",
-    "title": "Web-Seminar light: kitaplus – Gruppen-App und Eltern-App",
-    "date": "2026-10-06",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6074"
-  },
-  {
-    "id": "48026-030",
-    "title": "Web-Seminar: Crashkurs Neue Grundsicherung",
-    "date": "2026-10-06",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6160"
-  },
-  {
-    "id": "26826-016",
-    "title": "Aktuelle Entwicklungen der Erlebniswelt Rechtsextremismus",
-    "date": "2026-10-06",
-    "place": "siehe Ausschreibungstext oder -flyer",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6364"
-  },
-  {
-    "id": "15526-004",
-    "title": "„Vorurteile? – ich doch nicht!“ – Wie wir unseren Blick weiten können, um neue Zielgruppen zu erreichen.",
-    "date": "2026-10-06",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 50.00 Extern: 65.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6496"
   },
   {
     "id": "21826-001",
@@ -106,6 +25,15 @@
     "fee": "Intern: 80.00 Extern: 105.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5298"
+  },
+  {
+    "id": "24726-038",
+    "title": "Spielpädagogik im Kindergarten",
+    "date": "2026-10-07",
+    "place": "Bürgerzentrum Engelshof e. V. Oberstr. 96 51149 Köln (Porz)",
+    "fee": "Intern: 225.00 Extern: 300.00",
+    "status": "Warteliste",
+    "url": "https://www.caritas-campus.de/detail.php?nr=5305"
   },
   {
     "id": "48026-031",
@@ -277,15 +205,6 @@
     "fee": "Intern: 74.00 Extern: 88.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6140"
-  },
-  {
-    "id": "25026-030",
-    "title": "Mail oder Chat – Outlook oder MS Teams. Was nehme ich wann?",
-    "date": "2026-12-08",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 55.00 Extern: 66.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6736"
   },
   {
     "id": "24226-018",
@@ -637,15 +556,6 @@
     "fee": "Intern: 65.00 Extern: 90.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5263"
-  },
-  {
-    "id": "24026-036",
-    "title": "Bibelöle",
-    "date": "2026-11-06",
-    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
-    "fee": "Intern: 75.00 Extern: 100.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5355"
   },
   {
     "id": "24626-040",
@@ -1355,7 +1265,7 @@
     "date": "2026-11-30",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4995"
   },
   {
@@ -1447,6 +1357,15 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6292"
+  },
+  {
+    "id": "25026-029",
+    "title": "Kollaboration mit Microsoft Teams",
+    "date": "2026-12-02",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6735"
   },
   {
     "id": "24826-048",
@@ -1573,6 +1492,15 @@
     "fee": "Intern: 68.00 Extern: 82.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6645"
+  },
+  {
+    "id": "25026-030",
+    "title": "Mail oder Chat – Outlook oder MS Teams. Was nehme ich wann?",
+    "date": "2026-12-08",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 55.00 Extern: 66.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6736"
   },
   {
     "id": "23326-017",
