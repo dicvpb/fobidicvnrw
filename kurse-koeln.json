@@ -9,48 +9,12 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "21826-010",
-    "title": "Traumasensibles Arbeiten",
-    "date": "2026-10-08",
-    "place": "Praxisräume Körner-Hees Plauener Str. 15 a 44139 Dortmund",
-    "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5482"
-  },
-  {
-    "id": "24926-029",
-    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
-    "date": "2026-10-08",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6029"
-  },
-  {
-    "id": "23826-038",
-    "title": "Die Routine macht die KI - Die Qualität mache ich!",
-    "date": "2026-10-08",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 67.00 Extern: 83.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6056"
-  },
-  {
-    "id": "25026-033",
-    "title": "Orientierung im Speicher-Labyrinth von OneDrive, SharePoint, Teams & Co.",
-    "date": "2026-10-08",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 42.00 Extern: 50.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6740"
-  },
-  {
     "id": "23326-012",
     "title": "Menschen mit psychischen Beeinträchtigungen begleiten – Vertiefungsseminar",
     "date": "2026-10-09",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 160.00 Extern: 190.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5174"
   },
   {
@@ -176,7 +140,7 @@
     "date": "2026-10-15",
     "place": "FamilienForum Agnesviertel Weißenburgstraße 14 50670 Köln",
     "fee": "Intern: 605.00 Extern: 880.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5537"
   },
   {
@@ -187,15 +151,6 @@
     "fee": "Intern: 42.00 Extern: 50.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6141"
-  },
-  {
-    "id": "48026-032",
-    "title": "Hearing: Arbeitsausbeutung erkennen - und handeln!",
-    "date": "2026-10-15",
-    "place": "Karl Rahner Akademie Jabachstraße 4-8 50676 Köln",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6655"
   },
   {
     "id": "24826-046",
@@ -950,7 +905,7 @@
     "date": "2026-11-19",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6643"
   },
   {
@@ -1105,6 +1060,15 @@
     "fee": "Intern: 270.00 Extern: 270.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6813"
+  },
+  {
+    "id": "23826-057",
+    "title": "Was die KI nicht wissen darf",
+    "date": "2026-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6896"
   },
   {
     "id": "34026-002",
@@ -1555,6 +1519,15 @@
     "fee": "Intern: 195.00 Extern: 215.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5681"
+  },
+  {
+    "id": "26826-023",
+    "title": "Demokratie-Muskeln für den Alltag",
+    "date": "2026-12-15",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 20.00 Extern: 20.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6900"
   },
   {
     "id": "15125-004",
@@ -2320,6 +2293,15 @@
     "fee": "Intern: 95.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6795"
+  },
+  {
+    "id": "23827-032",
+    "title": "KI braucht Führung",
+    "date": "2027-02-15",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6897"
   },
   {
     "id": "23327-023",
