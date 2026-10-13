@@ -14,7 +14,7 @@
     "date": "2026-10-12",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 270.00 Extern: 270.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5763"
   },
   {
@@ -32,7 +32,7 @@
     "date": "2026-10-12",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 270.00 Extern: 270.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6803"
   },
   {
@@ -230,7 +230,7 @@
     "date": "2026-10-29",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
   },
   {
@@ -293,7 +293,7 @@
     "date": "2026-11-03",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5930"
   },
   {
@@ -362,7 +362,7 @@
   {
     "id": "23126-036",
     "title": "Web-Seminar: Das war schon immer so",
-    "date": "2026-11-04",
+    "date": "2026-11-17",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 95.00",
     "status": "Angebot buchbar",
@@ -752,7 +752,7 @@
     "date": "2026-11-17",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 300.00 Extern: 360.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5801"
   },
   {
@@ -1130,7 +1130,7 @@
     "date": "2026-11-30",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4995"
   },
   {

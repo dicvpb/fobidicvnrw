@@ -176,7 +176,7 @@
     "date": "12. Okt. 2026, 09:00 Uhr - 13. Okt. 2026, 17:00 Uhr",
     "place": "Pfarrheim Neubeckum Beckum Kirchstr. 3 59269 Beckum",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001021"
   },
   {
@@ -248,7 +248,7 @@
     "date": "13. Okt. 2026, 09:00 Uhr - 18. Nov. 2026, 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "490,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n540,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n590,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000910"
   },
   {
@@ -401,7 +401,7 @@
     "date": "18. Jan. 2027, 09:00 - 17:00 Uhr",
     "place": "Heimvolkshochschule Gottfried-Könzgen Haltern am See Annaberg 40 45721 Haltern am See",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001340"
   },
   {
@@ -520,15 +520,6 @@
     "fee": "pro Seminar:\n95 € für Mitglieder\n115 € für alle andere",
     "status": "Plätze verfügbar",
     "id": "V000001395"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/vertiefung-stellenbewertung-und-eingruppierung-bewertungsstandards-und-tarifrechtliche-grundlagen/v000001394",
-    "title": "Vertiefung Stellenbewertung und Eingruppierung - Bewertungsstandards und tarifrechtliche Grundlagen",
-    "date": "12. Okt. 2026, 09:00 - 13:00 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "pro Seminar:\n95 € für Mitglieder\n115 € für alle andere",
-    "status": "Wenige Plätze",
-    "id": "V000001394"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/systemisch-ressourcenorientiert-fuehren-4-module/v000001284",
@@ -851,7 +842,7 @@
     "date": "18. Jan. 2027, 09:00 - 15:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "89,00 € für Mitglieder des DiCV im Bistum Münster.\n99,00 € für Partner im Bistum Münster.\n109,00 € für alle Anderen.\n\nEs gelten unsere Allgemeine Geschäftsbedingungen. Bitte beachten Sie unsere Storno-Bedingungen.\n\nDiese Veranstaltung wird unterstützt von der Caritas GemeinschaftsStiftung im Bistum Münster.",
-    "status": "Anmeldung deaktiviert",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001441"
   },
   {

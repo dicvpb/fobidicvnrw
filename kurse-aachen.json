@@ -9,15 +9,6 @@
     "status": "offen"
   },
   {
-    "id": "26-2.07",
-    "title": "Grundlagen der Gemeinnützigkeit",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/grundlagen-der-gemeinnuetzigkeit-f2bea45e-3398-4c1f-81b7-a888357bfd6f",
-    "date": "10.11.2026",
-    "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
-    "fee": "115,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "26-4.04",
     "title": "Sozialrecht in der Schwangerschaftsberatung",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/sozialrecht-in-der-schwangerschaftsberatung-7f3abf33-1e05-4604-b0b9-7afdfa3eafa5",
@@ -459,21 +450,21 @@
     "status": "offen"
   },
   {
-    "id": "27-7.15",
-    "title": "Leiten mit Kompetenz und Weitblick - Basiskurs",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/leiten-mit-kompetenz-und-weitblick-basiskurs-4ce5a306-ebec-4998-8cf9-adb428963b4b",
-    "date": "10.09.2027 - 01.10.2027",
-    "place": "Online",
-    "fee": "230,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "27-7.12",
     "title": "Qualitätsmanagement ist toll",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/qualitaetsmanagement-ist-toll-c7340fd9-1349-4e6a-8af0-f09868fd2db4",
     "date": "10.09.2027 - 01.10.2027",
     "place": "Online",
     "fee": "190,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-7.15",
+    "title": "Leiten mit Kompetenz und Weitblick - Basiskurs",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/leiten-mit-kompetenz-und-weitblick-basiskurs-4ce5a306-ebec-4998-8cf9-adb428963b4b",
+    "date": "10.09.2027 - 01.10.2027",
+    "place": "Online",
+    "fee": "230,00 Euro",
     "status": "offen"
   },
   {
