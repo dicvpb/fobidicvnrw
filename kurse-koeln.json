@@ -9,39 +9,12 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "26626-014",
-    "title": "Gefährdungsanzeige kompakt",
-    "date": "2026-10-12",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 270.00 Extern: 270.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5763"
-  },
-  {
-    "id": "23926-034",
-    "title": "Meine (neue) Rolle als Führungskraft",
-    "date": "2026-10-12",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 210.00 Extern: 245.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5997"
-  },
-  {
-    "id": "26626-020",
-    "title": "Gefährdungsanzeige kompakt",
-    "date": "2026-10-12",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 270.00 Extern: 270.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6803"
-  },
-  {
     "id": "23326-005",
     "title": "Mehr Erfolg durch mentale Fitness",
     "date": "2026-10-13",
     "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5167"
   },
   {
@@ -59,7 +32,7 @@
     "date": "2026-10-13",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 495.00 Extern: 495.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6805"
   },
   {
@@ -360,15 +333,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6807"
   },
   {
-    "id": "23126-036",
-    "title": "Web-Seminar: Das war schon immer so",
-    "date": "2026-11-17",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6848"
-  },
-  {
     "id": "23126-016",
     "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
     "date": "2026-11-05",
@@ -509,7 +473,7 @@
     "date": "2026-11-09",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6763"
   },
   {
@@ -754,6 +718,15 @@
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5801"
+  },
+  {
+    "id": "23126-036",
+    "title": "Web-Seminar: Das war schon immer so",
+    "date": "2026-11-17",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6848"
   },
   {
     "id": "24726-025",
@@ -1015,6 +988,15 @@
     "fee": "Intern: 75.00 Extern: 90.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6896"
+  },
+  {
+    "id": "24826-053",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2026-11-24",
+    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6904"
   },
   {
     "id": "34026-002",
