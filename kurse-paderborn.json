@@ -27,15 +27,6 @@
     "status": "Es sind noch 13 Plätze frei"
   },
   {
-    "id": "T80F3RT10I",
-    "title": "Oasentag für Seelsorgliche Begleitungen",
-    "url": "https://www.helfenmitprofil.de/programm/caritaspastoral-und-seelsorge/kw/bereich/kursdetails/kurs/T80F3RT10I/kursname/Oasentag%20fuer%20Seelsorgliche%20Begleitungen/kategorie-id/1",
-    "date": "Fr., 16.10.2026, 09:30 Uhr - 16:00 Uhr",
-    "place": "Haus Maria Immaculata, Paderborn",
-    "fee": "70,00 €",
-    "status": "Es sind noch 3 Plätze frei"
-  },
-  {
     "id": "T80INVIA03",
     "title": "Hygienebeauftragte/r für die Bereiche Pflege und Hauswirtschaft",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80INVIA03/kursname/Hygienebeauftragter%20fuer%20die%20Bereiche%20Pflege%20und%20Hauswirtschaft/kategorie-id/2",
@@ -51,7 +42,7 @@
     "date": "Di., 27.10.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
-    "status": "Es sind noch 17 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80F3RS10C",
@@ -96,7 +87,16 @@
     "date": "Di., 10.11.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "T80CKQV11D",
+    "title": "KHO Ehrenamtstreff - KI und Robotik im Krankenhaus",
+    "url": "https://www.helfenmitprofil.de/programm/caritas-konferenzen/kw/bereich/kursdetails/kurs/T80CKQV11D/kursname/KHO%20Ehrenamtstreff%20-%20KI%20und%20Robotik%20im%20Krankenhaus/kategorie-id/4",
+    "date": "Di., 10.11.2026, 14:00 Uhr Uhr - 17:00 Uhr Uhr",
+    "place": "Klostergenossenschaft, Mönchstraße 19, 33378 Rheda-Wiedenbrück",
+    "fee": "0,00 €",
+    "status": "Anmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
   },
   {
     "id": "T80KOM_11A",
@@ -114,7 +114,7 @@
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "T8031BE227",
@@ -123,7 +123,16 @@
     "date": "Mo., 16.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 10 Plätze frei"
+  },
+  {
+    "id": "T80FIDI11A",
+    "title": "Spenden, Sponsoring und Co. – Einführung in das strategische Fundraising",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80FIDI11A/kursname/Spenden%20Sponsoring%20und%20Co%20Einfuehrung%20in%20das%20strategische%20Fundraising/kategorie-id/7",
+    "date": "Mo., 16.11.2026, 09:30 Uhr - 16:30 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "250,00 €",
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80POK11B",
@@ -132,7 +141,7 @@
     "date": "Mi., 18.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "60,00 €",
-    "status": "Es sind noch 11 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
@@ -213,7 +222,7 @@
     "date": "Di., 12.01.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn und Online",
     "fee": "130,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "U80GESA01A",
@@ -294,7 +303,7 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "U80POK_02C",
@@ -324,13 +333,22 @@
     "status": "Es sind noch 13 Plätze frei"
   },
   {
+    "id": "U80FIDI02A",
+    "title": "Einstiegsseminar Fördermittel für gemeinnützige Organisationen",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/U80FIDI02A/kursname/Einstiegsseminar%20Foerdermittel%20fuer%20gemeinnuetzige%20Organisationen/kategorie-id/",
+    "date": "Do., 18.02.2027, 09:00 Uhr - 17:00 Uhr",
+    "place": "Haus Maria Immaculata, Paderborn",
+    "fee": "230,00 €",
+    "status": "Es sind noch 18 Plätze frei"
+  },
+  {
     "id": "U8031BE009",
     "title": "Web-Seminar: ICF Fortbildung in zwei Abschnitten",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE009/kursname/Web-Seminar%20ICF%20Fortbildung%20in%20zwei%20Abschnitten/kategorie-id/10",
     "date": "Mo., 22.02.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 17 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "U8031BE140",
@@ -450,6 +468,15 @@
     "status": "Es sind noch 14 Plätze frei"
   },
   {
+    "id": "U80POK_04C",
+    "title": "Foto-Exerzitien",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK_04C/kursname/Foto-Exerzitien/kategorie-id/12",
+    "date": "Mo., 19.04.2027, 11:00 Uhr - Do. 22.04.2027 13:30 Uhr",
+    "place": "Geistliches Zentrum Franziskus; Salzkotten",
+    "fee": "450,00 €",
+    "status": "Es sind noch 10 Plätze frei"
+  },
+  {
     "id": "U8031BE019",
     "title": "Kinder verstehen und bedürfnisorientiert begleiten",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE019/kursname/Kinder%20verstehen%20und%20beduerfnisorientiert%20begleiten/kategorie-id/10",
@@ -492,7 +519,7 @@
     "date": "Mi., 28.04.2027, 09:00 Uhr - Do. 29.04.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "U8031BE010",

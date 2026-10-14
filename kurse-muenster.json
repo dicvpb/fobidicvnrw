@@ -167,17 +167,8 @@
     "date": "14. Okt. 2026, 09:00 - 17:00 Uhr",
     "place": "Bürgerbahnhof Dorsten Dorsten Johannes-Rau-Platz 1 46282 Dorsten",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
-    "id": "V000001029"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/wissen-schuetzt-kindliche-sexualentwicklung-und-praevention-gegen-sexualisierte-gewalt/v000001021",
-    "title": "Wissen schützt – Kindliche Sexualentwicklung und Prävention gegen sexualisierte Gewalt",
-    "date": "12. Okt. 2026, 09:00 Uhr - 13. Okt. 2026, 17:00 Uhr",
-    "place": "Pfarrheim Neubeckum Beckum Kirchstr. 3 59269 Beckum",
-    "fee": "Kostenfrei, inkl. Verpflegung",
     "status": "Anmeldung deaktiviert",
-    "id": "V000001021"
+    "id": "V000001029"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/reif-fuer-die-insel.-inseltage-auf-wangerooge/v000000958",
@@ -248,7 +239,7 @@
     "date": "13. Okt. 2026, 09:00 Uhr - 18. Nov. 2026, 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "490,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n540,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n590,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
+    "status": "Plätze verfügbar",
     "id": "V000000910"
   },
   {
@@ -277,15 +268,6 @@
     "fee": "570,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n630,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n685,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
     "status": "Plätze verfügbar",
     "id": "V000001195"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/alltagsintegrierte-sprachbildung-gestaltung-von-lernangelegenheiten-wahrnehmen-v.-bildungsanlaessen/v000000941",
-    "title": "Alltagsintegrierte Sprachbildung, Gestaltung von Lernangelegenheiten, Wahrnehmen v. Bildungsanlässen",
-    "date": "12. Okt. 2026, 09:00 Uhr - 13. Okt. 2026, 17:00 Uhr",
-    "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
-    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000000941"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/alles-im-wandel/v000000942",
@@ -815,7 +797,7 @@
     "date": "19. Jan. 2027, 09:00 - 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "Die Teilnahme am Fachtag ist kostenlos.",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001434"
   },
   {
@@ -905,7 +887,7 @@
     "date": "10. Mär. 2027, 09:00 Uhr - 11. Mär. 2027, 17:00 Uhr",
     "place": "Schönstatt-Au Borken Kapellenstraße 60 46325 Borken",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001335"
   },
   {
