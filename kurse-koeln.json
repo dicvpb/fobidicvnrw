@@ -9,33 +9,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "24726-032",
-    "title": "Web-Seminar: Einführung in die traumasensible Pädagogik",
-    "date": "2026-10-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5282"
-  },
-  {
-    "id": "21826-035",
-    "title": "Fachtag für Teamassistenz in Beratungsstellen",
-    "date": "2026-10-14",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5515"
-  },
-  {
-    "id": "23826-044",
-    "title": "KI im Arbeitsalltag",
-    "date": "2026-10-14",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 74.00 Extern: 88.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6140"
-  },
-  {
     "id": "24226-018",
     "title": "Kleine Menschen – großes Potential",
     "date": "2026-10-15",
@@ -50,14 +23,14 @@
     "date": "2026-10-15",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 42.00 Extern: 50.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6141"
   },
   {
     "id": "24826-046",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-10-15",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6738"
@@ -68,14 +41,14 @@
     "date": "2026-10-15",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 270.00 Extern: 270.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6804"
   },
   {
     "id": "24026-017",
     "title": "Bunte Feste im Kirchenjahr",
     "date": "2026-10-16",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5315"
@@ -93,7 +66,7 @@
     "id": "31826-004",
     "title": "Basisqualifikation Suchthilfe – Modul I",
     "date": "2026-10-20",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5570"
@@ -102,7 +75,7 @@
     "id": "31826-005",
     "title": "Basisqualifikation Suchthilfe – Modul II",
     "date": "2026-10-21",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5571"
@@ -111,7 +84,7 @@
     "id": "31826-006",
     "title": "Basisqualifikation Suchthilfe – Modul III",
     "date": "2026-10-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5572"
@@ -129,7 +102,7 @@
     "id": "24826-050",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-10-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6854"
@@ -174,7 +147,7 @@
     "id": "26826-007",
     "title": "Zweitägiger Workshop: Haltung zeigen (Köln)",
     "date": "2026-10-29",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
@@ -201,7 +174,7 @@
     "id": "24826-033",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-03",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5109"
@@ -273,7 +246,7 @@
     "id": "21526-007",
     "title": "Vielfalt verstehen – kompetent beraten",
     "date": "2026-11-04",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 45.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6162"
@@ -309,7 +282,7 @@
     "id": "23126-016",
     "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
     "date": "2026-11-05",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5003"
@@ -327,7 +300,7 @@
     "id": "21826-027",
     "title": "Neu in der ambulanten Jugendhilfe",
     "date": "2026-11-05",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 320.00 Extern: 370.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5499"
@@ -471,7 +444,7 @@
     "id": "23626-002",
     "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
     "date": "2026-11-10",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 85.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5164"
@@ -480,7 +453,7 @@
     "id": "21826-012",
     "title": "Beraten in der Krise",
     "date": "2026-11-10",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 175.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5484"
@@ -516,7 +489,7 @@
     "id": "24426-018",
     "title": "Kita-Management in herausfordernden Zeiten",
     "date": "2026-11-12",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5599"
@@ -525,7 +498,7 @@
     "id": "23326-032",
     "title": "In der Ruhe liegt die Kraft",
     "date": "2026-11-12",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 310.00 Extern: 370.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5998"
@@ -543,7 +516,7 @@
     "id": "24826-051",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-12",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6865"
@@ -579,7 +552,7 @@
     "id": "24726-126",
     "title": "Mehr als nur Spielen",
     "date": "2026-11-13",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5649"
@@ -597,7 +570,7 @@
     "id": "34026-009",
     "title": "ICF basierte Bedarfsermittlung BEI_NRW",
     "date": "2026-11-16",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5149"
@@ -642,7 +615,7 @@
     "id": "24826-034",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-17",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5110"
@@ -660,7 +633,7 @@
     "id": "24026-028",
     "title": "Mit Kindern dem Tod begegnen",
     "date": "2026-11-17",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5337"
@@ -678,7 +651,7 @@
     "id": "24626-031",
     "title": "Vielfalt macht das Leben bunter!",
     "date": "2026-11-17",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5402"
@@ -687,7 +660,7 @@
     "id": "31226-005",
     "title": "Update Palliative Care",
     "date": "2026-11-17",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5801"
@@ -738,15 +711,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5532"
   },
   {
-    "id": "23926-026",
-    "title": "Komm an Bord!",
-    "date": "2026-11-18",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
-    "fee": "Intern: 110.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5549"
-  },
-  {
     "id": "24926-028",
     "title": "Web-Seminar: kitaplus – Verwaltung von Inklusionskindern",
     "date": "2026-11-18",
@@ -786,7 +750,7 @@
     "id": "34026-015",
     "title": "So kann man doch nicht leben?! – Chaos in Messie-Wohnungen: was tun?!",
     "date": "2026-11-19",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5701"
@@ -824,14 +788,14 @@
     "date": "2026-11-20",
     "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
     "fee": "Intern: 95.00 Extern: 115.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5224"
   },
   {
     "id": "34026-014",
     "title": "Basisqualifizierung für Schulbegleiter_innen und Inklusionsassistent_innen",
     "date": "2026-11-20",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 100.00 Extern: 120.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5602"
@@ -876,7 +840,7 @@
     "id": "23126-013",
     "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
     "date": "2026-11-24",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5000"
@@ -885,7 +849,7 @@
     "id": "21826-023",
     "title": "Starthilfen in die stationäre Jugendhilfe",
     "date": "2026-11-24",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5495"
@@ -966,7 +930,7 @@
     "id": "24826-053",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-24",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6904"
@@ -975,7 +939,7 @@
     "id": "34026-002",
     "title": "Psychiatrie kompakt",
     "date": "2026-11-25",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5142"
@@ -1047,7 +1011,7 @@
     "id": "24626-046",
     "title": "Reflexion, Kooperation und Ideen für den Weg der Inklusion",
     "date": "2026-11-27",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5427"
@@ -1056,7 +1020,7 @@
     "id": "24726-130",
     "title": "Digitalisierung in der Frühpädagogik – Chancen und Risiken",
     "date": "2026-11-27",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5654"
@@ -1083,7 +1047,7 @@
     "id": "23126-008",
     "title": "Ganztägige Präventionsschulung für Leitungskräfte (schutz- oder hilfebedürftige Erwachsene)",
     "date": "2026-11-30",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4995"
@@ -1119,7 +1083,7 @@
     "id": "23226-007",
     "title": "Produktivitätsstrategien für den Arbeitsalltag",
     "date": "2026-12-01",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 195.00 Extern: 215.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5679"
@@ -1191,7 +1155,7 @@
     "id": "24826-048",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
     "date": "2026-12-02",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 240.00 Extern: 290.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6840"
@@ -1236,7 +1200,7 @@
     "id": "24826-052",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-12-04",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6869"
@@ -1272,7 +1236,7 @@
     "id": "26826-022",
     "title": "Zweitägiger Workshop: Haltung zeigen (Köln)",
     "date": "2026-12-07",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6841"
@@ -1281,7 +1245,7 @@
     "id": "34026-005",
     "title": "Die Persönlichkeitsstörung Borderline",
     "date": "2026-12-08",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 180.00 Extern: 210.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5145"
@@ -1335,7 +1299,7 @@
     "id": "21826-024",
     "title": "Gelassener, klarer und konsequenter Handeln – Raus aus der Brüllfalle",
     "date": "2026-12-09",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 155.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5496"
@@ -1389,7 +1353,7 @@
     "id": "21826-025",
     "title": "Grenzen setzen in der Jugendhilfe",
     "date": "2026-12-11",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 155.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5497"
@@ -1416,7 +1380,7 @@
     "id": "23226-009",
     "title": "Dein Weg zur Schlagfertigkeit – Schnelle und witzige Antworten, die sitzen!",
     "date": "2026-12-15",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 195.00 Extern: 215.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5681"
@@ -1425,7 +1389,7 @@
     "id": "26826-023",
     "title": "Demokratie-Muskeln für den Alltag",
     "date": "2026-12-15",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 20.00 Extern: 20.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6900"
@@ -2088,13 +2052,58 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6186"
   },
   {
+    "id": "34027-006",
+    "title": "Psychiatrie kompakt",
+    "date": "2027-01-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 210.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6286"
+  },
+  {
+    "id": "31127-001",
+    "title": "Gemeinsam Zukunft gestalten",
+    "date": "2027-01-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 240.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6870"
+  },
+  {
+    "id": "31127-002",
+    "title": "Kulinarische Vielfalt & sichere Flüssigkeitsversorgung in der Tagespflege Ernährungskompetenz für moderne Einrichtungen",
+    "date": "2027-01-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6876"
+  },
+  {
+    "id": "15127-001",
+    "title": "Fit`n Fun – Fitness und Gesundheit",
+    "date": "2027-01-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6907"
+  },
+  {
     "id": "24827-014",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2027-01-14",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6253"
+  },
+  {
+    "id": "24827-015",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-01-15",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6254"
   },
   {
     "id": "31827-007",
@@ -2104,6 +2113,42 @@
     "fee": "Intern: 65.00 Extern: 65.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6792"
+  },
+  {
+    "id": "24227-006",
+    "title": "Qualifizierte Erst- und Verweisberatung für die Re-/Zertifizierung als Familienzentrum (siehe pädquis Punkt 1.3)",
+    "date": "2027-01-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 625.00 Extern: 750.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6404"
+  },
+  {
+    "id": "24927-017",
+    "title": "kitaplus – Eltern App",
+    "date": "2027-01-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6591"
+  },
+  {
+    "id": "24027-012",
+    "title": "Bunte Feste im Kirchenjahr",
+    "date": "2027-01-19",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6252"
+  },
+  {
+    "id": "24027-042",
+    "title": "Streicheleinheiten für Körper, Geist und Seele",
+    "date": "2027-01-19",
+    "place": "Marienhaus Kapitelstraße 36 41460 Neuss",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6389"
   },
   {
     "id": "48027-025",
@@ -2118,37 +2163,127 @@
     "id": "01527-001",
     "title": "Ob du's glaubst oder nicht",
     "date": "2027-01-21",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 300.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6002"
   },
   {
+    "id": "24227-012",
+    "title": "Fachkraft für Kinderschutz – Prävention und Handlungssicherheit im Kita-Alltag",
+    "date": "2027-01-21",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 1000.00 Extern: 1200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6454"
+  },
+  {
+    "id": "24627-005",
+    "title": "Hoppla, hier komm ich!",
+    "date": "2027-01-21",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 310.00 Extern: 360.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6575"
+  },
+  {
+    "id": "24827-013",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-01-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6132"
+  },
+  {
+    "id": "24627-037",
+    "title": "Kinder im Autismus-Spektrum in der Kita",
+    "date": "2027-01-22",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6628"
+  },
+  {
     "id": "48027-024",
     "title": "Supervision für FIM-Leitungen (Fachdienste für Integration und Migration)",
     "date": "2027-01-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 380.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6875"
   },
   {
+    "id": "24227-004",
+    "title": "Qualitätsexpert*in für Kitas",
+    "date": "2027-01-25",
+    "place": "Jugendherberge Köln-Riehl An der Schanz 14 50735 Köln",
+    "fee": "Intern: 1260.00 Extern: 1560.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6298"
+  },
+  {
+    "id": "24927-001",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-01-25",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6473"
+  },
+  {
+    "id": "24427-034",
+    "title": "Gelingende Fehlerkultur entwickeln: Kinderschutz im Team stärken",
+    "date": "2027-01-26",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 20.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6849"
+  },
+  {
     "id": "24827-001",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
     "date": "2027-01-27",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 240.00 Extern: 290.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6061"
   },
   {
+    "id": "24227-003",
+    "title": "Erfolgreich in die Kita-Leitung (Neu in der Leitung)",
+    "date": "2027-01-27",
+    "place": "Jugendherberge Köln-Riehl An der Schanz 14 50735 Köln",
+    "fee": "Intern: 1370.00 Extern: 1720.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6296"
+  },
+  {
     "id": "48027-022",
     "title": "Supervision für Mitarbeitende in der Flüchtlings- und Migrationsarbeit",
     "date": "2027-01-27",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 275.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6856"
+  },
+  {
+    "id": "24627-036",
+    "title": "Praxisorientierte Teilhabe- und Förderplanung (TuF) (LVR/LWL) in der Kita",
+    "date": "2027-01-28",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6627"
+  },
+  {
+    "id": "24627-038",
+    "title": "Kinder psychisch kranker Eltern(teile) in der Kita bedürfnisangemessen unterstützen",
+    "date": "2027-01-29",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6629"
   },
   {
     "id": "01527-002",
@@ -2178,13 +2313,76 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6213"
   },
   {
+    "id": "21827-028",
+    "title": "Systemische Methodenschätze Teil 1",
+    "date": "2027-02-02",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6687"
+  },
+  {
+    "id": "21827-008",
+    "title": "Multitalente on the Job",
+    "date": "2027-02-03",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 380.00 Extern: 460.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6656"
+  },
+  {
     "id": "48027-023",
     "title": "Supervision für Mitarbeitende in der Flüchtlings- und Migrationsarbeit",
     "date": "2027-02-03",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 270.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6859"
+  },
+  {
+    "id": "31127-003",
+    "title": "Kick für Kopf und Körper Alltagstauglicher Sport für Senior*innen",
+    "date": "2027-02-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6877"
+  },
+  {
+    "id": "24227-015",
+    "title": "Kita leiten mit Plan, Profil und Rückenwind",
+    "date": "2027-02-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 960.00 Extern: 1200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6532"
+  },
+  {
+    "id": "24627-007",
+    "title": "Umgang mit Kindern mit herausforderndem Verhalten",
+    "date": "2027-02-11",
+    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
+    "fee": "Intern: 250.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6578"
+  },
+  {
+    "id": "24627-033",
+    "title": "Mit Gebärden den Spracherwerb unterstützen",
+    "date": "2027-02-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 90.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6624"
+  },
+  {
+    "id": "24827-016",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-02-12",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6255"
   },
   {
     "id": "31827-010",
@@ -2196,6 +2394,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6795"
   },
   {
+    "id": "24027-023",
+    "title": "Zeit erleben – Zeit gestalten – Zeiträume schaffen",
+    "date": "2027-02-15",
+    "place": "Edith-Stein-Haus Eugen-Heinen-Platz 1 51519 Odenthal",
+    "fee": "Intern: 220.00 Extern: 295.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6345"
+  },
+  {
     "id": "23827-032",
     "title": "KI braucht Führung",
     "date": "2027-02-15",
@@ -2205,10 +2412,82 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6897"
   },
   {
+    "id": "24027-022",
+    "title": "Gott schläft im Stein, träumt in Pflanze und Tier und erwacht im Menschen",
+    "date": "2027-02-16",
+    "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6324"
+  },
+  {
+    "id": "48027-012",
+    "title": "SGB II – Bürgergeld-Bescheide verstehen",
+    "date": "2027-02-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6340"
+  },
+  {
+    "id": "24427-009",
+    "title": "(Schwierige) Mitarbeitendengespräche führen",
+    "date": "2027-02-16",
+    "place": "David Dressel Beratung, Training, Coaching Alteburger Straße 232 50968 Köln",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6511"
+  },
+  {
+    "id": "23827-003",
+    "title": "Der richtige Prompt",
+    "date": "2027-02-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6659"
+  },
+  {
+    "id": "23827-012",
+    "title": "Hallo ChatGPT! Erste Schritte, einfach erklärt",
+    "date": "2027-02-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 48.00 Extern: 57.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6707"
+  },
+  {
+    "id": "23827-029",
+    "title": "Social-Media-Beiträge mit Canva gestalten – Teil 1",
+    "date": "2027-02-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6827"
+  },
+  {
+    "id": "24027-003",
+    "title": "Religiöse Erziehung in der Kita – das mache ich jetzt auch!",
+    "date": "2027-02-17",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6220"
+  },
+  {
+    "id": "24527-006",
+    "title": "Selbstsicher auftreten – Wirkungsvoll kommunizieren",
+    "date": "2027-02-18",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6451"
+  },
+  {
     "id": "23327-023",
     "title": "Partizipative Prozesse professionell moderieren",
     "date": "2027-02-18",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 290.00 Extern: 350.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6874"
@@ -2223,31 +2502,211 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6199"
   },
   {
+    "id": "24827-030",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-02-19",
+    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6350"
+  },
+  {
+    "id": "24927-021",
+    "title": "kitaplus – Verwaltung von Inklusionskindern",
+    "date": "2027-02-19",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6641"
+  },
+  {
+    "id": "31227-002",
+    "title": "Update Palliative Care",
+    "date": "2027-02-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6067"
+  },
+  {
+    "id": "24427-015",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-02-22",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 270.00 Extern: 320.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6519"
+  },
+  {
     "id": "31827-001",
     "title": "Basisqualifikation Suchthilfe – Modul I",
     "date": "2027-02-23",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6674"
   },
   {
+    "id": "24027-004",
+    "title": "Bibeltage in der Kita",
+    "date": "2027-02-24",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6221"
+  },
+  {
+    "id": "24827-028",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-02-24",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6276"
+  },
+  {
+    "id": "21827-010",
+    "title": "Die Arbeit mit hochstrittigen Eltern – Verstehen und Handeln in Kooperation",
+    "date": "2027-02-24",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 240.00 Extern: 290.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6658"
+  },
+  {
     "id": "31827-002",
     "title": "Basisqualifikation Suchthilfe – Modul II",
     "date": "2027-02-24",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6675"
   },
   {
+    "id": "23127-001",
+    "title": "Achtsame Sprache – gelingendes Miteinander",
+    "date": "2027-02-25",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6098"
+  },
+  {
+    "id": "24527-002",
+    "title": "Stark bleiben, wenn es turbulent wird",
+    "date": "2027-02-25",
+    "place": "Haus Venusberg e. V. Haager Weg 28 - 30 53127 Bonn",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6346"
+  },
+  {
+    "id": "24027-024",
+    "title": "Fürchte dich nicht!",
+    "date": "2027-02-25",
+    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6355"
+  },
+  {
+    "id": "24427-019",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-02-25",
+    "place": "Karl Rahner Akademie Jabachstraße 4-8 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6524"
+  },
+  {
+    "id": "24627-013",
+    "title": "Deutsche Gebärdensprache – Anfängerkurs",
+    "date": "2027-02-25",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6597"
+  },
+  {
+    "id": "23827-007",
+    "title": "Der Microsoft Copilot",
+    "date": "2027-02-25",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6663"
+  },
+  {
+    "id": "21827-015",
+    "title": "Der kompetente Säugling",
+    "date": "2027-02-25",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 90.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6668"
+  },
+  {
     "id": "31827-003",
     "title": "Basisqualifikation Suchthilfe – Modul III",
     "date": "2027-02-25",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6676"
+  },
+  {
+    "id": "24827-006",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-02-26",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6125"
+  },
+  {
+    "id": "24927-012",
+    "title": "kitaplus – Gruppen-App und Bildungsdokumentation",
+    "date": "2027-02-26",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6486"
+  },
+  {
+    "id": "24027-005",
+    "title": "Religion im Kita-Alltag",
+    "date": "2027-03-01",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6222"
+  },
+  {
+    "id": "24527-007",
+    "title": "Erst mal durchatmen – ruhig bleiben im Kita-Trubel",
+    "date": "2027-03-01",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6453"
+  },
+  {
+    "id": "24427-006",
+    "title": "Gesprächsführung – Führungsgespräche",
+    "date": "2027-03-01",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6505"
+  },
+  {
+    "id": "23227-005",
+    "title": "Wir ticken anders – Auszubildende verstehen und begleiten",
+    "date": "2027-03-01",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 195.00 Extern: 215.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6756"
   },
   {
     "id": "48027-004",
@@ -2259,22 +2718,391 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6124"
   },
   {
+    "id": "24527-003",
+    "title": "Stress lass nach – Achtsam durch den Kita-Alltag",
+    "date": "2027-03-02",
+    "place": "Pfarrheim Kath. Kirchengemeinde St. Anna Franz-Jacobi-Str. 1 53757 Sankt Augustin (Hangelar)",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6353"
+  },
+  {
+    "id": "24427-007",
+    "title": "Führungsstile",
+    "date": "2027-03-02",
+    "place": "David Dressel Beratung, Training, Coaching Alteburger Straße 232 50968 Köln",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6508"
+  },
+  {
+    "id": "23827-011",
+    "title": "KI im Arbeitsalltag",
+    "date": "2027-03-03",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 74.00 Extern: 88.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6706"
+  },
+  {
+    "id": "34027-017",
+    "title": "Gruppe und Ich – erfolgreich zusammen arbeiten",
+    "date": "2027-03-03",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 175.00 Extern: 205.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6760"
+  },
+  {
     "id": "48027-001",
     "title": "Workshop Insolvenzordnung (InsO)",
     "date": "2027-03-04",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 90.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6052"
   },
   {
+    "id": "24827-040",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-03-04",
+    "place": "CVJM-Bildungsstätte Bundeshöhe Bundeshöhe 6 42285 Wuppertal",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6426"
+  },
+  {
+    "id": "21827-022",
+    "title": "Rechtsfragen bei Reisen oder Auswanderung ins Ausland mit Mündeln",
+    "date": "2027-03-04",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 65.00 Extern: 80.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6681"
+  },
+  {
+    "id": "24827-007",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-03-05",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6126"
+  },
+  {
+    "id": "23127-020",
+    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Soziale Arbeit und Krankenhäuser",
+    "date": "2027-03-05",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6205"
+  },
+  {
+    "id": "34027-014",
+    "title": "Refresher Sozialpsychiatrie in der Praxis 2027",
+    "date": "2027-03-05",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6446"
+  },
+  {
+    "id": "24627-006",
+    "title": "Inklusion erlebbar gestalten",
+    "date": "2027-03-05",
+    "place": "Familienzentrum Heidepänz Uckendorfer Str. 53 53844 Troisdorf",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6576"
+  },
+  {
+    "id": "23127-003",
+    "title": "In der Nähe abgrenzen – in der Distanz Kontakt halten",
+    "date": "2027-03-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6100"
+  },
+  {
+    "id": "24427-012",
+    "title": "Leiten im Tandem als Kraftquelle entdecken",
+    "date": "2027-03-08",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 630.00 Extern: 780.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6516"
+  },
+  {
+    "id": "24227-014",
+    "title": "Qualifizierung zur Fachkraft Inklusion mit Schwerpunkt Kinder mit Behinderung 2027/2028",
+    "date": "2027-03-08",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 1260.00 Extern: 1560.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6526"
+  },
+  {
     "id": "23127-028",
     "title": "Nein zu Sexismus in der Arbeitswelt",
     "date": "2027-03-08",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6894"
+  },
+  {
+    "id": "48027-006",
+    "title": "Demokratie erleben – mit Betzavta",
+    "date": "2027-03-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6216"
+  },
+  {
+    "id": "24027-035",
+    "title": "Die bunte Welt der Trauer",
+    "date": "2027-03-09",
+    "place": "Marienhaus Kapitelstraße 36 41460 Neuss",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6373"
+  },
+  {
+    "id": "24227-009",
+    "title": "Fortbildung gemäß §3 Abs. 3 zum Einsatz auf Fachkraftstunden",
+    "date": "2027-03-09",
+    "place": "FamilienForum Agnesviertel Weißenburgstraße 14 50670 Köln",
+    "fee": "Intern: 275.00 Extern: 400.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6431"
+  },
+  {
+    "id": "23827-014",
+    "title": "Die Zukunft der Präsentationen – Mit KI und PowerPoint",
+    "date": "2027-03-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 48.00 Extern: 57.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6709"
+  },
+  {
+    "id": "24827-002",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2027-03-10",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 240.00 Extern: 290.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6062"
+  },
+  {
+    "id": "24027-013",
+    "title": "Im Vertrauen wachsen – Den Jahreskreislauf mit Krippenkindern erleben und gestalten",
+    "date": "2027-03-10",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6271"
+  },
+  {
+    "id": "23827-030",
+    "title": "Social-Media-Beiträge mit Canva gestalten – Teil 2",
+    "date": "2027-03-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6828"
+  },
+  {
+    "id": "24427-031",
+    "title": "Stabil führen trotz Personalausfällen und Druck",
+    "date": "2027-03-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 30.00 Extern: 35.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6830"
+  },
+  {
+    "id": "31127-004",
+    "title": "Kinästhetik in der Tagespflege. Bewegung fördern statt Bewegungen übernehmen",
+    "date": "2027-03-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6878"
+  },
+  {
+    "id": "23127-008",
+    "title": "Kultursensibel und sicher handeln",
+    "date": "2027-03-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 90.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6134"
+  },
+  {
+    "id": "24027-001",
+    "title": "Kinder brauchen Religion",
+    "date": "2027-03-11",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 1240.00 Extern: 1440.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6214"
+  },
+  {
+    "id": "24927-002",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-03-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6474"
+  },
+  {
+    "id": "24627-017",
+    "title": "Sicherheit in der Beantragung von Leistungen für Kinder mit (drohender) Behinderung",
+    "date": "2027-03-11",
+    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6602"
+  },
+  {
+    "id": "23827-027",
+    "title": "Reels – Kurzvideos für Social Media erstellen",
+    "date": "2027-03-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6825"
+  },
+  {
+    "id": "24827-024",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-03-12",
+    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6272"
+  },
+  {
+    "id": "24027-044",
+    "title": "48 Stunden Digital Detox: Kommt mit an einen einsamen Ort (Mk 6,31)",
+    "date": "2027-03-15",
+    "place": "Edith-Stein-Haus Eugen-Heinen-Platz 1 51519 Odenthal",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6395"
+  },
+  {
+    "id": "24427-016",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-03-15",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 270.00 Extern: 320.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6520"
+  },
+  {
+    "id": "24627-016",
+    "title": "Das Kind im Autismusspektrum – ein wahrnehmungsbesonderes Kind",
+    "date": "2027-03-15",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6601"
+  },
+  {
+    "id": "21827-014",
+    "title": "ADHS und ADS früh erkennen und Familien stärken",
+    "date": "2027-03-15",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 195.00 Extern: 240.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6667"
+  },
+  {
+    "id": "23827-031",
+    "title": "Social-Media-Beiträge mit Canva gestalten – Teil 3",
+    "date": "2027-03-15",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6829"
+  },
+  {
+    "id": "31227-003",
+    "title": "Update Palliative Care",
+    "date": "2027-03-16",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 280.00 Extern: 330.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6068"
+  },
+  {
+    "id": "23127-018",
+    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
+    "date": "2027-03-16",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6203"
+  },
+  {
+    "id": "24927-010",
+    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
+    "date": "2027-03-16",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6484"
+  },
+  {
+    "id": "23827-005",
+    "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
+    "date": "2027-03-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6661"
+  },
+  {
+    "id": "23827-015",
+    "title": "Die Zukunft der Präsentationen – Mit KI direkt in PowerPoint",
+    "date": "2027-03-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 48.00 Extern: 57.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6710"
+  },
+  {
+    "id": "24027-014",
+    "title": "Bunte Feste im Kirchenjahr",
+    "date": "2027-03-17",
+    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6282"
+  },
+  {
+    "id": "24227-013",
+    "title": "Fachkraft für Montessori-Pädagogik im Elementarbereich",
+    "date": "2027-03-17",
+    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
+    "fee": "Intern: 1050.00 Extern: 1300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6460"
+  },
+  {
+    "id": "24627-026",
+    "title": "Hochbegabung im Kita-Alltag erkennen und unterstützen",
+    "date": "2027-03-17",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6616"
   },
   {
     "id": "13227-001",
@@ -2286,6 +3114,51 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6077"
   },
   {
+    "id": "23127-005",
+    "title": "Nur was wir kennen, können wir erkennen",
+    "date": "2027-03-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6102"
+  },
+  {
+    "id": "23327-008",
+    "title": "Basiswissen psychische Erkrankungen",
+    "date": "2027-03-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 155.00 Extern: 185.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6150"
+  },
+  {
+    "id": "23927-014",
+    "title": "Ich selbst in meiner Rolle als Führungskraft",
+    "date": "2027-03-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6182"
+  },
+  {
+    "id": "23227-006",
+    "title": "Schluss mit der Prüfungsangst – sicher auf Prüfungen vorbereiten",
+    "date": "2027-03-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 195.00 Extern: 215.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6759"
+  },
+  {
+    "id": "23827-020",
+    "title": "KI-Agenten in der sozialen Arbeit",
+    "date": "2027-03-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 67.00 Extern: 83.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6770"
+  },
+  {
     "id": "31827-008",
     "title": "KI als Begleiter suchtkranker Menschen – Konkurrenz oder Chance",
     "date": "2027-03-20",
@@ -2295,22 +3168,409 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6793"
   },
   {
+    "id": "23327-009",
+    "title": "Motivierende Gesprächsführung in der Beratung",
+    "date": "2027-03-22",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 310.00 Extern: 380.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6151"
+  },
+  {
+    "id": "24827-019",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-03-22",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6258"
+  },
+  {
+    "id": "24827-020",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-03-31",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6259"
+  },
+  {
+    "id": "23927-032",
+    "title": "Gesund führen",
+    "date": "2027-04-05",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 180.00 Extern: 210.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6316"
+  },
+  {
+    "id": "24427-025",
+    "title": "Die ersten 6 Monate als Kita-Leitung",
+    "date": "2027-04-05",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6533"
+  },
+  {
     "id": "23127-012",
     "title": "Ganztägige Präventionsschulung für Leitungskräfte (Kinder- und Jugendhilfe – ohne Kita)",
     "date": "2027-04-06",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6197"
   },
   {
+    "id": "23927-021",
+    "title": "Führen in unsicheren Zeiten mit Systemischer Autorität",
+    "date": "2027-04-06",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6302"
+  },
+  {
+    "id": "23227-004",
+    "title": "Schluss mit der Prüfungsangst",
+    "date": "2027-04-06",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 110.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6755"
+  },
+  {
+    "id": "23827-023",
+    "title": "Arbeiten mit Claude und Claude Cowork",
+    "date": "2027-04-06",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 48.00 Extern: 57.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6773"
+  },
+  {
+    "id": "24027-010",
+    "title": "Marie, Murat und Co",
+    "date": "2027-04-07",
+    "place": "Begegnungs- und Fortbildungszentrum muslimischer Frauen e.V. Liebigstraße 120b 50823 Köln",
+    "fee": "Intern: 15.00 Extern: 15.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6250"
+  },
+  {
+    "id": "23927-022",
+    "title": "Professionell kommunizieren als Führungskraft",
+    "date": "2027-04-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6303"
+  },
+  {
+    "id": "23927-023",
+    "title": "Changemanagement",
+    "date": "2027-04-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6304"
+  },
+  {
+    "id": "23927-029",
+    "title": "Muss ich dieses Gespräch wirklich führen?",
+    "date": "2027-04-07",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6312"
+  },
+  {
+    "id": "24827-035",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-04-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6416"
+  },
+  {
+    "id": "24427-003",
+    "title": "Die neue Einrichtungsleitung",
+    "date": "2027-04-07",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 250.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6501"
+  },
+  {
+    "id": "23827-021",
+    "title": "KI? Kann ich. Ab jetzt!",
+    "date": "2027-04-07",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 67.00 Extern: 83.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6771"
+  },
+  {
+    "id": "23627-001",
+    "title": "Qualitätsmanagement – der Einstieg",
+    "date": "2027-04-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 160.00 Extern: 190.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6107"
+  },
+  {
+    "id": "24027-036",
+    "title": "Gibt es im Himmel Schokolade?",
+    "date": "2027-04-08",
+    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6376"
+  },
+  {
+    "id": "21827-003",
+    "title": "Exzessive Jugendmediennutzung",
+    "date": "2027-04-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 150.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6647"
+  },
+  {
+    "id": "21827-009",
+    "title": "Emotionsfokussierte Therapie (EFT)",
+    "date": "2027-04-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 110.00 Extern: 140.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6657"
+  },
+  {
+    "id": "23827-004",
+    "title": "Künstliche Intelligenz und Verantwortung",
+    "date": "2027-04-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6660"
+  },
+  {
+    "id": "24927-018",
+    "title": "kitaplus – Eltern App",
+    "date": "2027-04-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6592"
+  },
+  {
+    "id": "24627-034",
+    "title": "Positive Verhaltensunterstützung bei Kindern mit herausforderndem Verhalten",
+    "date": "2027-04-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6625"
+  },
+  {
+    "id": "21827-023",
+    "title": "Es nervt!",
+    "date": "2027-04-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 110.00 Extern: 140.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6682"
+  },
+  {
+    "id": "31227-004",
+    "title": "Update Palliative Care",
+    "date": "2027-04-12",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6069"
+  },
+  {
+    "id": "23127-010",
+    "title": "Ganztägige Präventionsschulung für Leitungskräfte (schutz- oder hilfebedürftige Erwachsene)",
+    "date": "2027-04-12",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6195"
+  },
+  {
+    "id": "34027-001",
+    "title": "ICF basierte Bedarfsermittlung BEI_NRW",
+    "date": "2027-04-12",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6278"
+  },
+  {
+    "id": "24027-045",
+    "title": "Wer auf den Herrn vertraut, schöpft neue Kraft (Jesaja 40,31)",
+    "date": "2027-04-12",
+    "place": "Edith-Stein-Haus Eugen-Heinen-Platz 1 51519 Odenthal",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6398"
+  },
+  {
+    "id": "24427-024",
+    "title": "Seiteneinsteiger*innen willkommen – Potenziale im Team nutzen",
+    "date": "2027-04-12",
+    "place": "CVJM Düsseldorf Graf-Adolf-Str. 102 40210 Düsseldorf",
+    "fee": "Intern: 250.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6530"
+  },
+  {
+    "id": "23927-005",
+    "title": "Führung in Häppchen I",
+    "date": "2027-04-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 55.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6172"
+  },
+  {
+    "id": "24627-031",
+    "title": "Behinderungsarten, Neurodivergenz und Wahrnehmungsbesonderheiten",
+    "date": "2027-04-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 240.00 Extern: 310.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6622"
+  },
+  {
+    "id": "23827-006",
+    "title": "Weniger Zeit für Routinearbeiten, mehr Zeit für Menschen",
+    "date": "2027-04-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6662"
+  },
+  {
+    "id": "21827-029",
+    "title": "Systemische Methodenschätze 2",
+    "date": "2027-04-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6688"
+  },
+  {
+    "id": "21827-031",
+    "title": "Aggression gehört dazu",
+    "date": "2027-04-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6694"
+  },
+  {
     "id": "23327-001",
     "title": "Vom Wissen zum Können!",
     "date": "2027-04-14",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 190.00 Extern: 220.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6113"
+  },
+  {
+    "id": "24227-001",
+    "title": "Professionelle Anleitung im Rahmen der praxisintegrierten Ausbildung (PIA)",
+    "date": "2027-04-14",
+    "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
+    "fee": "Intern: 870.00 Extern: 1070.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6227"
+  },
+  {
+    "id": "23827-024",
+    "title": "Canva und KI im Arbeitsalltag einsetzen – Teil 1",
+    "date": "2027-04-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6822"
+  },
+  {
+    "id": "24427-032",
+    "title": "Schwierige Gespräche klar und professionell führen",
+    "date": "2027-04-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 30.00 Extern: 35.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6831"
+  },
+  {
+    "id": "31127-005",
+    "title": "Wenn Schmerz zur Sprache wird: Besonderes Ausdrucksverhalten bei Demenz",
+    "date": "2027-04-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6879"
+  },
+  {
+    "id": "23327-011",
+    "title": "In der Ruhe liegt die Kraft",
+    "date": "2027-04-15",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 160.00 Extern: 190.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6153"
+  },
+  {
+    "id": "24527-008",
+    "title": "Kraft tanken, bevor der Akku leer ist",
+    "date": "2027-04-15",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6472"
+  },
+  {
+    "id": "24627-010",
+    "title": "ADHS, Autismus, Hochsensibilität",
+    "date": "2027-04-15",
+    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
+    "fee": "Intern: 250.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6586"
+  },
+  {
+    "id": "24627-035",
+    "title": "Gemeinsam statt nebeneinander – Elternarbeit neu denken",
+    "date": "2027-04-15",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6626"
+  },
+  {
+    "id": "24027-043",
+    "title": "Weil es mir gut tut",
+    "date": "2027-04-16",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6391"
+  },
+  {
+    "id": "34027-016",
+    "title": "Rechtliche Grundlagen der Leistungen der Eingliederungshilfe",
+    "date": "2027-04-16",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6638"
   },
   {
     "id": "31827-011",
@@ -2322,6 +3582,33 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6796"
   },
   {
+    "id": "24027-046",
+    "title": "Glauben als Kraftquelle entdecken",
+    "date": "2027-04-19",
+    "place": "Marienhaus Kapitelstraße 36 41460 Neuss",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6400"
+  },
+  {
+    "id": "24627-030",
+    "title": "Das Kind im Autismusspektrum – ein wahrnehmungsbesonderes Kind",
+    "date": "2027-04-19",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 160.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6621"
+  },
+  {
+    "id": "23827-022",
+    "title": "KI trifft Excel: Daten clever analysieren",
+    "date": "2027-04-19",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 48.00 Extern: 57.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6772"
+  },
+  {
     "id": "13227-002",
     "title": "Klimaschutz und Klimaanpassung in der Kita",
     "date": "2027-04-20",
@@ -2331,31 +3618,355 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6083"
   },
   {
+    "id": "23327-012",
+    "title": "Klar und wertschätzend kommunizieren",
+    "date": "2027-04-20",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 145.00 Extern: 175.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6154"
+  },
+  {
+    "id": "23927-027",
+    "title": "Zwischen den Ebenen: Klar und wirksam in der Sandwichposition führen",
+    "date": "2027-04-20",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6309"
+  },
+  {
+    "id": "24027-026",
+    "title": "Wir gehören auch dazu – Representation matters",
+    "date": "2027-04-20",
+    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6358"
+  },
+  {
     "id": "48027-016",
     "title": "Fachlich fit: Fortbildung für Anleitende in den Beschäftigungsbetrieben",
     "date": "2027-04-20",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 170.00 Extern: 200.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6447"
   },
   {
+    "id": "21827-020",
+    "title": "Trauerbegleitung bei Weggabe eines Kindes",
+    "date": "2027-04-20",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 186.00 Extern: 230.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6673"
+  },
+  {
+    "id": "23827-016",
+    "title": "KI als Sparringspartner: Problemlöser, Resonanzboden, Mentor",
+    "date": "2027-04-20",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6711"
+  },
+  {
+    "id": "23127-022",
+    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Altenhilfe",
+    "date": "2027-04-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6207"
+  },
+  {
     "id": "48027-017",
     "title": "Fachlich fit: Fortbildung für Anleitende in den Beschäftigungsbetrieben",
     "date": "2027-04-21",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 170.00 Extern: 200.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6449"
   },
   {
+    "id": "24627-021",
+    "title": "Hochsensibel oder Reiz-Sucher?",
+    "date": "2027-04-21",
+    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
+    "fee": "Intern: 225.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6606"
+  },
+  {
+    "id": "24627-027",
+    "title": "Hochsensibilität im Kita-Alltag erkennen und begleiten",
+    "date": "2027-04-21",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6617"
+  },
+  {
+    "id": "21827-013",
+    "title": "Visualisieren in Beratungskontexten",
+    "date": "2027-04-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 195.00 Extern: 240.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6666"
+  },
+  {
+    "id": "23627-003",
+    "title": "Qualitätsmanagement in der Praxis – Updates für Anwender*innen und Interessierte",
+    "date": "2027-04-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 85.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6109"
+  },
+  {
+    "id": "24027-025",
+    "title": "Mit den Kleinen das Leben entdecken",
+    "date": "2027-04-22",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6356"
+  },
+  {
+    "id": "24827-037",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-04-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6418"
+  },
+  {
     "id": "48027-018",
     "title": "Fachlich fit: Fortbildung für Anleitende in den Beschäftigungsbetrieben",
     "date": "2027-04-22",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 170.00 Extern: 200.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6450"
+  },
+  {
+    "id": "24627-015",
+    "title": "Den Alltag in der Kita inklusiv gestalten",
+    "date": "2027-04-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 310.00 Extern: 360.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6600"
+  },
+  {
+    "id": "23827-017",
+    "title": "KI für Meetings und Arbeitsgruppen",
+    "date": "2027-04-22",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6712"
+  },
+  {
+    "id": "21827-016",
+    "title": "Häusliche Gewalt erkennen und professionell handeln",
+    "date": "2027-04-23",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 195.00 Extern: 240.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6669"
+  },
+  {
+    "id": "48027-002",
+    "title": "SGB II – Grundsicherung für Arbeitsuchende",
+    "date": "2027-04-26",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 85.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6122"
+  },
+  {
+    "id": "34027-002",
+    "title": "Ziele formulieren, Maßnahmen planen, Leistungszweck beachten",
+    "date": "2027-04-26",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6279"
+  },
+  {
+    "id": "24227-011",
+    "title": "Qualifizierung gemäß §3 Abs. 2 zum Einsatz auf Fachkraft- oder Ergänzungskraftstunden",
+    "date": "2027-04-26",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 1755.00 Extern: 2280.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6444"
+  },
+  {
+    "id": "24427-017",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-04-26",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 270.00 Extern: 320.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6521"
+  },
+  {
+    "id": "24627-028",
+    "title": "Vielfühler und Schnelldenker oder auch Schnellfühler und Vieldenker",
+    "date": "2027-04-26",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6618"
+  },
+  {
+    "id": "23927-006",
+    "title": "Führung in Häppchen II",
+    "date": "2027-04-27",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 55.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6173"
+  },
+  {
+    "id": "24027-027",
+    "title": "Herzensbildung – Menschenbildung",
+    "date": "2027-04-27",
+    "place": "Maternushaus Kardinal-Frings-Str. 1 - 3 50668 Köln",
+    "fee": "Intern: 985.00 Extern: 1200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6363"
+  },
+  {
+    "id": "24927-008",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-04-27",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6482"
+  },
+  {
+    "id": "24427-008",
+    "title": "Rollenwechsel in der Einrichtung – von der Fach- zur Führungskraft",
+    "date": "2027-04-27",
+    "place": "David Dressel Beratung, Training, Coaching Alteburger Straße 232 50968 Köln",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6510"
+  },
+  {
+    "id": "21827-032",
+    "title": "Gelassener, klarer und konsequenter Handeln – Raus aus der Brüllfalle",
+    "date": "2027-04-27",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6695"
+  },
+  {
+    "id": "23827-025",
+    "title": "Canva und KI im Arbeitsalltag einsetzen – Teil 2",
+    "date": "2027-04-27",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6823"
+  },
+  {
+    "id": "23327-005",
+    "title": "Souverän reagieren auf Stammtischparolen und Polemik",
+    "date": "2027-04-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6117"
+  },
+  {
+    "id": "21827-018",
+    "title": "Plötzlich andere Kinder",
+    "date": "2027-04-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 110.00 Extern: 140.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6671"
+  },
+  {
+    "id": "24027-006",
+    "title": "Wortgottesdienste in der Kita gestalten",
+    "date": "2027-04-29",
+    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6223"
+  },
+  {
+    "id": "24627-004",
+    "title": "Umgang mit Kindern mit herausforderndem Verhalten",
+    "date": "2027-04-29",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 310.00 Extern: 360.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6574"
+  },
+  {
+    "id": "21827-002",
+    "title": "Wenn das Selbst die Führung übernimmt",
+    "date": "2027-04-29",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 220.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6646"
+  },
+  {
+    "id": "21827-011",
+    "title": "Schulabsentismus erkennen und verstehen",
+    "date": "2027-04-29",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6664"
+  },
+  {
+    "id": "21827-012",
+    "title": "Partizipation von Anfang an",
+    "date": "2027-04-29",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 195.00 Extern: 240.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6665"
+  },
+  {
+    "id": "24827-017",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-04-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6256"
+  },
+  {
+    "id": "24027-028",
+    "title": "Jo-Jo Jonas und Josef",
+    "date": "2027-04-30",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6365"
+  },
+  {
+    "id": "23327-020",
+    "title": "Miteinander statt Gegeneinander: klar, empathisch, wirksam",
+    "date": "2027-05-03",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 310.00 Extern: 370.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6728"
   },
   {
     "id": "25227-001",
@@ -2367,6 +3978,321 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6412"
   },
   {
+    "id": "23327-016",
+    "title": "Arbeitsschutz und Arbeitssicherheit – Grundlagenwissen",
+    "date": "2027-05-06",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 60.00 Extern: 72.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6722"
+  },
+  {
+    "id": "24027-007",
+    "title": "Follow-up-Seminar zu „Religion im Kita-Alltag“",
+    "date": "2027-05-10",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6224"
+  },
+  {
+    "id": "24827-038",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-05-10",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6422"
+  },
+  {
+    "id": "23827-018",
+    "title": "Routine macht die KI – Qualität mache ich",
+    "date": "2027-05-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 67.00 Extern: 83.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6721"
+  },
+  {
+    "id": "23927-007",
+    "title": "Führung in Häppchen III",
+    "date": "2027-05-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 55.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6174"
+  },
+  {
+    "id": "24027-047",
+    "title": "Mit Pfeil und Bogen – was trägt im Glauben?",
+    "date": "2027-05-11",
+    "place": "Haus Venusberg e. V. Haager Weg 28 - 30 53127 Bonn",
+    "fee": "Intern: 125.00 Extern: 150.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6401"
+  },
+  {
+    "id": "23927-035",
+    "title": "Wenn Gefühle hochkochen",
+    "date": "2027-05-11",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 265.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6632"
+  },
+  {
+    "id": "23827-002",
+    "title": "Anträge leicht(er) gemacht",
+    "date": "2027-05-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 68.00 Extern: 82.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6652"
+  },
+  {
+    "id": "21827-036",
+    "title": "Gruppenleiter*innenschulung",
+    "date": "2027-05-11",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 1200.00 Extern: 1450.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6699"
+  },
+  {
+    "id": "24427-002",
+    "title": "Stellvertretende Leitung – Position in der Mitte der Kita",
+    "date": "2027-05-12",
+    "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
+    "fee": "Intern: 420.00 Extern: 520.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6237"
+  },
+  {
+    "id": "24027-015",
+    "title": "Im Vertrauen wachsen – Den Jahreskreislauf mit Krippenkindern erleben und gestalten",
+    "date": "2027-05-12",
+    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6284"
+  },
+  {
+    "id": "23927-033",
+    "title": "Verhandlungen sicher führen",
+    "date": "2027-05-12",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 440.00 Extern: 520.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6317"
+  },
+  {
+    "id": "21827-006",
+    "title": "Psychiatrische Störungsbilder bei Kindern und Jugendlichen",
+    "date": "2027-05-12",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 110.00 Extern: 132.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6650"
+  },
+  {
+    "id": "23827-010",
+    "title": "PowerAutomate als digitaler Rückenwind",
+    "date": "2027-05-12",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 54.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6705"
+  },
+  {
+    "id": "24427-033",
+    "title": "Verbindlichkeit und Verantwortung im Team stärken",
+    "date": "2027-05-12",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 30.00 Extern: 35.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6832"
+  },
+  {
+    "id": "31127-006",
+    "title": "Auswirkungen von Medikamenten auf therapeutische Maßnahmen und Selbständigkeitserhalt",
+    "date": "2027-05-12",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6880"
+  },
+  {
+    "id": "23127-015",
+    "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
+    "date": "2027-05-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6200"
+  },
+  {
+    "id": "48027-005",
+    "title": "Diversitätsorientierte Soziale Arbeit",
+    "date": "2027-05-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6215"
+  },
+  {
+    "id": "34027-010",
+    "title": "Psychosen mit Schwerpunkt Schizophrenie",
+    "date": "2027-05-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 210.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6320"
+  },
+  {
+    "id": "24627-032",
+    "title": "Neue Blickwinkel für schwierige Verhaltensweisen von wahrnehmungsbesonderen Kindern",
+    "date": "2027-05-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 160.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6623"
+  },
+  {
+    "id": "21827-039",
+    "title": "Neu in der ambulanten Jugendhilfe",
+    "date": "2027-05-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 360.00 Extern: 440.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6702"
+  },
+  {
+    "id": "23827-026",
+    "title": "Canva und KI im Arbeitsalltag einsetzen – Teil 3",
+    "date": "2027-05-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6824"
+  },
+  {
+    "id": "21827-017",
+    "title": "Lust auf Leben wecken",
+    "date": "2027-05-14",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 110.00 Extern: 140.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6670"
+  },
+  {
+    "id": "24427-005",
+    "title": "Stark im Standpunkt",
+    "date": "2027-05-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6503"
+  },
+  {
+    "id": "24827-011",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-05-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6130"
+  },
+  {
+    "id": "24427-018",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-05-24",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 170.00 Extern: 220.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6522"
+  },
+  {
+    "id": "23127-024",
+    "title": "Halbtägige Präventionsschulung (Minderjährige sowie schutz- oder hilfebedürftige Erwachsene)",
+    "date": "2027-05-25",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6209"
+  },
+  {
+    "id": "48027-013",
+    "title": "Bürgergeld-Bescheide gemeinsam prüfen – Praxisfall",
+    "date": "2027-05-25",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6341"
+  },
+  {
+    "id": "23327-022",
+    "title": "Das papierlose Büro – so schaffen Sie den Umstieg",
+    "date": "2027-05-25",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 250.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6834"
+  },
+  {
+    "id": "23327-007",
+    "title": "War's das – dann kann ich jetzt gehen?",
+    "date": "2027-05-31",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 400.00 Extern: 470.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6149"
+  },
+  {
+    "id": "24927-004",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-05-31",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6477"
+  },
+  {
+    "id": "23527-002",
+    "title": "Unterwegs mit DIR",
+    "date": "2027-06-01",
+    "place": "Edith-Stein-Haus Eugen-Heinen-Platz 1 51519 Odenthal",
+    "fee": "Intern: 460.00 Extern: 580.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6144"
+  },
+  {
+    "id": "23927-008",
+    "title": "Führung in Häppchen IV",
+    "date": "2027-06-01",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 55.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6175"
+  },
+  {
+    "id": "24627-029",
+    "title": "Das ADHS-Kind verstehen – ein beziehungsorientierter Ansatz",
+    "date": "2027-06-01",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 160.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6619"
+  },
+  {
+    "id": "23827-013",
+    "title": "KI für Anfänger mit Microsoft Copilot",
+    "date": "2027-06-01",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 48.00 Extern: 57.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6708"
+  },
+  {
     "id": "13227-004",
     "title": "Kommunikation ist alles – auch beim Essen",
     "date": "2027-06-02",
@@ -2376,13 +4302,1021 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6105"
   },
   {
+    "id": "23927-003",
+    "title": "Meine (neue) Rolle als Führungskraft",
+    "date": "2027-06-02",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6170"
+  },
+  {
+    "id": "24427-004",
+    "title": "Leitung – Spagat zwischen Partizipation und ressourcenorientiertem Handeln",
+    "date": "2027-06-02",
+    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
+    "fee": "Intern: 315.00 Extern: 390.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6502"
+  },
+  {
+    "id": "23827-001",
+    "title": "Zeit zurückgewinnen: KI als digitale Assistenz in der Sozialen Arbeit",
+    "date": "2027-06-02",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6651"
+  },
+  {
+    "id": "24427-013",
+    "title": "Vom Plan zur Praxis – Projekte sicher umsetzen",
+    "date": "2027-06-03",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 625.00 Extern: 750.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6517"
+  },
+  {
+    "id": "23327-015",
+    "title": "Nah dran trotz Distanz: Soziale Arbeit in urbanen und ländlichen Räumen",
+    "date": "2027-06-03",
+    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
+    "fee": "Intern: 195.00 Extern: 195.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6654"
+  },
+  {
+    "id": "23227-001",
+    "title": "Intuitives Bogenschießen für das innere Gleichgewicht",
+    "date": "2027-06-04",
+    "place": "Haus Venusberg e. V. Haager Weg 28 - 30 53127 Bonn",
+    "fee": "Intern: 165.00 Extern: 195.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6111"
+  },
+  {
+    "id": "24827-026",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-06-04",
+    "place": "Pfarrheim Kath. Kirchengemeinde St. Anna Franz-Jacobi-Str. 1 53757 Sankt Augustin (Hangelar)",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6274"
+  },
+  {
+    "id": "24827-031",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-06-04",
+    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6351"
+  },
+  {
+    "id": "24527-001",
+    "title": "Vorsorge – Selbstfürsorge",
+    "date": "2027-06-07",
+    "place": "Haus Venusberg e. V. Haager Weg 28 - 30 53127 Bonn",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6344"
+  },
+  {
+    "id": "24427-029",
+    "title": "Ein Team führen und entwickeln",
+    "date": "2027-06-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6776"
+  },
+  {
+    "id": "23927-018",
+    "title": "Führungswerkstatt für Frauen",
+    "date": "2027-06-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 266.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6247"
+  },
+  {
+    "id": "23827-008",
+    "title": "Künstliche Intelligenz als Unterstützung für soziale Projekte",
+    "date": "2027-06-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6692"
+  },
+  {
+    "id": "23927-031",
+    "title": "Souverän Führen unter Druck",
+    "date": "2027-06-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6314"
+  },
+  {
+    "id": "34027-015",
+    "title": "Menschen mit chronischer Depression unterstützen und begleiten",
+    "date": "2027-06-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 170.00 Extern: 210.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6637"
+  },
+  {
+    "id": "23327-018",
+    "title": "Arbeitszeugnisse formulieren und interpretieren",
+    "date": "2027-06-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 90.00 Extern: 108.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6724"
+  },
+  {
+    "id": "31127-007",
+    "title": "Bewegte Tagespflege - Präventionsprogramm der IKK classic",
+    "date": "2027-06-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6881"
+  },
+  {
+    "id": "24627-019",
+    "title": "Ist das denn noch normal?",
+    "date": "2027-06-10",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 310.00 Extern: 360.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6604"
+  },
+  {
+    "id": "48027-007",
+    "title": "Basiswissen Ausländerrecht",
+    "date": "2027-06-15",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 60.00 Extern: 80.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6229"
+  },
+  {
+    "id": "24027-029",
+    "title": "Den Geheimnissen der Natur auf der Spur",
+    "date": "2027-06-15",
+    "place": "Marienhaus Kapitelstraße 36 41460 Neuss",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6366"
+  },
+  {
+    "id": "24927-022",
+    "title": "kitaplus – Verwaltung von Inklusionskindern",
+    "date": "2027-06-16",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6642"
+  },
+  {
+    "id": "21827-035",
+    "title": "Grenzen setzen in der Jugendhilfe",
+    "date": "2027-06-16",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6698"
+  },
+  {
+    "id": "23327-006",
+    "title": "Partizipative Prozesse professionell moderieren",
+    "date": "2027-06-17",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 290.00 Extern: 350.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6118"
+  },
+  {
+    "id": "23327-013",
+    "title": "Kolleg*innen Feedback geben",
+    "date": "2027-06-17",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 145.00 Extern: 175.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6166"
+  },
+  {
+    "id": "24427-001",
+    "title": "Kita als Ausbildungsstätte profilieren",
+    "date": "2027-06-17",
+    "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
+    "fee": "Intern: 155.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6236"
+  },
+  {
+    "id": "23927-026",
+    "title": "Generationen verbinden – altersgemischte Teams wirksam führen",
+    "date": "2027-06-17",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6307"
+  },
+  {
+    "id": "24827-033",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-06-17",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6413"
+  },
+  {
+    "id": "24927-007",
+    "title": "kitaplus – Allgemeine Vertiefungsschulung",
+    "date": "2027-06-17",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6480"
+  },
+  {
+    "id": "23827-028",
+    "title": "Mit weniger Aufwand mehr und bessere Social-Media-Beiträge erstellen",
+    "date": "2027-06-17",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6826"
+  },
+  {
+    "id": "24827-042",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2027-06-17",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6835"
+  },
+  {
+    "id": "21827-019",
+    "title": "Gelassener, klarer und konsequenter handeln in der OGS",
+    "date": "2027-06-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 110.00 Extern: 140.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6672"
+  },
+  {
+    "id": "24927-015",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-06-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6589"
+  },
+  {
+    "id": "23927-012",
+    "title": "Selbstführung als Schlüssel",
+    "date": "2027-06-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 140.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6180"
+  },
+  {
+    "id": "24027-030",
+    "title": "Die Welt ist voller Wunder",
+    "date": "2027-06-22",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6367"
+  },
+  {
+    "id": "23827-019",
+    "title": "Hallo KI. Prompt. Klick. Wow!",
+    "date": "2027-06-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 250.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6730"
+  },
+  {
+    "id": "23927-015",
+    "title": "Zukunft gestalten mit agiler Führung",
+    "date": "2027-06-23",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 440.00 Extern: 510.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6183"
+  },
+  {
+    "id": "23127-026",
+    "title": "Prävention von sexualisierter Gewalt im Kinder- und Jugendbereich",
+    "date": "2027-06-23",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 90.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6211"
+  },
+  {
+    "id": "23827-009",
+    "title": "Zwischen WLAN und Wahnsinn",
+    "date": "2027-06-23",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6693"
+  },
+  {
+    "id": "24827-005",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2027-06-24",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 240.00 Extern: 290.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6065"
+  },
+  {
+    "id": "23127-009",
+    "title": "Grenzen schützen und sicher handeln im Pflegealltag",
+    "date": "2027-06-24",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6148"
+  },
+  {
+    "id": "24427-020",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-06-24",
+    "place": "CVJM Düsseldorf Graf-Adolf-Str. 102 40210 Düsseldorf",
+    "fee": "Intern: 250.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6525"
+  },
+  {
+    "id": "24627-020",
+    "title": "Struwwelpeter und Zappelphilipp",
+    "date": "2027-06-24",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 310.00 Extern: 360.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6605"
+  },
+  {
+    "id": "24927-013",
+    "title": "kitaplus – Gruppen-App und Bildungsdokumentation",
+    "date": "2027-06-25",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6487"
+  },
+  {
+    "id": "34027-008",
+    "title": "Psychopharmaka",
+    "date": "2027-06-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 210.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6289"
+  },
+  {
+    "id": "24227-010",
+    "title": "Professionelle Anleitung und Ausbildung von Praktikant*innen",
+    "date": "2027-06-28",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 840.00 Extern: 1040.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6441"
+  },
+  {
+    "id": "24427-035",
+    "title": "Gelingende Fehlerkultur entwickeln: Kinderschutz im Team stärken",
+    "date": "2027-06-28",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 20.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6851"
+  },
+  {
+    "id": "23927-017",
+    "title": "Her mit dem schönen Leben!",
+    "date": "2027-06-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 440.00 Extern: 528.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6241"
+  },
+  {
+    "id": "24027-048",
+    "title": "Gönne Dich Dir selbst – Da bin ich ganz bei mir",
+    "date": "2027-06-30",
+    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6405"
+  },
+  {
+    "id": "24027-049",
+    "title": "Kraft schöpfen an der Quelle des Lebens",
+    "date": "2027-06-30",
+    "place": "Bergkloster Bestwig SMMP Europa e.V. Bergkloster 1 59909 Bestwig",
+    "fee": "Intern: 590.00 Extern: 665.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6406"
+  },
+  {
+    "id": "23927-001",
+    "title": "Ziel- und Zeitmanagement",
+    "date": "2027-07-05",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6168"
+  },
+  {
+    "id": "24927-019",
+    "title": "kitaplus – Eltern App",
+    "date": "2027-07-05",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6593"
+  },
+  {
+    "id": "21827-026",
+    "title": "Krisen kompetent begleiten",
+    "date": "2027-07-06",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6685"
+  },
+  {
+    "id": "24027-050",
+    "title": "Auf dem Weg sein – Pilgern auf dem Jakobsweg",
+    "date": "2027-07-07",
+    "place": "Startpunkt & Zielpunkt ist das ehemalige Zisterzienser Kloster - Eingang vor dem Altenberger Dom im Bergischen Land",
+    "fee": "Intern: 55.00 Extern: 80.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6408"
+  },
+  {
+    "id": "24627-024",
+    "title": "Vielfalt aktiv gestalten",
+    "date": "2027-07-07",
+    "place": "Pfarrheim St. Engelbert Pfarrer-Moll Straße 54 51105 Köln",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6609"
+  },
+  {
+    "id": "21827-005",
+    "title": "Psychotraumatologie",
+    "date": "2027-07-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6649"
+  },
+  {
+    "id": "24827-008",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-07-09",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6127"
+  },
+  {
+    "id": "24027-017",
+    "title": "Bunte Feste im Kirchenjahr",
+    "date": "2027-07-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6287"
+  },
+  {
+    "id": "24927-016",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-07-12",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6590"
+  },
+  {
+    "id": "21827-034",
+    "title": "Gelassener wirksam sein",
+    "date": "2027-07-14",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6697"
+  },
+  {
+    "id": "31127-008",
+    "title": "Gesunde Führung: Impuls",
+    "date": "2027-07-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6882"
+  },
+  {
+    "id": "24027-051",
+    "title": "Lasst die Kinder zu mir kommen. (Lk 18,16)",
+    "date": "2027-07-21",
+    "place": "Haus Marienhof Königswinterer Str. 414 53639 Königswinter - Ittenbach",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6409"
+  },
+  {
+    "id": "24827-021",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-07-23",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6260"
+  },
+  {
+    "id": "21827-021",
+    "title": "Vormundschaft in Grenzerfahrungen",
+    "date": "2027-07-26",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 90.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6678"
+  },
+  {
+    "id": "24827-022",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-07-30",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6261"
+  },
+  {
+    "id": "31127-009",
+    "title": "Bewegung, die begeistert – Spielerische Aktivierung mit Herz, Humor und Wirkung",
+    "date": "2027-08-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6883"
+  },
+  {
+    "id": "24827-023",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-08-23",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6262"
+  },
+  {
+    "id": "24827-025",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-09-03",
+    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6273"
+  },
+  {
+    "id": "24827-029",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-09-03",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6277"
+  },
+  {
+    "id": "24627-001",
+    "title": "Behinderungsarten, Neurodivergenz und Wahrnehmungsbesonderheiten",
+    "date": "2027-09-06",
+    "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
+    "fee": "Intern: 315.00 Extern: 390.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6238"
+  },
+  {
+    "id": "24527-004",
+    "title": "Innehalten und zu neuen Kräften kommen",
+    "date": "2027-09-06",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6359"
+  },
+  {
+    "id": "48027-014",
+    "title": "SGB II – Bürgergeld-Bescheide verstehen",
+    "date": "2027-09-07",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6342"
+  },
+  {
+    "id": "24827-039",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-09-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6423"
+  },
+  {
+    "id": "24927-005",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-09-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6478"
+  },
+  {
+    "id": "31127-010",
+    "title": "Kneipp-Angebote",
+    "date": "2027-09-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6884"
+  },
+  {
+    "id": "24027-016",
+    "title": "Mehr als Kürbis und Grusel",
+    "date": "2027-09-09",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6285"
+  },
+  {
+    "id": "24827-034",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-09-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6415"
+  },
+  {
+    "id": "34027-011",
+    "title": "So kann man doch nicht leben?! – Chaos in Messie-Wohnungen: was tun?!",
+    "date": "2027-09-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6321"
+  },
+  {
+    "id": "23927-009",
+    "title": "Onboarding in Häppchen I",
+    "date": "2027-09-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 55.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6177"
+  },
+  {
+    "id": "23127-016",
+    "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
+    "date": "2027-09-14",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6201"
+  },
+  {
+    "id": "23927-020",
+    "title": "Personalgespräche führen und konstruktiv gestalten",
+    "date": "2027-09-14",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 440.00 Extern: 510.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6301"
+  },
+  {
+    "id": "24827-003",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2027-09-15",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 240.00 Extern: 290.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6063"
+  },
+  {
+    "id": "34027-003",
+    "title": "Ziele formulieren, Maßnahmen planen, Leistungszweck beachten",
+    "date": "2027-09-15",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6280"
+  },
+  {
+    "id": "24227-002",
+    "title": "Fachkraft für Kinderschutz – Prävention und Handlungssicherheit im Kita-Alltag",
+    "date": "2027-09-16",
+    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
+    "fee": "Intern: 1000.00 Extern: 1200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6228"
+  },
+  {
+    "id": "24427-014",
+    "title": "Das Ganze und seine Wechselwirkungen",
+    "date": "2027-09-16",
+    "place": "CVJM Düsseldorf Graf-Adolf-Str. 102 40210 Düsseldorf",
+    "fee": "Intern: 730.00 Extern: 830.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6518"
+  },
+  {
+    "id": "21827-027",
+    "title": "Vergangenheit verstehen und Zukunft gestalten",
+    "date": "2027-09-16",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6686"
+  },
+  {
+    "id": "24827-004",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
+    "date": "2027-09-17",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6064"
+  },
+  {
+    "id": "24227-005",
+    "title": "Erfolgreich in die Kita-Leitung (Neu in der Leitung)",
+    "date": "2027-09-20",
+    "place": "Jugendherberge Köln-Riehl An der Schanz 14 50735 Köln",
+    "fee": "Intern: 1370.00 Extern: 1720.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6325"
+  },
+  {
+    "id": "24427-021",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-09-20",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 170.00 Extern: 195.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6527"
+  },
+  {
+    "id": "23927-036",
+    "title": "Grundlagen des Projektmanagements",
+    "date": "2027-09-20",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 440.00 Extern: 520.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6899"
+  },
+  {
+    "id": "23327-003",
+    "title": "Systemische Beratung: kompakt – kurz – konstruktiv",
+    "date": "2027-09-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 620.00 Extern: 740.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6115"
+  },
+  {
+    "id": "24027-037",
+    "title": "Trauer ist bunt",
+    "date": "2027-09-21",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 85.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6377"
+  },
+  {
+    "id": "24927-009",
+    "title": "kitaplus – Allgemeine Vertiefungsschulung",
+    "date": "2027-09-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6483"
+  },
+  {
+    "id": "15527-001",
+    "title": "Basiskurs Ehrenamtskoordination 2027",
+    "date": "2027-09-22",
+    "place": "Katholische Akademie Schwerte Bergerhofweg 24 58239 Schwerte",
+    "fee": "Intern: 675.00 Extern: 800.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6189"
+  },
+  {
+    "id": "48027-008",
+    "title": "Aufbauseminar Sozialrecht trifft Ausländerrecht",
+    "date": "2027-09-22",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 60.00 Extern: 80.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6230"
+  },
+  {
+    "id": "23127-019",
+    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
+    "date": "2027-09-23",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6204"
+  },
+  {
+    "id": "24827-041",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-09-23",
+    "place": "CVJM-Bildungsstätte Bundeshöhe Bundeshöhe 6 42285 Wuppertal",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6428"
+  },
+  {
+    "id": "24627-023",
+    "title": "Basisschulung für Kita-Assistenzen",
+    "date": "2027-09-23",
+    "place": "Pfarrzentrum St. Michael Lahnstraße 9-11 41469 Neuss",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6608"
+  },
+  {
+    "id": "23227-002",
+    "title": "Intuitives Bogenschießen für das innere Gleichgewicht",
+    "date": "2027-09-24",
+    "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
+    "fee": "Intern: 165.00 Extern: 195.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6112"
+  },
+  {
+    "id": "24027-052",
+    "title": "Kita als Kraftmacher – ein Tag für neue Perspektiven",
+    "date": "2027-09-27",
+    "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6410"
+  },
+  {
+    "id": "24627-009",
+    "title": "Unterstützungsmöglichkeiten für Kinder mit Autismus-Spektrum-Störungen",
+    "date": "2027-09-27",
+    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6583"
+  },
+  {
+    "id": "23127-027",
+    "title": "Missbrauch durch Kinder und Jugendliche",
+    "date": "2027-09-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6212"
+  },
+  {
+    "id": "23927-025",
+    "title": "Immer dieser Ärger – Konflikte konstruktiv lösen",
+    "date": "2027-09-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6306"
+  },
+  {
+    "id": "48027-019",
+    "title": "Fachlich fit: Fortbildung für Anleitende in den Beschäftigungsbetrieben",
+    "date": "2027-09-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6452"
+  },
+  {
+    "id": "23127-011",
+    "title": "Ganztägige Präventionsschulung für Leitungskräfte (schutz- oder hilfebedürftige Erwachsene)",
+    "date": "2027-09-29",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6196"
+  },
+  {
+    "id": "48027-009",
+    "title": "Aufbauseminar Ausländerrecht und verwandte Rechtsgebiete",
+    "date": "2027-09-29",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 60.00 Extern: 80.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6231"
+  },
+  {
+    "id": "48027-020",
+    "title": "Fachlich fit: Fortbildung für Anleitende in den Beschäftigungsbetrieben",
+    "date": "2027-09-29",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6457"
+  },
+  {
+    "id": "23327-010",
+    "title": "Worte wirken – überzeugend sprechen, souverän auftreten",
+    "date": "2027-09-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 160.00 Extern: 190.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6152"
+  },
+  {
+    "id": "23127-025",
+    "title": "Halbtägige Präventionsschulung (Minderjährige sowie schutz- oder hilfebedürftige Erwachsene)",
+    "date": "2027-09-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 90.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6210"
+  },
+  {
+    "id": "34027-004",
+    "title": "Parafunktionales Verhalten verstehen und Handlungsstrategien entwerfen",
+    "date": "2027-09-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6281"
+  },
+  {
+    "id": "24227-008",
+    "title": "Kleine Menschen – großes Potential",
+    "date": "2027-09-30",
+    "place": "FamilienForum Agnesviertel Weißenburgstraße 14 50670 Köln",
+    "fee": "Intern: 605.00 Extern: 880.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6430"
+  },
+  {
+    "id": "48027-021",
+    "title": "Fachlich fit: Fortbildung für Anleitende in den Beschäftigungsbetrieben",
+    "date": "2027-09-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6458"
+  },
+  {
+    "id": "24627-014",
+    "title": "Deutsche Gebärdensprache – Aufbaukurs",
+    "date": "2027-09-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6598"
+  },
+  {
     "id": "26527-002",
     "title": "Spiritual / Existential Care interprofessionell",
     "date": "2027-09-30",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 450.00 Extern: 550.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6858"
+  },
+  {
+    "id": "24827-018",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-10-01",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6257"
   },
   {
     "id": "31827-009",
@@ -2394,13 +5328,409 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6794"
   },
   {
+    "id": "24027-053",
+    "title": "Waldbaden mit Franziskus von Assisi",
+    "date": "2027-10-04",
+    "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6411"
+  },
+  {
+    "id": "34027-013",
+    "title": "Sozialpsychiatrie in der Praxis – 30. Sozialpsychiatrische Zusatzqualifikation",
+    "date": "2027-10-05",
+    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
+    "fee": "Intern: 1650.00 Extern: 2000.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6445"
+  },
+  {
+    "id": "24427-010",
+    "title": "Teamsitzungen gestalten und moderieren",
+    "date": "2027-10-05",
+    "place": "David Dressel Beratung, Training, Coaching Alteburger Straße 232 50968 Köln",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6512"
+  },
+  {
+    "id": "24027-018",
+    "title": "Im Vertrauen wachsen – Den Jahreskreislauf mit Krippenkindern erleben und gestalten",
+    "date": "2027-10-06",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6311"
+  },
+  {
+    "id": "23927-034",
+    "title": "Positive Leadership – Das Führungskonzept der Zukunft",
+    "date": "2027-10-06",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6319"
+  },
+  {
+    "id": "24927-006",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-10-06",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6479"
+  },
+  {
+    "id": "23327-017",
+    "title": "Arbeitsschutz und Arbeitssicherheit – Grundlagenwissen",
+    "date": "2027-10-06",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 60.00 Extern: 72.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6723"
+  },
+  {
+    "id": "21827-004",
+    "title": "Wenn das Trauma anderer nachwirkt",
+    "date": "2027-10-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6648"
+  },
+  {
+    "id": "24827-012",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-10-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6131"
+  },
+  {
+    "id": "34027-005",
+    "title": "Grundlagen sozialarbeiterischer Fach- und Handlungskompetenzen",
+    "date": "2027-10-08",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6283"
+  },
+  {
+    "id": "23127-002",
+    "title": "Achtsame Sprache – gelingendes Miteinander",
+    "date": "2027-10-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6099"
+  },
+  {
+    "id": "24627-022",
+    "title": "Alles in Balance – sensorische Integration verstehen und begleiten",
+    "date": "2027-10-11",
+    "place": "Bonner Verein für Pflege- und Gesundheitsberufe e.V. Fraunhoferstraße 4 53121 Bonn",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6607"
+  },
+  {
+    "id": "23327-014",
+    "title": "Positives Durchsetzungsvermögen entwickeln",
+    "date": "2027-10-12",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 145.00 Extern: 175.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6167"
+  },
+  {
+    "id": "24027-009",
+    "title": "Gottes Spuren im Alltag entdecken",
+    "date": "2027-10-12",
+    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6249"
+  },
+  {
+    "id": "24027-031",
+    "title": "Biblische Geschichten im Kamishibai und der Erzählschiene",
+    "date": "2027-10-12",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6368"
+  },
+  {
+    "id": "24027-038",
+    "title": "Wenn das Leben geht",
+    "date": "2027-10-12",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6379"
+  },
+  {
+    "id": "24027-054",
+    "title": "Herbstzeit – Erntezeit",
+    "date": "2027-10-12",
+    "place": "Jugendbildungsstätte Haus Altenberg e.V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6414"
+  },
+  {
+    "id": "24027-008",
+    "title": "Mit Kindern über Gott sprechen – leicht, lebendig",
+    "date": "2027-10-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6248"
+  },
+  {
+    "id": "34027-007",
+    "title": "Psychiatrie kompakt",
+    "date": "2027-10-13",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 210.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6288"
+  },
+  {
+    "id": "24627-003",
+    "title": "ADHS, Autismus, Hochsensibilität",
+    "date": "2027-10-13",
+    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
+    "fee": "Intern: 310.00 Extern: 360.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6573"
+  },
+  {
+    "id": "31127-011",
+    "title": "Therapeutische Impulse für die Häuslichkeit",
+    "date": "2027-10-13",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Warteliste",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6885"
+  },
+  {
+    "id": "23927-016",
+    "title": "Moderation und Sitzungsgestaltung für Online- und Präsenz-Meetings",
+    "date": "2027-10-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 160.00 Extern: 190.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6184"
+  },
+  {
+    "id": "24627-008",
+    "title": "Hoppla, hier komm ich!",
+    "date": "2027-10-14",
+    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
+    "fee": "Intern: 250.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6580"
+  },
+  {
+    "id": "24827-032",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-10-15",
+    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6352"
+  },
+  {
+    "id": "23127-004",
+    "title": "In der Nähe abgrenzen – in der Distanz Kontakt halten",
+    "date": "2027-10-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6101"
+  },
+  {
+    "id": "48027-003",
+    "title": "SGB II – Grundsicherung für Arbeitsuchende",
+    "date": "2027-10-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 85.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6123"
+  },
+  {
+    "id": "24027-039",
+    "title": "Der Baum des Lebens",
+    "date": "2027-10-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6381"
+  },
+  {
+    "id": "24427-022",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-10-18",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 270.00 Extern: 320.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6528"
+  },
+  {
+    "id": "31827-004",
+    "title": "Basisqualifikation Suchthilfe – Modul I",
+    "date": "2027-10-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 135.00 Extern: 165.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6677"
+  },
+  {
+    "id": "23927-010",
+    "title": "Onboarding in Häppchen II",
+    "date": "2027-10-19",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 55.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6178"
+  },
+  {
+    "id": "24027-019",
+    "title": "Bunte Feste im Kirchenjahr",
+    "date": "2027-10-19",
+    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6315"
+  },
+  {
+    "id": "24427-011",
+    "title": "Zeit- und Selbstmanagement",
+    "date": "2027-10-19",
+    "place": "David Dressel Beratung, Training, Coaching Alteburger Straße 232 50968 Köln",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6513"
+  },
+  {
+    "id": "31827-005",
+    "title": "Basisqualifikation Suchthilfe – Modul II",
+    "date": "2027-10-19",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 135.00 Extern: 165.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6679"
+  },
+  {
     "id": "21827-001",
     "title": "Kinder im Blick 2027/2028 – Modul 1 und Modul 2",
     "date": "2027-10-20",
-    "place": "CaritasCampus Caritasverband für das Erzbistum Köln Georgstraße 7 50676 Köln",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 1200.00 Extern: 1450.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5953"
+  },
+  {
+    "id": "23327-004",
+    "title": "Mehr Erfolg durch mentale Fitness",
+    "date": "2027-10-20",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 155.00 Extern: 185.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6116"
+  },
+  {
+    "id": "23927-024",
+    "title": "Changemanagement 2.0",
+    "date": "2027-10-20",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6305"
+  },
+  {
+    "id": "21827-007",
+    "title": "Fachtag für Teamassistenz in Beratungsstellen",
+    "date": "2027-10-20",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 150.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6653"
+  },
+  {
+    "id": "31827-006",
+    "title": "Basisqualifikation Suchthilfe – Modul III",
+    "date": "2027-10-20",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 135.00 Extern: 165.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6680"
+  },
+  {
+    "id": "23127-013",
+    "title": "Ganztägige Präventionsschulung für Leitungskräfte (Kinder- und Jugendhilfe – ohne Kita)",
+    "date": "2027-10-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6198"
+  },
+  {
+    "id": "24027-032",
+    "title": "Hoffnungsleuchten – Advent und Weihnachten erleben und gestalten",
+    "date": "2027-10-21",
+    "place": "Pfarrzentrum Christus König Hauptstr. 215 50169 Kerpen",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6369"
+  },
+  {
+    "id": "21827-037",
+    "title": "Starthilfen in die stationäre Jugendhilfe",
+    "date": "2027-10-25",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6700"
+  },
+  {
+    "id": "24927-011",
+    "title": "Schulung der Personalverwaltung in kitaplus – Verwaltung und Meldung der Personaldaten",
+    "date": "2027-10-26",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6485"
+  },
+  {
+    "id": "23227-003",
+    "title": "Im besten Alter: Älter werden im Beruf",
+    "date": "2027-10-27",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 160.00 Extern: 190.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6165"
+  },
+  {
+    "id": "24027-055",
+    "title": "Ich bin der Weg... (Joh.14,6) – Jesus als Weg für mich!?",
+    "date": "2027-10-27",
+    "place": "Bildungsstätte Haus Maria Rast Schönstätter Marienschwestern 53881 Euskirchen",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6419"
+  },
+  {
+    "id": "21827-038",
+    "title": "(Zusammen-)Arbeit mit Eltern, Kommunikation zwischen Tür und Angel",
+    "date": "2027-10-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6701"
   },
   {
     "id": "31827-012",
@@ -2412,6 +5742,429 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6797"
   },
   {
+    "id": "24027-056",
+    "title": "Komm, wir finden einen Schatz",
+    "date": "2027-11-03",
+    "place": "Bildungsstätte Haus Maria Rast Schönstätter Marienschwestern 53881 Euskirchen",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6420"
+  },
+  {
+    "id": "21827-040",
+    "title": "Neu in der ambulanten Jugendhilfe",
+    "date": "2027-11-04",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 360.00 Extern: 440.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6703"
+  },
+  {
+    "id": "23127-006",
+    "title": "Nur was wir kennen, können wir erkennen",
+    "date": "2027-11-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6103"
+  },
+  {
+    "id": "23627-002",
+    "title": "Qualitätsmanagement – Aufbauseminar",
+    "date": "2027-11-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 160.00 Extern: 190.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6108"
+  },
+  {
+    "id": "23927-002",
+    "title": "Ziel- und Zeitmanagement",
+    "date": "2027-11-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 170.00 Extern: 205.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6169"
+  },
+  {
+    "id": "48027-010",
+    "title": "Asylverfahren verstehen – Aktuelles undHintergründe",
+    "date": "2027-11-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 45.00 Extern: 55.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6232"
+  },
+  {
+    "id": "23927-028",
+    "title": "Entscheiden unter Druck",
+    "date": "2027-11-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 220.00 Extern: 255.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6310"
+  },
+  {
+    "id": "48027-015",
+    "title": "Bürgergeld-Bescheide gemeinsam prüfen – Praxisfall",
+    "date": "2027-11-09",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6343"
+  },
+  {
+    "id": "23627-004",
+    "title": "Qualitätsmanagement in der Praxis – Updates für Anwender*innen und Interessierte",
+    "date": "2027-11-10",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 85.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6110"
+  },
+  {
+    "id": "23927-030",
+    "title": "Machst du jetzt einen auf Chef*in, oder wie?",
+    "date": "2027-11-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 170.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6313"
+  },
+  {
+    "id": "24227-007",
+    "title": "Inklusion: Das Kind im Mittelpunkt (2027/2028)",
+    "date": "2027-11-10",
+    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
+    "fee": "Intern: 375.00 Extern: 450.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6407"
+  },
+  {
+    "id": "24627-025",
+    "title": "Neue Blickwinkel für schwierige Verhaltensweisen von wahrnehmungsbesonderen Kindern",
+    "date": "2027-11-10",
+    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6610"
+  },
+  {
+    "id": "31127-012",
+    "title": "Demenz – Humor kann helfen",
+    "date": "2027-11-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6886"
+  },
+  {
+    "id": "24827-009",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-11-12",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6128"
+  },
+  {
+    "id": "24427-030",
+    "title": "Souverän kommunizieren – mit Eltern, Team und sich selbst",
+    "date": "2027-11-15",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6778"
+  },
+  {
+    "id": "23927-011",
+    "title": "Onboarding in Häppchen III",
+    "date": "2027-11-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 55.00 Extern: 65.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6179"
+  },
+  {
+    "id": "24027-040",
+    "title": "Mit Kindern dem Tod begegnen",
+    "date": "2027-11-16",
+    "place": "Maxhaus Kath. Stadthaus Düsseldorf Schulstr. 11 40213 Düsseldorf",
+    "fee": "Intern: 210.00 Extern: 260.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6383"
+  },
+  {
+    "id": "23127-007",
+    "title": "Mitarbeitende als Betroffene von Gewalt",
+    "date": "2027-11-18",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6104"
+  },
+  {
+    "id": "23127-023",
+    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Altenhilfe",
+    "date": "2027-11-18",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6208"
+  },
+  {
+    "id": "24427-023",
+    "title": "Kita-Management in herausfordernden Zeiten",
+    "date": "2027-11-18",
+    "place": "CVJM Düsseldorf Graf-Adolf-Str. 102 40210 Düsseldorf",
+    "fee": "Intern: 150.00 Extern: 200.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6529"
+  },
+  {
+    "id": "24827-027",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-11-19",
+    "place": "Pfarrheim Kath. Kirchengemeinde St. Anna Franz-Jacobi-Str. 1 53757 Sankt Augustin (Hangelar)",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6275"
+  },
+  {
+    "id": "34027-012",
+    "title": "Basisqualifizierung für Schulbegleiter*innen und Inklusionsassistent*innen",
+    "date": "2027-11-19",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6322"
+  },
+  {
+    "id": "24927-020",
+    "title": "kitaplus – Eltern App",
+    "date": "2027-11-19",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6594"
+  },
+  {
+    "id": "34027-009",
+    "title": "Die Persönlichkeitsstörung Borderline",
+    "date": "2027-11-22",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 210.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6290"
+  },
+  {
+    "id": "21827-024",
+    "title": "Komm wieder zur Ruhe, meine Seele (Ps 116,7)",
+    "date": "2027-11-22",
+    "place": "Haus Marienhof Königswinterer Str. 414 53639 Königswinter - Ittenbach",
+    "fee": "Intern: 530.00 Extern: 640.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6683"
+  },
+  {
+    "id": "23327-002",
+    "title": "Vom Wissen zum Können!",
+    "date": "2027-11-23",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 190.00 Extern: 220.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6114"
+  },
+  {
+    "id": "23327-021",
+    "title": "Miteinander statt Gegeneinander: klar, empathisch, wirksam",
+    "date": "2027-11-23",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 310.00 Extern: 370.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6729"
+  },
+  {
+    "id": "23327-019",
+    "title": "Arbeitszeugnisse formulieren und interpretieren",
+    "date": "2027-11-24",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 90.00 Extern: 108.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6725"
+  },
+  {
+    "id": "24627-002",
+    "title": "Vielfalt macht das Leben bunter!",
+    "date": "2027-11-25",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6481"
+  },
+  {
+    "id": "24627-011",
+    "title": "Den Alltag in der Kita inklusiv gestalten",
+    "date": "2027-11-25",
+    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
+    "fee": "Intern: 250.00 Extern: 300.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6595"
+  },
+  {
+    "id": "21827-025",
+    "title": "Balance finden in komplexen Zeiten",
+    "date": "2027-11-25",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6684"
+  },
+  {
+    "id": "24627-012",
+    "title": "Inklusion im Blick – Austausch, Impulse, neue Energie",
+    "date": "2027-11-26",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 105.00 Extern: 130.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6596"
+  },
+  {
+    "id": "24927-003",
+    "title": "kitaplus – Basisschulung",
+    "date": "2027-11-29",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6475"
+  },
+  {
+    "id": "23127-017",
+    "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
+    "date": "2027-11-30",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6202"
+  },
+  {
+    "id": "24527-005",
+    "title": "Kompetente Gesprächsführung",
+    "date": "2027-12-01",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 315.00 Extern: 390.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6360"
+  },
+  {
+    "id": "24027-033",
+    "title": "Plätzchenduft, Lichterglanz und Knusperhaus",
+    "date": "2027-12-01",
+    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6371"
+  },
+  {
+    "id": "24827-036",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-12-01",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6417"
+  },
+  {
+    "id": "24827-010",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-12-03",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 120.00 Extern: 145.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6129"
+  },
+  {
+    "id": "24927-014",
+    "title": "kitaplus – Gruppen-App und Bildungsdokumentation",
+    "date": "2027-12-03",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 80.00 Extern: 95.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6488"
+  },
+  {
+    "id": "23927-013",
+    "title": "Komm an Bord!",
+    "date": "2027-12-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 120.00 Extern: 140.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6181"
+  },
+  {
+    "id": "21827-033",
+    "title": "Gelassener, klarer und konsequenter Handeln – Raus aus der Brüllfalle",
+    "date": "2027-12-07",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6696"
+  },
+  {
+    "id": "24027-057",
+    "title": "Ein heller Stern ist aufgegangen – ein Weg im Sternenlicht",
+    "date": "2027-12-08",
+    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
+    "fee": "Intern: 75.00 Extern: 100.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6421"
+  },
+  {
+    "id": "31127-013",
+    "title": "PROFIL zeigen – Tagespflege mit klarem Konzept gestalten",
+    "date": "2027-12-08",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 45.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6887"
+  },
+  {
+    "id": "24027-020",
+    "title": "Im Vertrauen wachsen – Den Jahreskreislauf mit Krippenkindern erleben und gestalten",
+    "date": "2027-12-09",
+    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
+    "fee": "Intern: 85.00 Extern: 110.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6318"
+  },
+  {
+    "id": "24627-018",
+    "title": "Umgang mit Kindern mit herausforderndem Verhalten in der Kita",
+    "date": "2027-12-09",
+    "place": "Tagungs- und Gästehaus St. Georg Rolandstr. 61 50677 Köln",
+    "fee": "Intern: 310.00 Extern: 360.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6603"
+  },
+  {
+    "id": "21827-030",
+    "title": "Systemische Co-Beratung für die Praxis",
+    "date": "2027-12-09",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6689"
+  },
+  {
+    "id": "23127-021",
+    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Soziale Arbeit und Krankenhäuser",
+    "date": "2027-12-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 100.00 Extern: 120.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6206"
+  },
+  {
     "id": "31827-013",
     "title": "Die Zukunft der Suchtselbsthilfe beginnt mit uns – jetzt!",
     "date": "2027-12-11",
@@ -2419,5 +6172,23 @@
     "fee": "Intern: 95.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6798"
+  },
+  {
+    "id": "23927-019",
+    "title": "Resilienz in Arbeitskontexten",
+    "date": "2027-12-14",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 170.00 Extern: 195.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6300"
+  },
+  {
+    "id": "23227-007",
+    "title": "Reg dich doch nicht so auf!",
+    "date": "2027-12-14",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 310.00 Extern: 370.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6802"
   }
 ]
