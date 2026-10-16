@@ -441,6 +441,15 @@
     "status": "offen"
   },
   {
+    "id": "27-3.04",
+    "title": "Führung und Selbstführung",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/fuehrung-und-selbstfuehrung-a1769009-1bba-48ff-be33-e04a201a1bf0",
+    "date": "07.09.2027 - 08.09.2027",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
+    "fee": "290,00 Euro",
+    "status": "offen"
+  },
+  {
     "id": "27-7.15",
     "title": "Leiten mit Kompetenz und Weitblick - Basiskurs",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/leiten-mit-kompetenz-und-weitblick-basiskurs-4ce5a306-ebec-4998-8cf9-adb428963b4b",
@@ -576,15 +585,6 @@
     "status": "offen"
   },
   {
-    "id": "27-4.04",
-    "title": "Kultursensible Beratung in der Praxis",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/kultursensible-beratung-in-der-praxis-812568ef-099b-4f20-960f-4e71f88c8abc",
-    "date": "15.10.2027",
-    "place": "Caritasverband für das Bistum Aachen e.V. Haus der Caritas Kapitelstraße 3 52066 Aachen",
-    "fee": "90,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "27-1.05",
     "title": "Systemische Beratung kompakt",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/systemische-beratung-kompakt-bc539692-c90d-4189-ba11-6c9ae348a4f9",
@@ -627,6 +627,15 @@
     "date": "12.11.2027",
     "place": "Online",
     "fee": "20,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-4.04",
+    "title": "Kultursensible Beratung in der Praxis",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/kultursensible-beratung-in-der-praxis-812568ef-099b-4f20-960f-4e71f88c8abc",
+    "date": "15.11.2027",
+    "place": "Caritasverband für das Bistum Aachen e.V. Haus der Caritas Kapitelstraße 3 52066 Aachen",
+    "fee": "90,00 Euro",
     "status": "offen"
   },
   {

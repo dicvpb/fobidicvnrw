@@ -18,15 +18,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
-    "id": "T80VIER10B",
-    "title": "Workshop InsO",
-    "url": "https://www.helfenmitprofil.de/soziale-sicherung/kw/bereich/kursdetails/kurs/T80VIER10B/kursname/Workshop%20InsO/kategorie-id/23",
-    "date": "Mi., 14.10.2026, 09:00 Uhr - Do. 15.10.2026 12:00 Uhr",
-    "place": "Onlineangebot",
-    "fee": "85,00 €",
-    "status": "Es sind noch 13 Plätze frei"
-  },
-  {
     "id": "T80INVIA03",
     "title": "Hygienebeauftragte/r für die Bereiche Pflege und Hauswirtschaft",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80INVIA03/kursname/Hygienebeauftragter%20fuer%20die%20Bereiche%20Pflege%20und%20Hauswirtschaft/kategorie-id/2",
@@ -34,15 +25,6 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "990,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
-  },
-  {
-    "id": "T80BFD_10A",
-    "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
-    "url": "https://www.helfenmitprofil.de/programm/bundesfreiwilligendienst/kw/bereich/kursdetails/kurs/T80BFD_10A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/15",
-    "date": "Di., 27.10.2026, 09:30 Uhr - 16:30 Uhr",
-    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
-    "fee": "60,00 €",
-    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "T80F3RS10C",
@@ -69,7 +51,7 @@
     "date": "Mo., 02.11.2026, 18:00 Uhr - Fr. 06.11.2026 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "590,00 €",
-    "status": "Anmeldung auf Warteliste"
+    "status": "Es ist noch 1 Platz frei"
   },
   {
     "id": "T80INVIA05",
@@ -87,7 +69,7 @@
     "date": "Di., 10.11.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "T80CKQV11D",
@@ -114,7 +96,7 @@
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 11 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "T8031BE227",
@@ -207,22 +189,13 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
-    "id": "T80BFD_12A",
-    "title": "BasisPlus-Schulung zur Prävention sexualisierter Gewalt",
-    "url": "https://www.helfenmitprofil.de/programm/bundesfreiwilligendienst/kw/bereich/kursdetails/kurs/T80BFD_12A/kursname/BasisPlus-Schulung%20zur%20Praevention%20sexualisierter%20Gewalt/kategorie-id/15",
-    "date": "Mo., 21.12.2026, 09:30 Uhr - 16:30 Uhr",
-    "place": "Caritasverband für das Erzbistum Paderborn e.V.",
-    "fee": "60,00 €",
-    "status": "Es sind noch 20 Plätze frei"
-  },
-  {
     "id": "U8031BE011",
     "title": "PrävO-Intensivschulung in zwei Abschnitten",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE011/kursname/PraevO-Intensivschulung%20in%20zwei%20Abschnitten/kategorie-id/10",
     "date": "Di., 12.01.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn und Online",
     "fee": "130,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "U80GESA01A",
@@ -232,24 +205,6 @@
     "place": "Klinik St. Ursula, Winterberg",
     "fee": "190,00 €",
     "status": "Es sind noch 16 Plätze frei"
-  },
-  {
-    "id": "U8031BE020",
-    "title": "Mit Kindern Teilhabe erleben",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE020/kursname/Mit%20Kindern%20Teilhabe%20erleben/kategorie-id/10",
-    "date": "Mo., 18.01.2027, 09:00 Uhr - 17:00 Uhr",
-    "place": "Liborianum, Paderborn",
-    "fee": "220,00 €",
-    "status": "Es sind noch 20 Plätze frei"
-  },
-  {
-    "id": "U8031BE013",
-    "title": "Spielend durch das Jahr",
-    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE013/kursname/Spielend%20durch%20das%20Jahr/kategorie-id/10",
-    "date": "Mi., 20.01.2027, 09:00 Uhr - 17:00 Uhr",
-    "place": "Liborianum, Paderborn",
-    "fee": "110,00 €",
-    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "U8031BE006",
@@ -324,6 +279,15 @@
     "status": "Es sind noch 18 Plätze frei"
   },
   {
+    "id": "U80POK_02F",
+    "title": "Mein Glaube. Zur eigenen Kraft finden.",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/U80POK_02F/kursname/Mein%20Glaube%20Zur%20eigenen%20Kraft%20finden/kategorie-id/14",
+    "date": "Fr., 12.02.2027, 17:00 Uhr - So. 14.02.2027 14:00 Uhr",
+    "place": "Haus am Eulenspiegel, Rüthen",
+    "fee": "75,00 €",
+    "status": "Es sind noch 10 Plätze frei"
+  },
+  {
     "id": "U80POK_02A",
     "title": "Sich selbst und andere führen",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02A/kursname/Sich%20selbst%20und%20andere%20fuehren/kategorie-id/7",
@@ -334,8 +298,8 @@
   },
   {
     "id": "U80FIDI02A",
-    "title": "Einstiegsseminar Fördermittel für gemeinnützige Organisationen",
-    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/U80FIDI02A/kursname/Einstiegsseminar%20Foerdermittel%20fuer%20gemeinnuetzige%20Organisationen/kategorie-id/",
+    "title": "Erfolgreiche Fördermittelakquise – Strategie, Praxis, Umsetzung",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/U80FIDI02A/kursname/Erfolgreiche%20Foerdermittelakquise%20Strategie%20Praxis%20Umsetzung/kategorie-id/",
     "date": "Do., 18.02.2027, 09:00 Uhr - 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "230,00 €",
@@ -348,7 +312,7 @@
     "date": "Mo., 22.02.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 17 Plätze frei"
   },
   {
     "id": "U8031BE140",
@@ -528,7 +492,7 @@
     "date": "Mo., 03.05.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 24 Plätze frei"
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "U80POK_05A",
@@ -583,6 +547,15 @@
     "place": "Kommende Dortmund",
     "fee": "90,00 €",
     "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "V80POK_10C",
+    "title": "Wander-Exerzitien",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_10C/kursname/Wander-Exerzitien/kategorie-id/12",
+    "date": "Mo., 04.10.2027, 18:00 Uhr - Fr. 08.10.2027 15:00 Uhr",
+    "place": "Bergkloster, Bestwig",
+    "fee": "595,00 €",
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "V80POK_11A",
