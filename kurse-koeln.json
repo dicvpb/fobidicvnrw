@@ -189,15 +189,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5542"
   },
   {
-    "id": "13226-008",
-    "title": "Web-Seminar: Kleine Schritte, große Wirkung: Gemeinsam Energie in der Kita sparen",
-    "date": "2026-11-04",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5704"
-  },
-  {
     "id": "21526-007",
     "title": "Vielfalt verstehen – kompetent beraten",
     "date": "2026-11-04",
@@ -284,7 +275,7 @@
     "date": "2026-11-06",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 65.00 Extern: 90.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5263"
   },
   {
@@ -518,7 +509,7 @@
     "date": "2026-11-13",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 152.00 Extern: 179.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5974"
   },
   {
@@ -1157,7 +1148,7 @@
     "date": "2026-12-04",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6869"
   },
   {
@@ -5806,7 +5797,7 @@
   },
   {
     "id": "31127-010",
-    "title": "Kneipp-Angebote",
+    "title": "Kneipp erleben – Tagespflege, die guttut",
     "date": "2027-09-08",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 45.00 Extern: 0.00",

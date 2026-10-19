@@ -18,15 +18,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
   },
   {
-    "id": "T80INVIA03",
-    "title": "Hygienebeauftragte/r für die Bereiche Pflege und Hauswirtschaft",
-    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80INVIA03/kursname/Hygienebeauftragter%20fuer%20die%20Bereiche%20Pflege%20und%20Hauswirtschaft/kategorie-id/2",
-    "date": "Mo., 19.10.2026, 08:45 Uhr - Fr. 23.10.2026 15:15 Uhr",
-    "place": "IN VIA Akademie, Paderborn",
-    "fee": "990,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
-  },
-  {
     "id": "T80F3RS10C",
     "title": "Atempause - Kraft schöpfen für den beruflichen und privaten Alltag",
     "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/T80F3RS10C/kursname/Atempause%20-%20Kraft%20schoepfen%20fuer%20den%20beruflichen%20und%20privaten%20Alltag/kategorie-id/12",
@@ -42,7 +33,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 55 Plätze frei"
+    "status": "Es sind noch 54 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -96,7 +87,7 @@
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "T8031BE227",
@@ -123,7 +114,7 @@
     "date": "Mi., 18.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "60,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 13 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
@@ -205,6 +196,15 @@
     "place": "Klinik St. Ursula, Winterberg",
     "fee": "190,00 €",
     "status": "Es sind noch 16 Plätze frei"
+  },
+  {
+    "id": "U8031BE_01",
+    "title": "Neurodivergente Kinder = wahrnehmungsbesondere Kinder",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE_01/kursname/Neurodivergente%20Kinder%20wahrnehmungsbesondere%20Kinder/kategorie-id/10",
+    "date": "Do., 14.01.2027, 09:00 Uhr - Do. 18.03.2027 16:30 Uhr",
+    "place": "Liborianum, Paderborn & Kath. Akademie Schwerte",
+    "fee": "480,00 €",
+    "status": "Es sind noch 20 Plätze frei"
   },
   {
     "id": "U8031BE006",
@@ -294,7 +294,7 @@
     "date": "Mi., 17.02.2027, 09:00 Uhr - Do. 18.02.2027 17:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "U80FIDI02A",
@@ -456,7 +456,7 @@
     "date": "Di., 20.04.2027, 09:00 Uhr - Mi. 21.04.2027 17:00 Uhr",
     "place": "Bergkloster, Bestwig",
     "fee": "250,00 €",
-    "status": "Es sind noch 20 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "U8031BE900",
