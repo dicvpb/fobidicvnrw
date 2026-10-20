@@ -9,15 +9,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "23126-034",
-    "title": "Web-Seminar: In der Nähe abgrenzen – in der Distanz Kontakt halten",
-    "date": "2026-10-19",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6156"
-  },
-  {
     "id": "31826-004",
     "title": "Basisqualifikation Suchthilfe – Modul I",
     "date": "2026-10-20",
@@ -104,7 +95,7 @@
     "date": "2026-10-29",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
   },
   {
@@ -349,15 +340,6 @@
     "fee": "Intern: 315.00 Extern: 390.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5400"
-  },
-  {
-    "id": "24726-139",
-    "title": "Web-Seminar: Sicher Sprechen, sicher Handeln",
-    "date": "2026-11-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 105.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6040"
   },
   {
     "id": "25026-036",
@@ -4923,13 +4905,13 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6341"
   },
   {
-    "id": "23327-022",
+    "id": "23327-024",
     "title": "Das papierlose Büro – so schaffen Sie den Umstieg",
     "date": "2027-05-25",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 250.00",
     "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6834"
+    "url": "https://www.caritas-campus.de/detail.php?nr=6911"
   },
   {
     "id": "23327-007",
