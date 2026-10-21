@@ -33,7 +33,7 @@
     "date": "Mo., 02.11.2026, 10:00 Uhr - 16:00 Uhr",
     "place": "Katholische Akademie Schwerte",
     "fee": "100,00 €",
-    "status": "Es sind noch 54 Plätze frei"
+    "status": "Es sind noch 53 Plätze frei"
   },
   {
     "id": "T80F3RS11A",
@@ -178,6 +178,15 @@
     "place": "IN VIA Akademie, Paderborn",
     "fee": "590,00 €",
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
+  },
+  {
+    "id": "T80VIER12A",
+    "title": "„Scrollen, Shoppen, Zocken, Bingen - zwischen Nutzen und Kontrollverlust.",
+    "url": "https://www.helfenmitprofil.de/soziale-sicherung/kw/bereich/kursdetails/kurs/T80VIER12A/kursname/Scrollen%20Shoppen%20Zocken%20Bingen%20-%20zwischen%20Nutzen%20und%20Kontrollverlust/kategorie-id/23",
+    "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
+    "place": "Digital",
+    "fee": "20,00 €",
+    "status": "Es sind noch 100 Plätze frei"
   },
   {
     "id": "U8031BE011",
