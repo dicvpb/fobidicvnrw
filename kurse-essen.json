@@ -270,21 +270,21 @@
     "status": "offen"
   },
   {
-    "id": "06.003.26",
-    "title": "Mit Belastungen umgehen können.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-a87e0172-75db-4018-ac54-16a910ea61be",
-    "date": "25.11.2026 - 26.11.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "370,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "06.004.27",
     "title": "Mit Belastungen umgehen können.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-84d8ec34-3e2b-43bc-8c5e-f5b3be4a804a",
     "date": "24.11.2027 - 25.11.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "390,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "06.003.26",
+    "title": "Mit Belastungen umgehen können.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-a87e0172-75db-4018-ac54-16a910ea61be",
+    "date": "25.11.2026 - 26.11.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "370,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -483,6 +483,15 @@
     "date": "20.10.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "230,00 € bzw. 210,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "08.000.27",
+    "title": "Vorbereitete Bedutachtung - optimales Pflegegrad.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/vorbereitete-bedutachtung-optimales-pflegegrad.-2071afce-deac-473d-b35b-b7d948f08563",
+    "date": "20.05.2027 - 21.05.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "530,00 € bzw. 490,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
