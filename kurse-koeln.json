@@ -14,7 +14,7 @@
     "date": "2026-10-26",
     "place": "siehe Ausschreibungstext oder -flyer",
     "fee": "Intern: 790.00 Extern: 790.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6091"
   },
   {
@@ -23,7 +23,7 @@
     "date": "2026-10-26",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6155"
   },
   {
@@ -59,7 +59,7 @@
     "date": "2026-11-02",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5347"
   },
   {
@@ -491,7 +491,7 @@
     "date": "2026-11-17",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5337"
   },
   {
