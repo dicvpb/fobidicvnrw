@@ -4,7 +4,7 @@
     "title": "Selbstverständlich inklusiv",
     "date": "23. Jan. 2025 - 21. Jan. 2028",
     "place": "",
-    "fee": "Die Veranstaltungspreise finden Sie in den jeweiligen Kursbeschreibungen. Die Rechnungsstellung im Anschluss an die einzelnen Veranstaltungen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "fee": "Die Veranstaltungspreise finden Sie in den jeweiligen Kursbeschreibungen. Die Rechnungsstellung erfolgt im Anschluss an die einzelnen Veranstaltungen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
     "status": "Anmeldung deaktiviert",
     "id": "V000000643"
   },
@@ -221,7 +221,7 @@
     "date": "18. Nov. 2026, 09:30 Uhr - 19. Nov. 2026, 17:00 Uhr",
     "place": "Akademie Klausenhof Hamminkeln Klausenhofstraße 100 46499 Hamminkeln",
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000000861"
   },
   {
@@ -239,7 +239,7 @@
     "date": "05. Nov. 2026, 09:30 Uhr - 03. Dez. 2026, 16:30 Uhr",
     "place": "",
     "fee": "625,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n688 € (inkl. Verpflegung) für Partner im Bistum Münster\n720,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Wenige Plätze",
+    "status": "Plätze verfügbar",
     "id": "V000001249"
   },
   {
@@ -788,7 +788,7 @@
     "date": "08. Apr. 2027, 09:00 Uhr - 09. Apr. 2027, 17:00 Uhr",
     "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001338"
   },
   {

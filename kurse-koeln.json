@@ -9,24 +9,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "26626-019",
-    "title": "Ohne Vertrauen ist alles nichts?! Eine Anfrage an die Player im kirchlichen Dienst",
-    "date": "2026-10-26",
-    "place": "siehe Ausschreibungstext oder -flyer",
-    "fee": "Intern: 790.00 Extern: 790.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6091"
-  },
-  {
-    "id": "23126-033",
-    "title": "Web-Seminar: Nur was wir kennen, können wir erkennen",
-    "date": "2026-10-26",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6155"
-  },
-  {
     "id": "23126-020",
     "title": "Web-Seminar: Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Soziale Arbeit und Krankenhäuser",
     "date": "2026-10-28",
@@ -50,7 +32,7 @@
     "date": "2026-10-29",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
   },
   {
@@ -59,7 +41,7 @@
     "date": "2026-11-02",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5347"
   },
   {
@@ -2711,7 +2693,7 @@
   {
     "id": "21827-010",
     "title": "Die Arbeit mit hochstrittigen Eltern – Verstehen und Handeln in Kooperation",
-    "date": "2027-02-24",
+    "date": "2027-01-26",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 240.00 Extern: 290.00",
     "status": "Angebot buchbar",
@@ -4165,24 +4147,6 @@
     "fee": "Intern: 186.00 Extern: 230.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6673"
-  },
-  {
-    "id": "23827-016",
-    "title": "KI als Sparringspartner: Problemlöser, Resonanzboden, Mentor",
-    "date": "2027-04-20",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 84.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6711"
-  },
-  {
-    "id": "23127-022",
-    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Altenhilfe",
-    "date": "2027-04-21",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6207"
   },
   {
     "id": "48027-017",
