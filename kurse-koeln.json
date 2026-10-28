@@ -23,7 +23,7 @@
     "date": "2026-10-28",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6819"
   },
   {
@@ -216,15 +216,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6071"
   },
   {
-    "id": "26826-019",
-    "title": "Web-Seminar: Scrollen in die Radikalisierung?",
-    "date": "2026-11-06",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6818"
-  },
-  {
     "id": "31826-014",
     "title": "EFT – Emotionale Freiheit durch Klopfen",
     "date": "2026-11-07",
@@ -239,7 +230,7 @@
     "date": "2026-11-09",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4968"
   },
   {
@@ -511,15 +502,6 @@
     "fee": "Intern: 80.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6848"
-  },
-  {
-    "id": "24726-025",
-    "title": "Web-Seminar: Zufriedenheit und Wohlbefinden in der Kita",
-    "date": "2026-11-18",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 320.00 Extern: 420.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5273"
   },
   {
     "id": "24726-043",
@@ -1085,7 +1067,7 @@
     "date": "2026-12-07",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6841"
   },
   {
@@ -2115,6 +2097,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6473"
   },
   {
+    "id": "21827-010",
+    "title": "Die Arbeit mit hochstrittigen Eltern – Verstehen und Handeln in Kooperation",
+    "date": "2027-01-26",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 240.00 Extern: 290.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6658"
+  },
+  {
     "id": "24427-034",
     "title": "Gelingende Fehlerkultur entwickeln: Kinderschutz im Team stärken",
     "date": "2027-01-26",
@@ -2689,15 +2680,6 @@
     "fee": "Intern: 40.00 Extern: 65.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6565"
-  },
-  {
-    "id": "21827-010",
-    "title": "Die Arbeit mit hochstrittigen Eltern – Verstehen und Handeln in Kooperation",
-    "date": "2027-01-26",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 240.00 Extern: 290.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6658"
   },
   {
     "id": "31827-002",
@@ -4147,6 +4129,24 @@
     "fee": "Intern: 186.00 Extern: 230.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6673"
+  },
+  {
+    "id": "23827-016",
+    "title": "KI als Sparringspartner: Problemlöser, Resonanzboden, Mentor",
+    "date": "2027-04-20",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 84.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6711"
+  },
+  {
+    "id": "23127-022",
+    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Altenhilfe",
+    "date": "2027-04-21",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 130.00 Extern: 160.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6207"
   },
   {
     "id": "48027-017",
