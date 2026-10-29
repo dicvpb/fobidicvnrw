@@ -140,7 +140,7 @@
     "date": "12. Nov. 2026, 09:00 - 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n225,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Wenige Plätze",
     "id": "V000001087"
   },
   {
@@ -302,7 +302,7 @@
     "date": "05. Nov. 2026, 09:30 - 17:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Plätze verfügbar",
     "id": "V000001327"
   },
   {
@@ -743,7 +743,7 @@
     "date": "19. Jan. 2027, 09:00 - 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "Die Teilnahme am Fachtag ist kostenlos.",
-    "status": "Wenige Plätze",
+    "status": "Plätze verfügbar",
     "id": "V000001434"
   },
   {

@@ -9,30 +9,12 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "23126-020",
-    "title": "Web-Seminar: Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Soziale Arbeit und Krankenhäuser",
-    "date": "2026-10-28",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5007"
-  },
-  {
-    "id": "26826-020",
-    "title": "Web-Seminar: Scrollen in die Radikalisierung?",
-    "date": "2026-10-28",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6819"
-  },
-  {
     "id": "26826-007",
     "title": "Zweitägiger Workshop: Haltung zeigen (Köln)",
     "date": "2026-10-29",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5909"
   },
   {
@@ -230,7 +212,7 @@
     "date": "2026-11-09",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4968"
   },
   {
@@ -322,15 +304,6 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5599"
-  },
-  {
-    "id": "23326-032",
-    "title": "In der Ruhe liegt die Kraft",
-    "date": "2026-11-12",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 310.00 Extern: 370.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5998"
   },
   {
     "id": "25026-031",
@@ -428,7 +401,7 @@
     "date": "2026-11-16",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6176"
   },
   {
@@ -752,7 +725,7 @@
     "date": "2026-11-24",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6904"
   },
   {
@@ -925,15 +898,6 @@
     "fee": "Intern: 580.00 Extern: 580.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6815"
-  },
-  {
-    "id": "23426-003",
-    "title": "Web-Seminar: Kompetent führen: Arbeitsrecht",
-    "date": "2026-12-02",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 170.00 Extern: 0.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5162"
   },
   {
     "id": "24726-096",
@@ -2095,6 +2059,15 @@
     "fee": "Intern: 100.00 Extern: 120.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6473"
+  },
+  {
+    "id": "26627-001",
+    "title": "Systemischer Organisations- und Konfliktcoach",
+    "date": "2027-01-25",
+    "place": "siehe Ausschreibungstext oder -flyer",
+    "fee": "Intern: 0.00 Extern: 0.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6920"
   },
   {
     "id": "21827-010",
