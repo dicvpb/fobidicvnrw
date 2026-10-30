@@ -9,15 +9,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "26826-007",
-    "title": "Zweitägiger Workshop: Haltung zeigen (Köln)",
-    "date": "2026-10-29",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5909"
-  },
-  {
     "id": "24726-052",
     "title": "Herausfordernde und unruhige Kinder – was tun?",
     "date": "2026-11-02",
@@ -392,7 +383,7 @@
     "date": "2026-11-16",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "Intern: 20.00 Extern: 20.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5905"
   },
   {
@@ -493,15 +484,6 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5416"
-  },
-  {
-    "id": "21826-040",
-    "title": "Web-Seminar: Das ist Deine letzte Chance!",
-    "date": "2026-11-18",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 180.00 Extern: 230.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5532"
   },
   {
     "id": "24926-028",
