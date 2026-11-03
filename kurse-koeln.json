@@ -23,7 +23,7 @@
     "date": "2026-11-02",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6806"
   },
   {
@@ -194,7 +194,7 @@
     "date": "2026-11-09",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4968"
   },
   {
@@ -374,7 +374,7 @@
     "date": "2026-11-16",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "Intern: 20.00 Extern: 20.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5905"
   },
   {
@@ -383,7 +383,7 @@
     "date": "2026-11-16",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6176"
   },
   {
@@ -2101,7 +2101,7 @@
     "title": "Gewalt im frühkindlichen Bereich erkennen und professionell handeln",
     "date": "2027-01-27",
     "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 80.00 Extern: 20.00",
+    "fee": "Intern: 80.00 Extern: 100.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6844"
   },

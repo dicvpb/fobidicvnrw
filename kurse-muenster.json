@@ -54,15 +54,6 @@
     "id": "V000000887"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/online-seminar-korrespondenz-nach-din-5008/v000000890",
-    "title": "Online-Seminar: Korrespondenz nach DIN 5008",
-    "date": "23. Nov. 2026, 13:00 - 17:00 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "pro Teilnehmer*in",
-    "status": "Plätze verfügbar",
-    "id": "V000000890"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/erfolgreiche-arbeitsorganisation/v000000955",
     "title": "Erfolgreiche Arbeitsorganisation",
     "date": "11. Nov. 2026, 09:00 - 16:30 Uhr",
@@ -995,7 +986,7 @@
     "date": "19. Mai 2027, 09:00 Uhr - 20. Mai 2027, 17:00 Uhr",
     "place": "Heimvolkshochschule Gottfried-Könzgen Haltern am See Annaberg 40 45721 Haltern am See",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Plätze verfügbar",
     "id": "V000001360"
   },
   {
@@ -1132,5 +1123,104 @@
     "fee": "65,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n75,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n80,00 € (inkl. Verpflegung) für Externe.",
     "status": "Plätze verfügbar",
     "id": "V000001453"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/schlafen-ruhen-spielen/v000001487",
+    "title": "Schlafen-Ruhen-Spielen",
+    "date": "16. Sept. 2027, 09:00 - 15:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für Externe.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001487"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/ich-will-aber/v000001485",
+    "title": "Ich will aber!",
+    "date": "26. Apr. 2027, 09:00 - 15:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für Externe.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001485"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/bildungsort-mahlzeit/v000001484",
+    "title": "Bildungsort Mahlzeit",
+    "date": "22. Feb. 2027, 09:00 - 15:00 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für Externe.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001484"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/ergebniserfassung-und-feedbackberichte/v000001479",
+    "title": "Ergebniserfassung und Feedbackberichte",
+    "date": "08. Juli 2027, 09:00 - 15:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "95,00 € für Mitgliedseinrichtungen des DiCV Münster\n105,00 € für Partner im Bistum Münster\n115,00 € für Nicht-Mitglieder (alle Anderen)",
+    "status": "Plätze verfügbar",
+    "id": "V000001479"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/ergebniserfassung-und-feedbackberichte/v000001478",
+    "title": "Ergebniserfassung und Feedbackberichte",
+    "date": "25. Feb. 2027, 09:00 - 15:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "95,00 € für Mitgliedseinrichtungen des DiCV Münster\n105,00 € für Partner im Bistum Münster\n115,00 € für Nicht-Mitglieder (alle Anderen)",
+    "status": "Plätze verfügbar",
+    "id": "V000001478"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/ich-kann-das-schon-...-meilensteine-der-entwicklung-im-fruehen-kindesalter-0.-6-.jahre/v000001490",
+    "title": "„Ich kann das schon“... Meilensteine der Entwicklung im frühen Kindesalter (0. – 6 .Jahre)",
+    "date": "15. März 2027, 09:00 Uhr - 16. März 2027, 17:00 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für Externe.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001490"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/plausibilitaetspruefung-aus-traegerperspektive/v000001494",
+    "title": "Plausibilitätsprüfung aus Trägerperspektive",
+    "date": "21. Jan. 2027, 14:00 - 17:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "85,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n94,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n102,00 € (inkl. Verpflegung) für alle Anderen.",
+    "status": "Plätze verfügbar",
+    "id": "V000001494"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/klartext-kibiz/v000001493",
+    "title": "Klartext KiBiz",
+    "date": "02. Feb. 2027, 10:00 - 11:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "65,00 € für Mitglieder des DiCV im Bistum Münster.\n75,00 € für Partner des DiCV im Bistum Münster.\n78,00 € für Externe.",
+    "status": "Plätze verfügbar",
+    "id": "V000001493"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/klartext-kibiz/v000001492",
+    "title": "Klartext KiBiz",
+    "date": "15. Jan. 2027, 10:00 - 11:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "65,00 € für Mitglieder des DiCV im Bistum Münster.\n75,00 € für Partner des DiCV im Bistum Münster.\n78,00 € für Externe.",
+    "status": "Plätze verfügbar",
+    "id": "V000001492"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/klartext-kibiz/v000001491",
+    "title": "Klartext KiBiz",
+    "date": "03. Dez. 2026, 10:00 - 11:30 Uhr",
+    "place": "Interaktives Web-Seminar - Online",
+    "fee": "65,00 € für Mitglieder des DiCV im Bistum Münster.\n75,00 € für Partner des DiCV im Bistum Münster.\n78,00 € für Externe.",
+    "status": "Plätze verfügbar",
+    "id": "V000001491"
+  },
+  {
+    "url": "https://fortbildung.caritas-muenster.de/wandelstimmung-fuehrung-wirksam-gestalten-in-zeiten-permanenter-veraenderung/v000001480",
+    "title": "WandelSTIMMung – Führung wirksam gestalten in Zeiten permanenter Veränderung",
+    "date": "11. Jan. 2027, 09:30 - 17:00 Uhr",
+    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
+    "fee": "pro Teilnehmer*in\n195 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215 € (inkl. Verpflegung) für Partner im Bistum Münster\n235 € (inkl. Verpflegung) für alle Anderen",
+    "status": "Plätze verfügbar",
+    "id": "V000001480"
   }
 ]

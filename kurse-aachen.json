@@ -30,7 +30,7 @@
     "id": "27-7.01",
     "title": "Grundlagenschulung im QE-Projekt",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/grundlagenschulung-im-qe-projekt-0d423173-690b-49fe-9e41-1d25466aac7b",
-    "date": "18.01.2027 - 19.01.2027",
+    "date": "18.01.2027 - 16.02.2027",
     "place": "Caritasverband für das Bistum Aachen e.V. Geschäftsstelle - Haus der Caritas Kapitelstr. 3 52066 Aachen",
     "fee": "125,00 Euro",
     "status": "offen"
@@ -432,21 +432,21 @@
     "status": "offen"
   },
   {
-    "id": "27-7.15",
-    "title": "Leiten mit Kompetenz und Weitblick - Basiskurs",
-    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/leiten-mit-kompetenz-und-weitblick-basiskurs-4ce5a306-ebec-4998-8cf9-adb428963b4b",
-    "date": "10.09.2027 - 01.10.2027",
-    "place": "Online",
-    "fee": "230,00 Euro",
-    "status": "offen"
-  },
-  {
     "id": "27-7.12",
     "title": "Qualitätsmanagement ist toll",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/qualitaetsmanagement-ist-toll-c7340fd9-1349-4e6a-8af0-f09868fd2db4",
     "date": "10.09.2027 - 01.10.2027",
     "place": "Online",
     "fee": "190,00 Euro",
+    "status": "offen"
+  },
+  {
+    "id": "27-7.15",
+    "title": "Leiten mit Kompetenz und Weitblick - Basiskurs",
+    "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/leiten-mit-kompetenz-und-weitblick-basiskurs-4ce5a306-ebec-4998-8cf9-adb428963b4b",
+    "date": "10.09.2027 - 01.10.2027",
+    "place": "Online",
+    "fee": "230,00 Euro",
     "status": "offen"
   },
   {
@@ -535,7 +535,7 @@
     "title": "Lebendige Kultur der Achtsamkeit - Modul 4",
     "url": "https://www.caritas-ac.de/fort-und-weiterbildung/fortbildung/lebendige-kultur-der-achtsamkeit-modul-4-ee372011-df21-405a-9f7d-1bd2d52ffbd0",
     "date": "11.10.2027",
-    "place": "Online",
+    "place": "Akademie des Bistums Aachen Leonhardstr. 18-20 52064 Aachen",
     "fee": "160,00 Euro",
     "status": "offen"
   },

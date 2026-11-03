@@ -15,7 +15,7 @@
     "date": "Di., 10.11.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "T80CKQV11D",
@@ -33,7 +33,7 @@
     "date": "Di., 10.11.2026, 09:00 Uhr - Di. 17.11.2026 12:00 Uhr",
     "place": "Onlineangebot",
     "fee": "160,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Es sind noch 4 Plätze frei"
   },
   {
     "id": "T80POK11D",
@@ -51,7 +51,7 @@
     "date": "Mo., 16.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T80FIDI11A",
@@ -146,9 +146,9 @@
   {
     "id": "T80VIER12A",
     "title": "„Scrollen, Shoppen, Zocken, Bingen - zwischen Nutzen und Kontrollverlust.",
-    "url": "https://www.helfenmitprofil.de/soziale-sicherung/kw/bereich/kursdetails/kurs/T80VIER12A/kursname/Scrollen%20Shoppen%20Zocken%20Bingen%20-%20zwischen%20Nutzen%20und%20Kontrollverlust/kategorie-id/23",
+    "url": "https://www.helfenmitprofil.de/programm/kw/bereich/kursdetails/kurs/T80VIER12A/kursname/Scrollen%20Shoppen%20Zocken%20Bingen%20-%20zwischen%20Nutzen%20und%20Kontrollverlust/kategorie-id/",
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
-    "place": "Digital",
+    "place": "Onlineangebot",
     "fee": "20,00 €",
     "status": "Es sind noch 70 Plätze frei"
   },
@@ -168,7 +168,7 @@
     "date": "Di., 12.01.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn und Online",
     "fee": "130,00 €",
-    "status": "Es sind noch 5 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "U80GESA01A",
@@ -177,7 +177,7 @@
     "date": "Di., 12.01.2027, 09:30 Uhr - Mi. 13.01.2027 14:00 Uhr",
     "place": "Klinik St. Ursula, Winterberg",
     "fee": "190,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "U8031BE_01",
@@ -186,7 +186,7 @@
     "date": "Do., 14.01.2027, 09:00 Uhr - Do. 18.03.2027 16:30 Uhr",
     "place": "Liborianum, Paderborn & Kath. Akademie Schwerte",
     "fee": "480,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "U8031BE006",
@@ -213,7 +213,7 @@
     "date": "Mi., 27.01.2027, 09:00 Uhr - Mi. 29.03.2028 16:30 Uhr",
     "place": "Liborianum, Paderborn, Kath. Akademie Schwerte",
     "fee": "2200,00 €",
-    "status": "Es sind noch 19 Plätze frei"
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "U8031BE021",
@@ -324,6 +324,15 @@
     "status": "Es sind noch 12 Plätze frei"
   },
   {
+    "id": "U80POK_02E",
+    "title": "17. Paderborner Caritas.diskurs Ethik",
+    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/U80POK_02E/kursname/17%20Paderborner%20Caritasdiskurs%20Ethik/kategorie-id/2",
+    "date": "Do., 25.02.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Liborianum, Paderborn",
+    "fee": "140,00 €",
+    "status": "Es sind noch 70 Plätze frei"
+  },
+  {
     "id": "U8031BE003",
     "title": "Vertiefungstag ICF",
     "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE003/kursname/Vertiefungstag%20ICF/kategorie-id/10",
@@ -366,7 +375,7 @@
     "date": "Di., 09.03.2027, 09:00 Uhr - Mi. 10.03.2027 17:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "490,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "T8031BE004",
@@ -484,6 +493,15 @@
     "place": "Bergkloster, Bestwig",
     "fee": "195,00 €",
     "status": "Es sind noch 16 Plätze frei"
+  },
+  {
+    "id": "U80POK_05C",
+    "title": "Leben in alle Richtungen - E-Bike Exerzitien",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK_05C/kursname/Leben%20in%20alle%20Richtungen%20-%20E-Bike%20Exerzitien/kategorie-id/12",
+    "date": "Mi., 12.05.2027, 11:00 Uhr - Sa. 15.05.2027 13:00 Uhr",
+    "place": "Katholische Akademie, Schwerte",
+    "fee": "695,00 €",
+    "status": "Es sind noch 10 Plätze frei"
   },
   {
     "id": "U80POK_05B",
