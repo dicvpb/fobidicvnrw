@@ -9,24 +9,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "24726-052",
-    "title": "Herausfordernde und unruhige Kinder – was tun?",
-    "date": "2026-11-02",
-    "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
-    "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5347"
-  },
-  {
-    "id": "26626-023",
-    "title": "Die Arbeitsvertragsrichtlinien des Deutschen Caritasverbandes (AVR) | Thema: Aufbau und Struktur der AVR | Arbeitsvertrag",
-    "date": "2026-11-02",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6806"
-  },
-  {
     "id": "24826-033",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-03",
@@ -41,7 +23,7 @@
     "date": "2026-11-03",
     "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5336"
   },
   {
@@ -50,7 +32,7 @@
     "date": "2026-11-03",
     "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
     "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5637"
   },
   {
@@ -59,7 +41,7 @@
     "date": "2026-11-03",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5930"
   },
   {
@@ -214,15 +196,6 @@
     "fee": "Intern: 75.00 Extern: 90.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6763"
-  },
-  {
-    "id": "25026-037",
-    "title": "Die große Excel-Filtershow",
-    "date": "2026-11-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 38.00 Extern: 45.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6764"
   },
   {
     "id": "26626-025",
@@ -806,7 +779,7 @@
     "date": "2026-11-30",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4995"
   },
   {
@@ -2097,6 +2070,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6403"
   },
   {
+    "id": "25027-003",
+    "title": "Microsoft 365 – Was steckt drin – was bringt es mir?",
+    "date": "2027-01-27",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 55.00 Extern: 66.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6746"
+  },
+  {
     "id": "24727-143",
     "title": "Gewalt im frühkindlichen Bereich erkennen und professionell handeln",
     "date": "2027-01-27",
@@ -2457,6 +2439,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6564"
   },
   {
+    "id": "25027-006",
+    "title": "Orientierung im Speicher-Labyrinth von OneDrive, SharePoint, Teams & Co.",
+    "date": "2027-02-18",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 42.00 Extern: 50.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6749"
+  },
+  {
     "id": "23327-023",
     "title": "Partizipative Prozesse professionell moderieren",
     "date": "2027-02-18",
@@ -2707,6 +2698,15 @@
     "fee": "Intern: 135.00 Extern: 165.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6676"
+  },
+  {
+    "id": "25027-004",
+    "title": "Kollaboration mit Microsoft Teams",
+    "date": "2027-02-25",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6747"
   },
   {
     "id": "24827-006",
@@ -3006,6 +3006,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6709"
   },
   {
+    "id": "25027-005",
+    "title": "Mail oder Chat – Outlook oder MS Teams. Was nehme ich wann?",
+    "date": "2027-03-09",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 55.00 Extern: 66.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6748"
+  },
+  {
     "id": "24727-145",
     "title": "Risikoanalyse im Schutzkonzept: Kinderschutz gemeinsam gestalten",
     "date": "2027-03-09",
@@ -3292,6 +3301,15 @@
     "fee": "Intern: 48.00 Extern: 57.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6710"
+  },
+  {
+    "id": "25027-007",
+    "title": "MS Planner – Der heldenhafte Aufgaben-Manager",
+    "date": "2027-03-16",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6752"
   },
   {
     "id": "24027-014",
@@ -3609,6 +3627,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6501"
   },
   {
+    "id": "25027-009",
+    "title": "Microsoft OneNote – alles an einem Ort",
+    "date": "2027-04-07",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6754"
+  },
+  {
     "id": "23827-021",
     "title": "KI? Kann ich. Ab jetzt!",
     "date": "2027-04-07",
@@ -3769,6 +3796,24 @@
     "fee": "Intern: 80.00 Extern: 105.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6543"
+  },
+  {
+    "id": "25027-011",
+    "title": "Zahlen rein, Turbo an, Erkenntnisse raus",
+    "date": "2027-04-12",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6766"
+  },
+  {
+    "id": "25027-012",
+    "title": "Autofilter, Datenschnitt, Spezialfilter",
+    "date": "2027-04-12",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 42.00 Extern: 50.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6767"
   },
   {
     "id": "24727-135",
@@ -4131,6 +4176,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6666"
   },
   {
+    "id": "25027-008",
+    "title": "Outlook, ToDo und Planner perfekt nutzen",
+    "date": "2027-04-21",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 55.00 Extern: 66.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6753"
+  },
+  {
     "id": "23627-003",
     "title": "Qualitätsmanagement in der Praxis – Updates für Anwender*innen und Interessierte",
     "date": "2027-04-22",
@@ -4318,6 +4372,15 @@
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6695"
+  },
+  {
+    "id": "25027-017",
+    "title": "Das „Neue Outlook“ – Zeit für eine Entdeckungstour!",
+    "date": "2027-04-27",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 102.00 Extern: 122.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6777"
   },
   {
     "id": "23827-025",
@@ -4509,6 +4572,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6721"
   },
   {
+    "id": "25027-016",
+    "title": "Lebendige Online Meetings: Menschen verbinden und begeistern",
+    "date": "2027-05-10",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 82.00 Extern: 99.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6775"
+  },
+  {
     "id": "23927-007",
     "title": "Führung in Häppchen III",
     "date": "2027-05-11",
@@ -4552,6 +4624,15 @@
     "fee": "Intern: 1200.00 Extern: 1450.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6699"
+  },
+  {
+    "id": "25027-019",
+    "title": "Tschüss Datenchaos!",
+    "date": "2027-05-11",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 75.00 Extern: 90.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6836"
   },
   {
     "id": "13227-006",
@@ -4896,6 +4977,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6651"
   },
   {
+    "id": "25027-001",
+    "title": "Excel Level 1",
+    "date": "2027-06-02",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 350.00 Extern: 420.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6742"
+  },
+  {
     "id": "24427-013",
     "title": "Vom Plan zur Praxis – Projekte sicher umsetzen",
     "date": "2027-06-03",
@@ -4912,6 +5002,15 @@
     "fee": "Intern: 195.00 Extern: 195.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6654"
+  },
+  {
+    "id": "25027-015",
+    "title": "Professionelles Reporting mit Excel",
+    "date": "2027-06-03",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6774"
   },
   {
     "id": "23227-001",
@@ -4957,6 +5056,15 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6465"
+  },
+  {
+    "id": "25027-013",
+    "title": "Mehr Überblick, mehr Produktivität, mehr Zeit fürs Wichtige",
+    "date": "2027-06-07",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6768"
   },
   {
     "id": "24427-029",
@@ -5058,6 +5166,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6604"
   },
   {
+    "id": "25027-014",
+    "title": "Daten auswerten mit Excel",
+    "date": "2027-06-14",
+    "place": "Web-Seminar mit Teams",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6769"
+  },
+  {
     "id": "48027-007",
     "title": "Basiswissen Ausländerrecht",
     "date": "2027-06-15",
@@ -5101,6 +5218,15 @@
     "fee": "Intern: 150.00 Extern: 180.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6698"
+  },
+  {
+    "id": "25027-002",
+    "title": "Funktionen clever nutzen mit Excel",
+    "date": "2027-06-16",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 150.00 Extern: 180.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6743"
   },
   {
     "id": "23327-006",
@@ -5328,6 +5454,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6441"
   },
   {
+    "id": "25027-010",
+    "title": "Excel – Low Level",
+    "date": "2027-06-28",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 180.00 Extern: 216.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6765"
+  },
+  {
     "id": "24427-035",
     "title": "Gelingende Fehlerkultur entwickeln: Kinderschutz im Team stärken",
     "date": "2027-06-28",
@@ -5362,6 +5497,15 @@
     "fee": "Intern: 590.00 Extern: 665.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6406"
+  },
+  {
+    "id": "25027-018",
+    "title": "Intelligenter Datenimport mit Excel Power Query",
+    "date": "2027-07-01",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 102.00 Extern: 122.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6779"
   },
   {
     "id": "24727-096",

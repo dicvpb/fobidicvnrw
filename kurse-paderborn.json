@@ -69,7 +69,7 @@
     "date": "Mi., 18.11.2026, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "60,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 14 Plätze frei"
   },
   {
     "id": "T80CKQV11B",
@@ -186,7 +186,7 @@
     "date": "Do., 14.01.2027, 09:00 Uhr - Do. 18.03.2027 16:30 Uhr",
     "place": "Liborianum, Paderborn & Kath. Akademie Schwerte",
     "fee": "480,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "U8031BE006",
@@ -276,7 +276,7 @@
     "date": "Mi., 17.02.2027, 09:00 Uhr - Do. 18.02.2027 17:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "U80FIDI02A",
@@ -366,7 +366,7 @@
     "date": "Di., 09.03.2027, 10:00 Uhr - Fr. 11.06.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "1600,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "U80POK_03A",
@@ -483,7 +483,7 @@
     "date": "Mo., 03.05.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Onlineangebot",
     "fee": "80,00 €",
-    "status": "Es sind noch 23 Plätze frei"
+    "status": "Es sind noch 22 Plätze frei"
   },
   {
     "id": "U80POK_05A",
@@ -501,7 +501,7 @@
     "date": "Mi., 12.05.2027, 11:00 Uhr - Sa. 15.05.2027 13:00 Uhr",
     "place": "Katholische Akademie, Schwerte",
     "fee": "695,00 €",
-    "status": "Es sind noch 10 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "U80POK_05B",
@@ -547,6 +547,15 @@
     "place": "Kommende Dortmund",
     "fee": "90,00 €",
     "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "U80POK_06C",
+    "title": "Auf ein Ziel hin. - Golf.Exerzitien",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK_06C/kursname/Auf%20ein%20Ziel%20hin%20-%20GolfExerzitien/kategorie-id/12",
+    "date": "Mo., 21.06.2027, 11:00 Uhr - Do. 24.06.2027 15:00 Uhr",
+    "place": "Geistliches Zentrum Franziskus; Salzkotten",
+    "fee": "695,00 €",
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "V80POK_10C",
