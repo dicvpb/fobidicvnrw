@@ -230,7 +230,7 @@
     "date": "05. Nov. 2026, 09:30 Uhr - 03. Dez. 2026, 16:30 Uhr",
     "place": "",
     "fee": "625,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n688 € (inkl. Verpflegung) für Partner im Bistum Münster\n720,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001249"
   },
   {
@@ -293,7 +293,7 @@
     "date": "05. Nov. 2026, 09:30 - 17:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001327"
   },
   {
@@ -401,7 +401,7 @@
     "date": "06. Dez. 2027, 09:00 - 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001371"
   },
   {
@@ -833,7 +833,7 @@
     "date": "24. Feb. 2027, 09:00 - 17:00 Uhr",
     "place": "Schönstatt-Au Borken Kapellenstraße 60 46325 Borken",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001341"
   },
   {

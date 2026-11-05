@@ -9,48 +9,12 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "24826-033",
-    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
-    "date": "2026-11-03",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 120.00 Extern: 145.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5109"
-  },
-  {
-    "id": "24026-027",
-    "title": "Gibt es im Himmel Schokolade?",
-    "date": "2026-11-03",
-    "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5336"
-  },
-  {
-    "id": "24726-120",
-    "title": "Wie von Zauberhand: Trick- und Realfilme",
-    "date": "2026-11-03",
-    "place": "Katholisch-Soziales Institut Bergstraße 26 53721 Siegburg",
-    "fee": "Intern: 299.00 Extern: 299.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5637"
-  },
-  {
-    "id": "26826-013",
-    "title": "Web-Seminar: Scrollen in die Radikalisierung?",
-    "date": "2026-11-03",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5930"
-  },
-  {
     "id": "24626-036",
     "title": "Kraft aus der Stille",
     "date": "2026-11-04",
     "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
     "fee": "Intern: 225.00 Extern: 300.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5408"
   },
   {
@@ -68,7 +32,7 @@
     "date": "2026-11-04",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 45.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6162"
   },
   {
@@ -77,7 +41,7 @@
     "date": "2026-11-04",
     "place": "AI Village Studio 6 auf dem Euronova Campus An der Hasenkaule 10 50354 Hürth",
     "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6291"
   },
   {
@@ -95,7 +59,7 @@
     "date": "2026-11-04",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 495.00 Extern: 495.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6807"
   },
   {
@@ -176,7 +140,7 @@
     "date": "2026-11-09",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=4968"
   },
   {
@@ -473,7 +437,7 @@
     "date": "2026-11-19",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5032"
   },
   {
@@ -2485,7 +2449,7 @@
   },
   {
     "id": "31227-002",
-    "title": "Update Palliative Care",
+    "title": "Palliative Versorgung und hospizliche Begleitung von Menschen mit Demenz (Vertiefungsseminar gemäß PrävO)",
     "date": "2027-02-22",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 75.00 Extern: 90.00",
@@ -3232,7 +3196,7 @@
   },
   {
     "id": "31227-003",
-    "title": "Update Palliative Care",
+    "title": "Palliative Versorgung und Begleitung von Menschen mit malignen Wunden (Vertiefungsseminar gemäß PrävO)",
     "date": "2027-03-16",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 280.00 Extern: 330.00",
@@ -3727,7 +3691,7 @@
   },
   {
     "id": "31227-004",
-    "title": "Update Palliative Care",
+    "title": "Der Wunsch nach freiwilligem Verzicht auf Essen und Trinken (FVET)",
     "date": "2027-04-12",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 80.00 Extern: 95.00",
