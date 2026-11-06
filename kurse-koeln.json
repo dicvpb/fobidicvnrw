@@ -9,60 +9,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "24626-036",
-    "title": "Kraft aus der Stille",
-    "date": "2026-11-04",
-    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
-    "fee": "Intern: 225.00 Extern: 300.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5408"
-  },
-  {
-    "id": "24226-020",
-    "title": "Inklusion: Das Kind im Mittelpunkt (2026/2027)",
-    "date": "2026-11-04",
-    "place": "Haus des Evangelischen Gemeindeverbandes Adenauerallee 37 53113 Bonn",
-    "fee": "Intern: 375.00 Extern: 450.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5542"
-  },
-  {
-    "id": "21526-007",
-    "title": "Vielfalt verstehen – kompetent beraten",
-    "date": "2026-11-04",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 45.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6162"
-  },
-  {
-    "id": "15126-003",
-    "title": "Orientierung geben, Zukunft gestalten",
-    "date": "2026-11-04",
-    "place": "AI Village Studio 6 auf dem Euronova Campus An der Hasenkaule 10 50354 Hürth",
-    "fee": "Intern: 0.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6291"
-  },
-  {
-    "id": "25026-034",
-    "title": "Microsoft OneNote – Alles. An. Einem. Ort.",
-    "date": "2026-11-04",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6741"
-  },
-  {
-    "id": "26626-024",
-    "title": "Alles erledigt!",
-    "date": "2026-11-04",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 495.00 Extern: 495.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6807"
-  },
-  {
     "id": "23126-016",
     "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
     "date": "2026-11-05",
@@ -77,7 +23,7 @@
     "date": "2026-11-05",
     "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5333"
   },
   {
@@ -86,7 +32,7 @@
     "date": "2026-11-05",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 320.00 Extern: 370.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5499"
   },
   {
@@ -223,15 +169,6 @@
     "fee": "Intern: 210.00 Extern: 260.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5599"
-  },
-  {
-    "id": "25026-031",
-    "title": "MS Planner – Der heldenhafte Aufgaben-Manager",
-    "date": "2026-11-12",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 82.00 Extern: 99.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6737"
   },
   {
     "id": "24826-051",
@@ -3537,6 +3474,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6773"
   },
   {
+    "id": "24827-043",
+    "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
+    "date": "2027-04-06",
+    "place": "Pfarrheim der Kath. Kirchengemeinde St. Johann Baptist Refrath Kirchplatz 20a 51427 Bergisch Gladbach",
+    "fee": "Intern: 95.00 Extern: 115.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6925"
+  },
+  {
     "id": "24027-010",
     "title": "Marie, Murat und Co",
     "date": "2027-04-07",
@@ -6467,7 +6413,7 @@
     "date": "2027-10-13",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 45.00 Extern: 0.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6885"
   },
   {
