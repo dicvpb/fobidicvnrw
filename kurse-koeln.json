@@ -9,33 +9,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5330"
   },
   {
-    "id": "23126-016",
-    "title": "Ganztägige Präventionsschulung (schutz- oder hilfebedürftige Erwachsene) – Schwerpunkt Behindertenhilfe",
-    "date": "2026-11-05",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5003"
-  },
-  {
-    "id": "24026-024",
-    "title": "Sternstunden im Advent",
-    "date": "2026-11-05",
-    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5333"
-  },
-  {
-    "id": "21826-027",
-    "title": "Neu in der ambulanten Jugendhilfe",
-    "date": "2026-11-05",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 320.00 Extern: 370.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5499"
-  },
-  {
     "id": "24826-030",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-06",
@@ -50,7 +23,7 @@
     "date": "2026-11-06",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 65.00 Extern: 90.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5263"
   },
   {
@@ -59,7 +32,7 @@
     "date": "2026-11-06",
     "place": "Frühförderzentrum Bergisch Gladbach Cederwaldstr. 22 51465 Bergisch Gladbach",
     "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5420"
   },
   {
@@ -68,7 +41,7 @@
     "date": "2026-11-06",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6071"
   },
   {
@@ -484,15 +457,6 @@
     "fee": "Intern: 75.00 Extern: 95.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=4979"
-  },
-  {
-    "id": "23126-013",
-    "title": "Ganztägige Präventionsschulung (Kinder- und Jugendhilfe – ohne Kita)",
-    "date": "2026-11-24",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 160.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5000"
   },
   {
     "id": "26626-016",

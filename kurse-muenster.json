@@ -176,7 +176,7 @@
     "date": "19. Nov. 2026, 09:00 - 16:00 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001000"
   },
   {
@@ -281,20 +281,11 @@
   {
     "url": "https://fortbildung.caritas-muenster.de/weiterbildung-berater-in-zur-gesundheitlichen-versorgungsplanung/v000001318",
     "title": "Weiterbildung \"Berater:in zur gesundheitlichen Versorgungsplanung",
-    "date": "28. Jan. 2027 - 04. Nov. 2027",
+    "date": "28. Jan. 2027, 09:00 Uhr - 04. Nov. 2027, 16:15 Uhr",
     "place": "",
     "fee": "2.175,00 € (inkl. Verpflegung) für Mitglieder des DiCV Essen und des DiCV Münster\n2.615,00 € (inkl. Verpflegung) für alle Anderen\n\nDiese Veranstaltung beinhaltet keine Übernachtungen.",
     "status": "Plätze verfügbar",
     "id": "V000001318"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/sicher-vor-der-kamera-krisenkommunikation-im-interview/v000001327",
-    "title": "Sicher vor der Kamera - Krisenkommunikation im Interview",
-    "date": "05. Nov. 2026, 09:30 - 17:30 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "395,00 € (inkl. Verpflegung) pro Person bei max. 5 Teilnehmenden pro Veranstaltung",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001327"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/von-der-idee-zur-anwendung-ki-workathon/v000001328",
@@ -401,7 +392,7 @@
     "date": "06. Dez. 2027, 09:00 - 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001371"
   },
   {

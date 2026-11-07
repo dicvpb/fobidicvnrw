@@ -15,16 +15,7 @@
     "date": "Di., 10.11.2026, 09:30 Uhr - 16:30 Uhr",
     "place": "Caritasverband für das Erzbistum Paderborn e.V.",
     "fee": "60,00 €",
-    "status": "Es sind noch 5 Plätze frei"
-  },
-  {
-    "id": "T80CKQV11D",
-    "title": "KHO Ehrenamtstreff - KI und Robotik im Krankenhaus",
-    "url": "https://www.helfenmitprofil.de/programm/caritas-konferenzen/kw/bereich/kursdetails/kurs/T80CKQV11D/kursname/KHO%20Ehrenamtstreff%20-%20KI%20und%20Robotik%20im%20Krankenhaus/kategorie-id/4",
-    "date": "Di., 10.11.2026, 14:00 Uhr Uhr - 17:00 Uhr Uhr",
-    "place": "Klostergenossenschaft, Mönchstraße 19, 33378 Rheda-Wiedenbrück",
-    "fee": "0,00 €",
-    "status": "Anmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "T80CKQV11E",
@@ -36,22 +27,13 @@
     "status": "nmeldung nur möglich über: CKD-GeschäftsstellePostfach 182433048 PaderbornE-Mail: ckd@caritas-paderborn.de, Tel.: 05251 209-280"
   },
   {
-    "id": "T80KOM_11A",
-    "title": "LinkedIn für Referent*innen, Fach- und Führungskräfte",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80KOM_11A/kursname/LinkedIn%20fuer%20Referentinnen%20Fach-%20und%20Fuehrungskraefte/kategorie-id/7",
-    "date": "Di., 10.11.2026, 09:00 Uhr - Di. 17.11.2026 12:00 Uhr",
-    "place": "Onlineangebot",
-    "fee": "160,00 €",
-    "status": "Es sind noch 4 Plätze frei"
-  },
-  {
     "id": "T80POK11D",
     "title": "Grundlagen für interne Ansprechpersonen im Kontext (sexualisierter) Gewalt",
     "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80POK11D/kursname/Grundlagen%20fuer%20interne%20Ansprechpersonen%20im%20Kontext%20sexualisierter%20Gewalt/kategorie-id/2",
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 3 Plätze frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "T8031BE227",
@@ -159,7 +141,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
     "place": "Onlineangebot",
     "fee": "20,00 €",
-    "status": "Es sind noch 60 Plätze frei"
+    "status": "Es sind noch 59 Plätze frei"
   },
   {
     "id": "T80F2AV056",
@@ -330,7 +312,7 @@
     "date": "Mi., 24.02.2027, 09:00 Uhr - Do. 25.02.2027 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "490,00 €",
-    "status": "Es sind noch 10 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "U80POK_02E",
@@ -547,6 +529,15 @@
     "place": "Onlineangebot",
     "fee": "80,00 €",
     "status": "Es sind noch 19 Plätze frei"
+  },
+  {
+    "id": "U80POK_06B",
+    "title": "Auf dem Weg zu mir",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK_06B/kursname/Auf%20dem%20Weg%20zu%20mir/kategorie-id/12",
+    "date": "Do., 10.06.2027, 09:00 Uhr - Fr. 11.06.2027 16:00 Uhr",
+    "place": "Gute Ahe",
+    "fee": "250,00 €",
+    "status": "Es sind noch 16 Plätze frei"
   },
   {
     "id": "U8031BE022",
