@@ -24,7 +24,7 @@
     "date": "Mi., 11.11.2026, 10:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 2 Plätze frei"
+    "status": "Anmeldung auf Warteliste"
   },
   {
     "id": "T8031BE227",
@@ -132,7 +132,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
     "place": "Onlineangebot",
     "fee": "20,00 €",
-    "status": "Es sind noch 58 Plätze frei"
+    "status": "Es sind noch 56 Plätze frei"
   },
   {
     "id": "T80F2AV056",
@@ -159,7 +159,7 @@
     "date": "Di., 12.01.2027, 09:30 Uhr - Mi. 13.01.2027 14:00 Uhr",
     "place": "Klinik St. Ursula, Winterberg",
     "fee": "190,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "U8031BE_01",
@@ -168,7 +168,7 @@
     "date": "Do., 14.01.2027, 09:00 Uhr - Do. 18.03.2027 16:30 Uhr",
     "place": "Liborianum, Paderborn & Kath. Akademie Schwerte",
     "fee": "480,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "U8031BE006",
@@ -222,7 +222,7 @@
     "date": "Mi., 03.02.2027, 09:00 Uhr - Mi. 17.11.2027 17:00 Uhr",
     "place": "Paderborn, Schwerte, Bestwig",
     "fee": "2000,00 €",
-    "status": "Es sind noch 12 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "U80POK_02C",
@@ -258,7 +258,7 @@
     "date": "Mi., 17.02.2027, 09:00 Uhr - Do. 18.02.2027 17:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 10 Plätze frei"
+    "status": "Es sind noch 9 Plätze frei"
   },
   {
     "id": "U80FIDI02A",
@@ -549,13 +549,22 @@
     "status": "Es sind noch 8 Plätze frei"
   },
   {
-    "id": "U80POK06B",
+    "id": "U80POK_06D",
     "title": "Berge sind stille Meister - Auf und werde!",
-    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK06B/kursname/Berge%20sind%20stille%20Meister%20-%20Auf%20und%20werde/kategorie-id/12",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK_06D/kursname/Berge%20sind%20stille%20Meister%20-%20Auf%20und%20werde/kategorie-id/12",
     "date": "Mi., 30.06.2027, 13:00 Uhr - So. 04.07.2027 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
     "status": "Es sind noch 16 Plätze frei"
+  },
+  {
+    "id": "V80POK_08A",
+    "title": "Viele Wege führen zu Gott, einer der schönsten geht über die Berge",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_08A/kursname/Viele%20Wege%20fuehren%20zu%20Gott%20einer%20der%20schoensten%20geht%20ueber%20die%20Berge/kategorie-id/12",
+    "date": "Fr., 20.08.2027, 13:00 Uhr - Di. 24.08.2027 14:00 Uhr",
+    "place": "Lechquellengebirge",
+    "fee": "650,00 €",
+    "status": "Es sind noch 12 Plätze frei"
   },
   {
     "id": "V80POK_10C",

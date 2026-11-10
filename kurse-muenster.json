@@ -221,7 +221,7 @@
     "date": "26. Nov. 2026, 09:30 Uhr - 01. Juni 2027, 16:30 Uhr",
     "place": "Systemische Wirkstatt Münster Münster Schifffahrter Damm 3 - 5 48145 Münster",
     "fee": "570,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n630,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n685,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001195"
   },
   {
@@ -266,7 +266,7 @@
     "date": "26. Nov. 2026, 09:30 - 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001297"
   },
   {
@@ -788,7 +788,7 @@
     "date": "17. März 2027, 09:00 Uhr - 18. März 2027, 17:00 Uhr",
     "place": "Kath. Landvolkshochschule Schorlemer Alst Warendorf-Freckenhorst Am Hagen 1 48231 Warendorf-Freckenhorst",
     "fee": "Kostenfrei, inkl. Verpflegung",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001337"
   },
   {
@@ -1202,7 +1202,7 @@
     "date": "03. Dez. 2026, 10:00 - 11:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "65,00 € für Mitglieder des DiCV im Bistum Münster.\n75,00 € für Partner des DiCV im Bistum Münster.\n78,00 € für Externe.",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001491"
   },
   {
@@ -1211,7 +1211,7 @@
     "date": "11. Jan. 2027, 09:30 - 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n195 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215 € (inkl. Verpflegung) für Partner im Bistum Münster\n235 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001480"
   }
 ]
