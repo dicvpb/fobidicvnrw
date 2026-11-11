@@ -1,47 +1,11 @@
 [
   {
-    "id": "23126-002",
-    "title": "Web-Seminar: In der Nähe abgrenzen – in der Distanz Kontakt halten",
-    "date": "2026-11-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4968"
-  },
-  {
-    "id": "24626-029",
-    "title": "Neurodivergente Kinder gleich wahrnehmungsbesondere Kinder",
-    "date": "2026-11-09",
-    "place": "Haus Müllestumpe An der Rheindorfer Burg 22 53117 Bonn",
-    "fee": "Intern: 315.00 Extern: 390.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5400"
-  },
-  {
-    "id": "25026-036",
-    "title": "PIVOTTABELLEN: Daten effizient auswerten",
-    "date": "2026-11-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6763"
-  },
-  {
-    "id": "26626-025",
-    "title": "Diskriminierung und (Un-)Gleichbehandlung im Dienstverhältnis",
-    "date": "2026-11-09",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 270.00 Extern: 270.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6808"
-  },
-  {
     "id": "23626-002",
     "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
     "date": "2026-11-10",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 85.00 Extern: 100.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5164"
   },
   {
@@ -59,7 +23,7 @@
     "date": "2026-11-10",
     "place": "Kath Kita St. Antonius Bernhard-Letterhaus-Str. 8 42275 Wuppertal",
     "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5660"
   },
   {
@@ -131,7 +95,7 @@
     "date": "2026-11-13",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5649"
   },
   {
@@ -430,15 +394,6 @@
     "fee": "Intern: 0.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5928"
-  },
-  {
-    "id": "13226-011",
-    "title": "Web-Seminar: Gesunde Erde – gesunde Kinder",
-    "date": "2026-11-24",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 25.00 Extern: 40.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6049"
   },
   {
     "id": "26626-028",
@@ -844,15 +799,6 @@
     "fee": "Intern: 140.00 Extern: 175.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5398"
-  },
-  {
-    "id": "21826-024",
-    "title": "Gelassener, klarer und konsequenter Handeln – Raus aus der Brüllfalle",
-    "date": "2026-12-09",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 130.00 Extern: 155.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5496"
   },
   {
     "id": "23926-035",
@@ -6374,7 +6320,7 @@
   {
     "id": "23127-004",
     "title": "In der Nähe abgrenzen – in der Distanz Kontakt halten",
-    "date": "2027-10-18",
+    "date": "2027-09-30",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 70.00 Extern: 85.00",
     "status": "Angebot buchbar",
