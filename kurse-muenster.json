@@ -59,7 +59,7 @@
     "date": "11. Nov. 2026, 09:00 - 16:30 Uhr",
     "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000955"
   },
   {
@@ -131,7 +131,7 @@
     "date": "12. Nov. 2026, 09:00 - 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n225,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001087"
   },
   {
@@ -1193,7 +1193,7 @@
     "date": "15. Jan. 2027, 10:00 - 11:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "65,00 € für Mitglieder des DiCV im Bistum Münster.\n75,00 € für Partner des DiCV im Bistum Münster.\n78,00 € für Externe.",
-    "status": "Plätze verfügbar",
+    "status": "Wenige Plätze",
     "id": "V000001492"
   },
   {

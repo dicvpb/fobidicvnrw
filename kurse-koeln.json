@@ -1,41 +1,5 @@
 [
   {
-    "id": "23626-002",
-    "title": "Qualitätsmanagement in der Praxis – Updates für Anwender_innen und Interessierte",
-    "date": "2026-11-10",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 85.00 Extern: 100.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5164"
-  },
-  {
-    "id": "21826-012",
-    "title": "Beraten in der Krise",
-    "date": "2026-11-10",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 175.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5484"
-  },
-  {
-    "id": "13226-005",
-    "title": "Praxistag von Koch zu Koch: Alltagstaugliche Alternativen ausprobieren",
-    "date": "2026-11-10",
-    "place": "Kath Kita St. Antonius Bernhard-Letterhaus-Str. 8 42275 Wuppertal",
-    "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5660"
-  },
-  {
-    "id": "23826-050",
-    "title": "Protokolle und Berichte erstellen – mit KI geht es schneller",
-    "date": "2026-11-10",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6243"
-  },
-  {
     "id": "24826-003",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Intensiv für Leitung",
     "date": "2026-11-12",
@@ -88,15 +52,6 @@
     "fee": "Intern: 40.00 Extern: 65.00",
     "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5562"
-  },
-  {
-    "id": "24726-126",
-    "title": "Mehr als nur Spielen",
-    "date": "2026-11-13",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5649"
   },
   {
     "id": "23826-030",
@@ -571,7 +526,7 @@
     "title": "Du bist ein Geschenk",
     "date": "2026-12-01",
     "place": "Jugendbildungsstätte Haus Altenberg e. V. Ludwig-Wolker-Str. 12 51519 Odenthal-Altenberg",
-    "fee": "Intern: 55.00 Extern: 0.00",
+    "fee": "Intern: 550.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5543"
   },
@@ -682,15 +637,6 @@
     "fee": "Intern: 310.00 Extern: 360.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5382"
-  },
-  {
-    "id": "24926-033",
-    "title": "Web-Seminar light: kitaplus – Gruppen-App und Eltern-App",
-    "date": "2026-12-03",
-    "place": "Web-Seminar mit Teams",
-    "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6073"
   },
   {
     "id": "26626-033",
@@ -5265,6 +5211,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6406"
   },
   {
+    "id": "23227-008",
+    "title": "Dein Weg zur Schlagfertigkeit – Schnelle und witzige Antworten, die sitzen!",
+    "date": "2027-06-30",
+    "place": "CaritasCampus Georgstr. 7 50676 Köln",
+    "fee": "Intern: 195.00 Extern: 215.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6929"
+  },
+  {
     "id": "25027-018",
     "title": "Intelligenter Datenimport mit Excel Power Query",
     "date": "2027-07-01",
@@ -5679,6 +5634,15 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=6064"
   },
   {
+    "id": "23527-001",
+    "title": "Unterwegs mit DIR – In den Bergen Gott und sich selbst begegnen",
+    "date": "2027-09-17",
+    "place": "Labenbachhof gGmbH Froschsee 7 83324 Ruhpolding",
+    "fee": "Intern: 790.00 Extern: 890.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6095"
+  },
+  {
     "id": "24727-115",
     "title": "Kinder haben Rechte",
     "date": "2027-09-17",
@@ -5911,6 +5875,15 @@
     "fee": "Intern: 170.00 Extern: 200.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6457"
+  },
+  {
+    "id": "23127-004",
+    "title": "In der Nähe abgrenzen – in der Distanz Kontakt halten",
+    "date": "2027-09-30",
+    "place": "Web-Seminar mit Zoom",
+    "fee": "Intern: 70.00 Extern: 85.00",
+    "status": "Angebot buchbar",
+    "url": "https://www.caritas-campus.de/detail.php?nr=6101"
   },
   {
     "id": "23327-010",
@@ -6316,15 +6289,6 @@
     "fee": "Intern: 95.00 Extern: 115.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6352"
-  },
-  {
-    "id": "23127-004",
-    "title": "In der Nähe abgrenzen – in der Distanz Kontakt halten",
-    "date": "2027-09-30",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6101"
   },
   {
     "id": "48027-003",
