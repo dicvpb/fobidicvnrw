@@ -27,15 +27,6 @@
     "status": "offen"
   },
   {
-    "id": "09.006.26",
-    "title": "Ada.nrw-Netzwerktreffen 2026",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/ada.nrw-netzwerktreffen-2026-6aa1d376-66f2-47a6-ae71-1c394f73ab84",
-    "date": "17.11.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "Für die Teilnahme wird keine Kursgebühr erhoben. Die Veranstaltung wird finanziert durch Mittel des NRW-Projekts „Qualifizierung/Vernetzung in der Antidiskriminierung (ADA)“.",
-    "status": "offen"
-  },
-  {
     "id": "04.004.26",
     "title": "Alles ISO - Alles klar? Auffrischung u. Reflexion inkl. der Revision 2026.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/alles-iso-alles-klar-auffrischung-u.-reflexion-inkl.-der-revision-2026.-4157f96b-c4f7-42d2-b359-aca3",
@@ -81,21 +72,21 @@
     "status": "offen"
   },
   {
-    "id": "08.000.27",
-    "title": "Beratung zur gesundheitlichen Versorgungsplanung für die letzte Lebensphase.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/beratung-zur-gesundheitlichen-versorgungsplanung-fuer-die-letzte-lebensphase.-6a005f28-ddce-4544-9d1",
-    "date": "09.11.2027",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "230,00 € bzw. 210,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "V000001318",
     "title": "Beratung zur gesundheitlichen Versorgungsplanung für die letzte Lebensphase.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/beratung-zur-gesundheitlichen-versorgungsplanung-fuer-die-letzte-lebensphase.-6ae9e545-102a-413e-818",
     "date": "28.01.2027 - 04.11.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "2615,00 EUR bzw. 2175,00 EUR für Mitarbeiter*innen in Einrichtungen und Diensten des DiCV Essen und des DiCV Münster.",
+    "status": "offen"
+  },
+  {
+    "id": "08.007.27",
+    "title": "Beratung zur gesundheitlichen Versorgungsplanung für die letzte Lebensphase.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/beratung-zur-gesundheitlichen-versorgungsplanung-fuer-die-letzte-lebensphase.-6a005f28-ddce-4544-9d1",
+    "date": "09.11.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "230,00 € bzw. 210,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -135,21 +126,12 @@
     "status": "offen"
   },
   {
-    "id": "08.000.27",
-    "title": "Demenziell erkrankter Menschen mit herausforderndem Verhalten begleiten.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/demenziell-erkrankter-menschen-mit-herausforderndem-verhalten-begleiten.-2e733ef4-329a-43d6-9f81-00b",
+    "id": "08.008.27",
+    "title": "Demenziell erkrankte Menschen mit herausforderndem Verhalten begleiten.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/demenziell-erkrankte-menschen-mit-herausforderndem-verhalten-begleiten.-2e733ef4-329a-43d6-9f81-00b0",
     "date": "21.04.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "210,00 € bzw. 190,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
-    "id": "08.011.26",
-    "title": "Den Menschen, die sterben wollen, achtsam begegnen und sie palliativ begleiten.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/den-menschen-die-sterben-wollen-achtsam-begegnen-und-sie-palliativ-begleiten.-f03cdf49-74ed-4391-935",
-    "date": "19.11.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "250,00 € bzw. 230,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -315,7 +297,7 @@
     "status": "offen"
   },
   {
-    "id": "07.000.27",
+    "id": "07.006.27",
     "title": "Lerneinheiten und Workshops entwickeln mit KI.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/lerneinheiten-und-workshops-entwickeln-mit-ki.-4873cc96-03c1-40f6-9528-7296855853dd",
     "date": "09.02.2027",
@@ -333,21 +315,21 @@
     "status": "offen"
   },
   {
-    "id": "06.003.26",
-    "title": "Mit Belastungen umgehen können.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-a87e0172-75db-4018-ac54-16a910ea61be",
-    "date": "25.11.2026 - 26.11.2026",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "370,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
-    "status": "offen"
-  },
-  {
     "id": "06.004.27",
     "title": "Mit Belastungen umgehen können.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-84d8ec34-3e2b-43bc-8c5e-f5b3be4a804a",
     "date": "24.11.2027 - 25.11.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "390,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "06.003.26",
+    "title": "Mit Belastungen umgehen können.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/mit-belastungen-umgehen-koennen.-a87e0172-75db-4018-ac54-16a910ea61be",
+    "date": "25.11.2026 - 26.11.2026",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "370,00 € bzw. 350,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -423,7 +405,7 @@
     "status": "offen"
   },
   {
-    "id": "07.000.27",
+    "id": "07.005.27",
     "title": "Protokolle und Berichte mit KI erstellen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/protokolle-und-berichte-mit-ki-erstellen.-36393f59-3a7e-4929-b1a0-773bceedbc46",
     "date": "13.05.2027",
@@ -504,6 +486,24 @@
     "status": "offen"
   },
   {
+    "id": "08.010.27",
+    "title": "Spiritual Care - Spiritualität im Pflege- und Betreuungsalltag.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/spiritual-care-spiritualitaet-im-pflege-und-betreuungsalltag.-d5d9420c-4fb6-452d-89c6-f630b5fd3d05",
+    "date": "12.10.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "210,00 € bzw. 190,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "08.011.27",
+    "title": "Sterbebegleitung in der Nacht.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/sterbebegleitung-in-der-nacht.-94191e6f-802f-494f-a54e-ff81a277ad5a",
+    "date": "17.02.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "210,00 € bzw. 190,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "09.018.26",
     "title": "Suizidprävention für junge Menschen.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/suizidpraevention-fuer-junge-menschen.-e876e3f0-6dfb-4f5e-b864-80ce3d72a1db",
@@ -558,16 +558,16 @@
     "status": "offen"
   },
   {
-    "id": "08.000.27",
-    "title": "Vorbereitete Bedutachtung - optimales Pflegegrad.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/vorbereitete-bedutachtung-optimales-pflegegrad.-2071afce-deac-473d-b35b-b7d948f08563",
+    "id": "08.009.27",
+    "title": "Vorbereitete Begutachtung - optimaler Pflegegrad.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/vorbereitete-begutachtung-optimaler-pflegegrad.-2071afce-deac-473d-b35b-b7d948f08563",
     "date": "20.05.2027 - 21.05.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "530,00 € bzw. 490,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
-    "id": "08.000.27",
+    "id": "08.006.27",
     "title": "Wie können wir schwerkranken Menschen mit Todessehnsucht fürsorglich begegnen?",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/wie-koennen-wir-schwerkranken-menschen-mit-todessehnsucht-fuersorglich-begegnen-67905bd4-30bd-401c-8",
     "date": "10.11.2027",
@@ -591,6 +591,15 @@
     "date": "07.06.2027 - 13.07.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "1690,00 € bzw. 1590,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "06.009.27",
+    "title": "Zwischen Anspruch und Wirklichkeit: Sich den täglichen moralischen Herausforderungen stellen.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/zwischen-anspruch-und-wirklichkeit-sich-den-taeglichen-moralischen-herausforderungen-stellen.-1a8205",
+    "date": "08.07.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "210,00 € bzw. 190,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   }
 ]

@@ -14,7 +14,7 @@
     "date": "2026-11-12",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5599"
   },
   {
@@ -468,15 +468,6 @@
     "url": "https://www.caritas-campus.de/detail.php?nr=5427"
   },
   {
-    "id": "24726-130",
-    "title": "Digitalisierung in der Frühpädagogik – Chancen und Risiken",
-    "date": "2026-11-27",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5654"
-  },
-  {
     "id": "24926-032",
     "title": "Web-Seminar light: kitaplus – Gruppen-App und Eltern-App",
     "date": "2026-11-27",
@@ -491,7 +482,7 @@
     "date": "2026-11-27",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 1700.00 Extern: 1800.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6388"
   },
   {
