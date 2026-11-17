@@ -167,7 +167,7 @@
     "date": "18. Nov. 2026, 09:30 Uhr - 19. Nov. 2026, 17:00 Uhr",
     "place": "Akademie Klausenhof Hamminkeln Klausenhofstraße 100 46499 Hamminkeln",
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Wenige Plätze",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000861"
   },
   {
@@ -212,7 +212,7 @@
     "date": "17. Nov. 2026, 10:00 - 12:00 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "69,00 € für Mitglieder des DiCV im Bistum Münster\n76,00 € für Partner im Bistum Münster\n83,00 € für alle Anderen",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001295"
   },
   {
@@ -545,7 +545,7 @@
     "date": "17. Nov. 2026, 09:30 - 16:30 Uhr",
     "place": "Hotel Klostergarten Kevelaer Klostergarten 1 47623 Kevelaer",
     "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Plätze verfügbar",
+    "status": "Anmeldung deaktiviert",
     "id": "V000001413"
   },
   {
@@ -1157,7 +1157,7 @@
     "date": "11. Jan. 2027, 09:30 - 17:00 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "pro Teilnehmer*in\n195 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215 € (inkl. Verpflegung) für Partner im Bistum Münster\n235 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001480"
   }
 ]

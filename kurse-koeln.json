@@ -5,7 +5,7 @@
     "date": "2026-11-16",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5149"
   },
   {
@@ -14,7 +14,7 @@
     "date": "2026-11-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 495.00 Extern: 495.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5753"
   },
   {
@@ -32,7 +32,7 @@
     "date": "2026-11-16",
     "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
     "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6176"
   },
   {
@@ -41,7 +41,7 @@
     "date": "2026-11-16",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 495.00 Extern: 495.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6809"
   },
   {

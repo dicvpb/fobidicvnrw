@@ -63,21 +63,21 @@
     "status": "offen"
   },
   {
-    "id": "V000001318",
-    "title": "Beratung zur gesundheitlichen Versorgungsplanung für die letzte Lebensphase.",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/beratung-zur-gesundheitlichen-versorgungsplanung-fuer-die-letzte-lebensphase.-6ae9e545-102a-413e-818",
-    "date": "28.01.2027 - 04.11.2027",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "2615,00 EUR bzw. 2175,00 EUR für Mitarbeiter*innen in Einrichtungen und Diensten des DiCV Essen und des DiCV Münster.",
-    "status": "offen"
-  },
-  {
     "id": "08.007.27",
     "title": "Beratung zur gesundheitlichen Versorgungsplanung für die letzte Lebensphase.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/beratung-zur-gesundheitlichen-versorgungsplanung-fuer-die-letzte-lebensphase.-6a005f28-ddce-4544-9d1",
     "date": "09.11.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "230,00 € bzw. 210,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "V000001318",
+    "title": "Beratung zur gesundheitlichen Versorgungsplanung für die letzte Lebensphase.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/beratung-zur-gesundheitlichen-versorgungsplanung-fuer-die-letzte-lebensphase.-6ae9e545-102a-413e-818",
+    "date": "28.01.2027 - 04.11.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "2615,00 EUR bzw. 2175,00 EUR für Mitarbeiter*innen in Einrichtungen und Diensten des DiCV Essen und des DiCV Münster.",
     "status": "offen"
   },
   {
@@ -132,6 +132,15 @@
     "date": "29.09.2027 - 30.09.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "440,00 € bzw. 420,00 € für Mitarbeiter*innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
+    "id": "08.000.27",
+    "title": "Effektives Infektmanagement: So erkennen und versorgen Sie infizierte Wunden richtig.",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/effektives-infektmanagement-so-erkennen-und-versorgen-sie-infizierte-wunden-richtig.-fab11891-7a88-4",
+    "date": "06.04.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "270,00 € bzw. 250,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
     "status": "offen"
   },
   {
@@ -351,6 +360,15 @@
     "status": "offen"
   },
   {
+    "id": "08.000.27",
+    "title": "Palliative Geriatrie: Elemente einer würdevollen Begleitung hochbetagter Menschen am Lebensende",
+    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/palliative-geriatrie-elemente-einer-wuerdevollen-begleitung-hochbetagter-menschen-am-lebensende-8c64",
+    "date": "16.06.2027 - 17.06.2027",
+    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
+    "fee": "430,00 € bzw. 390,00 € für Mitarbeiter:innen in Einrichtungen und Diensten der Caritas.",
+    "status": "offen"
+  },
+  {
     "id": "08.001.27",
     "title": "Palliative Wundversorgung – Lebensqualität und Symptomkontrolle im Fokus.",
     "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/palliative-wundversorgung--lebensqualitaet-und-symptomkontrolle-im-fokus.-919e5350-2464-4678-bb55-08",
@@ -420,15 +438,6 @@
     "date": "03.06.2027 - 02.12.2027",
     "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
     "fee": "1600,- EUR.",
-    "status": "offen"
-  },
-  {
-    "id": "01.001.27",
-    "title": "Qualifizierung \"Pflegeassistenz (QN 2)\"",
-    "url": "https://www.caritas-essen.de/berufe/fort-weiterbildungsboerse/qualifizierung-pflegeassistenz-qn-2-e08e4116-3783-4bf6-ae7e-cacc1099c1c5",
-    "date": "12.01.2027 - 18.05.2027",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "1900,00 €.",
     "status": "offen"
   },
   {
