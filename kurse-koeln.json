@@ -1,50 +1,5 @@
 [
   {
-    "id": "34026-009",
-    "title": "ICF basierte Bedarfsermittlung BEI_NRW",
-    "date": "2026-11-16",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5149"
-  },
-  {
-    "id": "26626-004",
-    "title": "AVR Caritas: Ein vertiefter Einstieg für Führungskräfte und Beschäftige im HR-Management (Teil 1+2)",
-    "date": "2026-11-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 495.00 Extern: 495.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5753"
-  },
-  {
-    "id": "26826-003",
-    "title": "Tagesveranstaltung: Demokratie unter Druck (Essen)",
-    "date": "2026-11-16",
-    "place": "Caritasverband für das Bistum Essen e.V. Am Porscheplatz 1 45127 Essen",
-    "fee": "Intern: 20.00 Extern: 20.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5905"
-  },
-  {
-    "id": "17026-011",
-    "title": "Forderungsmanagement",
-    "date": "2026-11-16",
-    "place": "Jugendherberge Düsseldorf Düsseldorfer Str. 1 40545 Düsseldorf",
-    "fee": "Intern: 165.00 Extern: 0.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6176"
-  },
-  {
-    "id": "26626-026",
-    "title": "AVR Caritas: Ein vertiefter Einstieg für Führungskräfte und Beschäftigte im HR-Management (Teil 1+2)",
-    "date": "2026-11-16",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 495.00 Extern: 495.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6809"
-  },
-  {
     "id": "24826-034",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-17",
@@ -59,7 +14,7 @@
     "date": "2026-11-17",
     "place": "Kardinal-Schulte-Haus Overather Straße 51-53 51429 Bergisch Gladbach",
     "fee": "Intern: 125.00 Extern: 150.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5235"
   },
   {
@@ -77,7 +32,7 @@
     "date": "2026-11-17",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5346"
   },
   {
@@ -86,7 +41,7 @@
     "date": "2026-11-17",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5402"
   },
   {
@@ -104,7 +59,7 @@
     "date": "2026-11-17",
     "place": "Web-Seminar mit Zoom",
     "fee": "Intern: 80.00 Extern: 95.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6848"
   },
   {
@@ -376,15 +331,6 @@
     "fee": "Intern: 45.00 Extern: 54.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6143"
-  },
-  {
-    "id": "23826-053",
-    "title": "KI, der Sie vertrauen können",
-    "date": "2026-11-26",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 68.00 Extern: 82.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6599"
   },
   {
     "id": "26626-031",
@@ -1528,15 +1474,6 @@
     "fee": "Intern: 105.00 Extern: 130.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6252"
-  },
-  {
-    "id": "24027-042",
-    "title": "Streicheleinheiten für Körper, Geist und Seele",
-    "date": "2027-01-19",
-    "place": "Marienhaus Kapitelstraße 36 41460 Neuss",
-    "fee": "Intern: 150.00 Extern: 200.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6389"
   },
   {
     "id": "48027-025",
