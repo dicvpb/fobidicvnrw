@@ -140,17 +140,8 @@
     "date": "19. Nov. 2026, 09:00 - 16:00 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "115,00 € für Mitglieder des DiCV im Bistum Münster.\n127,00 € für Partner im Bistum Münster.\n135,00 € für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Wenige Plätze",
-    "id": "V000001000"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/fachtag-zum-umgang-mit-mehrsprachigkeit-in-der-kindertagesbetreuung/v000000919",
-    "title": "Fachtag: Zum Umgang mit Mehrsprachigkeit in der Kindertagesbetreuung",
-    "date": "17. Nov. 2026, 09:00 - 16:00 Uhr",
-    "place": "Kolping-Bildungsstätte Coesfeld GmbH Coesfeld Gerlever Weg 1 48653 Coesfeld",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
     "status": "Anmeldung deaktiviert",
-    "id": "V000000919"
+    "id": "V000001000"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/systemsprenger-kinder-die-ratlos-machen-2-module/v000000910",
@@ -205,15 +196,6 @@
     "fee": "pro Teilnehmer*in\n195 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215 € (inkl. Verpflegung) für Partner im Bistum Münster\n235 € (inkl. Verpflegung) für alle Anderen",
     "status": "Ausgebucht (Warteliste)",
     "id": "V000001276"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/ki-basisseminar/v000001295",
-    "title": "KI-Basisseminar",
-    "date": "17. Nov. 2026, 10:00 - 12:00 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "69,00 € für Mitglieder des DiCV im Bistum Münster\n76,00 € für Partner im Bistum Münster\n83,00 € für alle Anderen",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001295"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/fachtag-sexualitaet-und-religion/v000001297",
@@ -538,15 +520,6 @@
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
     "status": "Plätze verfügbar",
     "id": "V000001409"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/angemessen-und-professionell-bleiben-auch-wenn-es-ruckelt/v000001413",
-    "title": "Angemessen und professionell bleiben, auch wenn es ruckelt",
-    "date": "17. Nov. 2026, 09:30 - 16:30 Uhr",
-    "place": "Hotel Klostergarten Kevelaer Klostergarten 1 47623 Kevelaer",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n235,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001413"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/praxisanleitung-in-kindertageseinrichtungen/v000001414",
@@ -1135,11 +1108,11 @@
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/klartext-kibiz/v000001492",
-    "title": "Klartext KiBiz",
+    "title": "Nur noch Warteliste möglich! | Klartext KiBiz",
     "date": "15. Jan. 2027, 10:00 - 11:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "65,00 € für Mitglieder des DiCV im Bistum Münster.\n75,00 € für Partner des DiCV im Bistum Münster.\n78,00 € für Externe.",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000001492"
   },
   {
