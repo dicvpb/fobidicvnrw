@@ -51,7 +51,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
     "place": "Onlineangebot",
     "fee": "20,00 €",
-    "status": "Es sind noch 33 Plätze frei"
+    "status": "Es sind noch 29 Plätze frei"
   },
   {
     "id": "T80F2AV056",
@@ -150,7 +150,7 @@
     "date": "Mi., 10.02.2027, 09:00 Uhr - Do. 11.02.2027 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "390,00 €",
-    "status": "Es sind noch 13 Plätze frei"
+    "status": "Es sind noch 11 Plätze frei"
   },
   {
     "id": "U8031BE028",
@@ -186,7 +186,7 @@
     "date": "Do., 18.02.2027, 09:00 Uhr - 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "230,00 €",
-    "status": "Es sind noch 14 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "U8031BE009",
@@ -495,6 +495,15 @@
     "status": "Es sind noch 12 Plätze frei"
   },
   {
+    "id": "V80POK10A",
+    "title": "Sexuelle Bildung in der Kinder- und Jugendhilfe",
+    "url": "https://www.helfenmitprofil.de/programm/behindertenhilfe/kw/bereich/kursdetails/kurs/V80POK10A/kursname/Sexuelle%20Bildung%20in%20der%20Kinder-%20und%20Jugendhilfe/kategorie-id/14",
+    "date": "Mo., 11.10.2027, 09:00 Uhr - 16:00 Uhr",
+    "place": "Kommende Dortmund",
+    "fee": "70,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
     "id": "V80POK_11A",
     "title": "Erfolgreiches Office-Management",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/V80POK_11A/kursname/Erfolgreiches%20Office-Management/kategorie-id/7",
@@ -502,5 +511,14 @@
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "420,00 €",
     "status": "Es sind noch 14 Plätze frei"
+  },
+  {
+    "id": "V80POK_11B",
+    "title": "Wurzeln wie Strandhafer",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_11B/kursname/Wurzeln%20wie%20Strandhafer/kategorie-id/12",
+    "date": "Fr., 12.11.2027, 18:00 Uhr - Di. 16.11.2027 10:00 Uhr",
+    "place": "Gästehaus Germania, Wangerooge",
+    "fee": "670,00 €",
+    "status": "Es sind noch 22 Plätze frei"
   }
 ]
