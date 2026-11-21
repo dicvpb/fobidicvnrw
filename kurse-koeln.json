@@ -1,59 +1,5 @@
 [
   {
-    "id": "24926-016",
-    "title": "Web-Seminar: kitaplus – Basisschulung",
-    "date": "2026-11-19",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5032"
-  },
-  {
-    "id": "24726-074",
-    "title": "Was ist denn eigentlich noch erlaubt?",
-    "date": "2026-11-19",
-    "place": "Forum der Kath. Kirchengemeinde St. Chrysanthus und Daria Breidenhofer Str. 1 42781 Haan",
-    "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5440"
-  },
-  {
-    "id": "34026-015",
-    "title": "So kann man doch nicht leben?! – Chaos in Messie-Wohnungen: was tun?!",
-    "date": "2026-11-19",
-    "place": "CaritasCampus Georgstr. 7 50676 Köln",
-    "fee": "Intern: 150.00 Extern: 180.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5701"
-  },
-  {
-    "id": "23126-035",
-    "title": "Web-Seminar: Achtsame Sprache – gelingendes Miteinander",
-    "date": "2026-11-19",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6643"
-  },
-  {
-    "id": "23826-054",
-    "title": "Zeit zurückgewinnen: KI als digitale Assistenz in der Sozialen Arbeit",
-    "date": "2026-11-19",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 75.00 Extern: 90.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6644"
-  },
-  {
-    "id": "26626-027",
-    "title": "Die Arbeitsvertragsrichtlinien des Deutschen Caritasverbandes (AVR) | Thema: Fort- und Weiterbildung, Urlaub und Krankheit",
-    "date": "2026-11-19",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6810"
-  },
-  {
     "id": "24826-038",
     "title": "Kinder vor (sexualisierter) Gewalt schützen – Basis Plus",
     "date": "2026-11-20",
@@ -68,7 +14,7 @@
     "date": "2026-11-20",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5602"
   },
   {
@@ -556,15 +502,6 @@
     "fee": "Intern: 55.00 Extern: 0.00",
     "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5544"
-  },
-  {
-    "id": "24926-005",
-    "title": "Web-Seminar: kitaplus – Basisschulung",
-    "date": "2026-12-11",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 100.00 Extern: 120.00",
-    "status": "Angebot buchbar",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5016"
   },
   {
     "id": "21826-025",
@@ -2210,7 +2147,7 @@
     "date": "2027-03-01",
     "place": "MedienCampus Nikolaus-Groß-Haus Lilienthalstr. 11 51103 Köln (Kalk)",
     "fee": "Intern: 210.00 Extern: 260.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6453"
   },
   {

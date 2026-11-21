@@ -9,15 +9,6 @@
     "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 052521 2908-38E-Mail: info@invia-akademie.de"
   },
   {
-    "id": "T80INVIA08",
-    "title": "Pflegedienstleitung in Einrichtungen der (teil)stationären Altenhilfe",
-    "url": "https://www.helfenmitprofil.de/programm/altenhilfe-hospiz/kw/bereich/kursdetails/kurs/T80INVIA08/kursname/Pflegedienstleitung%20in%20Einrichtungen%20der%20teilstationaeren%20Altenhilfe/kategorie-id/2",
-    "date": "Mo., 23.11.2026, 08:30 Uhr - Fr. 30.06.2028 16:00 Uhr",
-    "place": "IN VIA Akademie, Paderborn",
-    "fee": "8490,00 €",
-    "status": "Anmeldung überIN VIA AkademieGiersmauer 35, 33098 PaderbornFrau Natalie BergenTel. 05251 2908-38E-Mail: info@invia-akademie.deLink zur Anmeldung im Text"
-  },
-  {
     "id": "T80INVIA10",
     "title": "Personal 4.0 - Strategien für die digitale Arbeitswelt von morgen",
     "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/T80INVIA10/kursname/Personal%2040%20-%20Strategien%20fuer%20die%20digitale%20Arbeitswelt%20von%20morgen/kategorie-id/7",
@@ -51,7 +42,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
     "place": "Onlineangebot",
     "fee": "20,00 €",
-    "status": "Es sind noch 29 Plätze frei"
+    "status": "Es sind noch 28 Plätze frei"
   },
   {
     "id": "T80F2AV056",
@@ -78,7 +69,7 @@
     "date": "Di., 12.01.2027, 09:30 Uhr - Mi. 13.01.2027 14:00 Uhr",
     "place": "Klinik St. Ursula, Winterberg",
     "fee": "190,00 €",
-    "status": "Es sind noch 6 Plätze frei"
+    "status": "Es sind noch 4 Plätze frei"
   },
   {
     "id": "U8031BE_01",
@@ -105,7 +96,7 @@
     "date": "Di., 26.01.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Bergkloster, Bestwig",
     "fee": "195,00 €",
-    "status": "Es sind noch 16 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T8031BE013",
@@ -177,7 +168,7 @@
     "date": "Mi., 17.02.2027, 09:00 Uhr - Do. 18.02.2027 17:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 9 Plätze frei"
+    "status": "Es sind noch 7 Plätze frei"
   },
   {
     "id": "U80FIDI02A",
@@ -186,7 +177,7 @@
     "date": "Do., 18.02.2027, 09:00 Uhr - 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "230,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 7 Plätze frei"
   },
   {
     "id": "U8031BE009",
@@ -222,7 +213,7 @@
     "date": "Mi., 24.02.2027, 09:00 Uhr - Do. 25.02.2027 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "490,00 €",
-    "status": "Es sind noch 8 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "U80POK_02E",
@@ -483,7 +474,7 @@
     "date": "Fr., 20.08.2027, 13:00 Uhr - Di. 24.08.2027 14:00 Uhr",
     "place": "Lechquellengebirge",
     "fee": "650,00 €",
-    "status": "Es sind noch 10 Plätze frei"
+    "status": "Es sind noch 8 Plätze frei"
   },
   {
     "id": "V80POK_10C",
@@ -517,6 +508,15 @@
     "title": "Wurzeln wie Strandhafer",
     "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_11B/kursname/Wurzeln%20wie%20Strandhafer/kategorie-id/12",
     "date": "Fr., 12.11.2027, 18:00 Uhr - Di. 16.11.2027 10:00 Uhr",
+    "place": "Gästehaus Germania, Wangerooge",
+    "fee": "670,00 €",
+    "status": "Es sind noch 20 Plätze frei"
+  },
+  {
+    "id": "V80POK_11C",
+    "title": "Wurzeln wie Strandhafer",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_11C/kursname/Wurzeln%20wie%20Strandhafer/kategorie-id/12",
+    "date": "Di., 16.11.2027, 18:00 Uhr - Sa. 20.11.2027 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "670,00 €",
     "status": "Es sind noch 22 Plätze frei"
