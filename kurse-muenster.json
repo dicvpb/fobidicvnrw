@@ -14,7 +14,7 @@
     "date": "25. Nov. 2026, 09:00 - 16:00 Uhr",
     "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Anmeldung deaktiviert",
     "id": "V000000927"
   },
   {
@@ -113,7 +113,7 @@
     "date": "30. Nov. 2026, 09:00 Uhr - 01. Dez. 2026, 16:30 Uhr",
     "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
     "fee": "390,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n430,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n470,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Wenige Plätze",
+    "status": "Ausgebucht (Warteliste)",
     "id": "V000000998"
   },
   {
@@ -122,7 +122,7 @@
     "date": "26. Nov. 2026, 09:30 Uhr - 01. Juni 2027, 16:30 Uhr",
     "place": "Systemische Wirkstatt Münster Münster Schifffahrter Damm 3 - 5 48145 Münster",
     "fee": "570,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n630,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n685,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Wenige Plätze",
     "id": "V000001195"
   },
   {
@@ -149,7 +149,7 @@
     "date": "26. Nov. 2026, 09:30 - 17:00 Uhr",
     "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
     "fee": "pro Teilnehmer*in\n195 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215 € (inkl. Verpflegung) für Partner im Bistum Münster\n235 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Ausgebucht (Warteliste)",
+    "status": "Wenige Plätze",
     "id": "V000001276"
   },
   {
@@ -873,15 +873,6 @@
     "id": "V000001357"
   },
   {
-    "url": "https://fortbildung.caritas-muenster.de/entscheiden.-vorsorgen.-gutes-bewirken./v000001444",
-    "title": "Entscheiden. Vorsorgen. Gutes bewirken.",
-    "date": "24. Nov. 2026, 17:00 - 18:30 Uhr",
-    "place": "Interaktives Web-Seminar - Online",
-    "fee": "Die Teilnahme ist kostenfrei.",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001444"
-  },
-  {
     "url": "https://fortbildung.caritas-muenster.de/qualitaetszirkel-plus-partizipation-online-mit-rebekka-burke/v000001447",
     "title": "Qualitätszirkel Plus: Partizipation (online) mit Rebekka Burke",
     "date": "21. Apr. 2027, 10:00 - 12:00 Uhr",
@@ -1063,7 +1054,7 @@
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/klartext-kibiz/v000001491",
-    "title": "Ausgebucht - Klartext KiBiz",
+    "title": "Klartext KiBiz",
     "date": "03. Dez. 2026, 10:00 - 11:30 Uhr",
     "place": "Interaktives Web-Seminar - Online",
     "fee": "65,00 € für Mitglieder des DiCV im Bistum Münster.\n75,00 € für Partner des DiCV im Bistum Münster.\n78,00 € für Externe.",

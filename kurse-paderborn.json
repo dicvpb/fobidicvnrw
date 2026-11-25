@@ -33,7 +33,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 58 Plätze frei"
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "T80VIER12A",
@@ -42,7 +42,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
     "place": "Onlineangebot",
     "fee": "20,00 €",
-    "status": "Es sind noch 26 Plätze frei"
+    "status": "Es sind noch 23 Plätze frei"
   },
   {
     "id": "T80F2AV056",
@@ -60,7 +60,7 @@
     "date": "Di., 12.01.2027, 09:00 Uhr - 16:30 Uhr",
     "place": "Haus Maria Immaculata, Paderborn und Online",
     "fee": "130,00 €",
-    "status": "Es ist noch 1 Platz frei"
+    "status": "Es sind noch 2 Plätze frei"
   },
   {
     "id": "U80GESA01A",
@@ -78,7 +78,7 @@
     "date": "Do., 14.01.2027, 09:00 Uhr - Do. 18.03.2027 16:30 Uhr",
     "place": "Liborianum, Paderborn & Kath. Akademie Schwerte",
     "fee": "480,00 €",
-    "status": "Es sind noch 6 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "U8031BE006",
@@ -159,7 +159,7 @@
     "date": "Mi., 17.02.2027, 09:00 Uhr - Do. 18.02.2027 17:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "490,00 €",
-    "status": "Es sind noch 7 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "U80FIDI02A",
@@ -168,7 +168,7 @@
     "date": "Do., 18.02.2027, 09:00 Uhr - 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "230,00 €",
-    "status": "Es sind noch 6 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "U8031BE009",
@@ -232,6 +232,15 @@
     "place": "Katholische Akademie, Schwerte",
     "fee": "350,00 €",
     "status": "Es sind noch 17 Plätze frei"
+  },
+  {
+    "id": "U8031BE100",
+    "title": "Zwischen Ehrenamt und Verantwortung",
+    "url": "https://www.helfenmitprofil.de/programm/tageseinrichtungen-fuer-kinder/kw/bereich/kursdetails/kurs/U8031BE100/kursname/Zwischen%20Ehrenamt%20und%20Verantwortung/kategorie-id/10",
+    "date": "Do., 04.03.2027, 14:00 Uhr - Do. 29.04.2027 18:00 Uhr",
+    "place": "Bergkloster, Bestwig",
+    "fee": "300,00 €",
+    "status": "Es sind noch 18 Plätze frei"
   },
   {
     "id": "U80POK_03C",
@@ -460,8 +469,8 @@
   },
   {
     "id": "U80POK_06D",
-    "title": "Berge sind stille Meister - Auf und werde!",
-    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK_06D/kursname/Berge%20sind%20stille%20Meister%20-%20Auf%20und%20werde/kategorie-id/12",
+    "title": "Berge sind stille Meister - Auf und werde! - Bergexerzitien",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/U80POK_06D/kursname/Berge%20sind%20stille%20Meister%20-%20Auf%20und%20werde%20-%20Bergexerzitien/kategorie-id/12",
     "date": "Mi., 30.06.2027, 13:00 Uhr - So. 04.07.2027 14:00 Uhr",
     "place": "Kloster Maria Hilf, St. Gallenkirch",
     "fee": "695,00 €",
@@ -469,8 +478,8 @@
   },
   {
     "id": "V80POK_08A",
-    "title": "Viele Wege führen zu Gott, einer der schönsten geht über die Berge",
-    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_08A/kursname/Viele%20Wege%20fuehren%20zu%20Gott%20einer%20der%20schoensten%20geht%20ueber%20die%20Berge/kategorie-id/12",
+    "title": "Viele Wege führen zu Gott, einer der schönsten geht über die Berge - Hüttentour",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_08A/kursname/Viele%20Wege%20fuehren%20zu%20Gott%20einer%20der%20schoensten%20geht%20ueber%20die%20Berge%20-%20Huettentour/kategorie-id/12",
     "date": "Fr., 20.08.2027, 13:00 Uhr - Di. 24.08.2027 14:00 Uhr",
     "place": "Lechquellengebirge",
     "fee": "650,00 €",
@@ -505,8 +514,8 @@
   },
   {
     "id": "V80POK_11B",
-    "title": "Wurzeln wie Strandhafer",
-    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_11B/kursname/Wurzeln%20wie%20Strandhafer/kategorie-id/12",
+    "title": "Wurzeln wie Strandhafer - Wangerooge",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_11B/kursname/Wurzeln%20wie%20Strandhafer%20-%20Wangerooge/kategorie-id/12",
     "date": "Fr., 12.11.2027, 18:00 Uhr - Di. 16.11.2027 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "670,00 €",
@@ -514,8 +523,8 @@
   },
   {
     "id": "V80POK_11C",
-    "title": "Wurzeln wie Strandhafer",
-    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_11C/kursname/Wurzeln%20wie%20Strandhafer/kategorie-id/12",
+    "title": "Wurzeln wie Strandhafer - Wangerooge",
+    "url": "https://www.helfenmitprofil.de/programm/christliche-spiritualitaet/kw/bereich/kursdetails/kurs/V80POK_11C/kursname/Wurzeln%20wie%20Strandhafer%20-%20Wangerooge/kategorie-id/12",
     "date": "Di., 16.11.2027, 18:00 Uhr - Sa. 20.11.2027 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "670,00 €",
