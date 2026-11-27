@@ -4,7 +4,7 @@
     "title": "Selbstverständlich inklusiv",
     "date": "23. Jan. 2025 - 21. Jan. 2028",
     "place": "",
-    "fee": "Die Veranstaltungspreise finden Sie in den jeweiligen Kursbeschreibungen. Die Rechnungsstellung erfolgt im Anschluss an die einzelnen Veranstaltungen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
+    "fee": "Die Veranstaltungspreise finden Sie in den jeweiligen Kursbeschreibungen. Die Rechnungsstellung erfolgt im Anschluss an die einzelnen Veranstaltungen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere aktuellen Storno-Bedingungen.",
     "status": "Anmeldung deaktiviert",
     "id": "V000000643"
   },
@@ -104,7 +104,7 @@
     "date": "26. Nov. 2026, 09:30 Uhr - 01. Juni 2027, 16:30 Uhr",
     "place": "Systemische Wirkstatt Münster Münster Schifffahrter Damm 3 - 5 48145 Münster",
     "fee": "570,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n630,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n685,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.",
-    "status": "Anmeldung deaktiviert",
+    "status": "Wenige Plätze",
     "id": "V000001195"
   },
   {
@@ -124,24 +124,6 @@
     "fee": "2.850,00 € (inkl. Verpflegung) für Mitglieder des DiCV im Bistum Münster.\n3.100,00 € (inkl. Verpflegung) für Partner im Bistum Münster.\n3.400,00 € (inkl. Verpflegung) für alle Anderen.\n\nEs gelten unsere Allgemeinen Geschäftsbedingungen (AGB). Bitte beachten Sie unsere Storno-Bedingungen.\n\nDie Qualifizierungsreihe wird ohne Übernachtungen angeboten. Bei Bedarf empfehlen wir eine frühzeitige Buchung in den Tagungshäusern. Die Buchung erfolgt in eigener Organisation (Selbstzahlerleistung).",
     "status": "Plätze verfügbar",
     "id": "V000001232"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/wandelstimmung-fuehrung-wirksam-gestalten-in-zeiten-permanenter-veraenderung/v000001276",
-    "title": "WandelSTIMMung – Führung wirksam gestalten in Zeiten permanenter Veränderung",
-    "date": "26. Nov. 2026, 09:30 - 17:00 Uhr",
-    "place": "Franz Hitze Haus Münster Kardinal-von-Galen-Ring 50 48149 Münster",
-    "fee": "pro Teilnehmer*in\n195 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV im Bistum Münster\n215 € (inkl. Verpflegung) für Partner im Bistum Münster\n235 € (inkl. Verpflegung) für alle Anderen",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001276"
-  },
-  {
-    "url": "https://fortbildung.caritas-muenster.de/fachtag-sexualitaet-und-religion/v000001297",
-    "title": "Fachtag Sexualität und Religion",
-    "date": "26. Nov. 2026, 09:30 - 16:30 Uhr",
-    "place": "Caritasverband für die Diözese Münster Kardinal-von-Galen-Ring 45 48149 Münster",
-    "fee": "195,00 € (inkl. Verpflegung) für Mitgliedseinrichtungen des DiCV Münster\n215,00 € (inkl. Verpflegung) für Partner im Bistum Münster\n235,00 € (inkl. Verpflegung) für Nicht-Mitglieder (alle Anderen)",
-    "status": "Anmeldung deaktiviert",
-    "id": "V000001297"
   },
   {
     "url": "https://fortbildung.caritas-muenster.de/praeventive-rehabilitative-pflege-vom-konzept-zum-alltag/v000001298",
@@ -714,7 +696,7 @@
     "url": "https://fortbildung.caritas-muenster.de/wissen-schuetzt-kindliche-sexualentwicklung-und-praevention-gegen-sexualisierte-gewalt/v000001334",
     "title": "Wissen schützt – Kindliche Sexualentwicklung und Prävention gegen sexualisierte Gewalt",
     "date": "22. Nov. 2027, 09:00 Uhr - 23. Nov. 2027, 17:00 Uhr",
-    "place": "Pfarrheim St. Maria Magdalena Geldern Karmeliterstr. 12 47608 Geldern",
+    "place": "Pfarrheim St. Maria Magdalena Geldern Kirchplatz 3a 47608 Geldern",
     "fee": "Kostenfrei, inkl. Verpflegung",
     "status": "Anmeldung deaktiviert",
     "id": "V000001334"
@@ -831,7 +813,7 @@
     "url": "https://fortbildung.caritas-muenster.de/wissen-schuetzt-kindliche-sexualentwicklung-und-praevention-gegen-sexualisierte-gewalt/v000001332",
     "title": "Wissen schützt – Kindliche Sexualentwicklung und Prävention gegen sexualisierte Gewalt",
     "date": "28. Apr. 2027, 09:00 Uhr - 29. Apr. 2027, 17:00 Uhr",
-    "place": "Pfarrheim St. Maria Magdalena Geldern Karmeliterstr. 12 47608 Geldern",
+    "place": "Pfarrheim St. Maria Magdalena Geldern Kirchplatz 3a 47608 Geldern",
     "fee": "Kostenfrei, inkl. Verpflegung",
     "status": "Anmeldung deaktiviert",
     "id": "V000001332"

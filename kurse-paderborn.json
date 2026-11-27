@@ -33,7 +33,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 12:30 Uhr",
     "place": "Onlineangebot",
     "fee": "0,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80VIER12A",
@@ -42,7 +42,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
     "place": "Onlineangebot",
     "fee": "20,00 €",
-    "status": "Es sind noch 18 Plätze frei"
+    "status": "Es sind noch 15 Plätze frei"
   },
   {
     "id": "T80F2AV056",
@@ -69,7 +69,7 @@
     "date": "Di., 12.01.2027, 09:30 Uhr - Mi. 13.01.2027 14:00 Uhr",
     "place": "Klinik St. Ursula, Winterberg",
     "fee": "190,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "U8031BE_01",
@@ -204,7 +204,7 @@
     "date": "Mi., 24.02.2027, 09:00 Uhr - Do. 25.02.2027 17:00 Uhr",
     "place": "Hotel Susato, Soest",
     "fee": "490,00 €",
-    "status": "Es sind noch 6 Plätze frei"
+    "status": "Es sind noch 5 Plätze frei"
   },
   {
     "id": "U80POK_02E",
@@ -213,7 +213,7 @@
     "date": "Do., 25.02.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "140,00 €",
-    "status": "Es sind noch 70 Plätze frei"
+    "status": "Es sind noch 68 Plätze frei"
   },
   {
     "id": "U8031BE003",
@@ -483,7 +483,7 @@
     "date": "Fr., 20.08.2027, 13:00 Uhr - Di. 24.08.2027 14:00 Uhr",
     "place": "Lechquellengebirge",
     "fee": "650,00 €",
-    "status": "Es sind noch 7 Plätze frei"
+    "status": "Es sind noch 6 Plätze frei"
   },
   {
     "id": "V80POK_10C",
