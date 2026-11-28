@@ -1,47 +1,11 @@
 [
   {
-    "id": "23126-006",
-    "title": "Web-Seminar: Nur was wir kennen, können wir erkennen",
-    "date": "2026-11-26",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 70.00 Extern: 85.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=4972"
-  },
-  {
-    "id": "24726-033",
-    "title": "Web-Seminar: Verlusterfahrung professionell begleiten",
-    "date": "2026-11-26",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 200.00 Extern: 250.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=5284"
-  },
-  {
-    "id": "23826-047",
-    "title": "Mit ChatGPT, Gemini und Copilot effizienter arbeiten",
-    "date": "2026-11-26",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 45.00 Extern: 54.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6143"
-  },
-  {
-    "id": "26626-031",
-    "title": "Die Arbeitsvertragsrichtlinien des Deutschen Caritasverbandes (AVR) | Thema: Arbeitszeit",
-    "date": "2026-11-26",
-    "place": "Web-Seminar mit Zoom",
-    "fee": "Intern: 95.00 Extern: 95.00",
-    "status": "Warteliste",
-    "url": "https://www.caritas-campus.de/detail.php?nr=6814"
-  },
-  {
     "id": "24626-046",
     "title": "Reflexion, Kooperation und Ideen für den Weg der Inklusion",
     "date": "2026-11-27",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 105.00 Extern: 130.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=5427"
   },
   {
@@ -50,7 +14,7 @@
     "date": "2026-11-27",
     "place": "Web-Seminar mit Teams",
     "fee": "Intern: 90.00 Extern: 110.00",
-    "status": "Angebot buchbar",
+    "status": "Warteliste",
     "url": "https://www.caritas-campus.de/detail.php?nr=6072"
   },
   {
@@ -248,7 +212,7 @@
     "date": "2026-12-07",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 40.00 Extern: 40.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=6841"
   },
   {
@@ -374,7 +338,7 @@
     "date": "2026-12-15",
     "place": "CaritasCampus Georgstr. 7 50676 Köln",
     "fee": "Intern: 195.00 Extern: 215.00",
-    "status": "Warteliste",
+    "status": "Angebot buchbar",
     "url": "https://www.caritas-campus.de/detail.php?nr=5681"
   },
   {

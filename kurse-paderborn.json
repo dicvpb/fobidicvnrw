@@ -42,7 +42,7 @@
     "date": "Do., 10.12.2026, 09:00 Uhr - 13:00 Uhr",
     "place": "Onlineangebot",
     "fee": "20,00 €",
-    "status": "Es sind noch 15 Plätze frei"
+    "status": "Es sind noch 43 Plätze frei"
   },
   {
     "id": "T80F2AV056",
@@ -78,7 +78,7 @@
     "date": "Do., 14.01.2027, 09:00 Uhr - Do. 18.03.2027 16:30 Uhr",
     "place": "Liborianum, Paderborn & Kath. Akademie Schwerte",
     "fee": "480,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "U8031BE006",
@@ -109,8 +109,8 @@
   },
   {
     "id": "U80POK_02D",
-    "title": "Basics: Moderation",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02D/kursname/Basics%20Moderation/kategorie-id/7",
+    "title": "Grundlagen: Moderationen wirksam gestalten",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_02D/kursname/Grundlagen%20Moderationen%20wirksam%20gestalten/kategorie-id/7",
     "date": "Di., 02.02.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "195,00 €",
@@ -168,7 +168,7 @@
     "date": "Do., 18.02.2027, 09:00 Uhr - 17:00 Uhr",
     "place": "Haus Maria Immaculata, Paderborn",
     "fee": "230,00 €",
-    "status": "Es sind noch 4 Plätze frei"
+    "status": "Es sind noch 3 Plätze frei"
   },
   {
     "id": "U8031BE009",
@@ -213,7 +213,7 @@
     "date": "Do., 25.02.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Liborianum, Paderborn",
     "fee": "140,00 €",
-    "status": "Es sind noch 68 Plätze frei"
+    "status": "Es sind noch 65 Plätze frei"
   },
   {
     "id": "U8031BE003",
@@ -244,8 +244,8 @@
   },
   {
     "id": "U80POK_03C",
-    "title": "Basics: On and Offboarding",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03C/kursname/Basics%20On%20and%20Offboarding/kategorie-id/7",
+    "title": "Grundlagen: On und Offboarding – wie gelingen gute Übergaben",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_03C/kursname/Grundlagen%20On%20und%20Offboarding%20wie%20gelingen%20gute%20UEbergaben/kategorie-id/7",
     "date": "Do., 04.03.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Kommende Dortmund",
     "fee": "195,00 €",
@@ -388,8 +388,8 @@
   },
   {
     "id": "U80POK_05A",
-    "title": "Basics: Kommunikation",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_05A/kursname/Basics%20Kommunikation/kategorie-id/7",
+    "title": "Grundlagen: Kommunikation zielgerichtet gestalten",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_05A/kursname/Grundlagen%20Kommunikation%20zielgerichtet%20gestalten/kategorie-id/7",
     "date": "Do., 13.05.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Bergkloster, Bestwig",
     "fee": "195,00 €",
@@ -397,8 +397,8 @@
   },
   {
     "id": "U80POK_05B",
-    "title": "Basics: Selbstmanagement",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_05B/kursname/Basics%20Selbstmanagement/kategorie-id/7",
+    "title": "Grundlagen: Selbstmanagement - strukturiert arbeiten - Überblick behalten",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_05B/kursname/Grundlagen%20Selbstmanagement%20-%20strukturiert%20arbeiten%20-%20UEberblick%20behalten/kategorie-id/7",
     "date": "Di., 25.05.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Hotel Aspethera, Paderborn",
     "fee": "195,00 €",
@@ -415,8 +415,8 @@
   },
   {
     "id": "U80POK_06A",
-    "title": "Basics: Entscheidungen",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_06A/kursname/Basics%20Entscheidungen/kategorie-id/7",
+    "title": "Grundlagen: Entscheidungen treffen – effizient und effektiv",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_06A/kursname/Grundlagen%20Entscheidungen%20treffen%20effizient%20und%20effektiv/kategorie-id/7",
     "date": "Di., 08.06.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Hotel Aspethera, Paderborn",
     "fee": "195,00 €",
@@ -460,8 +460,8 @@
   },
   {
     "id": "U80POK_06E",
-    "title": "Basics: Projektmanagement",
-    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_06E/kursname/Basics%20Projektmanagement/kategorie-id/7",
+    "title": "Grundlagen: Projektmanagement – strukturierte Einführung von neuen Ideen",
+    "url": "https://www.helfenmitprofil.de/programm/personalentwicklung-kommunikation/kw/bereich/kursdetails/kurs/U80POK_06E/kursname/Grundlagen%20Projektmanagement%20strukturierte%20Einfuehrung%20von%20neuen%20Ideen/kategorie-id/7",
     "date": "Di., 22.06.2027, 09:00 Uhr - 16:00 Uhr",
     "place": "Bergkloster, Bestwig",
     "fee": "195,00 €",
@@ -528,6 +528,6 @@
     "date": "Di., 16.11.2027, 18:00 Uhr - Sa. 20.11.2027 10:00 Uhr",
     "place": "Gästehaus Germania, Wangerooge",
     "fee": "670,00 €",
-    "status": "Es sind noch 22 Plätze frei"
+    "status": "Es sind noch 19 Plätze frei"
   }
 ]
